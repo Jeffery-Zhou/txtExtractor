@@ -1,0 +1,66 @@
+6
+ASIA0206.TXT
+
+ASIA
+Asiana International Tbk
+Af          :
+Sector Code : 49
+Sector Name : OTHERS MISCELLANEOUS INDUSTRY
+
+(In thousand rupiah except Par Value, Closing Price and Ratios)
+
+Financial Statement Date    : 30-Jun-2002
+Fiscal Year Ends            : Dec
+Months Covered in Income St : 6
+
+Summary of Balance Sheet
+  Receivables               :      44,761,975.87
+  Inventories               :      47,077,311.52
+  Current Assets            :     161,981,807.96
+  Fixed Assets              :      22,438,623.78
+  Other Asstes              :               0.00
+  Total Assets              :     211,874,511.67
+  Current Liabilities       :     162,602,204.31
+  Longterm Liabiities       :       1,470,729.98
+  Total Liabilities         :     164,072,934.29
+  Authorized                :       7,860,000.00
+  Paid-up Capital           :     305,886,574.00
+  Par Value                 :                300
+  Paid-up Capital Shares    :       1,019,621.91
+  Retained Earnings         :       7,409,859.50
+  Total Equity              :      45,131,695.07
+  Minority Interest         :       2,669,882.31
+
+Summary of Income Statement
+  Total Sales               :     295,341,958.62
+  Cost of Good Sold         :     290,828,228.61
+  Gross Profit              :       4,513,730.01
+  Operating Profit          :       1,562,876.06
+  Other Income              :       5,136,194.12
+  Eearning Before Tax       :       6,699,070.18
+  Tax                       :        -266,208.23
+  Net Income                :       7,409,859.50
+  Closing Price             :              55.00
+
+Per Share Data (Rp)
+  Eps                       :              14.53
+  Book Value                :              44.26
+
+Financial Ratios
+  Debt Equity Ratio (X)     :               3.64
+  Roa (%)                   :               6.99
+  Roe (%)                   :              32.84
+  Npm (%)                   :               2.51
+  Opm (%)                   :                .53
+
+Cash Flow
+  CF from Operating Activities                        :       3,568,606.82
+  CF from Investing Activities                        :         298,657.91
+  CF from Financing Activities                        :       2,340,003.78
+  Net Increase in Cash & Cash Equivalent              :       6,207,268.51
+  Cash & Cash Equivalent at The Beginning of The Year :         608,539.58
+  Cash & Cash Equivalent at The End of The Year       :       6,815,808.09
+
+ 
+ 
+ 

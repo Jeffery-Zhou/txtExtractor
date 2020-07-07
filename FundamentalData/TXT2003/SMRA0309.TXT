@@ -1,0 +1,66 @@
+6
+SMRA0309.TXT
+
+SMRA
+Summarecon Agung
+Af          :
+Sector Code : 61
+Sector Name : PROPERTY AND REAL ESTATE
+
+(In thousand rupiah except Par Value, Closing Price and Ratios)
+
+Financial Statement Date    : 30-Sep-2003
+Fiscal Year Ends            : Dec
+Months Covered in Income St : 9
+
+Summary of Balance Sheet
+  Receivables               :     114,650,612.00
+  Inventories               :     243,848,340.00
+  Current Assets            :               0.00
+  Fixed Assets              :     426,378,588.00
+  Other Asstes              :               0.00
+  Total Assets              :   1,352,292,961.00
+  Current Liabilities       :               0.00
+  Longterm Liabiities       :               0.00
+  Total Liabilities         :     824,346,719.00
+  Authorized                :       3,630,000.00
+  Paid-up Capital           :     187,352,880.00
+  Par Value                 :                100
+  Paid-up Capital Shares    :       1,873,528.80
+  Retained Earnings         :     317,999,343.00
+  Total Equity              :     527,734,531.00
+  Minority Interest         :         211,711.00
+
+Summary of Income Statement
+  Total Sales               :     323,863,213.00
+  Cost of Good Sold         :     131,370,649.00
+  Gross Profit              :     192,492,564.00
+  Operating Profit          :     136,058,165.00
+  Other Income              :      -6,646,773.00
+  Eearning Before Tax       :     129,411,392.00
+  Tax                       :      18,857,776.00
+  Net Income                :     110,554,806.00
+  Closing Price             :             625.00
+
+Per Share Data (Rp)
+  Eps                       :              78.68
+  Book Value                :             281.68
+
+Financial Ratios
+  Debt Equity Ratio (X)     :               1.56
+  Roa (%)                   :              10.90
+  Roe (%)                   :              27.93
+  Npm (%)                   :              45.52
+  Opm (%)                   :              56.01
+
+Cash Flow
+  CF from Operating Activities                        :      73,449,041.00
+  CF from Investing Activities                        :    -174,105,613.00
+  CF from Financing Activities                        :     217,724,994.00
+  Net Increase in Cash & Cash Equivalent              :     117,068,422.00
+  Cash & Cash Equivalent at The Beginning of The Year :      85,504,052.00
+  Cash & Cash Equivalent at The End of The Year       :     202,572,474.00
+
+ 
+ 
+ 

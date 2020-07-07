@@ -1,0 +1,66 @@
+6
+SOBI0209.TXT
+
+SOBI
+Sorini Corporation Tbk
+Af          :
+Sector Code : 34
+Sector Name : CHEMICALS
+
+(In thousand rupiah except Par Value, Closing Price and Ratios)
+
+Financial Statement Date    : 30-Sep-2002
+Fiscal Year Ends            : Dec
+Months Covered in Income St : 9
+
+Summary of Balance Sheet
+  Receivables               :      35,106,114.00
+  Inventories               :     146,687,154.00
+  Current Assets            :     257,810,681.00
+  Fixed Assets              :     281,003,570.00
+  Other Asstes              :          76,642.00
+  Total Assets              :     570,778,446.00
+  Current Liabilities       :     150,664,501.00
+  Longterm Liabiities       :     113,131,381.00
+  Total Liabilities         :     263,795,882.00
+  Authorized                :         720,000.00
+  Paid-up Capital           :      90,000,000.00
+  Par Value                 :                500
+  Paid-up Capital Shares    :         180,000.00
+  Retained Earnings         :     161,450,107.00
+  Total Equity              :     251,573,107.00
+  Minority Interest         :      55,409,457.00
+
+Summary of Income Statement
+  Total Sales               :     403,392,193.00
+  Cost of Good Sold         :     313,479,614.00
+  Gross Profit              :      89,912,579.00
+  Operating Profit          :      43,934,444.00
+  Other Income              :      21,476,233.00
+  Eearning Before Tax       :      65,410,677.00
+  Tax                       :      17,051,388.00
+  Net Income                :      28,279,616.00
+  Closing Price             :             700.00
+
+Per Share Data (Rp)
+  Eps                       :             209.48
+  Book Value                :           1,397.63
+
+Financial Ratios
+  Debt Equity Ratio (X)     :               1.05
+  Roa (%)                   :               6.61
+  Roe (%)                   :              14.99
+  Npm (%)                   :               9.35
+  Opm (%)                   :              14.52
+
+Cash Flow
+  CF from Operating Activities                        :      65,367,672.00
+  CF from Investing Activities                        :      -7,438,995.00
+  CF from Financing Activities                        :     -61,567,782.00
+  Net Increase in Cash & Cash Equivalent              :      -3,639,105.00
+  Cash & Cash Equivalent at The Beginning of The Year :      69,710,870.00
+  Cash & Cash Equivalent at The End of The Year       :      64,595,522.00
+
+ 
+ 
+ 

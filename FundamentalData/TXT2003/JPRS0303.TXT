@@ -1,0 +1,66 @@
+6
+JPRS0303.TXT
+
+JPRS
+Jaya Pari Steel Corp. Tbk
+Af          :
+Sector Code : 33
+Sector Name : METAL AND ALLIED PRODUCTS
+
+(In thousand rupiah except Par Value, Closing Price and Ratios)
+
+Financial Statement Date    : 31-Mar-2003
+Fiscal Year Ends            : Dec
+Months Covered in Income St : 3
+
+Summary of Balance Sheet
+  Receivables               :      12,661,582.56
+  Inventories               :      88,657,930.42
+  Current Assets            :     142,851,166.55
+  Fixed Assets              :      29,695,668.54
+  Other Asstes              :          20,068.43
+  Total Assets              :     174,041,512.28
+  Current Liabilities       :      97,885,633.71
+  Longterm Liabiities       :       1,197,191.84
+  Total Liabilities         :      99,082,825.55
+  Authorized                :         300,000.00
+  Paid-up Capital           :      75,000,000.00
+  Par Value                 :                500
+  Paid-up Capital Shares    :         150,000.00
+  Retained Earnings         :      -2,175,003.87
+  Total Equity              :      74,958,686.73
+  Minority Interest         :               0.00
+
+Summary of Income Statement
+  Total Sales               :      98,445,359.24
+  Cost of Good Sold         :      84,990,582.65
+  Gross Profit              :      13,454,776.59
+  Operating Profit          :      11,650,559.72
+  Other Income              :      -1,090,406.79
+  Eearning Before Tax       :      10,560,152.93
+  Tax                       :       3,221,166.77
+  Net Income                :       7,338,986.16
+  Closing Price             :             140.00
+
+Per Share Data (Rp)
+  Eps                       :             195.71
+  Book Value                :             499.72
+
+Financial Ratios
+  Debt Equity Ratio (X)     :               1.32
+  Roa (%)                   :              16.87
+  Roe (%)                   :              39.16
+  Npm (%)                   :              29.82
+  Opm (%)                   :              47.34
+
+Cash Flow
+  CF from Operating Activities                        :      -9,876,166.00
+  CF from Investing Activities                        :      34,959,200.00
+  CF from Financing Activities                        :               0.00
+  Net Increase in Cash & Cash Equivalent              :      25,083,034.00
+  Cash & Cash Equivalent at The Beginning of The Year :       1,096,309.76
+  Cash & Cash Equivalent at The End of The Year       :      26,179,343.76
+
+ 
+ 
+ 

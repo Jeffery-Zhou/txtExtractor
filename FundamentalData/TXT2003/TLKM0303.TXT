@@ -1,0 +1,66 @@
+6
+TLKM0303.TXT
+
+TLKM
+Telekomunikasi Indonesia
+Af          :
+Sector Code : 73
+Sector Name : TELECOMMUNICATION
+
+(In thousand rupiah except Par Value, Closing Price and Ratios)
+
+Financial Statement Date    : 31-Mar-2003
+Fiscal Year Ends            : Dec
+Months Covered in Income St : 3
+
+Summary of Balance Sheet
+  Receivables               :   3,538,709,000.00
+  Inventories               :     155,461,000.00
+  Current Assets            :  10,581,556,000.00
+  Fixed Assets              :  29,048,476,000.00
+  Other Asstes              :               0.00
+  Total Assets              :  42,751,072,000.00
+  Current Liabilities       :   9,677,111,000.00
+  Longterm Liabiities       :  12,110,473,000.00
+  Total Liabilities         :  21,787,584,000.00
+  Authorized                :      40,000,000.00
+  Paid-up Capital           :   5,039,999,820.00
+  Par Value                 :                500
+  Paid-up Capital Shares    :      10,079,999.64
+  Retained Earnings         :  17,971,221,000.00
+  Total Equity              :  17,558,677,000.00
+  Minority Interest         :   3,404,811,000.00
+
+Summary of Income Statement
+  Total Sales               :   5,945,322,000.00
+  Cost of Good Sold         :   2,849,189,000.00
+  Gross Profit              :   3,096,133,000.00
+  Operating Profit          :   3,096,133,000.00
+  Other Income              :    -196,446,000.00
+  Eearning Before Tax       :   2,899,687,000.00
+  Tax                       :     881,549,000.00
+  Net Income                :   1,660,308,000.00
+  Closing Price             :           3,625.00
+
+Per Share Data (Rp)
+  Eps                       :             658.85
+  Book Value                :           1,741.93
+
+Financial Ratios
+  Debt Equity Ratio (X)     :               1.24
+  Roa (%)                   :              15.53
+  Roe (%)                   :              37.82
+  Npm (%)                   :             111.71
+  Opm (%)                   :             208.31
+
+Cash Flow
+  CF from Operating Activities                        :   1,906,292,000.00
+  CF from Investing Activities                        :    -889,627,000.00
+  CF from Financing Activities                        :    -517,230,000.00
+  Net Increase in Cash & Cash Equivalent              :     499,435,000.00
+  Cash & Cash Equivalent at The Beginning of The Year :   5,699,070,000.00
+  Cash & Cash Equivalent at The End of The Year       :   6,201,912,000.00
+
+ 
+ 
+ 

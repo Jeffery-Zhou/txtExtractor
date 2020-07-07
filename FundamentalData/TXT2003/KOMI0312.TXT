@@ -1,0 +1,66 @@
+6
+KOMI0312.TXT
+
+KOMI
+Komatsu Indonesia Tbk
+Af          :
+Sector Code : 41
+Sector Name : MACHINERY AND HEAVY EQUIPMENT
+
+(In thousand rupiah except Par Value, Closing Price and Ratios)
+
+Financial Statement Date    : 31-Dec-2003
+Fiscal Year Ends            : Mar
+Months Covered in Income St : 9
+
+Summary of Balance Sheet
+  Receivables               :      47,201,555.02
+  Inventories               :     173,528,597.89
+  Current Assets            :     532,539,095.04
+  Fixed Assets              :     107,823,766.10
+  Other Asstes              :       4,459,855.25
+  Total Assets              :     700,780,375.58
+  Current Liabilities       :      76,170,121.30
+  Longterm Liabiities       :       7,652,758.31
+  Total Liabilities         :      83,822,879.61
+  Authorized                :         400,000.00
+  Paid-up Capital           :     192,780,000.00
+  Par Value                 :                500
+  Paid-up Capital Shares    :         385,560.00
+  Retained Earnings         :     377,865,173.79
+  Total Equity              :     616,957,495.97
+  Minority Interest         :               0.00
+
+Summary of Income Statement
+  Total Sales               :     558,296,207.33
+  Cost of Good Sold         :     469,824,869.18
+  Gross Profit              :      88,471,338.15
+  Operating Profit          :      61,712,547.65
+  Other Income              :      -4,755,131.60
+  Eearning Before Tax       :      59,753,631.73
+  Tax                       :      17,591,610.25
+  Net Income                :      42,162,021.48
+  Closing Price             :           1,375.00
+
+Per Share Data (Rp)
+  Eps                       :             145.80
+  Book Value                :           1,600.16
+
+Financial Ratios
+  Debt Equity Ratio (X)     :                .14
+  Roa (%)                   :               8.02
+  Roe (%)                   :               9.11
+  Npm (%)                   :              10.07
+  Opm (%)                   :              14.74
+
+Cash Flow
+  CF from Operating Activities                        :      71,042,460.60
+  CF from Investing Activities                        :     -16,833,405.90
+  CF from Financing Activities                        :     -19,278,000.00
+  Net Increase in Cash & Cash Equivalent              :      34,931,054.70
+  Cash & Cash Equivalent at The Beginning of The Year :     253,846,838.79
+  Cash & Cash Equivalent at The End of The Year       :     288,777,893.49
+
+ 
+ 
+ 

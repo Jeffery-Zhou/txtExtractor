@@ -1,0 +1,66 @@
+6
+KONI0212.TXT
+
+KONI
+Perdana Bangun Pusaka Tbk
+Af          :
+Sector Code : 91
+Sector Name : WHOLESALE (DURABLE & NON-DURABLE GOODS)
+
+(In thousand rupiah except Par Value, Closing Price and Ratios)
+
+Financial Statement Date    : 31-Dec-2002
+Fiscal Year Ends            : Dec
+Months Covered in Income St : 12
+
+Summary of Balance Sheet
+  Receivables               :       3,295,268.51
+  Inventories               :      18,758,343.72
+  Current Assets            :      28,363,935.77
+  Fixed Assets              :      31,372,104.56
+  Other Asstes              :       1,759,871.57
+  Total Assets              :      63,438,243.62
+  Current Liabilities       :      36,384,775.82
+  Longterm Liabiities       :         869,207.47
+  Total Liabilities         :      37,253,983.28
+  Authorized                :         200,000.00
+  Paid-up Capital           :      38,000,000.00
+  Par Value                 :                500
+  Paid-up Capital Shares    :          76,000.00
+  Retained Earnings         :     -19,896,951.45
+  Total Equity              :      26,183,533.99
+  Minority Interest         :             726.35
+
+Summary of Income Statement
+  Total Sales               :      53,758,415.08
+  Cost of Good Sold         :      44,870,633.66
+  Gross Profit              :       8,887,781.42
+  Operating Profit          :      -6,211,277.21
+  Other Income              :       1,517,696.47
+  Eearning Before Tax       :      -4,693,580.73
+  Tax                       :       1,487,707.35
+  Net Income                :      -6,180,966.44
+  Closing Price             :             265.00
+
+Per Share Data (Rp)
+  Eps                       :             -81.33
+  Book Value                :             344.52
+
+Financial Ratios
+  Debt Equity Ratio (X)     :               1.42
+  Roa (%)                   :              -9.74
+  Roe (%)                   :             -23.61
+  Npm (%)                   :             -11.50
+  Opm (%)                   :             -11.55
+
+Cash Flow
+  CF from Operating Activities                        :      -5,617,348.62
+  CF from Investing Activities                        :      -1,820,308.52
+  CF from Financing Activities                        :       4,269,013.40
+  Net Increase in Cash & Cash Equivalent              :      -3,168,643.75
+  Cash & Cash Equivalent at The Beginning of The Year :       8,980,394.59
+  Cash & Cash Equivalent at The End of The Year       :       5,811,750.85
+
+ 
+ 
+ 

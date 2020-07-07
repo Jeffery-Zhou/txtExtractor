@@ -1,0 +1,66 @@
+6
+SUGI0303.TXT
+
+SUGI
+Sugi Sama Persada Tbk
+Af          :
+Sector Code : 91
+Sector Name : WHOLESALE (DURABLE & NON-DURABLE GOODS)
+
+(In thousand rupiah except Par Value, Closing Price and Ratios)
+
+Financial Statement Date    : 31-Mar-2003
+Fiscal Year Ends            : Dec
+Months Covered in Income St : 3
+
+Summary of Balance Sheet
+  Receivables               :      24,203,618.78
+  Inventories               :      12,358,822.62
+  Current Assets            :      38,729,449.59
+  Fixed Assets              :      21,844,055.70
+  Other Asstes              :               0.00
+  Total Assets              :      60,854,021.02
+  Current Liabilities       :      16,431,390.11
+  Longterm Liabiities       :         234,183.65
+  Total Liabilities         :      16,665,573.76
+  Authorized                :       1,000,000.00
+  Paid-up Capital           :      40,000,000.00
+  Par Value                 :                100
+  Paid-up Capital Shares    :         400,000.00
+  Retained Earnings         :       3,021,395.33
+  Total Equity              :      44,188,447.26
+  Minority Interest         :               0.00
+
+Summary of Income Statement
+  Total Sales               :      13,214,054.29
+  Cost of Good Sold         :      10,949,500.13
+  Gross Profit              :       2,264,554.16
+  Operating Profit          :         841,023.57
+  Other Income              :         -91,310.85
+  Eearning Before Tax       :         749,712.72
+  Tax                       :         220,188.51
+  Net Income                :         529,524.21
+  Closing Price             :             175.00
+
+Per Share Data (Rp)
+  Eps                       :               5.30
+  Book Value                :             110.47
+
+Financial Ratios
+  Debt Equity Ratio (X)     :                .38
+  Roa (%)                   :               3.48
+  Roe (%)                   :               4.79
+  Npm (%)                   :              16.03
+  Opm (%)                   :              25.46
+
+Cash Flow
+  CF from Operating Activities                        :      -3,485,894.92
+  CF from Investing Activities                        :        -220,379.50
+  CF from Financing Activities                        :       3,881,503.65
+  Net Increase in Cash & Cash Equivalent              :         175,229.23
+  Cash & Cash Equivalent at The Beginning of The Year :         928,816.34
+  Cash & Cash Equivalent at The End of The Year       :       1,104,045.57
+
+ 
+ 
+ 

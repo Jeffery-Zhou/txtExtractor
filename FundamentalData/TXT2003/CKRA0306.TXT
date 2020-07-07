@@ -1,0 +1,66 @@
+6
+CKRA0306.TXT
+
+CKRA
+Ciptojaya Kontrindoreksa Tbk
+Af          :
+Sector Code : 61
+Sector Name : PROPERTY AND REAL ESTATE
+
+(In thousand rupiah except Par Value, Closing Price and Ratios)
+
+Financial Statement Date    : 30-Jun-2003
+Fiscal Year Ends            : Dec
+Months Covered in Income St : 6
+
+Summary of Balance Sheet
+  Receivables               :       3,135,323.61
+  Inventories               :      35,693,803.46
+  Current Assets            :               0.00
+  Fixed Assets              :         736,698.89
+  Other Asstes              :         615,848.68
+  Total Assets              :      47,868,650.04
+  Current Liabilities       :               0.00
+  Longterm Liabiities       :               0.00
+  Total Liabilities         :         892,460.06
+  Authorized                :         400,200.00
+  Paid-up Capital           :      43,050,000.00
+  Par Value                 :          250 & 125
+  Paid-up Capital Shares    :         176,400.00
+  Retained Earnings         :       4,966,449.89
+  Total Equity              :      46,976,189.98
+  Minority Interest         :               0.00
+
+Summary of Income Statement
+  Total Sales               :         426,324.00
+  Cost of Good Sold         :         197,967.70
+  Gross Profit              :         228,356.30
+  Operating Profit          :        -342,432.04
+  Other Income              :          54,095.91
+  Eearning Before Tax       :        -288,336.14
+  Tax                       :         -86,247.30
+  Net Income                :        -202,088.84
+  Closing Price             :              70.00
+
+Per Share Data (Rp)
+  Eps                       :              -2.29
+  Book Value                :             266.30
+
+Financial Ratios
+  Debt Equity Ratio (X)     :                .02
+  Roa (%)                   :               -.84
+  Roe (%)                   :               -.86
+  Npm (%)                   :             -94.81
+  Opm (%)                   :            -160.64
+
+Cash Flow
+  CF from Operating Activities                        :         207,927.58
+  CF from Investing Activities                        :        -666,860.00
+  CF from Financing Activities                        :           2,776.05
+  Net Increase in Cash & Cash Equivalent              :        -456,156.37
+  Cash & Cash Equivalent at The Beginning of The Year :         867,578.02
+  Cash & Cash Equivalent at The End of The Year       :         411,421.65
+
+ 
+ 
+ 

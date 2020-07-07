@@ -1,0 +1,66 @@
+6
+SHDA0306.TXT
+
+SHDA
+Sari Husada Tbk
+Af          : TGKA
+Sector Code : 51
+Sector Name : FOOD AND BEVERAGES
+
+(In thousand rupiah except Par Value, Closing Price and Ratios)
+
+Financial Statement Date    : 30-Jun-2003
+Fiscal Year Ends            : Dec
+Months Covered in Income St : 6
+
+Summary of Balance Sheet
+  Receivables               :     191,791,000.00
+  Inventories               :     127,305,000.00
+  Current Assets            :     739,805,000.00
+  Fixed Assets              :     264,537,000.00
+  Other Asstes              :       4,689,000.00
+  Total Assets              :   1,009,186,000.00
+  Current Liabilities       :     120,827,000.00
+  Longterm Liabiities       :      15,034,000.00
+  Total Liabilities         :     135,861,000.00
+  Authorized                :         750,000.00
+  Paid-up Capital           :      94,176,216.50
+  Par Value                 :                500
+  Paid-up Capital Shares    :         188,352.43
+  Retained Earnings         :     604,979,000.00
+  Total Equity              :     873,165,000.00
+  Minority Interest         :         160,000.00
+
+Summary of Income Statement
+  Total Sales               :     532,948,000.00
+  Cost of Good Sold         :     301,533,000.00
+  Gross Profit              :     231,415,000.00
+  Operating Profit          :     174,851,000.00
+  Other Income              :     -24,657,000.00
+  Eearning Before Tax       :     150,194,000.00
+  Tax                       :      43,926,000.00
+  Net Income                :     106,258,000.00
+  Closing Price             :           9,500.00
+
+Per Share Data (Rp)
+  Eps                       :           1,128.29
+  Book Value                :           4,635.80
+
+Financial Ratios
+  Debt Equity Ratio (X)     :                .16
+  Roa (%)                   :              21.06
+  Roe (%)                   :              24.34
+  Npm (%)                   :              39.88
+  Opm (%)                   :              65.62
+
+Cash Flow
+  CF from Operating Activities                        :      78,833,000.00
+  CF from Investing Activities                        :       1,290,000.00
+  CF from Financing Activities                        :     -62,838,000.00
+  Net Increase in Cash & Cash Equivalent              :      17,285,000.00
+  Cash & Cash Equivalent at The Beginning of The Year :     385,580,000.00
+  Cash & Cash Equivalent at The End of The Year       :     402,865,000.00
+
+ 
+ 
+ 

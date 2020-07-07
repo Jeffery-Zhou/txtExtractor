@@ -1,0 +1,66 @@
+6
+INTA0306.TXT
+
+INTA
+Intraco Penta Tbk
+Af          :
+Sector Code : 91
+Sector Name : WHOLESALE (DURABLE & NON-DURABLE GOODS)
+
+(In thousand rupiah except Par Value, Closing Price and Ratios)
+
+Financial Statement Date    : 30-Jun-2003
+Fiscal Year Ends            : Dec
+Months Covered in Income St : 6
+
+Summary of Balance Sheet
+  Receivables               :     238,993,729.48
+  Inventories               :     259,794,409.62
+  Current Assets            :     528,304,785.96
+  Fixed Assets              :      79,144,326.46
+  Other Asstes              :       1,000,698.37
+  Total Assets              :     652,655,066.07
+  Current Liabilities       :     226,700,836.59
+  Longterm Liabiities       :     295,086,772.85
+  Total Liabilities         :     521,787,609.44
+  Authorized                :         696,000.00
+  Paid-up Capital           :      43,500,000.00
+  Par Value                 :                250
+  Paid-up Capital Shares    :         174,000.00
+  Retained Earnings         :      86,827,206.63
+  Total Equity              :     130,867,456.63
+  Minority Interest         :               0.00
+
+Summary of Income Statement
+  Total Sales               :     213,374,272.24
+  Cost of Good Sold         :     173,660,119.54
+  Gross Profit              :      39,714,152.70
+  Operating Profit          :       1,076,485.94
+  Other Income              :       3,796,485.26
+  Eearning Before Tax       :       4,872,971.20
+  Tax                       :       1,964,622.83
+  Net Income                :       2,908,348.37
+  Closing Price             :             260.00
+
+Per Share Data (Rp)
+  Eps                       :              33.43
+  Book Value                :             752.11
+
+Financial Ratios
+  Debt Equity Ratio (X)     :               3.99
+  Roa (%)                   :                .89
+  Roe (%)                   :               4.44
+  Npm (%)                   :               2.73
+  Opm (%)                   :               1.01
+
+Cash Flow
+  CF from Operating Activities                        :       3,371,136.79
+  CF from Investing Activities                        :       1,580,653.74
+  CF from Financing Activities                        :      11,771,409.42
+  Net Increase in Cash & Cash Equivalent              :      16,723,199.95
+  Cash & Cash Equivalent at The Beginning of The Year :       4,662,226.94
+  Cash & Cash Equivalent at The End of The Year       :      21,385,426.88
+
+ 
+ 
+ 

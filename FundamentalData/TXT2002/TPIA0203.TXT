@@ -1,0 +1,66 @@
+6
+TPIA0203.TXT
+
+TPIA
+Tri Polyta Indonesia Tbk
+Af          :
+Sector Code : 34
+Sector Name : CHEMICALS
+
+(In thousand rupiah except Par Value, Closing Price and Ratios)
+
+Financial Statement Date    : 31-Mar-2002
+Fiscal Year Ends            : Dec
+Months Covered in Income St : 3
+
+Summary of Balance Sheet
+  Receivables               :     213,354,000.00
+  Inventories               :     142,787,000.00
+  Current Assets            :   1,401,330,000.00
+  Fixed Assets              :   1,045,977,000.00
+  Other Asstes              :       2,370,000.00
+  Total Assets              :   2,449,677,000.00
+  Current Liabilities       :   3,429,357,000.00
+  Longterm Liabiities       :     100,676,000.00
+  Total Liabilities         :   3,530,033,000.00
+  Authorized                :       1,030,000.00
+  Paid-up Capital           :     257,500,000.00
+  Par Value                 :               1000
+  Paid-up Capital Shares    :         257,500.00
+  Retained Earnings         :  -1,979,844,000.00
+  Total Equity              :  -1,080,356,000.00
+  Minority Interest         :               0.00
+
+Summary of Income Statement
+  Total Sales               :     439,084,000.00
+  Cost of Good Sold         :     385,372,000.00
+  Gross Profit              :      53,712,000.00
+  Operating Profit          :      29,351,000.00
+  Other Income              :     107,747,000.00
+  Eearning Before Tax       :     137,098,000.00
+  Tax                       :       3,721,000.00
+  Net Income                :     133,377,000.00
+  Closing Price             :           1,100.00
+
+Per Share Data (Rp)
+  Eps                       :           2,071.88
+  Book Value                :          -4,195.56
+
+Financial Ratios
+  Debt Equity Ratio (X)     :              -3.27
+  Roa (%)                   :              21.78
+  Roe (%)                   :             -49.38
+  Npm (%)                   :              30.38
+  Opm (%)                   :               6.68
+
+Cash Flow
+  CF from Operating Activities                        :     272,198,000.00
+  CF from Investing Activities                        :      -3,977,000.00
+  CF from Financing Activities                        :               0.00
+  Net Increase in Cash & Cash Equivalent              :     268,221,000.00
+  Cash & Cash Equivalent at The Beginning of The Year :     738,445,000.00
+  Cash & Cash Equivalent at The End of The Year       :     939,015,000.00
+
+ 
+ 
+ 

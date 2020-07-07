@@ -1,0 +1,66 @@
+6
+DVLA0312.TXT
+
+DVLA
+Darya-Varia Laboratoria Tbk
+Af          :
+Sector Code : 53
+Sector Name : PHARMACEUTICALS
+
+(In thousand rupiah except Par Value, Closing Price and Ratios)
+
+Financial Statement Date    : 31-Dec-2003
+Fiscal Year Ends            : Dec
+Months Covered in Income St : 12
+
+Summary of Balance Sheet
+  Receivables               :      97,451,033.00
+  Inventories               :      44,882,504.00
+  Current Assets            :     222,940,244.00
+  Fixed Assets              :      92,647,500.00
+  Other Asstes              :       8,246,157.00
+  Total Assets              :     373,559,089.00
+  Current Liabilities       :      73,920,318.00
+  Longterm Liabiities       :      26,159,393.00
+  Total Liabilities         :     100,079,711.00
+  Authorized                :         560,000.00
+  Paid-up Capital           :     280,000,000.00
+  Par Value                 :                500
+  Paid-up Capital Shares    :         560,000.00
+  Retained Earnings         :     -84,653,510.00
+  Total Equity              :     273,479,378.00
+  Minority Interest         :               0.00
+
+Summary of Income Statement
+  Total Sales               :     390,345,502.00
+  Cost of Good Sold         :     128,445,800.00
+  Gross Profit              :     261,899,702.00
+  Operating Profit          :      78,780,164.00
+  Other Income              :      -7,824,992.00
+  Eearning Before Tax       :      70,955,172.00
+  Tax                       :      24,561,068.00
+  Net Income                :      46,394,104.00
+  Closing Price             :             775.00
+
+Per Share Data (Rp)
+  Eps                       :              82.85
+  Book Value                :             488.36
+
+Financial Ratios
+  Debt Equity Ratio (X)     :                .37
+  Roa (%)                   :              12.42
+  Roe (%)                   :              16.96
+  Npm (%)                   :              11.89
+  Opm (%)                   :              20.18
+
+Cash Flow
+  CF from Operating Activities                        :      67,927,018.00
+  CF from Investing Activities                        :     -12,904,224.00
+  CF from Financing Activities                        :     -38,335,982.00
+  Net Increase in Cash & Cash Equivalent              :      16,686,812.00
+  Cash & Cash Equivalent at The Beginning of The Year :      51,739,136.00
+  Cash & Cash Equivalent at The End of The Year       :      68,329,784.00
+
+ 
+ 
+ 

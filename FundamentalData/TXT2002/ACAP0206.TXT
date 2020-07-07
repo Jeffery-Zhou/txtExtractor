@@ -1,0 +1,66 @@
+6
+ACAP0206.TXT
+
+ACAP
+Andhi Chandra Automotive Products Tbk
+Af          :
+Sector Code : 42
+Sector Name : AUTOMOTIVE AND COMPONENTS
+
+(In thousand rupiah except Par Value, Closing Price and Ratios)
+
+Financial Statement Date    : 30-Jun-2002
+Fiscal Year Ends            : Dec
+Months Covered in Income St : 6
+
+Summary of Balance Sheet
+  Receivables               :      31,731,834.00
+  Inventories               :      20,066,405.38
+  Current Assets            :      77,617,752.81
+  Fixed Assets              :      56,517,853.45
+  Other Asstes              :         370,790.91
+  Total Assets              :     135,055,862.56
+  Current Liabilities       :      14,757,488.75
+  Longterm Liabiities       :       5,830,920.17
+  Total Liabilities         :      20,588,408.92
+  Authorized                :       1,500,000.00
+  Paid-up Capital           :      80,400,000.00
+  Par Value                 :                100
+  Paid-up Capital Shares    :         804,000.00
+  Retained Earnings         :      17,663,478.19
+  Total Equity              :     114,467,453.64
+  Minority Interest         :               0.00
+
+Summary of Income Statement
+  Total Sales               :      66,558,241.43
+  Cost of Good Sold         :      53,828,535.75
+  Gross Profit              :      12,729,705.69
+  Operating Profit          :       7,962,224.18
+  Other Income              :       1,946,890.71
+  Eearning Before Tax       :       9,909,114.90
+  Tax                       :       2,622,782.26
+  Net Income                :       7,286,332.63
+  Closing Price             :             325.00
+
+Per Share Data (Rp)
+  Eps                       :              18.13
+  Book Value                :             142.37
+
+Financial Ratios
+  Debt Equity Ratio (X)     :                .18
+  Roa (%)                   :              10.79
+  Roe (%)                   :              12.73
+  Npm (%)                   :              10.95
+  Opm (%)                   :              11.96
+
+Cash Flow
+  CF from Operating Activities                        :      11,493,126.81
+  CF from Investing Activities                        :      -7,911,922.34
+  CF from Financing Activities                        :     -13,379,460.91
+  Net Increase in Cash & Cash Equivalent              :      -9,798,256.44
+  Cash & Cash Equivalent at The Beginning of The Year :      29,172,209.18
+  Cash & Cash Equivalent at The End of The Year       :      19,373,952.74
+
+ 
+ 
+ 

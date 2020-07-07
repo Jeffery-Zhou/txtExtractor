@@ -1,0 +1,132 @@
+6
+TIRA0306.TXT
+
+TIRA
+Tira Austenite Tbk
+Af          :
+Sector Code : 91
+Sector Name : WHOLESALE (DURABLE & NON-DURABLE GOODS)
+
+(In thousand rupiah except Par Value, Closing Price and Ratios)
+
+Financial Statement Date    : 30-Jan-2003
+Fiscal Year Ends            : Dec
+Months Covered in Income St : 6
+
+Summary of Balance Sheet
+  Receivables               :      43,655,161.55
+  Inventories               :      33,782,304.01
+  Current Assets            :      90,219,025.80
+  Fixed Assets              :     128,493,007.73
+  Other Asstes              :       7,668,801.16
+  Total Assets              :     241,285,433.51
+  Current Liabilities       :      59,434,540.82
+  Longterm Liabiities       :      72,402,766.74
+  Total Liabilities         :     131,837,307.55
+  Authorized                :         224,000.00
+  Paid-up Capital           :      56,000,000.00
+  Par Value                 :             1000&1
+  Paid-up Capital Shares    :          56,000.00
+  Retained Earnings         :       1,516,135.94
+  Total Equity              :      66,301,397.40
+  Minority Interest         :      43,146,728.56
+
+Summary of Income Statement
+  Total Sales               :     108,929,470.75
+  Cost of Good Sold         :      61,530,135.19
+  Gross Profit              :      47,399,335.55
+  Operating Profit          :      14,422,172.28
+  Other Income              :      -8,334,471.70
+  Eearning Before Tax       :       6,087,700.58
+  Tax                       :       1,952,499.57
+  Net Income                :       2,737,483.60
+  Closing Price             :           1,225.00
+
+Per Share Data (Rp)
+  Eps                       :              97.77
+  Book Value                :           1,183.95
+
+Financial Ratios
+  Debt Equity Ratio (X)     :               1.99
+  Roa (%)                   :               2.27
+  Roe (%)                   :               8.26
+  Npm (%)                   :               5.03
+  Opm (%)                   :              26.48
+
+Cash Flow
+  CF from Operating Activities                        :       5,159,585.85
+  CF from Investing Activities                        :     -33,083,779.65
+  CF from Financing Activities                        :      33,590,221.31
+  Net Increase in Cash & Cash Equivalent              :       5,666,027.50
+  Cash & Cash Equivalent at The Beginning of The Year :       3,726,723.81
+  Cash & Cash Equivalent at The End of The Year       :       9,392,751.31
+
+ 
+ 
+ 
+
+TIRA0306.TXT
+
+TIRA
+Tira Austenite Tbk
+Af          :
+Sector Code : 91
+Sector Name : WHOLESALE (DURABLE & NON-DURABLE GOODS)
+
+(In thousand rupiah except Par Value, Closing Price and Ratios)
+
+Financial Statement Date    : 30-Jun-2003
+Fiscal Year Ends            : Dec
+Months Covered in Income St : 6
+
+Summary of Balance Sheet
+  Receivables               :      43,655,161.55
+  Inventories               :      33,782,304.01
+  Current Assets            :      90,219,025.80
+  Fixed Assets              :     128,493,007.73
+  Other Asstes              :       7,668,801.16
+  Total Assets              :     241,285,433.51
+  Current Liabilities       :      59,434,540.82
+  Longterm Liabiities       :      72,402,766.74
+  Total Liabilities         :     131,837,307.55
+  Authorized                :         224,000.00
+  Paid-up Capital           :      56,000,000.00
+  Par Value                 :               1000
+  Paid-up Capital Shares    :          56,000.00
+  Retained Earnings         :       1,516,135.94
+  Total Equity              :      66,301,397.40
+  Minority Interest         :      43,146,728.56
+
+Summary of Income Statement
+  Total Sales               :     108,929,470.75
+  Cost of Good Sold         :      61,530,135.19
+  Gross Profit              :      47,399,335.55
+  Operating Profit          :      14,422,172.28
+  Other Income              :      -8,334,471.70
+  Eearning Before Tax       :       6,087,700.58
+  Tax                       :       1,952,499.57
+  Net Income                :       2,737,483.60
+  Closing Price             :           1,225.00
+
+Per Share Data (Rp)
+  Eps                       :              97.77
+  Book Value                :           1,183.95
+
+Financial Ratios
+  Debt Equity Ratio (X)     :               1.99
+  Roa (%)                   :               2.27
+  Roe (%)                   :               8.26
+  Npm (%)                   :               5.03
+  Opm (%)                   :              26.48
+
+Cash Flow
+  CF from Operating Activities                        :       5,159,585.85
+  CF from Investing Activities                        :     -33,083,779.65
+  CF from Financing Activities                        :      33,590,221.31
+  Net Increase in Cash & Cash Equivalent              :       5,666,027.50
+  Cash & Cash Equivalent at The Beginning of The Year :       3,726,723.81
+  Cash & Cash Equivalent at The End of The Year       :       9,392,751.31
+
+ 
+ 
+ 

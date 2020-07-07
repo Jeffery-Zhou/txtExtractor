@@ -1,0 +1,66 @@
+6
+CTBN0306.TXT
+
+CTBN
+Citra Tubindo Tbk
+Af          :
+Sector Code : 33
+Sector Name : METAL AND ALLIED PRODUCTS
+
+(In thousand rupiah except Par Value, Closing Price and Ratios)
+
+Financial Statement Date    : 30-Jun-2003
+Fiscal Year Ends            : Dec
+Months Covered in Income St : 6
+
+Summary of Balance Sheet
+  Receivables               :      95,559,521.40
+  Inventories               :      64,372,627.30
+  Current Assets            :     319,572,044.03
+  Fixed Assets              :     204,973,095.53
+  Other Asstes              :               0.00
+  Total Assets              :     605,607,733.65
+  Current Liabilities       :     102,257,778.20
+  Longterm Liabiities       :      20,052,674.32
+  Total Liabilities         :     122,310,452.52
+  Authorized                :         320,000.00
+  Paid-up Capital           :      80,000,000.00
+  Par Value                 :               1000
+  Paid-up Capital Shares    :          80,000.00
+  Retained Earnings         :      34,100,579.47
+  Total Equity              :     481,784,108.74
+  Minority Interest         :       1,513,172.40
+
+Summary of Income Statement
+  Total Sales               :     310,415,470.31
+  Cost of Good Sold         :     280,479,984.04
+  Gross Profit              :      29,935,486.28
+  Operating Profit          :           8,119.30
+  Other Income              :       1,638,565.88
+  Eearning Before Tax       :       5,395,167.15
+  Tax                       :       1,598,855.87
+  Net Income                :       4,566,551.16
+  Closing Price             :           8,050.00
+
+Per Share Data (Rp)
+  Eps                       :             114.16
+  Book Value                :           6,022.30
+
+Financial Ratios
+  Debt Equity Ratio (X)     :                .25
+  Roa (%)                   :               1.51
+  Roe (%)                   :               1.90
+  Npm (%)                   :               2.94
+  Opm (%)                   :                .01
+
+Cash Flow
+  CF from Operating Activities                        :      20,338,680.80
+  CF from Investing Activities                        :     -21,023,933.15
+  CF from Financing Activities                        :      -7,224,652.56
+  Net Increase in Cash & Cash Equivalent              :      -7,909,904.91
+  Cash & Cash Equivalent at The Beginning of The Year :     155,668,140.89
+  Cash & Cash Equivalent at The End of The Year       :     147,758,235.98
+
+ 
+ 
+ 

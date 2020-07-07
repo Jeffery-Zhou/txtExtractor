@@ -1,0 +1,66 @@
+6
+LTLS0203.TXT
+
+LTLS
+Lautan Luas Tbk
+Af          :
+Sector Code : 91
+Sector Name : WHOLESALE (DURABLE & NON-DURABLE GOODS)
+
+(In thousand rupiah except Par Value, Closing Price and Ratios)
+
+Financial Statement Date    : 31-Mar-2002
+Fiscal Year Ends            : Dec
+Months Covered in Income St : 3
+
+Summary of Balance Sheet
+  Receivables               :     187,208,000.00
+  Inventories               :     136,031,000.00
+  Current Assets            :     526,484,000.00
+  Fixed Assets              :     192,709,000.00
+  Other Asstes              :               0.00
+  Total Assets              :     810,308,000.00
+  Current Liabilities       :     196,029,000.00
+  Longterm Liabiities       :     196,520,000.00
+  Total Liabilities         :     392,549,000.00
+  Authorized                :       2,400,000.00
+  Paid-up Capital           :     195,000,000.00
+  Par Value                 :                250
+  Paid-up Capital Shares    :         780,000.00
+  Retained Earnings         :     199,287,000.00
+  Total Equity              :     399,106,000.00
+  Minority Interest         :      18,653,000.00
+
+Summary of Income Statement
+  Total Sales               :     265,490,000.00
+  Cost of Good Sold         :     215,968,000.00
+  Gross Profit              :      49,522,000.00
+  Operating Profit          :      12,833,000.00
+  Other Income              :      -3,885,000.00
+  Eearning Before Tax       :      12,330,000.00
+  Tax                       :       1,333,000.00
+  Net Income                :       9,238,000.00
+  Closing Price             :             305.00
+
+Per Share Data (Rp)
+  Eps                       :              47.37
+  Book Value                :             511.67
+
+Financial Ratios
+  Debt Equity Ratio (X)     :                .98
+  Roa (%)                   :               4.56
+  Roe (%)                   :               9.26
+  Npm (%)                   :               3.48
+  Opm (%)                   :               4.83
+
+Cash Flow
+  CF from Operating Activities                        :      26,834,000.00
+  CF from Investing Activities                        :     -12,566,000.00
+  CF from Financing Activities                        :       4,243,000.00
+  Net Increase in Cash & Cash Equivalent              :      18,511,000.00
+  Cash & Cash Equivalent at The Beginning of The Year :     139,039,000.00
+  Cash & Cash Equivalent at The End of The Year       :     157,550,000.00
+
+ 
+ 
+ 

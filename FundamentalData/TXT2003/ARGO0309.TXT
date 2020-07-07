@@ -1,0 +1,66 @@
+6
+ARGO0309.TXT
+
+ARGO
+Argo Pantes Tbk
+Af          :
+Sector Code : 43
+Sector Name : TEXTILE, GARMENT
+
+(In thousand rupiah except Par Value, Closing Price and Ratios)
+
+Financial Statement Date    : 30-Sep-2003
+Fiscal Year Ends            : Dec
+Months Covered in Income St : 9
+
+Summary of Balance Sheet
+  Receivables               :     124,187,000.00
+  Inventories               :     316,863,000.00
+  Current Assets            :     507,380,000.00
+  Fixed Assets              :   1,321,817,000.00
+  Other Asstes              :     401,513,000.00
+  Total Assets              :   2,230,710,000.00
+  Current Liabilities       :   1,407,577,000.00
+  Longterm Liabiities       :     803,991,000.00
+  Total Liabilities         :   2,211,568,000.00
+  Authorized                :       1,000,000.00
+  Paid-up Capital           :     132,352,500.00
+  Par Value                 :                500
+  Paid-up Capital Shares    :         264,705.00
+  Retained Earnings         :    -983,366,000.00
+  Total Equity              :      19,142,000.00
+  Minority Interest         :               0.00
+
+Summary of Income Statement
+  Total Sales               :     771,861,000.00
+  Cost of Good Sold         :     760,837,000.00
+  Gross Profit              :      11,024,000.00
+  Operating Profit          :     -35,899,000.00
+  Other Income              :      90,858,000.00
+  Eearning Before Tax       :      54,959,000.00
+  Tax                       :      23,311,000.00
+  Net Income                :      31,648,000.00
+  Closing Price             :             700.00
+
+Per Share Data (Rp)
+  Eps                       :             159.41
+  Book Value                :              72.31
+
+Financial Ratios
+  Debt Equity Ratio (X)     :             115.53
+  Roa (%)                   :               1.89
+  Roe (%)                   :             220.44
+  Npm (%)                   :               5.47
+  Opm (%)                   :              -6.20
+
+Cash Flow
+  CF from Operating Activities                        :      24,614,000.00
+  CF from Investing Activities                        :      -8,887,000.00
+  CF from Financing Activities                        :      -9,489,000.00
+  Net Increase in Cash & Cash Equivalent              :       6,238,000.00
+  Cash & Cash Equivalent at The Beginning of The Year :      14,527,000.00
+  Cash & Cash Equivalent at The End of The Year       :      20,765,000.00
+
+ 
+ 
+ 

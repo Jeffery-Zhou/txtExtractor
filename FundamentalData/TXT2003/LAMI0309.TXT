@@ -1,0 +1,66 @@
+6
+LAMI0309.TXT
+
+LAMI
+Lamicitra Nusantara Tbk
+Af          :
+Sector Code : 94
+Sector Name : RESTAURANT, HOTEL AND TOURISM
+
+(In thousand rupiah except Par Value, Closing Price and Ratios)
+
+Financial Statement Date    : 30-Sep-2003
+Fiscal Year Ends            : Dec
+Months Covered in Income St : 9
+
+Summary of Balance Sheet
+  Receivables               :      17,466,681.00
+  Inventories               :      96,245,465.00
+  Current Assets            :               0.00
+  Fixed Assets              :      75,673,329.00
+  Other Asstes              :          56,117.00
+  Total Assets              :     263,698,968.00
+  Current Liabilities       :               0.00
+  Longterm Liabiities       :               0.00
+  Total Liabilities         :     101,940,450.00
+  Authorized                :       4,000,000.00
+  Paid-up Capital           :     143,552,250.00
+  Par Value                 :                125
+  Paid-up Capital Shares    :       1,148,418.00
+  Retained Earnings         :      17,497,760.00
+  Total Equity              :     161,225,162.00
+  Minority Interest         :         533,356.00
+
+Summary of Income Statement
+  Total Sales               :      45,904,914.00
+  Cost of Good Sold         :      26,408,816.00
+  Gross Profit              :      19,496,098.00
+  Operating Profit          :       6,142,471.00
+  Other Income              :          52,673.00
+  Eearning Before Tax       :       6,195,144.00
+  Tax                       :       2,410,036.00
+  Net Income                :       3,773,971.00
+  Closing Price             :              90.00
+
+Per Share Data (Rp)
+  Eps                       :               4.38
+  Book Value                :             140.39
+
+Financial Ratios
+  Debt Equity Ratio (X)     :                .63
+  Roa (%)                   :               1.91
+  Roe (%)                   :               3.12
+  Npm (%)                   :              10.96
+  Opm (%)                   :              17.84
+
+Cash Flow
+  CF from Operating Activities                        :     -12,292,908.00
+  CF from Investing Activities                        :        -493,922.00
+  CF from Financing Activities                        :      40,076,753.00
+  Net Increase in Cash & Cash Equivalent              :      27,289,923.00
+  Cash & Cash Equivalent at The Beginning of The Year :       1,972,641.00
+  Cash & Cash Equivalent at The End of The Year       :      29,262,564.00
+
+ 
+ 
+ 

@@ -1,0 +1,66 @@
+6
+CFIN0306.TXT
+
+CFIN
+Clipan Finance Indonesia Tbk
+Af          : PNBN
+Sector Code : 82
+Sector Name : FINANCIAL INSTITUTION
+
+(In thousand rupiah except Par Value, Closing Price and Ratios)
+
+Financial Statement Date    : 30-Jun-2003
+Fiscal Year Ends            : Dec
+Months Covered in Income St : 6
+
+Summary of Balance Sheet
+  Receivables               :     111,939,023.83
+  Inventories               :               0.00
+  Current Assets            :               0.00
+  Fixed Assets              :       3,203,376.67
+  Other Asstes              :          36,862.13
+  Total Assets              :     281,936,175.20
+  Current Liabilities       :               0.00
+  Longterm Liabiities       :               0.00
+  Total Liabilities         :      11,039,523.62
+  Authorized                :       1,170,000.00
+  Paid-up Capital           :     231,803,020.00
+  Par Value                 :                500
+  Paid-up Capital Shares    :         463,606.04
+  Retained Earnings         :      39,071,515.57
+  Total Equity              :     270,896,651.57
+  Minority Interest         :               0.00
+
+Summary of Income Statement
+  Total Sales               :      29,487,193.93
+  Cost of Good Sold         :      16,557,279.25
+  Gross Profit              :      12,929,914.68
+  Operating Profit          :      12,929,914.68
+  Other Income              :               0.00
+  Eearning Before Tax       :      12,929,914.68
+  Tax                       :       3,775,211.33
+  Net Income                :       9,154,703.35
+  Closing Price             :             215.00
+
+Per Share Data (Rp)
+  Eps                       :              39.49
+  Book Value                :             584.33
+
+Financial Ratios
+  Debt Equity Ratio (X)     :                .04
+  Roa (%)                   :               6.49
+  Roe (%)                   :               6.76
+  Npm (%)                   :              62.09
+  Opm (%)                   :              87.70
+
+Cash Flow
+  CF from Operating Activities                        :      14,592,808.55
+  CF from Investing Activities                        :       1,089,114.76
+  CF from Financing Activities                        :     -16,479,935.86
+  Net Increase in Cash & Cash Equivalent              :        -798,012.54
+  Cash & Cash Equivalent at The Beginning of The Year :       3,239,861.87
+  Cash & Cash Equivalent at The End of The Year       :       2,441,849.32
+
+ 
+ 
+ 

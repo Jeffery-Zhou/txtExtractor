@@ -1,0 +1,66 @@
+6
+CMNP0312.TXT
+
+CMNP
+Citra Marga Nusaphala Persada Tbk
+Af          :
+Sector Code : 72
+Sector Name : TOLL ROAD, AIRPORT, HARBOR AND ALLIED PROD
+
+(In thousand rupiah except Par Value, Closing Price and Ratios)
+
+Financial Statement Date    : 31-Dec-2003
+Fiscal Year Ends            : Dec
+Months Covered in Income St : 12
+
+Summary of Balance Sheet
+  Receivables               :         456,741.11
+  Inventories               :               0.00
+  Current Assets            :      98,071,445.65
+  Fixed Assets              :     897,195,150.65
+  Other Asstes              :       1,355,864.83
+  Total Assets              :   1,197,089,639.06
+  Current Liabilities       :     148,137,118.03
+  Longterm Liabiities       :     444,887,742.30
+  Total Liabilities         :     593,024,860.34
+  Authorized                :       7,200,000.00
+  Paid-up Capital           :   1,000,000,000.00
+  Par Value                 :                500
+  Paid-up Capital Shares    :       2,000,000.00
+  Retained Earnings         :    -422,476,906.81
+  Total Equity              :     595,983,467.85
+  Minority Interest         :       8,081,310.87
+
+Summary of Income Statement
+  Total Sales               :     354,547,871.31
+  Cost of Good Sold         :     200,765,743.61
+  Gross Profit              :     153,782,127.70
+  Operating Profit          :     153,782,127.70
+  Other Income              :     -14,848,534.09
+  Eearning Before Tax       :     138,933,593.61
+  Tax                       :      36,016,213.95
+  Net Income                :     122,437,448.93
+  Closing Price             :             375.00
+
+Per Share Data (Rp)
+  Eps                       :              61.22
+  Book Value                :             297.99
+
+Financial Ratios
+  Debt Equity Ratio (X)     :               1.00
+  Roa (%)                   :              10.23
+  Roe (%)                   :              20.54
+  Npm (%)                   :              34.53
+  Opm (%)                   :              43.37
+
+Cash Flow
+  CF from Operating Activities                        :     159,753,468.76
+  CF from Investing Activities                        :     -14,132,577.50
+  CF from Financing Activities                        :    -139,788,850.46
+  Net Increase in Cash & Cash Equivalent              :       5,832,040.80
+  Cash & Cash Equivalent at The Beginning of The Year :      86,301,436.01
+  Cash & Cash Equivalent at The End of The Year       :      92,133,476.81
+
+ 
+ 
+ 

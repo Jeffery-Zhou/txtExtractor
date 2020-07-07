@@ -1,0 +1,66 @@
+6
+ALDI0303.TXT
+
+ALDI
+Alter Abadi Tbk
+Af          :
+Sector Code : 29
+Sector Name : OTHERS MINING
+
+(In thousand rupiah except Par Value, Closing Price and Ratios)
+
+Financial Statement Date    : 31-Mar-2003
+Fiscal Year Ends            : Dec
+Months Covered in Income St : 3
+
+Summary of Balance Sheet
+  Receivables               :       2,096,314.95
+  Inventories               :       4,262,008.24
+  Current Assets            :       9,830,073.73
+  Fixed Assets              :      29,062,238.79
+  Other Asstes              :      55,264,120.48
+  Total Assets              :     369,502,684.89
+  Current Liabilities       :     685,105,553.50
+  Longterm Liabiities       :      22,056,180.16
+  Total Liabilities         :     707,161,733.67
+  Authorized                :         800,000.00
+  Paid-up Capital           :     199,130,000.00
+  Par Value                 :                500
+  Paid-up Capital Shares    :         398,260.00
+  Retained Earnings         :    -569,774,098.78
+  Total Equity              :    -337,659,048.78
+  Minority Interest         :               0.00
+
+Summary of Income Statement
+  Total Sales               :       5,332,845.19
+  Cost of Good Sold         :       7,142,331.81
+  Gross Profit              :      -1,809,486.62
+  Operating Profit          :      -4,338,156.78
+  Other Income              :     -18,366,065.53
+  Eearning Before Tax       :     -22,704,222.31
+  Tax                       :               0.00
+  Net Income                :     -22,704,222.31
+  Closing Price             :              15.00
+
+Per Share Data (Rp)
+  Eps                       :            -228.03
+  Book Value                :            -847.84
+
+Financial Ratios
+  Debt Equity Ratio (X)     :              -2.09
+  Roa (%)                   :             -24.58
+  Roe (%)                   :              26.90
+  Npm (%)                   :          -1,702.97
+  Opm (%)                   :            -325.39
+
+Cash Flow
+  CF from Operating Activities                        :        -728,529.43
+  CF from Investing Activities                        :          25,000.00
+  CF from Financing Activities                        :         632,173.55
+  Net Increase in Cash & Cash Equivalent              :         -71,355.88
+  Cash & Cash Equivalent at The Beginning of The Year :         419,130.01
+  Cash & Cash Equivalent at The End of The Year       :         347,774.13
+
+ 
+ 
+ 

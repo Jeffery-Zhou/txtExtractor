@@ -1,0 +1,66 @@
+6
+AMFG0303.TXT
+
+AMFG
+Asahimas Flat Glass Tbk
+Af          :
+Sector Code : 32
+Sector Name : CERAMICS, GLASS, PORCELAIN
+
+(In thousand rupiah except Par Value, Closing Price and Ratios)
+
+Financial Statement Date    : 31-Mar-2003
+Fiscal Year Ends            : Dec
+Months Covered in Income St : 3
+
+Summary of Balance Sheet
+  Receivables               :     164,613,213.00
+  Inventories               :     302,767,622.00
+  Current Assets            :     567,762,809.00
+  Fixed Assets              :     827,296,962.00
+  Other Asstes              :      41,804,398.00
+  Total Assets              :   1,468,014,924.00
+  Current Liabilities       :     286,194,300.00
+  Longterm Liabiities       :     396,916,951.00
+  Total Liabilities         :     683,111,251.00
+  Authorized                :         600,000.00
+  Paid-up Capital           :     217,000,000.00
+  Par Value                 :                500
+  Paid-up Capital Shares    :         434,000.00
+  Retained Earnings         :     392,561,692.00
+  Total Equity              :     782,548,288.00
+  Minority Interest         :       2,355,385.00
+
+Summary of Income Statement
+  Total Sales               :     357,673,540.00
+  Cost of Good Sold         :     225,953,304.00
+  Gross Profit              :     131,720,236.00
+  Operating Profit          :      76,810,922.00
+  Other Income              :       2,357,450.00
+  Eearning Before Tax       :      82,647,483.00
+  Tax                       :      25,916,287.00
+  Net Income                :      56,730,920.00
+  Closing Price             :           1,150.00
+
+Per Share Data (Rp)
+  Eps                       :             522.87
+  Book Value                :           1,803.11
+
+Financial Ratios
+  Debt Equity Ratio (X)     :                .87
+  Roa (%)                   :              15.46
+  Roe (%)                   :              29.00
+  Npm (%)                   :              63.44
+  Opm (%)                   :              85.90
+
+Cash Flow
+  CF from Operating Activities                        :       4,548,574.00
+  CF from Investing Activities                        :     -14,130,632.00
+  CF from Financing Activities                        :     -75,328,050.00
+  Net Increase in Cash & Cash Equivalent              :     -84,910,108.00
+  Cash & Cash Equivalent at The Beginning of The Year :     151,164,688.00
+  Cash & Cash Equivalent at The End of The Year       :      65,832,580.00
+
+ 
+ 
+ 

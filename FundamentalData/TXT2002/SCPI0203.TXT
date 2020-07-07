@@ -1,0 +1,66 @@
+6
+SCPI0203.TXT
+
+SCPI
+Schering Plough Indonesia Tbk *)
+Af          :
+Sector Code : 53
+Sector Name : PHARMACEUTICALS
+
+(In thousand rupiah except Par Value, Closing Price and Ratios)
+
+Financial Statement Date    : 31-Mar-2002
+Fiscal Year Ends            : Dec
+Months Covered in Income St : 3
+
+Summary of Balance Sheet
+  Receivables               :      20,988,392.59
+  Inventories               :      20,370,986.26
+  Current Assets            :      51,857,572.21
+  Fixed Assets              :      15,170,305.78
+  Other Asstes              :       2,077,397.38
+  Total Assets              :      69,105,275.37
+  Current Liabilities       :      64,955,189.56
+  Longterm Liabiities       :               0.00
+  Total Liabilities         :      64,955,189.56
+  Authorized                :           5,000.00
+  Paid-up Capital           :       3,600,000.00
+  Par Value                 :               1000
+  Paid-up Capital Shares    :           3,600.00
+  Retained Earnings         :         454,472.46
+  Total Equity              :       4,150,085.82
+  Minority Interest         :               0.00
+
+Summary of Income Statement
+  Total Sales               :      28,980,093.97
+  Cost of Good Sold         :      17,856,976.89
+  Gross Profit              :      11,123,117.08
+  Operating Profit          :         -90,943.50
+  Other Income              :          71,814.64
+  Eearning Before Tax       :         -19,128.86
+  Tax                       :               0.00
+  Net Income                :         -19,128.86
+  Closing Price             :          16,000.00
+
+Per Share Data (Rp)
+  Eps                       :             -21.25
+  Book Value                :           1,152.80
+
+Financial Ratios
+  Debt Equity Ratio (X)     :              15.65
+  Roa (%)                   :               -.11
+  Roe (%)                   :              -1.84
+  Npm (%)                   :               -.07
+  Opm (%)                   :               -.31
+
+Cash Flow
+  CF from Operating Activities                        :      -7,647,312.00
+  CF from Investing Activities                        :          52,906.73
+  CF from Financing Activities                        :       7,000,000.00
+  Net Increase in Cash & Cash Equivalent              :         358,473.06
+  Cash & Cash Equivalent at The Beginning of The Year :       1,487,979.17
+  Cash & Cash Equivalent at The End of The Year       :       1,846,452.23
+
+ 
+ 
+ 

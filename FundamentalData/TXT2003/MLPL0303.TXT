@@ -1,0 +1,66 @@
+6
+MLPL0303.TXT
+
+MLPL
+Multipolar Corporation Tbk
+Af          :
+Sector Code : 97
+Sector Name : COMPUTER AND SERVICES
+
+(In thousand rupiah except Par Value, Closing Price and Ratios)
+
+Financial Statement Date    : 31-Mar-2003
+Fiscal Year Ends            : Dec
+Months Covered in Income St : 3
+
+Summary of Balance Sheet
+  Receivables               :     186,494,971.74
+  Inventories               :      32,405,594.85
+  Current Assets            :     357,001,182.07
+  Fixed Assets              :      62,335,200.20
+  Other Asstes              :       2,698,266.16
+  Total Assets              :   1,710,116,047.22
+  Current Liabilities       :     479,052,439.79
+  Longterm Liabiities       :     186,474,638.50
+  Total Liabilities         :     665,527,078.29
+  Authorized                :       7,485,000.00
+  Paid-up Capital           :     935,884,000.00
+  Par Value                 :                500
+  Paid-up Capital Shares    :       1,871,768.00
+  Retained Earnings         :     -12,990,647.22
+  Total Equity              :   1,044,159,888.93
+  Minority Interest         :         429,080.00
+
+Summary of Income Statement
+  Total Sales               :     145,377,503.73
+  Cost of Good Sold         :     119,102,694.32
+  Gross Profit              :      26,274,809.41
+  Operating Profit          :      14,597,870.86
+  Other Income              :     -11,908,133.09
+  Eearning Before Tax       :       2,056,901.85
+  Tax                       :         527,477.45
+  Net Income                :       1,529,424.41
+  Closing Price             :             125.00
+
+Per Share Data (Rp)
+  Eps                       :               3.27
+  Book Value                :             557.85
+
+Financial Ratios
+  Debt Equity Ratio (X)     :                .64
+  Roa (%)                   :                .36
+  Roe (%)                   :                .59
+  Npm (%)                   :               4.21
+  Opm (%)                   :              40.17
+
+Cash Flow
+  CF from Operating Activities                        :      39,082,218.72
+  CF from Investing Activities                        :      -3,791,884.01
+  CF from Financing Activities                        :     -42,237,776.95
+  Net Increase in Cash & Cash Equivalent              :      -6,947,442.23
+  Cash & Cash Equivalent at The Beginning of The Year :      14,649,345.92
+  Cash & Cash Equivalent at The End of The Year       :       7,701,903.68
+
+ 
+ 
+ 

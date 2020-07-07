@@ -1,0 +1,66 @@
+6
+RIMO0306.TXT
+
+RIMO
+Rimo Catur Lestari Tbk
+Af          :
+Sector Code : 93
+Sector Name : RETAIL TRADE
+
+(In thousand rupiah except Par Value, Closing Price and Ratios)
+
+Financial Statement Date    : 30-Jun-2003
+Fiscal Year Ends            : Dec
+Months Covered in Income St : 6
+
+Summary of Balance Sheet
+  Receivables               :       1,678,798.48
+  Inventories               :      58,267,370.84
+  Current Assets            :      74,879,011.65
+  Fixed Assets              :      57,500,429.56
+  Other Asstes              :               0.00
+  Total Assets              :     152,008,035.30
+  Current Liabilities       :      41,424,392.33
+  Longterm Liabiities       :               0.00
+  Total Liabilities         :      41,424,392.33
+  Authorized                :         960,000.00
+  Paid-up Capital           :      85,000,000.00
+  Par Value                 :                250
+  Paid-up Capital Shares    :         340,000.00
+  Retained Earnings         :          12,509.52
+  Total Equity              :     109,408,262.65
+  Minority Interest         :       1,175,380.32
+
+Summary of Income Statement
+  Total Sales               :     109,752,464.62
+  Cost of Good Sold         :      79,384,494.59
+  Gross Profit              :      30,367,970.03
+  Operating Profit          :      -4,320,895.59
+  Other Income              :         122,605.25
+  Eearning Before Tax       :      -4,198,290.34
+  Tax                       :      -1,143,781.95
+  Net Income                :      -3,013,594.37
+  Closing Price             :              85.00
+
+Per Share Data (Rp)
+  Eps                       :             -17.73
+  Book Value                :             321.79
+
+Financial Ratios
+  Debt Equity Ratio (X)     :                .38
+  Roa (%)                   :              -3.97
+  Roe (%)                   :              -5.51
+  Npm (%)                   :              -5.49
+  Opm (%)                   :              -7.87
+
+Cash Flow
+  CF from Operating Activities                        :     -11,294,042.52
+  CF from Investing Activities                        :      -1,082,209.46
+  CF from Financing Activities                        :         -73,852.11
+  Net Increase in Cash & Cash Equivalent              :     -12,450,104.09
+  Cash & Cash Equivalent at The Beginning of The Year :      21,251,446.86
+  Cash & Cash Equivalent at The End of The Year       :       8,801,342.77
+
+ 
+ 
+ 

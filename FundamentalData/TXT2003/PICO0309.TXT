@@ -1,0 +1,66 @@
+6
+PICO0309.TXT
+
+PICO
+Pelangi Indah Canindo Tbk
+Af          :
+Sector Code : 33
+Sector Name : METAL AND ALLIED PRODUCTS
+
+(In thousand rupiah except Par Value, Closing Price and Ratios)
+
+Financial Statement Date    : 30-Sep-2003
+Fiscal Year Ends            : Dec
+Months Covered in Income St : 9
+
+Summary of Balance Sheet
+  Receivables               :      38,773,241.39
+  Inventories               :      62,543,569.10
+  Current Assets            :     107,851,628.02
+  Fixed Assets              :     156,909,899.20
+  Other Asstes              :               0.00
+  Total Assets              :     288,389,544.72
+  Current Liabilities       :     192,073,598.55
+  Longterm Liabiities       :      39,469,806.10
+  Total Liabilities         :     231,543,404.64
+  Authorized                :       1,200,000.00
+  Paid-up Capital           :     265,940,000.00
+  Par Value                 :                500
+  Paid-up Capital Shares    :         531,880.00
+  Retained Earnings         :    -213,217,469.77
+  Total Equity              :      56,847,530.23
+  Minority Interest         :          -1,390.16
+
+Summary of Income Statement
+  Total Sales               :     118,866,675.48
+  Cost of Good Sold         :     106,029,073.61
+  Gross Profit              :      12,837,601.88
+  Operating Profit          :       1,307,358.46
+  Other Income              :     -12,460,133.80
+  Eearning Before Tax       :     -11,152,775.34
+  Tax                       :      -2,228,741.14
+  Net Income                :      14,092,652.58
+  Closing Price             :             165.00
+
+Per Share Data (Rp)
+  Eps                       :              35.33
+  Book Value                :             106.88
+
+Financial Ratios
+  Debt Equity Ratio (X)     :               4.07
+  Roa (%)                   :               6.52
+  Roe (%)                   :              33.05
+  Npm (%)                   :              15.81
+  Opm (%)                   :               1.47
+
+Cash Flow
+  CF from Operating Activities                        :      -7,724,464.15
+  CF from Investing Activities                        :      -3,401,332.75
+  CF from Financing Activities                        :       8,895,231.09
+  Net Increase in Cash & Cash Equivalent              :      -2,230,565.81
+  Cash & Cash Equivalent at The Beginning of The Year :       3,390,176.03
+  Cash & Cash Equivalent at The End of The Year       :       1,159,610.22
+
+ 
+ 
+ 

@@ -1,0 +1,66 @@
+6
+PGAS0312.TXT
+
+PGAS
+Perusahaan Gas Negara (Persero) Tbk
+Af          :
+Sector Code : 72
+Sector Name : TOLL ROAD, AIRPORT, HARBOR AND ALLIED PROD
+
+(In thousand rupiah except Par Value, Closing Price and Ratios)
+
+Financial Statement Date    : 31-Dec-2003
+Fiscal Year Ends            : Dec
+Months Covered in Income St : 12
+
+Summary of Balance Sheet
+  Receivables               :     776,496,716.77
+  Inventories               :      57,800,270.94
+  Current Assets            :   3,537,890,806.06
+  Fixed Assets              :   5,467,143,803.26
+  Other Asstes              :         317,027.83
+  Total Assets              :   9,112,081,655.17
+  Current Liabilities       :     806,497,956.53
+  Longterm Liabiities       :   4,388,590,179.05
+  Total Liabilities         :   5,350,992,011.65
+  Authorized                :      14,000,000.00
+  Paid-up Capital           :   2,160,493,500.00
+  Par Value                 :                500
+  Paid-up Capital Shares    :       4,320,987.00
+  Retained Earnings         :     582,138,442.50
+  Total Equity              :   3,315,610,216.09
+  Minority Interest         :     445,479,427.43
+
+Summary of Income Statement
+  Total Sales               :   3,596,192,187.19
+  Cost of Good Sold         :   1,954,354,664.24
+  Gross Profit              :   1,641,837,522.96
+  Operating Profit          :     832,294,414.35
+  Other Income              :     -77,703,024.05
+  Eearning Before Tax       :     754,591,390.30
+  Tax                       :     230,511,465.34
+  Net Income                :     519,452,210.22
+  Closing Price             :           1,550.00
+
+Per Share Data (Rp)
+  Eps                       :             120.22
+  Book Value                :             767.33
+
+Financial Ratios
+  Debt Equity Ratio (X)     :               1.61
+  Roa (%)                   :               5.70
+  Roe (%)                   :              15.67
+  Npm (%)                   :              14.44
+  Opm (%)                   :              23.14
+
+Cash Flow
+  CF from Operating Activities                        :     553,962,315.39
+  CF from Investing Activities                        :  -2,538,689,772.78
+  CF from Financing Activities                        :   3,155,981,523.45
+  Net Increase in Cash & Cash Equivalent              :   1,171,254,066.06
+  Cash & Cash Equivalent at The Beginning of The Year :     792,309,662.02
+  Cash & Cash Equivalent at The End of The Year       :   1,926,742,730.62
+
+ 
+ 
+ 

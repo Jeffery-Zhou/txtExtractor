@@ -1,0 +1,66 @@
+6
+TMAS0312.TXT
+
+TMAS
+Pelayaran Tempuran Emas Tbk
+Af          :
+Sector Code : 74
+Sector Name : TRANSPORTATION
+
+(In thousand rupiah except Par Value, Closing Price and Ratios)
+
+Financial Statement Date    : 31-Dec-2003
+Fiscal Year Ends            : Dec
+Months Covered in Income St : 12
+
+Summary of Balance Sheet
+  Receivables               :      27,912,318.78
+  Inventories               :               0.00
+  Current Assets            :      38,934,449.08
+  Fixed Assets              :     221,158,890.39
+  Other Asstes              :       6,567,912.25
+  Total Assets              :     277,322,021.56
+  Current Liabilities       :      39,851,427.72
+  Longterm Liabiities       :      58,768,803.69
+  Total Liabilities         :      98,620,231.41
+  Authorized                :       1,440,000.00
+  Paid-up Capital           :     112,750,000.00
+  Par Value                 :                250
+  Paid-up Capital Shares    :         451,000.00
+  Retained Earnings         :      46,635,360.47
+  Total Equity              :     178,594,580.27
+  Minority Interest         :         107,209.88
+
+Summary of Income Statement
+  Total Sales               :     179,402,799.26
+  Cost of Good Sold         :     136,053,736.88
+  Gross Profit              :      43,349,062.38
+  Operating Profit          :      32,380,818.21
+  Other Income              :      -2,720,542.40
+  Eearning Before Tax       :      29,660,275.81
+  Tax                       :       1,669,272.30
+  Net Income                :      32,965,658.83
+  Closing Price             :             575.00
+
+Per Share Data (Rp)
+  Eps                       :              73.09
+  Book Value                :             396.00
+
+Financial Ratios
+  Debt Equity Ratio (X)     :                .55
+  Roa (%)                   :              11.89
+  Roe (%)                   :              18.46
+  Npm (%)                   :              18.38
+  Opm (%)                   :              18.05
+
+Cash Flow
+  CF from Operating Activities                        :      42,690,774.37
+  CF from Investing Activities                        :     -88,124,717.71
+  CF from Financing Activities                        :      45,280,456.48
+  Net Increase in Cash & Cash Equivalent              :        -153,486.86
+  Cash & Cash Equivalent at The Beginning of The Year :       4,591,989.59
+  Cash & Cash Equivalent at The End of The Year       :       4,438,502.73
+
+ 
+ 
+ 

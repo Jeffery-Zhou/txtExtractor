@@ -1,0 +1,66 @@
+6
+DLTA0203.TXT
+
+DLTA
+Delta Djakarta Tbk
+Af          :
+Sector Code : 51
+Sector Name : FOOD AND BEVERAGES
+
+(In thousand rupiah except Par Value, Closing Price and Ratios)
+
+Financial Statement Date    : 31-Mar-2002
+Fiscal Year Ends            : Dec
+Months Covered in Income St : 3
+
+Summary of Balance Sheet
+  Receivables               :      72,199,515.00
+  Inventories               :      40,124,826.00
+  Current Assets            :     169,218,436.00
+  Fixed Assets              :     154,581,985.00
+  Other Asstes              :         176,894.00
+  Total Assets              :     326,555,618.00
+  Current Liabilities       :      50,477,179.00
+  Longterm Liabiities       :      18,263,570.00
+  Total Liabilities         :      68,740,749.00
+  Authorized                :          20,000.00
+  Paid-up Capital           :      16,013,181.00
+  Par Value                 :               1000
+  Paid-up Capital Shares    :          16,013.18
+  Retained Earnings         :     222,459,044.00
+  Total Equity              :     257,487,881.00
+  Minority Interest         :         326,988.00
+
+Summary of Income Statement
+  Total Sales               :      53,022,690.00
+  Cost of Good Sold         :      31,377,774.00
+  Gross Profit              :      21,644,916.00
+  Operating Profit          :       1,468,753.00
+  Other Income              :       1,544,132.00
+  Eearning Before Tax       :       3,012,885.00
+  Tax                       :       2,502,110.00
+  Net Income                :         837,163.00
+  Closing Price             :           9,200.00
+
+Per Share Data (Rp)
+  Eps                       :             209.12
+  Book Value                :          16,079.75
+
+Financial Ratios
+  Debt Equity Ratio (X)     :                .27
+  Roa (%)                   :               1.03
+  Roe (%)                   :               1.30
+  Npm (%)                   :               1.58
+  Opm (%)                   :               2.77
+
+Cash Flow
+  CF from Operating Activities                        :      16,793,575.00
+  CF from Investing Activities                        :     -23,954,126.00
+  CF from Financing Activities                        :      -1,210,498.00
+  Net Increase in Cash & Cash Equivalent              :      -8,371,049.00
+  Cash & Cash Equivalent at The Beginning of The Year :      25,550,111.00
+  Cash & Cash Equivalent at The End of The Year       :      17,179,062.00
+
+ 
+ 
+ 

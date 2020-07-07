@@ -1,0 +1,66 @@
+6
+DYNA0209.TXT
+
+DYNA
+Dynaplast Tbk
+Af          :
+Sector Code : 35
+Sector Name : PLASTICS & PACKAGING
+
+(In thousand rupiah except Par Value, Closing Price and Ratios)
+
+Financial Statement Date    : 30-Sep-2002
+Fiscal Year Ends            : Dec
+Months Covered in Income St : 9
+
+Summary of Balance Sheet
+  Receivables               :      76,089,597.33
+  Inventories               :      37,434,601.08
+  Current Assets            :     171,393,928.20
+  Fixed Assets              :     278,600,378.56
+  Other Asstes              :       1,117,213.23
+  Total Assets              :     526,043,133.08
+  Current Liabilities       :     147,889,080.28
+  Longterm Liabiities       :      40,186,595.50
+  Total Liabilities         :     188,075,675.78
+  Authorized                :         600,000.00
+  Paid-up Capital           :     151,297,220.00
+  Par Value                 :                500
+  Paid-up Capital Shares    :         302,594.44
+  Retained Earnings         :     142,902,754.49
+  Total Equity              :     314,608,863.74
+  Minority Interest         :      23,358,593.56
+
+Summary of Income Statement
+  Total Sales               :     347,130,563.00
+  Cost of Good Sold         :     242,054,505.16
+  Gross Profit              :     105,076,057.84
+  Operating Profit          :      73,240,922.19
+  Other Income              :      -7,409,709.01
+  Eearning Before Tax       :      69,003,196.75
+  Tax                       :      23,204,696.83
+  Net Income                :      41,250,456.15
+  Closing Price             :             875.00
+
+Per Share Data (Rp)
+  Eps                       :             181.76
+  Book Value                :           1,039.70
+
+Financial Ratios
+  Debt Equity Ratio (X)     :                .60
+  Roa (%)                   :              10.46
+  Roe (%)                   :              17.48
+  Npm (%)                   :              15.84
+  Opm (%)                   :              28.13
+
+Cash Flow
+  CF from Operating Activities                        :      48,133,208.48
+  CF from Investing Activities                        :     -14,113,838.85
+  CF from Financing Activities                        :     -26,632,700.13
+  Net Increase in Cash & Cash Equivalent              :       7,386,669.50
+  Cash & Cash Equivalent at The Beginning of The Year :      22,948,605.57
+  Cash & Cash Equivalent at The End of The Year       :      30,335,275.08
+
+ 
+ 
+ 

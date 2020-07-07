@@ -1,0 +1,66 @@
+6
+RYAN0203.TXT
+
+RYAN
+Ryane Adibusana Tbk
+Af          :
+Sector Code : 93
+Sector Name : RETAIL TRADE
+
+(In thousand rupiah except Par Value, Closing Price and Ratios)
+
+Financial Statement Date    : 31-Mar-2002
+Fiscal Year Ends            : Dec
+Months Covered in Income St : 3
+
+Summary of Balance Sheet
+  Receivables               :       5,157,973.25
+  Inventories               :      28,070,398.28
+  Current Assets            :      43,999,633.48
+  Fixed Assets              :      12,420,346.91
+  Other Asstes              :               0.00
+  Total Assets              :      69,235,778.77
+  Current Liabilities       :       6,706,025.66
+  Longterm Liabiities       :         244,788.21
+  Total Liabilities         :       6,950,813.87
+  Authorized                :       1,200,000.00
+  Paid-up Capital           :      55,000,000.00
+  Par Value                 :                100
+  Paid-up Capital Shares    :         550,000.00
+  Retained Earnings         :       7,284,964.90
+  Total Equity              :      62,284,964.90
+  Minority Interest         :               0.00
+
+Summary of Income Statement
+  Total Sales               :       6,665,142.07
+  Cost of Good Sold         :       3,299,245.33
+  Gross Profit              :       3,365,896.75
+  Operating Profit          :         579,984.42
+  Other Income              :        -142,278.93
+  Eearning Before Tax       :         437,705.49
+  Tax                       :         106,819.44
+  Net Income                :         330,886.05
+  Closing Price             :             305.00
+
+Per Share Data (Rp)
+  Eps                       :               2.41
+  Book Value                :             113.25
+
+Financial Ratios
+  Debt Equity Ratio (X)     :                .11
+  Roa (%)                   :               1.91
+  Roe (%)                   :               2.12
+  Npm (%)                   :               4.96
+  Opm (%)                   :               8.70
+
+Cash Flow
+  CF from Operating Activities                        :         329,067.68
+  CF from Investing Activities                        :        -195,652.68
+  CF from Financing Activities                        :          15,668.25
+  Net Increase in Cash & Cash Equivalent              :         149,083.25
+  Cash & Cash Equivalent at The Beginning of The Year :       1,193,668.12
+  Cash & Cash Equivalent at The End of The Year       :       1,342,751.37
+
+ 
+ 
+ 

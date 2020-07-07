@@ -1,0 +1,66 @@
+6
+BFIN0303.TXT
+
+BFIN
+BFI Finance Indonesia Tbk
+Af          :
+Sector Code : 82
+Sector Name : FINANCIAL INSTITUTION
+
+(In thousand rupiah except Par Value, Closing Price and Ratios)
+
+Financial Statement Date    : 31-Mar-2003
+Fiscal Year Ends            : Dec
+Months Covered in Income St : 3
+
+Summary of Balance Sheet
+  Receivables               :     480,055,837.91
+  Inventories               :               0.00
+  Current Assets            :               0.00
+  Fixed Assets              :      15,663,669.35
+  Other Asstes              :      10,460,042.33
+  Total Assets              :     924,278,734.95
+  Current Liabilities       :               0.00
+  Longterm Liabiities       :               0.00
+  Total Liabilities         :     389,446,947.41
+  Authorized                :       1,000,000.00
+  Paid-up Capital           :     340,620,003.50
+  Par Value                 :                500
+  Paid-up Capital Shares    :         681,240.01
+  Retained Earnings         :    -602,924,771.46
+  Total Equity              :     534,831,787.54
+  Minority Interest         :               0.00
+
+Summary of Income Statement
+  Total Sales               :      53,792,775.19
+  Cost of Good Sold         :      23,759,856.38
+  Gross Profit              :      30,032,918.81
+  Operating Profit          :      30,032,918.81
+  Other Income              :               0.00
+  Eearning Before Tax       :      30,032,918.81
+  Tax                       :       8,883,937.45
+  Net Income                :      21,148,981.36
+  Closing Price             :             350.00
+
+Per Share Data (Rp)
+  Eps                       :             124.18
+  Book Value                :             785.09
+
+Financial Ratios
+  Debt Equity Ratio (X)     :                .73
+  Roa (%)                   :               9.15
+  Roe (%)                   :              15.82
+  Npm (%)                   :             157.26
+  Opm (%)                   :             223.32
+
+Cash Flow
+  CF from Operating Activities                        :      40,446,485.52
+  CF from Investing Activities                        :      -1,945,350.21
+  CF from Financing Activities                        :     -30,791,153.22
+  Net Increase in Cash & Cash Equivalent              :       7,709,982.09
+  Cash & Cash Equivalent at The Beginning of The Year :      18,208,379.23
+  Cash & Cash Equivalent at The End of The Year       :      25,862,968.35
+
+ 
+ 
+ 

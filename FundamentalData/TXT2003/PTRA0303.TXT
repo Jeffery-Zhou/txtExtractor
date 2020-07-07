@@ -1,0 +1,66 @@
+6
+PTRA0303.TXT
+
+PTRA
+Putra Surya Perkasa Tbk
+Af          :
+Sector Code : 61
+Sector Name : PROPERTY AND REAL ESTATE
+
+(In thousand rupiah except Par Value, Closing Price and Ratios)
+
+Financial Statement Date    : 31-Mar-2003
+Fiscal Year Ends            : Dec
+Months Covered in Income St : 3
+
+Summary of Balance Sheet
+  Receivables               :      19,262,593.00
+  Inventories               :   1,023,306,307.00
+  Current Assets            :   1,254,080,802.00
+  Fixed Assets              :     190,643,691.00
+  Other Asstes              :     863,236,815.00
+  Total Assets              :   2,307,961,308.00
+  Current Liabilities       :   3,520,123,716.00
+  Longterm Liabiities       :      26,842,838.00
+  Total Liabilities         :   3,546,966,554.00
+  Authorized                :       7,000,000.00
+  Paid-up Capital           :     997,500,000.00
+  Par Value                 :                500
+  Paid-up Capital Shares    :       1,995,000.00
+  Retained Earnings         :  -2,286,918,411.00
+  Total Equity              :  -1,271,024,811.00
+  Minority Interest         :      32,019,565.00
+
+Summary of Income Statement
+  Total Sales               :      13,912,869.00
+  Cost of Good Sold         :      11,170,769.00
+  Gross Profit              :       2,742,100.00
+  Operating Profit          :     -11,395,019.00
+  Other Income              :       6,816,122.00
+  Eearning Before Tax       :      -4,578,897.00
+  Tax                       :          91,067.00
+  Net Income                :      -5,234,650.00
+  Closing Price             :              15.00
+
+Per Share Data (Rp)
+  Eps                       :             -10.50
+  Book Value                :            -637.11
+
+Financial Ratios
+  Debt Equity Ratio (X)     :              -2.79
+  Roa (%)                   :               -.91
+  Roe (%)                   :               1.65
+  Npm (%)                   :            -150.50
+  Opm (%)                   :            -327.61
+
+Cash Flow
+  CF from Operating Activities                        :         849,354.00
+  CF from Investing Activities                        :          90,002.00
+  CF from Financing Activities                        :      -2,166,944.00
+  Net Increase in Cash & Cash Equivalent              :      -1,227,588.00
+  Cash & Cash Equivalent at The Beginning of The Year :       4,545,300.00
+  Cash & Cash Equivalent at The End of The Year       :       3,317,712.00
+
+ 
+ 
+ 

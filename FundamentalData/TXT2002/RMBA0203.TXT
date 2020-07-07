@@ -1,0 +1,66 @@
+6
+RMBA0203.TXT
+
+RMBA
+Bentoel International Investama Tbk
+Af          :
+Sector Code : 52
+Sector Name : TOBACCO MANUFACTURERS
+
+(In thousand rupiah except Par Value, Closing Price and Ratios)
+
+Financial Statement Date    : 31-Mar-2002
+Fiscal Year Ends            : Dec
+Months Covered in Income St : 3
+
+Summary of Balance Sheet
+  Receivables               :     178,685,963.61
+  Inventories               :     871,364,421.45
+  Current Assets            :   1,593,417,408.11
+  Fixed Assets              :     433,813,003.78
+  Other Asstes              :         822,748.55
+  Total Assets              :   2,031,160,286.38
+  Current Liabilities       :     665,819,733.65
+  Longterm Liabiities       :     325,220,684.61
+  Total Liabilities         :     991,040,418.26
+  Authorized                :      21,546,000.00
+  Paid-up Capital           :     336,656,250.00
+  Par Value                 :                 50
+  Paid-up Capital Shares    :       6,733,125.00
+  Retained Earnings         :     351,583,233.04
+  Total Equity              :   1,039,342,291.02
+  Minority Interest         :         777,577.10
+
+Summary of Income Statement
+  Total Sales               :   1,050,302,255.43
+  Cost of Good Sold         :     945,903,196.13
+  Gross Profit              :     104,399,059.30
+  Operating Profit          :      33,001,919.13
+  Other Income              :      19,059,620.60
+  Eearning Before Tax       :      52,061,539.72
+  Tax                       :       7,028,492.64
+  Net Income                :      45,033,047.08
+  Closing Price             :             205.00
+
+Per Share Data (Rp)
+  Eps                       :              26.75
+  Book Value                :             154.36
+
+Financial Ratios
+  Debt Equity Ratio (X)     :                .95
+  Roa (%)                   :               8.87
+  Roe (%)                   :              17.33
+  Npm (%)                   :               4.29
+  Opm (%)                   :               3.14
+
+Cash Flow
+  CF from Operating Activities                        :      65,536,621.27
+  CF from Investing Activities                        :    -237,373,191.70
+  CF from Financing Activities                        :     230,601,832.75
+  Net Increase in Cash & Cash Equivalent              :      58,765,262.31
+  Cash & Cash Equivalent at The Beginning of The Year :     445,809,896.94
+  Cash & Cash Equivalent at The End of The Year       :     504,575,159.25
+
+ 
+ 
+ 

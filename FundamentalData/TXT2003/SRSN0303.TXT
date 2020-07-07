@@ -1,0 +1,66 @@
+6
+SRSN0303.TXT
+
+SRSN
+Sarasa Nugraha Tbk
+Af          :
+Sector Code : 43
+Sector Name : TEXTILE, GARMENT
+
+(In thousand rupiah except Par Value, Closing Price and Ratios)
+
+Financial Statement Date    : 31-Mar-2003
+Fiscal Year Ends            : Dec
+Months Covered in Income St : 3
+
+Summary of Balance Sheet
+  Receivables               :      36,084,930.00
+  Inventories               :      43,958,323.00
+  Current Assets            :      89,167,841.00
+  Fixed Assets              :      30,836,747.00
+  Other Asstes              :               0.00
+  Total Assets              :     145,830,731.00
+  Current Liabilities       :      26,057,305.00
+  Longterm Liabiities       :      48,409,326.00
+  Total Liabilities         :      74,466,631.00
+  Authorized                :       4,400,000.00
+  Paid-up Capital           :     220,000,000.00
+  Par Value                 :                100
+  Paid-up Capital Shares    :       2,200,000.00
+  Retained Earnings         :    -149,226,650.00
+  Total Equity              :      71,364,100.00
+  Minority Interest         :               0.00
+
+Summary of Income Statement
+  Total Sales               :      82,092,122.00
+  Cost of Good Sold         :      77,478,484.00
+  Gross Profit              :       4,613,638.00
+  Operating Profit          :      -5,196,006.00
+  Other Income              :      -1,355,813.00
+  Eearning Before Tax       :      -6,551,819.00
+  Tax                       :         327,775.00
+  Net Income                :      -6,879,594.00
+  Closing Price             :              45.00
+
+Per Share Data (Rp)
+  Eps                       :             -12.51
+  Book Value                :              32.44
+
+Financial Ratios
+  Debt Equity Ratio (X)     :               1.04
+  Roa (%)                   :             -18.87
+  Roe (%)                   :             -38.56
+  Npm (%)                   :             -33.52
+  Opm (%)                   :             -25.32
+
+Cash Flow
+  CF from Operating Activities                        :      -5,217,673.00
+  CF from Investing Activities                        :      -4,414,816.00
+  CF from Financing Activities                        :      10,286,503.00
+  Net Increase in Cash & Cash Equivalent              :        -654,014.00
+  Cash & Cash Equivalent at The Beginning of The Year :       3,559,657.00
+  Cash & Cash Equivalent at The End of The Year       :       2,905,643.00
+
+ 
+ 
+ 

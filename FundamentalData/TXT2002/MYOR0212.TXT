@@ -1,0 +1,66 @@
+6
+MYOR0212.TXT
+
+MYOR
+Mayora Indah Tbk
+Af          :
+Sector Code : 51
+Sector Name : FOOD AND BEVERAGES
+
+(In thousand rupiah except Par Value, Closing Price and Ratios)
+
+Financial Statement Date    : 31-Dec-2002
+Fiscal Year Ends            : Dec
+Months Covered in Income St : 12
+
+Summary of Balance Sheet
+  Receivables               :     294,914,484.16
+  Inventories               :      88,223,492.12
+  Current Assets            :     683,148,580.39
+  Fixed Assets              :     645,738,969.54
+  Other Asstes              :               0.00
+  Total Assets              :   1,332,375,120.42
+  Current Liabilities       :     114,013,596.97
+  Longterm Liabiities       :     464,403,230.29
+  Total Liabilities         :     579,940,285.94
+  Authorized                :       3,000,000.00
+  Paid-up Capital           :     383,292,000.00
+  Par Value                 :                500
+  Paid-up Capital Shares    :         766,584.00
+  Retained Earnings         :     295,674,747.22
+  Total Equity              :     743,178,747.22
+  Minority Interest         :       9,256,087.27
+
+Summary of Income Statement
+  Total Sales               :     998,556,634.03
+  Cost of Good Sold         :     724,447,815.69
+  Gross Profit              :     274,108,818.34
+  Operating Profit          :     151,799,376.88
+  Other Income              :      16,565,382.73
+  Eearning Before Tax       :     168,364,759.61
+  Tax                       :      47,170,470.62
+  Net Income                :     119,489,658.37
+  Closing Price             :             380.00
+
+Per Share Data (Rp)
+  Eps                       :             155.87
+  Book Value                :             969.47
+
+Financial Ratios
+  Debt Equity Ratio (X)     :                .78
+  Roa (%)                   :               8.97
+  Roe (%)                   :              16.08
+  Npm (%)                   :              11.97
+  Opm (%)                   :              15.20
+
+Cash Flow
+  CF from Operating Activities                        :     116,021,872.85
+  CF from Investing Activities                        :      26,891,425.66
+  CF from Financing Activities                        :     -81,563,079.28
+  Net Increase in Cash & Cash Equivalent              :      61,350,219.23
+  Cash & Cash Equivalent at The Beginning of The Year :     190,060,114.60
+  Cash & Cash Equivalent at The End of The Year       :     241,862,415.26
+
+ 
+ 
+ 

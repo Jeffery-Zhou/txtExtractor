@@ -1,0 +1,66 @@
+6
+JPFA0303.TXT
+
+JPFA
+JAPFA Comfeed Indonesia Tbk
+Af          :
+Sector Code : 36
+Sector Name : ANIMAL FEED
+
+(In thousand rupiah except Par Value, Closing Price and Ratios)
+
+Financial Statement Date    : 31-Mar-2003
+Fiscal Year Ends            : Dec
+Months Covered in Income St : 3
+
+Summary of Balance Sheet
+  Receivables               :     307,025,373.63
+  Inventories               :     710,867,084.81
+  Current Assets            :   1,541,739,356.92
+  Fixed Assets              :   1,188,291,332.96
+  Other Asstes              :               0.00
+  Total Assets              :   2,983,605,768.36
+  Current Liabilities       :     589,155,475.36
+  Longterm Liabiities       :   2,001,807,635.73
+  Total Liabilities         :   2,590,963,111.09
+  Authorized                :       2,000,000.00
+  Paid-up Capital           :   1,489,414,660.00
+  Par Value                 :               1000
+  Paid-up Capital Shares    :       1,489,414.66
+  Retained Earnings         :  -1,359,373,879.11
+  Total Equity              :     358,401,592.11
+  Minority Interest         :      34,241,065.16
+
+Summary of Income Statement
+  Total Sales               :   1,003,150,446.19
+  Cost of Good Sold         :     890,867,726.44
+  Gross Profit              :     112,282,719.74
+  Operating Profit          :      -5,681,795.35
+  Other Income              :      12,055,590.33
+  Eearning Before Tax       :       6,373,794.98
+  Tax                       :         148,911.02
+  Net Income                :       3,719,120.65
+  Closing Price             :             100.00
+
+Per Share Data (Rp)
+  Eps                       :               9.99
+  Book Value                :             240.63
+
+Financial Ratios
+  Debt Equity Ratio (X)     :               7.23
+  Roa (%)                   :                .50
+  Roe (%)                   :               4.15
+  Npm (%)                   :               1.48
+  Opm (%)                   :              -2.27
+
+Cash Flow
+  CF from Operating Activities                        :     -45,281,655.35
+  CF from Investing Activities                        :      22,880,017.22
+  CF from Financing Activities                        :      -7,800,796.03
+  Net Increase in Cash & Cash Equivalent              :     -30,202,434.17
+  Cash & Cash Equivalent at The Beginning of The Year :     246,213,865.76
+  Cash & Cash Equivalent at The End of The Year       :     217,184,296.93
+
+ 
+ 
+ 

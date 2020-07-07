@@ -1,0 +1,66 @@
+6
+CITA0312.TXT
+
+CITA
+Cipta Panelutama Tbk *)
+Af          :
+Sector Code : 49
+Sector Name : OTHERS MISCELLANEOUS INDUSTRY
+
+(In thousand rupiah except Par Value, Closing Price and Ratios)
+
+Financial Statement Date    : 31-Dec-2003
+Fiscal Year Ends            : Dec
+Months Covered in Income St : 12
+
+Summary of Balance Sheet
+  Receivables               :       2,861,367.83
+  Inventories               :      18,229,049.47
+  Current Assets            :      25,003,729.37
+  Fixed Assets              :      19,156,164.70
+  Other Asstes              :       2,650,442.84
+  Total Assets              :      46,897,644.87
+  Current Liabilities       :      34,777,050.34
+  Longterm Liabiities       :         252,697.10
+  Total Liabilities         :      35,029,747.44
+  Authorized                :         720,000.00
+  Paid-up Capital           :      28,805,350.00
+  Par Value                 :                100
+  Paid-up Capital Shares    :         288,053.50
+  Retained Earnings         :     -16,992,262.74
+  Total Equity              :      11,867,897.42
+  Minority Interest         :               0.00
+
+Summary of Income Statement
+  Total Sales               :      59,110,725.74
+  Cost of Good Sold         :      56,141,895.52
+  Gross Profit              :       2,968,830.22
+  Operating Profit          :      -1,952,171.75
+  Other Income              :      -5,183,124.78
+  Eearning Before Tax       :      -7,135,296.53
+  Tax                       :          -5,775.79
+  Net Income                :      -7,129,520.74
+  Closing Price             :             775.00
+
+Per Share Data (Rp)
+  Eps                       :             -24.75
+  Book Value                :              41.20
+
+Financial Ratios
+  Debt Equity Ratio (X)     :               2.95
+  Roa (%)                   :             -15.20
+  Roe (%)                   :             -60.07
+  Npm (%)                   :             -12.06
+  Opm (%)                   :              -3.30
+
+Cash Flow
+  CF from Operating Activities                        :          46,486.58
+  CF from Investing Activities                        :        -736,927.68
+  CF from Financing Activities                        :         265,876.86
+  Net Increase in Cash & Cash Equivalent              :        -424,564.25
+  Cash & Cash Equivalent at The Beginning of The Year :         924,052.52
+  Cash & Cash Equivalent at The End of The Year       :         499,488.28
+
+ 
+ 
+ 

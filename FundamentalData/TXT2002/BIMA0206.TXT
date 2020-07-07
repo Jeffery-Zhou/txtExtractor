@@ -1,0 +1,66 @@
+6
+BIMA0206.TXT
+
+BIMA
+Primarindo Asia Infrastructur Tbk
+Af          :
+Sector Code : 44
+Sector Name : FOOTWEAR
+
+(In thousand rupiah except Par Value, Closing Price and Ratios)
+
+Financial Statement Date    : 30-Jun-2002
+Fiscal Year Ends            : Dec
+Months Covered in Income St : 6
+
+Summary of Balance Sheet
+  Receivables               :      14,990,145.45
+  Inventories               :      23,781,947.01
+  Current Assets            :      54,112,327.59
+  Fixed Assets              :      68,273,580.67
+  Other Asstes              :               0.00
+  Total Assets              :     146,895,609.53
+  Current Liabilities       :     172,107,851.93
+  Longterm Liabiities       :      26,256,964.89
+  Total Liabilities         :     198,364,816.82
+  Authorized                :         344,000.00
+  Paid-up Capital           :      43,000,000.00
+  Par Value                 :                500
+  Paid-up Capital Shares    :          86,000.00
+  Retained Earnings         :     -94,469,207.29
+  Total Equity              :     -51,469,207.29
+  Minority Interest         :               0.00
+
+Summary of Income Statement
+  Total Sales               :     133,125,974.29
+  Cost of Good Sold         :     138,159,438.65
+  Gross Profit              :      -5,033,464.36
+  Operating Profit          :     -15,743,061.59
+  Other Income              :      12,166,436.81
+  Eearning Before Tax       :      -3,576,624.78
+  Tax                       :       1,010,531.53
+  Net Income                :      -4,587,156.31
+  Closing Price             :           1,200.00
+
+Per Share Data (Rp)
+  Eps                       :            -106.68
+  Book Value                :            -598.48
+
+Financial Ratios
+  Debt Equity Ratio (X)     :              -3.85
+  Roa (%)                   :              -6.25
+  Roe (%)                   :              17.82
+  Npm (%)                   :              -3.45
+  Opm (%)                   :             -11.83
+
+Cash Flow
+  CF from Operating Activities                        :     -20,296,625.04
+  CF from Investing Activities                        :        -766,984.23
+  CF from Financing Activities                        :      21,263,128.61
+  Net Increase in Cash & Cash Equivalent              :         199,519.34
+  Cash & Cash Equivalent at The Beginning of The Year :       1,185,181.06
+  Cash & Cash Equivalent at The End of The Year       :       1,384,700.40
+
+ 
+ 
+ 

@@ -1,0 +1,66 @@
+6
+INDS0309.TXT
+
+INDS
+Indospring Tbk
+Af          :
+Sector Code : 42
+Sector Name : AUTOMOTIVE AND COMPONENTS
+
+(In thousand rupiah except Par Value, Closing Price and Ratios)
+
+Financial Statement Date    : 30-Sep-2003
+Fiscal Year Ends            : Dec
+Months Covered in Income St : 9
+
+Summary of Balance Sheet
+  Receivables               :      45,737,407.15
+  Inventories               :      85,161,912.76
+  Current Assets            :     165,060,650.08
+  Fixed Assets              :      99,559,875.26
+  Other Asstes              :               0.00
+  Total Assets              :     274,985,426.59
+  Current Liabilities       :      45,345,070.42
+  Longterm Liabiities       :     155,680,037.29
+  Total Liabilities         :     201,025,107.71
+  Authorized                :         150,000.00
+  Paid-up Capital           :      37,500,000.00
+  Par Value                 :               1000
+  Paid-up Capital Shares    :          37,500.00
+  Retained Earnings         :      34,855,840.46
+  Total Equity              :      73,855,840.46
+  Minority Interest         :         104,478.42
+
+Summary of Income Statement
+  Total Sales               :     163,695,099.29
+  Cost of Good Sold         :     140,711,207.80
+  Gross Profit              :      22,983,891.50
+  Operating Profit          :       2,925,923.99
+  Other Income              :       6,290,654.30
+  Eearning Before Tax       :       9,216,578.30
+  Tax                       :       2,923,706.85
+  Net Income                :       6,395,930.73
+  Closing Price             :             550.00
+
+Per Share Data (Rp)
+  Eps                       :             227.41
+  Book Value                :           1,969.49
+
+Financial Ratios
+  Debt Equity Ratio (X)     :               2.72
+  Roa (%)                   :               3.10
+  Roe (%)                   :              11.55
+  Npm (%)                   :               5.21
+  Opm (%)                   :               2.38
+
+Cash Flow
+  CF from Operating Activities                        :       6,906,838.84
+  CF from Investing Activities                        :      -4,219,839.39
+  CF from Financing Activities                        :      -1,881,236.73
+  Net Increase in Cash & Cash Equivalent              :         805,762.73
+  Cash & Cash Equivalent at The Beginning of The Year :       9,553,292.84
+  Cash & Cash Equivalent at The End of The Year       :      10,359,055.56
+
+ 
+ 
+ 

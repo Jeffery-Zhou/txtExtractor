@@ -1,0 +1,66 @@
+6
+GMTD0203.TXT
+
+GMTD
+Gowa Makassar Tourism Development Tbk
+Af          :
+Sector Code : 61
+Sector Name : PROPERTY AND REAL ESTATE
+
+(In thousand rupiah except Par Value, Closing Price and Ratios)
+
+Financial Statement Date    : 31-Mar-2002
+Fiscal Year Ends            : Dec
+Months Covered in Income St : 3
+
+Summary of Balance Sheet
+  Receivables               :       7,580,875.20
+  Inventories               :      28,912,255.77
+  Current Assets            :               0.00
+  Fixed Assets              :       4,836,045.02
+  Other Asstes              :               0.00
+  Total Assets              :     220,432,275.11
+  Current Liabilities       :               0.00
+  Longterm Liabiities       :               0.00
+  Total Liabilities         :     158,308,066.71
+  Authorized                :         240,000.00
+  Paid-up Capital           :      50,769,000.00
+  Par Value                 :                500
+  Paid-up Capital Shares    :         101,538.00
+  Retained Earnings         :      11,355,208.40
+  Total Equity              :      62,124,208.40
+  Minority Interest         :               0.00
+
+Summary of Income Statement
+  Total Sales               :      13,546,670.77
+  Cost of Good Sold         :       7,881,838.16
+  Gross Profit              :       5,664,832.61
+  Operating Profit          :       1,504,580.55
+  Other Income              :             -65.86
+  Eearning Before Tax       :       1,504,514.69
+  Tax                       :               0.00
+  Net Income                :       1,504,514.69
+  Closing Price             :             600.00
+
+Per Share Data (Rp)
+  Eps                       :              59.27
+  Book Value                :             611.83
+
+Financial Ratios
+  Debt Equity Ratio (X)     :               2.55
+  Roa (%)                   :               2.73
+  Roe (%)                   :               9.69
+  Npm (%)                   :              11.11
+  Opm (%)                   :              11.11
+
+Cash Flow
+  CF from Operating Activities                        :               0.00
+  CF from Investing Activities                        :               0.00
+  CF from Financing Activities                        :               0.00
+  Net Increase in Cash & Cash Equivalent              :               0.00
+  Cash & Cash Equivalent at The Beginning of The Year :               0.00
+  Cash & Cash Equivalent at The End of The Year       :               0.00
+
+ 
+ 
+ 

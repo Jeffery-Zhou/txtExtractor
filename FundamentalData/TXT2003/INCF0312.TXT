@@ -1,0 +1,66 @@
+6
+INCF0312.TXT
+
+INCF
+Indocitra Finance
+Af          :
+Sector Code : 82
+Sector Name : FINANCIAL INSTITUTION
+
+(In thousand rupiah except Par Value, Closing Price and Ratios)
+
+Financial Statement Date    : 31-Dec-2003
+Fiscal Year Ends            : Dec
+Months Covered in Income St : 12
+
+Summary of Balance Sheet
+  Receivables               :         648,713.93
+  Inventories               :               0.00
+  Current Assets            :      43,801,810.27
+  Fixed Assets              :           1,250.00
+  Other Asstes              :               0.00
+  Total Assets              :      45,151,455.26
+  Current Liabilities       :      34,585,053.69
+  Longterm Liabiities       :          41,768.00
+  Total Liabilities         :      34,626,821.69
+  Authorized                :         100,000.00
+  Paid-up Capital           :      16,800,000.00
+  Par Value                 :                500
+  Paid-up Capital Shares    :          33,600.00
+  Retained Earnings         :      -9,125,366.43
+  Total Equity              :      10,524,633.57
+  Minority Interest         :               0.00
+
+Summary of Income Statement
+  Total Sales               :         636,597.00
+  Cost of Good Sold         :       3,516,243.24
+  Gross Profit              :      -2,879,646.24
+  Operating Profit          :      -2,879,646.24
+  Other Income              :               0.00
+  Eearning Before Tax       :      -2,879,646.24
+  Tax                       :        -197,615.33
+  Net Income                :      -2,682,030.90
+  Closing Price             :             110.00
+
+Per Share Data (Rp)
+  Eps                       :             -79.82
+  Book Value                :             313.23
+
+Financial Ratios
+  Debt Equity Ratio (X)     :               3.29
+  Roa (%)                   :              -5.94
+  Roe (%)                   :             -25.48
+  Npm (%)                   :            -421.31
+  Opm (%)                   :            -452.35
+
+Cash Flow
+  CF from Operating Activities                        :         -53,255.08
+  CF from Investing Activities                        :         -35,314.20
+  CF from Financing Activities                        :               0.00
+  Net Increase in Cash & Cash Equivalent              :         -88,569.28
+  Cash & Cash Equivalent at The Beginning of The Year :         112,778.14
+  Cash & Cash Equivalent at The End of The Year       :          24,208.86
+
+ 
+ 
+ 

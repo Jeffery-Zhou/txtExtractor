@@ -1,0 +1,66 @@
+6
+SAFE0309.TXT
+
+SAFE
+Steady Safe Tbk
+Af          :
+Sector Code : 74
+Sector Name : TRANSPORTATION
+
+(In thousand rupiah except Par Value, Closing Price and Ratios)
+
+Financial Statement Date    : 30-Sep-2003
+Fiscal Year Ends            : Dec
+Months Covered in Income St : 9
+
+Summary of Balance Sheet
+  Receivables               :       1,685,007.56
+  Inventories               :       3,554,037.05
+  Current Assets            :       9,452,260.30
+  Fixed Assets              :      75,600,603.49
+  Other Asstes              :       7,812,098.51
+  Total Assets              :     281,498,543.33
+  Current Liabilities       :     207,088,184.34
+  Longterm Liabiities       :      42,605,308.91
+  Total Liabilities         :     249,693,493.24
+  Authorized                :         730,000.00
+  Paid-up Capital           :     158,399,703.50
+  Par Value                 :                500
+  Paid-up Capital Shares    :         316,799.41
+  Retained Earnings         :    -611,756,232.94
+  Total Equity              :      31,403,747.15
+  Minority Interest         :         401,302.94
+
+Summary of Income Statement
+  Total Sales               :      25,594,024.79
+  Cost of Good Sold         :      13,929,606.01
+  Gross Profit              :      11,664,418.78
+  Operating Profit          :         470,191.41
+  Other Income              :      18,936,190.99
+  Eearning Before Tax       :      19,406,382.40
+  Tax                       :               0.00
+  Net Income                :      19,270,919.39
+  Closing Price             :             300.00
+
+Per Share Data (Rp)
+  Eps                       :              81.11
+  Book Value                :              99.13
+
+Financial Ratios
+  Debt Equity Ratio (X)     :               7.95
+  Roa (%)                   :               9.13
+  Roe (%)                   :              81.82
+  Npm (%)                   :             100.39
+  Opm (%)                   :               2.45
+
+Cash Flow
+  CF from Operating Activities                        :       1,709,954.18
+  CF from Investing Activities                        :      -7,650,831.55
+  CF from Financing Activities                        :       6,297,787.87
+  Net Increase in Cash & Cash Equivalent              :         356,910.51
+  Cash & Cash Equivalent at The Beginning of The Year :         850,181.93
+  Cash & Cash Equivalent at The End of The Year       :       1,207,092.43
+
+ 
+ 
+ 

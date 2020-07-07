@@ -1,0 +1,66 @@
+6
+PTSP0303.TXT
+
+PTSP
+Pioneerindo Gourmet International Tbk
+Af          :
+Sector Code : 94
+Sector Name : RESTAURANT, HOTEL AND TOURISM
+
+(In thousand rupiah except Par Value, Closing Price and Ratios)
+
+Financial Statement Date    : 31-Mar-2003
+Fiscal Year Ends            : Dec
+Months Covered in Income St : 3
+
+Summary of Balance Sheet
+  Receivables               :       1,258,524.00
+  Inventories               :       8,091,726.00
+  Current Assets            :      30,887,110.00
+  Fixed Assets              :      30,306,462.00
+  Other Asstes              :       2,899,145.00
+  Total Assets              :     118,915,983.00
+  Current Liabilities       :      23,216,965.00
+  Longterm Liabiities       :      65,784,634.00
+  Total Liabilities         :      89,001,599.00
+  Authorized                :         883,232.00
+  Paid-up Capital           :     110,404,000.00
+  Par Value                 :                500
+  Paid-up Capital Shares    :         220,808.00
+  Retained Earnings         :     -91,150,347.00
+  Total Equity              :      25,229,621.00
+  Minority Interest         :       4,684,763.00
+
+Summary of Income Statement
+  Total Sales               :      34,733,794.00
+  Cost of Good Sold         :      12,576,515.00
+  Gross Profit              :      22,157,279.00
+  Operating Profit          :        -248,576.00
+  Other Income              :        -999,863.00
+  Eearning Before Tax       :      -1,248,439.00
+  Tax                       :          89,608.00
+  Net Income                :      -1,429,200.00
+  Closing Price             :             475.00
+
+Per Share Data (Rp)
+  Eps                       :             -25.89
+  Book Value                :             114.26
+
+Financial Ratios
+  Debt Equity Ratio (X)     :               3.53
+  Roa (%)                   :              -4.81
+  Roe (%)                   :             -22.66
+  Npm (%)                   :             -16.46
+  Opm (%)                   :              -2.86
+
+Cash Flow
+  CF from Operating Activities                        :        -869,762.00
+  CF from Investing Activities                        :      -1,287,874.00
+  CF from Financing Activities                        :      -3,857,634.00
+  Net Increase in Cash & Cash Equivalent              :      -6,015,270.00
+  Cash & Cash Equivalent at The Beginning of The Year :      14,475,755.00
+  Cash & Cash Equivalent at The End of The Year       :       8,460,485.00
+
+ 
+ 
+ 

@@ -1,0 +1,66 @@
+6
+CMPP0203.TXT
+
+CMPP
+Centris Multi Persada Pratama Tbk
+Af          :
+Sector Code : 74
+Sector Name : TRANSPORTATION
+
+(In thousand rupiah except Par Value, Closing Price and Ratios)
+
+Financial Statement Date    : 31-Mar-2002
+Fiscal Year Ends            : Dec
+Months Covered in Income St : 3
+
+Summary of Balance Sheet
+  Receivables               :      13,278,283.31
+  Inventories               :       5,701,035.01
+  Current Assets            :      34,363,709.88
+  Fixed Assets              :      99,362,425.96
+  Other Asstes              :      20,778,236.24
+  Total Assets              :     154,504,372.07
+  Current Liabilities       :      14,691,675.53
+  Longterm Liabiities       :      16,136,979.98
+  Total Liabilities         :      30,828,655.51
+  Authorized                :         150,000.00
+  Paid-up Capital           :      54,000,000.00
+  Par Value                 :               1000
+  Paid-up Capital Shares    :          54,000.00
+  Retained Earnings         :      21,754,656.63
+  Total Equity              :     104,754,656.63
+  Minority Interest         :      18,921,059.93
+
+Summary of Income Statement
+  Total Sales               :      12,671,562.95
+  Cost of Good Sold         :       5,778,482.34
+  Gross Profit              :       6,893,080.62
+  Operating Profit          :       1,712,788.62
+  Other Income              :        -463,750.63
+  Eearning Before Tax       :       1,249,037.99
+  Tax                       :         297,203.57
+  Net Income                :         417,929.00
+  Closing Price             :             350.00
+
+Per Share Data (Rp)
+  Eps                       :              30.96
+  Book Value                :           1,939.90
+
+Financial Ratios
+  Debt Equity Ratio (X)     :                .29
+  Roa (%)                   :               1.08
+  Roe (%)                   :               1.60
+  Npm (%)                   :               3.30
+  Opm (%)                   :              13.52
+
+Cash Flow
+  CF from Operating Activities                        :       3,574,049.71
+  CF from Investing Activities                        :          28,000.00
+  CF from Financing Activities                        :      -2,016,339.98
+  Net Increase in Cash & Cash Equivalent              :       1,585,709.73
+  Cash & Cash Equivalent at The Beginning of The Year :       6,223,099.52
+  Cash & Cash Equivalent at The End of The Year       :       7,808,809.25
+
+ 
+ 
+ 

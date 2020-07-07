@@ -1,0 +1,66 @@
+6
+KOPI0309.TXT
+
+KOPI
+Kopitime Dot Com Tbk
+Af          :
+Sector Code : 97
+Sector Name : COMPUTER AND SERVICES
+
+(In thousand rupiah except Par Value, Closing Price and Ratios)
+
+Financial Statement Date    : 30-Sep-2003
+Fiscal Year Ends            : Dec
+Months Covered in Income St : 9
+
+Summary of Balance Sheet
+  Receivables               :               0.00
+  Inventories               :               0.00
+  Current Assets            :           1,360.00
+  Fixed Assets              :       1,681,629.82
+  Other Asstes              :       1,000,000.00
+  Total Assets              :      81,716,998.23
+  Current Liabilities       :               0.00
+  Longterm Liabiities       :               0.00
+  Total Liabilities         :      27,406,326.21
+  Authorized                :       2,000,000.00
+  Paid-up Capital           :     140,000,000.00
+  Par Value                 :                250
+  Paid-up Capital Shares    :         560,000.00
+  Retained Earnings         :     -82,115,960.11
+  Total Equity              :      54,310,672.02
+  Minority Interest         :               0.00
+
+Summary of Income Statement
+  Total Sales               :               0.00
+  Cost of Good Sold         :       1,800,000.00
+  Gross Profit              :      -1,800,000.00
+  Operating Profit          :      -2,481,349.42
+  Other Income              :         -33,025.92
+  Eearning Before Tax       :      -2,514,375.34
+  Tax                       :               0.00
+  Net Income                :      -2,514,375.34
+  Closing Price             :               5.00
+
+Per Share Data (Rp)
+  Eps                       :              -5.99
+  Book Value                :              96.98
+
+Financial Ratios
+  Debt Equity Ratio (X)     :                .50
+  Roa (%)                   :              -4.10
+  Roe (%)                   :              -6.17
+  Npm (%)                   :               0.00
+  Opm (%)                   :               0.00
+
+Cash Flow
+  CF from Operating Activities                        :      -1,258,775.95
+  CF from Investing Activities                        :               0.00
+  CF from Financing Activities                        :       1,258,595.95
+  Net Increase in Cash & Cash Equivalent              :            -180.00
+  Cash & Cash Equivalent at The Beginning of The Year :           1,480.00
+  Cash & Cash Equivalent at The End of The Year       :           1,300.00
+
+ 
+ 
+ 

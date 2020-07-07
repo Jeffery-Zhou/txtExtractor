@@ -1,0 +1,66 @@
+6
+SCCO0203.TXT
+
+SCCO
+Sucaco Tbk
+Af          :
+Sector Code : 45
+Sector Name : CABLE
+
+(In thousand rupiah except Par Value, Closing Price and Ratios)
+
+Financial Statement Date    : 31-Mar-2002
+Fiscal Year Ends            : Dec
+Months Covered in Income St : 3
+
+Summary of Balance Sheet
+  Receivables               :     109,686,333.10
+  Inventories               :      63,589,031.32
+  Current Assets            :     221,567,813.62
+  Fixed Assets              :     150,484,377.37
+  Other Asstes              :       8,504,940.29
+  Total Assets              :     407,718,223.05
+  Current Liabilities       :     201,648,217.41
+  Longterm Liabiities       :      -1,468,634.36
+  Total Liabilities         :     200,179,583.06
+  Authorized                :         500,000.00
+  Paid-up Capital           :     205,583,400.00
+  Par Value                 :               1000
+  Paid-up Capital Shares    :         205,583.40
+  Retained Earnings         :      -8,451,976.87
+  Total Equity              :     205,155,204.42
+  Minority Interest         :       2,383,435.57
+
+Summary of Income Statement
+  Total Sales               :      85,152,972.78
+  Cost of Good Sold         :      73,674,386.60
+  Gross Profit              :      11,478,586.19
+  Operating Profit          :       4,718,937.99
+  Other Income              :       1,093,108.83
+  Eearning Before Tax       :       5,812,046.82
+  Tax                       :         -92,181.90
+  Net Income                :       5,904,228.72
+  Closing Price             :             925.00
+
+Per Share Data (Rp)
+  Eps                       :             114.88
+  Book Value                :             997.92
+
+Financial Ratios
+  Debt Equity Ratio (X)     :                .98
+  Roa (%)                   :               5.79
+  Roe (%)                   :              11.51
+  Npm (%)                   :               6.93
+  Opm (%)                   :               5.54
+
+Cash Flow
+  CF from Operating Activities                        :      40,538,584.47
+  CF from Investing Activities                        :      -3,704,069.90
+  CF from Financing Activities                        :     -44,882,575.01
+  Net Increase in Cash & Cash Equivalent              :      -8,048,060.44
+  Cash & Cash Equivalent at The Beginning of The Year :      54,934,806.34
+  Cash & Cash Equivalent at The End of The Year       :      46,496,604.25
+
+ 
+ 
+ 

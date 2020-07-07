@@ -1,0 +1,66 @@
+6
+BRAM0312.TXT
+
+BRAM
+Branta Mulia Tbk
+Af          :
+Sector Code : 42
+Sector Name : AUTOMOTIVE AND COMPONENTS
+
+(In thousand rupiah except Par Value, Closing Price and Ratios)
+
+Financial Statement Date    : 31-Dec-2003
+Fiscal Year Ends            : Dec
+Months Covered in Income St : 12
+
+Summary of Balance Sheet
+  Receivables               :     227,281,395.00
+  Inventories               :     254,571,748.00
+  Current Assets            :     663,682,941.00
+  Fixed Assets              :     848,544,815.00
+  Other Asstes              :       1,236,185.00
+  Total Assets              :   1,543,441,086.00
+  Current Liabilities       :     282,217,986.00
+  Longterm Liabiities       :     496,241,872.00
+  Total Liabilities         :     778,459,858.00
+  Authorized                :         700,000.00
+  Paid-up Capital           :     225,000,000.00
+  Par Value                 :                500
+  Paid-up Capital Shares    :         450,000.00
+  Retained Earnings         :     400,572,775.00
+  Total Equity              :     635,766,882.00
+  Minority Interest         :     129,214,346.00
+
+Summary of Income Statement
+  Total Sales               :   1,235,382,304.00
+  Cost of Good Sold         :     986,342,231.00
+  Gross Profit              :     249,040,073.00
+  Operating Profit          :      87,591,564.00
+  Other Income              :       9,073,453.00
+  Eearning Before Tax       :      96,665,017.00
+  Tax                       :      -9,171,929.00
+  Net Income                :      73,977,181.00
+  Closing Price             :             950.00
+
+Per Share Data (Rp)
+  Eps                       :             164.39
+  Book Value                :           1,412.82
+
+Financial Ratios
+  Debt Equity Ratio (X)     :               1.22
+  Roa (%)                   :               4.79
+  Roe (%)                   :              11.64
+  Npm (%)                   :               5.99
+  Opm (%)                   :               7.09
+
+Cash Flow
+  CF from Operating Activities                        :     129,511,023.00
+  CF from Investing Activities                        :     -16,223,834.00
+  CF from Financing Activities                        :    -145,477,666.00
+  Net Increase in Cash & Cash Equivalent              :     -30,938,875.00
+  Cash & Cash Equivalent at The Beginning of The Year :     147,320,311.00
+  Cash & Cash Equivalent at The End of The Year       :     116,381,436.00
+
+ 
+ 
+ 

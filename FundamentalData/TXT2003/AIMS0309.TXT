@@ -1,0 +1,66 @@
+6
+AIMS0309.TXT
+
+AIMS
+Akbar Indomakmur Stimec Tbk
+Af          :
+Sector Code : 91
+Sector Name : WHOLESALE (DURABLE & NON-DURABLE GOODS)
+
+(In thousand rupiah except Par Value, Closing Price and Ratios)
+
+Financial Statement Date    : 30-Sep-2003
+Fiscal Year Ends            : Dec
+Months Covered in Income St : 9
+
+Summary of Balance Sheet
+  Receivables               :      10,005,894.72
+  Inventories               :       7,660,819.95
+  Current Assets            :      21,583,483.40
+  Fixed Assets              :       6,100,319.79
+  Other Asstes              :               0.00
+  Total Assets              :      27,908,161.52
+  Current Liabilities       :       9,295,315.50
+  Longterm Liabiities       :         942,299.03
+  Total Liabilities         :      10,237,614.53
+  Authorized                :         250,000.00
+  Paid-up Capital           :      11,000,000.00
+  Par Value                 :                100
+  Paid-up Capital Shares    :         110,000.00
+  Retained Earnings         :       2,454,981.30
+  Total Equity              :      17,670,546.99
+  Minority Interest         :               0.00
+
+Summary of Income Statement
+  Total Sales               :      45,305,485.40
+  Cost of Good Sold         :      41,324,701.05
+  Gross Profit              :       3,980,784.35
+  Operating Profit          :       1,560,490.11
+  Other Income              :        -368,798.96
+  Eearning Before Tax       :       1,191,691.15
+  Tax                       :         334,155.50
+  Net Income                :         857,535.65
+  Closing Price             :             160.00
+
+Per Share Data (Rp)
+  Eps                       :              10.39
+  Book Value                :             160.64
+
+Financial Ratios
+  Debt Equity Ratio (X)     :                .58
+  Roa (%)                   :               4.10
+  Roe (%)                   :               6.47
+  Npm (%)                   :               2.52
+  Opm (%)                   :               4.59
+
+Cash Flow
+  CF from Operating Activities                        :      -2,931,306.70
+  CF from Investing Activities                        :        -136,476.00
+  CF from Financing Activities                        :       2,762,766.88
+  Net Increase in Cash & Cash Equivalent              :        -305,015.82
+  Cash & Cash Equivalent at The Beginning of The Year :         804,870.10
+  Cash & Cash Equivalent at The End of The Year       :         499,854.28
+
+ 
+ 
+ 

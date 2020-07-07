@@ -1,0 +1,66 @@
+6
+MTFN0309.TXT
+
+MTFN
+Global Financindo Tbk
+Af          :
+Sector Code : 89
+Sector Name : OTHERS FINANCE
+
+(In thousand rupiah except Par Value, Closing Price and Ratios)
+
+Financial Statement Date    : 30-Sep-2003
+Fiscal Year Ends            : Dec
+Months Covered in Income St : 9
+
+Summary of Balance Sheet
+  Receivables               :     160,842,145.54
+  Inventories               :               0.00
+  Current Assets            :               0.00
+  Fixed Assets              :       5,012,098.09
+  Other Asstes              :      75,336,311.81
+  Total Assets              :     882,473,874.62
+  Current Liabilities       :               0.00
+  Longterm Liabiities       :               0.00
+  Total Liabilities         :     782,092,987.62
+  Authorized                :         748,199.89
+  Paid-up Capital           :   2,027,226,639.00
+  Par Value                 :         500 & 1500
+  Paid-up Capital Shares    :         728,744.43
+  Retained Earnings         :  -1,869,615,701.53
+  Total Equity              :      94,939,733.45
+  Minority Interest         :       5,441,153.56
+
+Summary of Income Statement
+  Total Sales               :     126,541,640.89
+  Cost of Good Sold         :     188,644,618.36
+  Gross Profit              :     -62,102,977.47
+  Operating Profit          :     -62,102,977.47
+  Other Income              :               0.00
+  Eearning Before Tax       :     -62,102,977.47
+  Tax                       :               0.00
+  Net Income                :     -86,552,123.65
+  Closing Price             :             500.00
+
+Per Share Data (Rp)
+  Eps                       :            -158.36
+  Book Value                :             130.28
+
+Financial Ratios
+  Debt Equity Ratio (X)     :               8.24
+  Roa (%)                   :             -13.08
+  Roe (%)                   :            -121.55
+  Npm (%)                   :             -91.20
+  Opm (%)                   :             -65.44
+
+Cash Flow
+  CF from Operating Activities                        :         947,904.60
+  CF from Investing Activities                        :     -20,108,776.61
+  CF from Financing Activities                        :      -5,259,156.01
+  Net Increase in Cash & Cash Equivalent              :     -24,420,028.02
+  Cash & Cash Equivalent at The Beginning of The Year :      37,406,033.43
+  Cash & Cash Equivalent at The End of The Year       :      12,986,005.42
+
+ 
+ 
+ 

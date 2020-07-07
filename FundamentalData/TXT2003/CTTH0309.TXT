@@ -1,0 +1,66 @@
+6
+CTTH0309.TXT
+
+CTTH
+Citatah Tbk
+Af          :
+Sector Code : 24
+Sector Name : LAND / STONE QUARRYING
+
+(In thousand rupiah except Par Value, Closing Price and Ratios)
+
+Financial Statement Date    : 30-Sep-2003
+Fiscal Year Ends            : Dec
+Months Covered in Income St : 9
+
+Summary of Balance Sheet
+  Receivables               :      16,113,976.10
+  Inventories               :     120,829,633.73
+  Current Assets            :     141,373,249.20
+  Fixed Assets              :     113,103,302.37
+  Other Asstes              :       1,069,398.88
+  Total Assets              :     278,993,588.96
+  Current Liabilities       :      88,818,345.34
+  Longterm Liabiities       :      98,220,308.96
+  Total Liabilities         :     187,038,654.30
+  Authorized                :       2,520,000.00
+  Paid-up Capital           :     420,000,000.00
+  Par Value                 :                500
+  Paid-up Capital Shares    :         840,000.00
+  Retained Earnings         :    -384,462,227.49
+  Total Equity              :      91,954,934.66
+  Minority Interest         :               0.00
+
+Summary of Income Statement
+  Total Sales               :      67,828,891.75
+  Cost of Good Sold         :      57,736,908.82
+  Gross Profit              :      10,091,982.93
+  Operating Profit          :      -8,512,644.18
+  Other Income              :       7,644,594.87
+  Eearning Before Tax       :         -10,360.21
+  Tax                       :        -605,639.60
+  Net Income                :         595,279.38
+  Closing Price             :             110.00
+
+Per Share Data (Rp)
+  Eps                       :                .94
+  Book Value                :             109.47
+
+Financial Ratios
+  Debt Equity Ratio (X)     :               2.03
+  Roa (%)                   :                .28
+  Roe (%)                   :                .86
+  Npm (%)                   :               1.17
+  Opm (%)                   :             -16.73
+
+Cash Flow
+  CF from Operating Activities                        :      -1,346,354.90
+  CF from Investing Activities                        :            -560.30
+  CF from Financing Activities                        :          32,566.80
+  Net Increase in Cash & Cash Equivalent              :      -1,314,348.40
+  Cash & Cash Equivalent at The Beginning of The Year :       3,065,090.87
+  Cash & Cash Equivalent at The End of The Year       :       1,750,742.47
+
+ 
+ 
+ 

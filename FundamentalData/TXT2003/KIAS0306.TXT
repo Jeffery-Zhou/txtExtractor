@@ -1,0 +1,66 @@
+6
+KIAS0306.TXT
+
+KIAS
+Keramika Indonesia Assosiasi Tbk
+Af          :
+Sector Code : 32
+Sector Name : CERAMICS, GLASS, PORCELAIN
+
+(In thousand rupiah except Par Value, Closing Price and Ratios)
+
+Financial Statement Date    : 30-Jun-2003
+Fiscal Year Ends            : Dec
+Months Covered in Income St : 6
+
+Summary of Balance Sheet
+  Receivables               :      22,471,742.38
+  Inventories               :      81,768,642.23
+  Current Assets            :     124,896,855.74
+  Fixed Assets              :     745,145,954.12
+  Other Asstes              :               0.00
+  Total Assets              :   1,009,750,239.93
+  Current Liabilities       :   2,188,915,821.62
+  Longterm Liabiities       :      71,243,137.26
+  Total Liabilities         :   2,260,158,958.89
+  Authorized                :         680,000.00
+  Paid-up Capital           :     212,500,000.00
+  Par Value                 :                500
+  Paid-up Capital Shares    :         425,000.00
+  Retained Earnings         :  -1,506,658,718.95
+  Total Equity              :  -1,250,408,718.95
+  Minority Interest         :               0.00
+
+Summary of Income Statement
+  Total Sales               :      95,996,887.56
+  Cost of Good Sold         :      82,492,363.89
+  Gross Profit              :      13,504,523.67
+  Operating Profit          :      -7,889,413.27
+  Other Income              :      82,498,053.38
+  Eearning Before Tax       :      74,608,640.12
+  Tax                       :      21,841,276.89
+  Net Income                :      52,767,363.23
+  Closing Price             :             175.00
+
+Per Share Data (Rp)
+  Eps                       :             248.32
+  Book Value                :          -2,942.14
+
+Financial Ratios
+  Debt Equity Ratio (X)     :              -1.81
+  Roa (%)                   :              10.45
+  Roe (%)                   :              -8.44
+  Npm (%)                   :             109.94
+  Opm (%)                   :             -16.44
+
+Cash Flow
+  CF from Operating Activities                        :      -8,716,210.55
+  CF from Investing Activities                        :     -15,013,044.74
+  CF from Financing Activities                        :         268,775.31
+  Net Increase in Cash & Cash Equivalent              :     -23,460,479.98
+  Cash & Cash Equivalent at The Beginning of The Year :      29,009,003.40
+  Cash & Cash Equivalent at The End of The Year       :       5,539,792.30
+
+ 
+ 
+ 

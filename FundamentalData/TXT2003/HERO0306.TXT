@@ -1,0 +1,66 @@
+6
+HERO0306.TXT
+
+HERO
+Hero Supermarket
+Af          :
+Sector Code : 93
+Sector Name : RETAIL TRADE
+
+(In thousand rupiah except Par Value, Closing Price and Ratios)
+
+Financial Statement Date    : 30-Jun-2003
+Fiscal Year Ends            : Dec
+Months Covered in Income St : 6
+
+Summary of Balance Sheet
+  Receivables               :      84,672,000.00
+  Inventories               :     252,998,000.00
+  Current Assets            :     497,351,000.00
+  Fixed Assets              :     403,237,000.00
+  Other Asstes              :      35,295,000.00
+  Total Assets              :   1,036,723,000.00
+  Current Liabilities       :     584,646,000.00
+  Longterm Liabiities       :               0.00
+  Total Liabilities         :     584,646,000.00
+  Authorized                :         900,000.00
+  Paid-up Capital           :     164,710,000.00
+  Par Value                 :                500
+  Paid-up Capital Shares    :         329,420.00
+  Retained Earnings         :     216,252,000.00
+  Total Equity              :     452,077,000.00
+  Minority Interest         :               0.00
+
+Summary of Income Statement
+  Total Sales               :   1,269,292,000.00
+  Cost of Good Sold         :   1,008,668,000.00
+  Gross Profit              :     260,624,000.00
+  Operating Profit          :       9,652,000.00
+  Other Income              :      -8,060,000.00
+  Eearning Before Tax       :       1,592,000.00
+  Tax                       :      -1,690,000.00
+  Net Income                :       3,387,000.00
+  Closing Price             :             950.00
+
+Per Share Data (Rp)
+  Eps                       :              20.56
+  Book Value                :           1,372.34
+
+Financial Ratios
+  Debt Equity Ratio (X)     :               1.29
+  Roa (%)                   :                .65
+  Roe (%)                   :               1.50
+  Npm (%)                   :                .53
+  Opm (%)                   :               1.52
+
+Cash Flow
+  CF from Operating Activities                        :     -30,119,000.00
+  CF from Investing Activities                        :     -51,582,000.00
+  CF from Financing Activities                        :      -1,848,000.00
+  Net Increase in Cash & Cash Equivalent              :     -83,549,000.00
+  Cash & Cash Equivalent at The Beginning of The Year :     160,719,000.00
+  Cash & Cash Equivalent at The End of The Year       :      75,094,000.00
+
+ 
+ 
+ 

@@ -1,0 +1,66 @@
+6
+IATG0212.TXT
+
+IATG
+Infoasia Teknologi Global Tbk
+Af          :
+Sector Code : 97
+Sector Name : COMPUTER AND SERVICES
+
+(In thousand rupiah except Par Value, Closing Price and Ratios)
+
+Financial Statement Date    : 31-Dec-2002
+Fiscal Year Ends            : Dec
+Months Covered in Income St : 12
+
+Summary of Balance Sheet
+  Receivables               :      30,590,342.04
+  Inventories               :       1,243,782.66
+  Current Assets            :      47,601,140.09
+  Fixed Assets              :      30,607,275.83
+  Other Asstes              :         140,397.27
+  Total Assets              :     117,493,121.86
+  Current Liabilities       :      14,720,746.75
+  Longterm Liabiities       :       1,090,747.80
+  Total Liabilities         :      15,811,494.55
+  Authorized                :       2,400,000.00
+  Paid-up Capital           :      80,167,225.00
+  Par Value                 :                100
+  Paid-up Capital Shares    :         801,672.25
+  Retained Earnings         :       6,181,761.10
+  Total Equity              :      99,909,464.51
+  Minority Interest         :       1,772,162.81
+
+Summary of Income Statement
+  Total Sales               :     115,671,228.13
+  Cost of Good Sold         :      86,909,613.40
+  Gross Profit              :      28,761,614.73
+  Operating Profit          :       3,661,649.20
+  Other Income              :       4,425,717.50
+  Eearning Before Tax       :       8,087,366.69
+  Tax                       :          85,252.06
+  Net Income                :       4,544,037.52
+  Closing Price             :             675.00
+
+Per Share Data (Rp)
+  Eps                       :               5.67
+  Book Value                :             124.63
+
+Financial Ratios
+  Debt Equity Ratio (X)     :                .16
+  Roa (%)                   :               3.87
+  Roe (%)                   :               4.55
+  Npm (%)                   :               3.93
+  Opm (%)                   :               3.17
+
+Cash Flow
+  CF from Operating Activities                        :       6,138,456.65
+  CF from Investing Activities                        :      -2,947,984.57
+  CF from Financing Activities                        :      -2,974,276.54
+  Net Increase in Cash & Cash Equivalent              :         216,195.55
+  Cash & Cash Equivalent at The Beginning of The Year :      14,714,382.04
+  Cash & Cash Equivalent at The End of The Year       :      15,513,654.32
+
+ 
+ 
+ 

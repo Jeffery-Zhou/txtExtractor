@@ -1,0 +1,66 @@
+6
+FAST0203.TXT
+
+FAST
+Fast Food Indonesia
+Af          :
+Sector Code : 94
+Sector Name : RESTAURANT, HOTEL AND TOURISM
+
+(In thousand rupiah except Par Value, Closing Price and Ratios)
+
+Financial Statement Date    : 31-Mar-2002
+Fiscal Year Ends            : Dec
+Months Covered in Income St : 3
+
+Summary of Balance Sheet
+  Receivables               :       4,077,715.81
+  Inventories               :      18,328,986.52
+  Current Assets            :      85,487,976.44
+  Fixed Assets              :      53,194,925.09
+  Other Asstes              :       3,389,405.70
+  Total Assets              :     198,849,845.88
+  Current Liabilities       :      70,962,425.81
+  Longterm Liabiities       :      18,278,984.37
+  Total Liabilities         :      89,241,410.18
+  Authorized                :         600,000.00
+  Paid-up Capital           :      44,625,000.00
+  Par Value                 :                100
+  Paid-up Capital Shares    :         446,250.00
+  Retained Earnings         :      64,498,876.35
+  Total Equity              :     109,608,435.70
+  Minority Interest         :               0.00
+
+Summary of Income Statement
+  Total Sales               :     167,472,992.20
+  Cost of Good Sold         :      79,580,839.33
+  Gross Profit              :      87,892,152.87
+  Operating Profit          :       7,471,235.15
+  Other Income              :         -67,877.53
+  Eearning Before Tax       :       7,403,357.63
+  Tax                       :       1,789,851.66
+  Net Income                :       5,613,505.96
+  Closing Price             :             775.00
+
+Per Share Data (Rp)
+  Eps                       :              50.32
+  Book Value                :             245.62
+
+Financial Ratios
+  Debt Equity Ratio (X)     :                .81
+  Roa (%)                   :              11.29
+  Roe (%)                   :              20.49
+  Npm (%)                   :               3.35
+  Opm (%)                   :               4.46
+
+Cash Flow
+  CF from Operating Activities                        :      12,920,764.00
+  CF from Investing Activities                        :      -8,726,037.37
+  CF from Financing Activities                        :      -4,113,009.27
+  Net Increase in Cash & Cash Equivalent              :          81,717.36
+  Cash & Cash Equivalent at The Beginning of The Year :      60,680,752.96
+  Cash & Cash Equivalent at The End of The Year       :      60,762,470.32
+
+ 
+ 
+ 

@@ -1,0 +1,66 @@
+6
+SMDR0209.TXT
+
+SMDR
+Samudera Indonesia Tbk
+Af          :
+Sector Code : 74
+Sector Name : TRANSPORTATION
+
+(In thousand rupiah except Par Value, Closing Price and Ratios)
+
+Financial Statement Date    : 30-Sep-2002
+Fiscal Year Ends            : Dec
+Months Covered in Income St : 9
+
+Summary of Balance Sheet
+  Receivables               :     472,521,035.00
+  Inventories               :       5,993,657.00
+  Current Assets            :     964,226,745.00
+  Fixed Assets              :   1,062,875,067.00
+  Other Asstes              :      11,244,700.00
+  Total Assets              :   2,110,424,999.00
+  Current Liabilities       :     499,021,138.00
+  Longterm Liabiities       :     341,689,902.00
+  Total Liabilities         :     840,711,040.00
+  Authorized                :         600,000.00
+  Paid-up Capital           :      81,878,000.00
+  Par Value                 :                500
+  Paid-up Capital Shares    :         163,756.00
+  Retained Earnings         :     463,505,527.00
+  Total Equity              :     919,533,142.00
+  Minority Interest         :     350,180,817.00
+
+Summary of Income Statement
+  Total Sales               :   2,200,419,896.00
+  Cost of Good Sold         :   1,939,939,741.00
+  Gross Profit              :     260,480,155.00
+  Operating Profit          :     119,868,752.00
+  Other Income              :     -17,917,261.00
+  Eearning Before Tax       :     101,951,491.00
+  Tax                       :       8,705,338.00
+  Net Income                :      72,278,879.00
+  Closing Price             :           2,375.00
+
+Per Share Data (Rp)
+  Eps                       :             588.51
+  Book Value                :           5,615.26
+
+Financial Ratios
+  Debt Equity Ratio (X)     :                .91
+  Roa (%)                   :               4.57
+  Roe (%)                   :              10.48
+  Npm (%)                   :               4.38
+  Opm (%)                   :               7.26
+
+Cash Flow
+  CF from Operating Activities                        :     212,173,061.00
+  CF from Investing Activities                        :     -53,456,029.00
+  CF from Financing Activities                        :    -135,580,853.00
+  Net Increase in Cash & Cash Equivalent              :      23,136,179.00
+  Cash & Cash Equivalent at The Beginning of The Year :     408,715,666.00
+  Cash & Cash Equivalent at The End of The Year       :     431,851,845.00
+
+ 
+ 
+ 

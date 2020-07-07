@@ -1,0 +1,66 @@
+6
+AQUA0203.TXT
+
+AQUA
+Aqua Golden Mississippi Tbk
+Af          :
+Sector Code : 51
+Sector Name : FOOD AND BEVERAGES
+
+(In thousand rupiah except Par Value, Closing Price and Ratios)
+
+Financial Statement Date    : 31-Mar-2002
+Fiscal Year Ends            : Dec
+Months Covered in Income St : 3
+
+Summary of Balance Sheet
+  Receivables               :     182,849,435.02
+  Inventories               :       7,046,859.84
+  Current Assets            :     216,631,539.52
+  Fixed Assets              :     325,494,683.27
+  Other Asstes              :               0.00
+  Total Assets              :     543,013,369.07
+  Current Liabilities       :     337,045,453.71
+  Longterm Liabiities       :      17,048,120.81
+  Total Liabilities         :     354,093,574.52
+  Authorized                :          45,000.00
+  Paid-up Capital           :      13,162,473.00
+  Par Value                 :               1000
+  Paid-up Capital Shares    :          13,162.47
+  Retained Earnings         :     153,881,644.12
+  Total Equity              :     183,205,634.08
+  Minority Interest         :       5,714,160.46
+
+Summary of Income Statement
+  Total Sales               :     230,584,686.90
+  Cost of Good Sold         :     198,330,218.29
+  Gross Profit              :      32,254,468.61
+  Operating Profit          :      26,247,765.50
+  Other Income              :       2,014,508.62
+  Eearning Before Tax       :      28,262,274.12
+  Tax                       :       8,063,683.47
+  Net Income                :      19,945,723.88
+  Closing Price             :          38,000.00
+
+Per Share Data (Rp)
+  Eps                       :           6,061.39
+  Book Value                :          13,918.79
+
+Financial Ratios
+  Debt Equity Ratio (X)     :               1.93
+  Roa (%)                   :              14.69
+  Roe (%)                   :              43.55
+  Npm (%)                   :               8.65
+  Opm (%)                   :              11.38
+
+Cash Flow
+  CF from Operating Activities                        :      18,002,140.71
+  CF from Investing Activities                        :     -19,959,651.84
+  CF from Financing Activities                        :               0.00
+  Net Increase in Cash & Cash Equivalent              :        -602,844.71
+  Cash & Cash Equivalent at The Beginning of The Year :      23,041,295.10
+  Cash & Cash Equivalent at The End of The Year       :      22,438,450.39
+
+ 
+ 
+ 

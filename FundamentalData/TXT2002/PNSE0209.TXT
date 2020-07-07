@@ -1,0 +1,66 @@
+6
+PNSE0209.TXT
+
+PNSE
+Pudjiadi & Sons Estates Ltd. Tbk
+Af          :
+Sector Code : 94
+Sector Name : RESTAURANT, HOTEL AND TOURISM
+
+(In thousand rupiah except Par Value, Closing Price and Ratios)
+
+Financial Statement Date    : 30-Sep-2002
+Fiscal Year Ends            : Dec
+Months Covered in Income St : 9
+
+Summary of Balance Sheet
+  Receivables               :      14,368,872.95
+  Inventories               :       9,700,301.82
+  Current Assets            :      57,129,450.92
+  Fixed Assets              :     114,566,345.58
+  Other Asstes              :      10,247,607.19
+  Total Assets              :     183,532,631.53
+  Current Liabilities       :      15,217,256.76
+  Longterm Liabiities       :      91,551,817.13
+  Total Liabilities         :     106,769,073.89
+  Authorized                :         496,000.00
+  Paid-up Capital           :      62,371,500.00
+  Par Value                 :                500
+  Paid-up Capital Shares    :         124,743.00
+  Retained Earnings         :      41,305,484.43
+  Total Equity              :      63,310,751.03
+  Minority Interest         :      13,452,806.60
+
+Summary of Income Statement
+  Total Sales               :      56,349,088.17
+  Cost of Good Sold         :      16,140,300.57
+  Gross Profit              :      40,208,787.60
+  Operating Profit          :      23,679,857.39
+  Other Income              :       4,094,683.05
+  Eearning Before Tax       :      23,617,044.46
+  Tax                       :      -8,601,145.16
+  Net Income                :      25,127,255.74
+  Closing Price             :           1,425.00
+
+Per Share Data (Rp)
+  Eps                       :             268.58
+  Book Value                :             507.53
+
+Financial Ratios
+  Debt Equity Ratio (X)     :               1.69
+  Roa (%)                   :              18.25
+  Roe (%)                   :              52.92
+  Npm (%)                   :              59.46
+  Opm (%)                   :              56.03
+
+Cash Flow
+  CF from Operating Activities                        :               0.00
+  CF from Investing Activities                        :               0.00
+  CF from Financing Activities                        :               0.00
+  Net Increase in Cash & Cash Equivalent              :               0.00
+  Cash & Cash Equivalent at The Beginning of The Year :               0.00
+  Cash & Cash Equivalent at The End of The Year       :               0.00
+
+ 
+ 
+ 

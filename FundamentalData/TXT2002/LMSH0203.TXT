@@ -1,0 +1,66 @@
+6
+LMSH0203.TXT
+
+LMSH
+Lionmesh Prima Tbk
+Af          :
+Sector Code : 33
+Sector Name : METAL AND ALLIED PRODUCTS
+
+(In thousand rupiah except Par Value, Closing Price and Ratios)
+
+Financial Statement Date    : 31-Mar-2002
+Fiscal Year Ends            : Dec
+Months Covered in Income St : 3
+
+Summary of Balance Sheet
+  Receivables               :       6,251,542.79
+  Inventories               :      10,296,949.76
+  Current Assets            :      26,143,838.62
+  Fixed Assets              :      14,484,943.56
+  Other Asstes              :               0.00
+  Total Assets              :      41,784,884.10
+  Current Liabilities       :      29,074,733.90
+  Longterm Liabiities       :       1,948,885.80
+  Total Liabilities         :      31,023,619.69
+  Authorized                :          38,000.00
+  Paid-up Capital           :       9,600,000.00
+  Par Value                 :               1000
+  Paid-up Capital Shares    :           9,600.00
+  Retained Earnings         :         997,127.05
+  Total Equity              :      10,761,264.41
+  Minority Interest         :               0.00
+
+Summary of Income Statement
+  Total Sales               :      13,292,163.30
+  Cost of Good Sold         :      12,154,665.06
+  Gross Profit              :       1,137,498.24
+  Operating Profit          :         582,520.23
+  Other Income              :         881,929.41
+  Eearning Before Tax       :       1,464,449.64
+  Tax                       :         471,722.96
+  Net Income                :         992,726.68
+  Closing Price             :             525.00
+
+Per Share Data (Rp)
+  Eps                       :             413.64
+  Book Value                :           1,120.97
+
+Financial Ratios
+  Debt Equity Ratio (X)     :               2.88
+  Roa (%)                   :               9.50
+  Roe (%)                   :              36.90
+  Npm (%)                   :               7.47
+  Opm (%)                   :               4.38
+
+Cash Flow
+  CF from Operating Activities                        :       1,517,307.98
+  CF from Investing Activities                        :        -139,673.32
+  CF from Financing Activities                        :        -967,763.96
+  Net Increase in Cash & Cash Equivalent              :         409,870.70
+  Cash & Cash Equivalent at The Beginning of The Year :       8,335,103.72
+  Cash & Cash Equivalent at The End of The Year       :       8,744,974.42
+
+ 
+ 
+ 

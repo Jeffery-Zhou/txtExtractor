@@ -1,0 +1,66 @@
+6
+RALS0303.TXT
+
+RALS
+Ramayana Lestari Sentosa Tbk.
+Af          :
+Sector Code : 93
+Sector Name : RETAIL TRADE
+
+(In thousand rupiah except Par Value, Closing Price and Ratios)
+
+Financial Statement Date    : 31-Mar-2003
+Fiscal Year Ends            : Dec
+Months Covered in Income St : 3
+
+Summary of Balance Sheet
+  Receivables               :       3,809,000.00
+  Inventories               :     266,482,000.00
+  Current Assets            :   1,099,114,000.00
+  Fixed Assets              :     474,119,000.00
+  Other Asstes              :               0.00
+  Total Assets              :   1,992,810,000.00
+  Current Liabilities       :     519,315,000.00
+  Longterm Liabiities       :     100,186,000.00
+  Total Liabilities         :     619,501,000.00
+  Authorized                :       5,600,000.00
+  Paid-up Capital           :     350,000,000.00
+  Par Value                 :                250
+  Paid-up Capital Shares    :       1,400,000.00
+  Retained Earnings         :     979,999,000.00
+  Total Equity              :   1,373,309,000.00
+  Minority Interest         :               0.00
+
+Summary of Income Statement
+  Total Sales               :     549,788,000.00
+  Cost of Good Sold         :     402,763,000.00
+  Gross Profit              :     147,025,000.00
+  Operating Profit          :      23,890,000.00
+  Other Income              :      14,849,000.00
+  Eearning Before Tax       :      38,739,000.00
+  Tax                       :       4,861,000.00
+  Net Income                :      33,878,000.00
+  Closing Price             :           2,175.00
+
+Per Share Data (Rp)
+  Eps                       :              96.79
+  Book Value                :             980.94
+
+Financial Ratios
+  Debt Equity Ratio (X)     :                .45
+  Roa (%)                   :               6.80
+  Roe (%)                   :               9.87
+  Npm (%)                   :              24.65
+  Opm (%)                   :              17.38
+
+Cash Flow
+  CF from Operating Activities                        :    -218,309,000.00
+  CF from Investing Activities                        :     -78,944,000.00
+  CF from Financing Activities                        :      -1,282,000.00
+  Net Increase in Cash & Cash Equivalent              :    -298,535,000.00
+  Cash & Cash Equivalent at The Beginning of The Year :     797,313,000.00
+  Cash & Cash Equivalent at The End of The Year       :     498,146,000.00
+
+ 
+ 
+ 

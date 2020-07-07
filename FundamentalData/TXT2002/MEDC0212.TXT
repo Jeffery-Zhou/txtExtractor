@@ -1,0 +1,66 @@
+6
+MEDC0212.TXT
+
+MEDC
+Medco Energi Internasional Tbk
+Af          :
+Sector Code : 22
+Sector Name : CRUDE PETROLEUM & NATURAL GAS PRODUCTION
+
+(In thousand rupiah except Par Value, Closing Price and Ratios)
+
+Financial Statement Date    : 31-Dec-2002
+Fiscal Year Ends            : Dec
+Months Covered in Income St : 12
+
+Summary of Balance Sheet
+  Receivables               :   1,002,242,121.73
+  Inventories               :     303,346,002.12
+  Current Assets            :   2,174,659,701.76
+  Fixed Assets              :   1,830,839,308.09
+  Other Asstes              :      72,484,865.57
+  Total Assets              :   6,705,927,116.07
+  Current Liabilities       :   1,056,756,545.91
+  Longterm Liabiities       :   1,035,489,286.52
+  Total Liabilities         :   2,149,377,355.97
+  Authorized                :       4,000,000.00
+  Paid-up Capital           :     310,425,295.00
+  Par Value                 :                100
+  Paid-up Capital Shares    :       3,104,252.95
+  Retained Earnings         :   2,203,817,352.17
+  Total Equity              :   4,314,990,112.03
+  Minority Interest         :     241,559,648.07
+
+Summary of Income Statement
+  Total Sales               :   3,746,489,533.41
+  Cost of Good Sold         :   1,886,430,979.03
+  Gross Profit              :   1,860,058,554.38
+  Operating Profit          :   1,436,533,245.81
+  Other Income              :      13,115,631.30
+  Eearning Before Tax       :   1,449,648,877.11
+  Tax                       :     706,694,450.74
+  Net Income                :     749,251,401.21
+  Closing Price             :           1,350.00
+
+Per Share Data (Rp)
+  Eps                       :             241.36
+  Book Value                :           1,390.03
+
+Financial Ratios
+  Debt Equity Ratio (X)     :                .50
+  Roa (%)                   :              11.17
+  Roe (%)                   :              17.36
+  Npm (%)                   :              20.00
+  Opm (%)                   :              38.34
+
+Cash Flow
+  CF from Operating Activities                        :   1,629,042,933.90
+  CF from Investing Activities                        :  -1,816,544,218.45
+  CF from Financing Activities                        :     362,439,831.46
+  Net Increase in Cash & Cash Equivalent              :     174,938,546.90
+  Cash & Cash Equivalent at The Beginning of The Year :     492,660,451.53
+  Cash & Cash Equivalent at The End of The Year       :     667,598,998.43
+
+ 
+ 
+ 

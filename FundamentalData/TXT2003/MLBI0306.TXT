@@ -1,0 +1,66 @@
+6
+MLBI0306.TXT
+
+MLBI
+Multi Bintang Indonesia Tbk
+Af          :
+Sector Code : 51
+Sector Name : FOOD AND BEVERAGES
+
+(In thousand rupiah except Par Value, Closing Price and Ratios)
+
+Financial Statement Date    : 30-Jun-2003
+Fiscal Year Ends            : Dec
+Months Covered in Income St : 6
+
+Summary of Balance Sheet
+  Receivables               :      57,906,716.00
+  Inventories               :      62,994,022.00
+  Current Assets            :     204,348,773.00
+  Fixed Assets              :     246,206,070.00
+  Other Asstes              :      11,249,604.00
+  Total Assets              :     467,066,978.00
+  Current Liabilities       :     208,764,548.00
+  Longterm Liabiities       :      19,026,918.00
+  Total Liabilities         :     227,791,466.00
+  Authorized                :          21,070.00
+  Paid-up Capital           :      21,070,000.00
+  Par Value                 :               1000
+  Paid-up Capital Shares    :          21,070.00
+  Retained Earnings         :     216,403,172.00
+  Total Equity              :     239,275,512.00
+  Minority Interest         :               0.00
+
+Summary of Income Statement
+  Total Sales               :     267,090,402.00
+  Cost of Good Sold         :     145,726,029.00
+  Gross Profit              :     121,364,373.00
+  Operating Profit          :      54,161,270.00
+  Other Income              :       5,990,726.00
+  Eearning Before Tax       :      60,151,996.00
+  Tax                       :      18,757,693.00
+  Net Income                :      41,394,303.00
+  Closing Price             :          30,000.00
+
+Per Share Data (Rp)
+  Eps                       :           3,929.22
+  Book Value                :          11,356.22
+
+Financial Ratios
+  Debt Equity Ratio (X)     :                .95
+  Roa (%)                   :              17.73
+  Roe (%)                   :              34.60
+  Npm (%)                   :              31.00
+  Opm (%)                   :              40.56
+
+Cash Flow
+  CF from Operating Activities                        :      24,641,093.00
+  CF from Investing Activities                        :     -15,083,616.00
+  CF from Financing Activities                        :     -27,182,473.00
+  Net Increase in Cash & Cash Equivalent              :     -17,624,996.00
+  Cash & Cash Equivalent at The Beginning of The Year :      77,138,845.00
+  Cash & Cash Equivalent at The End of The Year       :      59,513,849.00
+
+ 
+ 
+ 

@@ -1,0 +1,66 @@
+6
+MBAI0206.TXT
+
+MBAI
+Multibreeder Adirama Ind. Tbk
+Af          : JPFA
+Sector Code : 13
+Sector Name : ANIMAL HUSBANDRY
+
+(In thousand rupiah except Par Value, Closing Price and Ratios)
+
+Financial Statement Date    : 30-Jun-2002
+Fiscal Year Ends            : Dec
+Months Covered in Income St : 6
+
+Summary of Balance Sheet
+  Receivables               :      37,987,633.31
+  Inventories               :     116,745,825.28
+  Current Assets            :     192,090,493.14
+  Fixed Assets              :     286,785,644.60
+  Other Asstes              :               0.00
+  Total Assets              :     530,924,985.94
+  Current Liabilities       :     671,024,980.64
+  Longterm Liabiities       :       4,711,566.00
+  Total Liabilities         :     675,736,546.64
+  Authorized                :         100,000.00
+  Paid-up Capital           :      75,000,000.00
+  Par Value                 :               1000
+  Paid-up Capital Shares    :          75,000.00
+  Retained Earnings         :    -228,925,640.71
+  Total Equity              :    -144,821,560.71
+  Minority Interest         :          10,000.00
+
+Summary of Income Statement
+  Total Sales               :     203,300,543.38
+  Cost of Good Sold         :     151,842,499.84
+  Gross Profit              :      51,458,043.54
+  Operating Profit          :      22,689,277.70
+  Other Income              :     109,309,333.87
+  Eearning Before Tax       :     131,998,611.57
+  Tax                       :      42,115,702.92
+  Net Income                :      89,882,908.65
+  Closing Price             :             120.00
+
+Per Share Data (Rp)
+  Eps                       :           2,396.88
+  Book Value                :          -1,930.95
+
+Financial Ratios
+  Debt Equity Ratio (X)     :              -4.67
+  Roa (%)                   :              33.86
+  Roe (%)                   :            -124.13
+  Npm (%)                   :              44.21
+  Opm (%)                   :              11.16
+
+Cash Flow
+  CF from Operating Activities                        :      15,918,389.61
+  CF from Investing Activities                        :     -13,094,545.33
+  CF from Financing Activities                        :         -11,638.90
+  Net Increase in Cash & Cash Equivalent              :       2,812,205.38
+  Cash & Cash Equivalent at The Beginning of The Year :      19,160,621.48
+  Cash & Cash Equivalent at The End of The Year       :      21,736,720.73
+
+ 
+ 
+ 

@@ -1,0 +1,66 @@
+6
+ASJT0312.TXT
+
+ASJT
+Asuransi Jasa Tania Tbk
+Af          :
+Sector Code : 84
+Sector Name : INSURANCE
+
+(In thousand rupiah except Par Value, Closing Price and Ratios)
+
+Financial Statement Date    : 31-Dec-2003
+Fiscal Year Ends            : Dec
+Months Covered in Income St : 12
+
+Summary of Balance Sheet
+  Receivables               :      56,906,101.36
+  Inventories               :               0.00
+  Current Assets            :               0.00
+  Fixed Assets              :      11,675,846.26
+  Other Asstes              :         773,050.48
+  Total Assets              :     133,628,737.24
+  Current Liabilities       :               0.00
+  Longterm Liabiities       :               0.00
+  Total Liabilities         :      46,364,010.34
+  Authorized                :       1,000,000.00
+  Paid-up Capital           :      60,000,000.00
+  Par Value                 :                200
+  Paid-up Capital Shares    :         300,000.00
+  Retained Earnings         :      24,493,945.85
+  Total Equity              :      87,264,726.90
+  Minority Interest         :               0.00
+
+Summary of Income Statement
+  Total Sales               :      55,322,862.47
+  Cost of Good Sold         :      35,552,941.34
+  Gross Profit              :      19,769,921.13
+  Operating Profit          :      19,769,921.13
+  Other Income              :          85,746.21
+  Eearning Before Tax       :      19,855,667.35
+  Tax                       :       5,581,069.23
+  Net Income                :      14,274,598.12
+  Closing Price             :             390.00
+
+Per Share Data (Rp)
+  Eps                       :              47.58
+  Book Value                :             290.88
+
+Financial Ratios
+  Debt Equity Ratio (X)     :                .53
+  Roa (%)                   :              10.68
+  Roe (%)                   :              16.36
+  Npm (%)                   :              25.80
+  Opm (%)                   :              35.74
+
+Cash Flow
+  CF from Operating Activities                        :       5,104,826.38
+  CF from Investing Activities                        :     -36,211,281.74
+  CF from Financing Activities                        :      31,423,745.96
+  Net Increase in Cash & Cash Equivalent              :         317,290.60
+  Cash & Cash Equivalent at The Beginning of The Year :       2,824,334.37
+  Cash & Cash Equivalent at The End of The Year       :       3,141,624.97
+
+ 
+ 
+ 

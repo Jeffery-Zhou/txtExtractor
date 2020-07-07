@@ -1,0 +1,66 @@
+6
+RODA0309.TXT
+
+RODA
+Roda Panggon Harapan Tbk
+Af          :
+Sector Code : 61
+Sector Name : PROPERTY AND REAL ESTATE
+
+(In thousand rupiah except Par Value, Closing Price and Ratios)
+
+Financial Statement Date    : 30-Sep-2003
+Fiscal Year Ends            : Dec
+Months Covered in Income St : 9
+
+Summary of Balance Sheet
+  Receivables               :       1,325,679.01
+  Inventories               :      44,319,699.29
+  Current Assets            :               0.00
+  Fixed Assets              :       1,505,654.19
+  Other Asstes              :          44,727.69
+  Total Assets              :      77,381,147.53
+  Current Liabilities       :               0.00
+  Longterm Liabiities       :               0.00
+  Total Liabilities         :       3,963,128.61
+  Authorized                :       1,680,000.00
+  Paid-up Capital           :      59,100,000.00
+  Par Value                 :                100
+  Paid-up Capital Shares    :         591,000.00
+  Retained Earnings         :      12,289,004.27
+  Total Equity              :      73,418,018.91
+  Minority Interest         :               0.00
+
+Summary of Income Statement
+  Total Sales               :       2,689,449.33
+  Cost of Good Sold         :       2,386,490.97
+  Gross Profit              :         302,958.36
+  Operating Profit          :      -1,230,123.98
+  Other Income              :          60,566.36
+  Eearning Before Tax       :      -1,169,557.62
+  Tax                       :        -372,343.98
+  Net Income                :        -797,213.64
+  Closing Price             :             115.00
+
+Per Share Data (Rp)
+  Eps                       :              -1.80
+  Book Value                :             124.23
+
+Financial Ratios
+  Debt Equity Ratio (X)     :                .05
+  Roa (%)                   :              -1.37
+  Roe (%)                   :              -1.45
+  Npm (%)                   :             -39.52
+  Opm (%)                   :             -60.99
+
+Cash Flow
+  CF from Operating Activities                        :       1,080,690.05
+  CF from Investing Activities                        :      -1,863,576.95
+  CF from Financing Activities                        :         313,307.81
+  Net Increase in Cash & Cash Equivalent              :        -469,579.09
+  Cash & Cash Equivalent at The Beginning of The Year :       1,413,110.38
+  Cash & Cash Equivalent at The End of The Year       :         943,531.29
+
+ 
+ 
+ 

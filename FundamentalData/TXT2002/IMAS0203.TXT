@@ -1,0 +1,66 @@
+6
+IMAS0203.TXT
+
+IMAS
+Indomobil Sukses Internasional Tbk
+Af          :
+Sector Code : 42
+Sector Name : AUTOMOTIVE AND COMPONENTS
+
+(In thousand rupiah except Par Value, Closing Price and Ratios)
+
+Financial Statement Date    : 31-Mar-2002
+Fiscal Year Ends            : Dec
+Months Covered in Income St : 3
+
+Summary of Balance Sheet
+  Receivables               :   1,398,538,572.88
+  Inventories               :   1,223,784,987.25
+  Current Assets            :   3,179,007,062.78
+  Fixed Assets              :     771,732,632.65
+  Other Asstes              :     139,640,680.99
+  Total Assets              :   4,536,796,193.78
+  Current Liabilities       :   3,247,403,922.19
+  Longterm Liabiities       :   1,266,324,456.54
+  Total Liabilities         :   4,513,728,378.73
+  Authorized                :       3,800,000.00
+  Paid-up Capital           :     498,251,340.00
+  Par Value                 :                500
+  Paid-up Capital Shares    :         996,502.68
+  Retained Earnings         :  -1,141,418,963.19
+  Total Equity              :    -493,164,661.20
+  Minority Interest         :     516,232,476.24
+
+Summary of Income Statement
+  Total Sales               :   2,134,175,778.75
+  Cost of Good Sold         :   1,806,110,943.15
+  Gross Profit              :     328,064,835.61
+  Operating Profit          :     165,032,951.64
+  Other Income              :      63,234,991.17
+  Eearning Before Tax       :     228,267,942.81
+  Tax                       :      32,970,506.80
+  Net Income                :     149,150,811.28
+  Closing Price             :             575.00
+
+Per Share Data (Rp)
+  Eps                       :             598.70
+  Book Value                :            -494.90
+
+Financial Ratios
+  Debt Equity Ratio (X)     :              -9.15
+  Roa (%)                   :              13.15
+  Roe (%)                   :            -120.97
+  Npm (%)                   :               6.99
+  Opm (%)                   :               7.73
+
+Cash Flow
+  CF from Operating Activities                        :    -121,859,276.88
+  CF from Investing Activities                        :     -71,358,903.18
+  CF from Financing Activities                        :      73,097,475.98
+  Net Increase in Cash & Cash Equivalent              :    -120,120,704.08
+  Cash & Cash Equivalent at The Beginning of The Year :     481,100,514.40
+  Cash & Cash Equivalent at The End of The Year       :     360,979,810.32
+
+ 
+ 
+ 

@@ -1,0 +1,66 @@
+6
+IKBI0212.TXT
+
+IKBI
+Sumi Indo Kabel Tbk
+Af          :
+Sector Code : 45
+Sector Name : CABLE
+
+(In thousand rupiah except Par Value, Closing Price and Ratios)
+
+Financial Statement Date    : 31-Dec-2002
+Fiscal Year Ends            : Dec
+Months Covered in Income St : 12
+
+Summary of Balance Sheet
+  Receivables               :     102,978,029.71
+  Inventories               :      51,027,012.53
+  Current Assets            :     195,447,525.84
+  Fixed Assets              :     171,681,861.17
+  Other Asstes              :         372,616.24
+  Total Assets              :     404,556,465.65
+  Current Liabilities       :      84,223,793.60
+  Longterm Liabiities       :       1,284,646.00
+  Total Liabilities         :      85,508,439.60
+  Authorized                :         321,000.00
+  Paid-up Capital           :     306,000,000.00
+  Par Value                 :               1000
+  Paid-up Capital Shares    :         306,000.00
+  Retained Earnings         :      11,471,238.59
+  Total Equity              :     319,048,026.05
+  Minority Interest         :               0.00
+
+Summary of Income Statement
+  Total Sales               :     560,318,391.51
+  Cost of Good Sold         :     526,309,147.70
+  Gross Profit              :      34,009,243.80
+  Operating Profit          :      11,672,634.31
+  Other Income              :     -11,407,817.44
+  Eearning Before Tax       :         264,816.87
+  Tax                       :       4,716,859.53
+  Net Income                :      -4,452,042.66
+  Closing Price             :             335.00
+
+Per Share Data (Rp)
+  Eps                       :             -14.55
+  Book Value                :           1,042.64
+
+Financial Ratios
+  Debt Equity Ratio (X)     :                .27
+  Roa (%)                   :              -1.10
+  Roe (%)                   :              -1.40
+  Npm (%)                   :               -.79
+  Opm (%)                   :               2.08
+
+Cash Flow
+  CF from Operating Activities                        :      22,180,450.20
+  CF from Investing Activities                        :     -20,258,764.56
+  CF from Financing Activities                        :      -3,001,457.18
+  Net Increase in Cash & Cash Equivalent              :      -4,910,648.07
+  Cash & Cash Equivalent at The Beginning of The Year :      37,495,604.60
+  Cash & Cash Equivalent at The End of The Year       :      32,584,956.53
+
+ 
+ 
+ 

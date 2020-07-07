@@ -1,0 +1,66 @@
+6
+BBNP0306.TXT
+
+BBNP
+Bank Nusantara Parahyangan Tbk
+Af          :
+Sector Code : 81
+Sector Name : BANK
+
+(In thousand rupiah except Par Value, Closing Price and Ratios)
+
+Financial Statement Date    : 30-Jun-2003
+Fiscal Year Ends            : Dec
+Months Covered in Income St : 6
+
+Summary of Balance Sheet
+  Receivables               :               0.00
+  Inventories               :               0.00
+  Current Assets            :               0.00
+  Fixed Assets              :      21,958,685.25
+  Other Asstes              :      11,980,118.84
+  Total Assets              :   1,500,275,646.70
+  Current Liabilities       :               0.00
+  Longterm Liabiities       :               0.00
+  Total Liabilities         :   1,382,834,228.45
+  Authorized                :         400,000.00
+  Paid-up Capital           :      75,000,000.00
+  Par Value                 :                500
+  Paid-up Capital Shares    :         150,000.00
+  Retained Earnings         :      39,282,696.75
+  Total Equity              :     117,441,418.25
+  Minority Interest         :               0.00
+
+Summary of Income Statement
+  Total Sales               :      77,807,252.39
+  Cost of Good Sold         :      66,128,645.94
+  Gross Profit              :      11,678,606.45
+  Operating Profit          :      11,678,606.45
+  Other Income              :         187,863.64
+  Eearning Before Tax       :      11,866,470.09
+  Tax                       :       3,542,441.03
+  Net Income                :       8,324,029.06
+  Closing Price             :             700.00
+
+Per Share Data (Rp)
+  Eps                       :             110.99
+  Book Value                :             782.94
+
+Financial Ratios
+  Debt Equity Ratio (X)     :              11.77
+  Roa (%)                   :               1.11
+  Roe (%)                   :              14.18
+  Npm (%)                   :              21.40
+  Opm (%)                   :              30.02
+
+Cash Flow
+  CF from Operating Activities                        :      73,372,409.53
+  CF from Investing Activities                        :      -1,420,562.35
+  CF from Financing Activities                        :     -82,856,472.73
+  Net Increase in Cash & Cash Equivalent              :     -10,904,625.55
+  Cash & Cash Equivalent at The Beginning of The Year :     165,342,143.33
+  Cash & Cash Equivalent at The End of The Year       :     154,437,517.79
+
+ 
+ 
+ 

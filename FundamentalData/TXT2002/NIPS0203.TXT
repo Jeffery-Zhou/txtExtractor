@@ -1,0 +1,66 @@
+6
+NIPS0203.TXT
+
+NIPS
+Nipress
+Af          :
+Sector Code : 42
+Sector Name : AUTOMOTIVE AND COMPONENTS
+
+(In thousand rupiah except Par Value, Closing Price and Ratios)
+
+Financial Statement Date    : 31-Mar-2002
+Fiscal Year Ends            : Dec
+Months Covered in Income St : 3
+
+Summary of Balance Sheet
+  Receivables               :      25,732,527.84
+  Inventories               :      19,940,436.88
+  Current Assets            :      49,691,914.35
+  Fixed Assets              :      47,918,893.58
+  Other Asstes              :       1,781,895.56
+  Total Assets              :     110,102,958.68
+  Current Liabilities       :      32,157,330.87
+  Longterm Liabiities       :      67,159,701.07
+  Total Liabilities         :      99,317,031.95
+  Authorized                :          80,000.00
+  Paid-up Capital           :      20,000,000.00
+  Par Value                 :               1000
+  Paid-up Capital Shares    :          20,000.00
+  Retained Earnings         :     -25,214,073.26
+  Total Equity              :      10,785,926.74
+  Minority Interest         :               0.00
+
+Summary of Income Statement
+  Total Sales               :      28,361,406.08
+  Cost of Good Sold         :      21,429,086.56
+  Gross Profit              :       6,932,319.52
+  Operating Profit          :       4,974,107.53
+  Other Income              :       4,660,350.67
+  Eearning Before Tax       :       9,634,458.20
+  Tax                       :       2,978,324.32
+  Net Income                :       6,656,133.88
+  Closing Price             :             700.00
+
+Per Share Data (Rp)
+  Eps                       :           1,331.23
+  Book Value                :             539.30
+
+Financial Ratios
+  Debt Equity Ratio (X)     :               9.21
+  Roa (%)                   :              24.18
+  Roe (%)                   :             246.85
+  Npm (%)                   :              23.47
+  Opm (%)                   :              17.54
+
+Cash Flow
+  CF from Operating Activities                        :       8,986,699.07
+  CF from Investing Activities                        :      -2,841,957.20
+  CF from Financing Activities                        :      -7,451,831.78
+  Net Increase in Cash & Cash Equivalent              :      -1,307,089.91
+  Cash & Cash Equivalent at The Beginning of The Year :       2,360,896.87
+  Cash & Cash Equivalent at The End of The Year       :       1,053,806.95
+
+ 
+ 
+ 

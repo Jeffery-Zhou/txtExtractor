@@ -1,0 +1,66 @@
+6
+BCIC0203.TXT
+
+BCIC
+Bank CIC International Tbk
+Af          :
+Sector Code : 81
+Sector Name : BANK
+
+(In thousand rupiah except Par Value, Closing Price and Ratios)
+
+Financial Statement Date    : 31-Mar-2002
+Fiscal Year Ends            : Dec
+Months Covered in Income St : 3
+
+Summary of Balance Sheet
+  Receivables               :               0.00
+  Inventories               :               0.00
+  Current Assets            :               0.00
+  Fixed Assets              :      44,162,000.00
+  Other Asstes              :   1,169,697,000.00
+  Total Assets              :  10,412,794,000.00
+  Current Liabilities       :               0.00
+  Longterm Liabiities       :               0.00
+  Total Liabilities         :  10,104,717,000.00
+  Authorized                :       9,600,000.00
+  Paid-up Capital           :     241,179,890.00
+  Par Value                 :                100
+  Paid-up Capital Shares    :       2,411,798.90
+  Retained Earnings         :    -124,637,000.00
+  Total Equity              :     308,077,000.00
+  Minority Interest         :               0.00
+
+Summary of Income Statement
+  Total Sales               :     306,531,000.00
+  Cost of Good Sold         :     303,334,000.00
+  Gross Profit              :       3,197,000.00
+  Operating Profit          :       3,197,000.00
+  Other Income              :       2,117,000.00
+  Eearning Before Tax       :       5,314,000.00
+  Tax                       :               0.00
+  Net Income                :       5,314,000.00
+  Closing Price             :             120.00
+
+Per Share Data (Rp)
+  Eps                       :               8.81
+  Book Value                :             127.74
+
+Financial Ratios
+  Debt Equity Ratio (X)     :              32.80
+  Roa (%)                   :                .20
+  Roe (%)                   :               6.90
+  Npm (%)                   :               1.73
+  Opm (%)                   :               1.04
+
+Cash Flow
+  CF from Operating Activities                        :     183,751,000.00
+  CF from Investing Activities                        :      93,671,000.00
+  CF from Financing Activities                        :               0.00
+  Net Increase in Cash & Cash Equivalent              :     277,422,000.00
+  Cash & Cash Equivalent at The Beginning of The Year :     610,414,000.00
+  Cash & Cash Equivalent at The End of The Year       :     827,779,000.00
+
+ 
+ 
+ 

@@ -1,0 +1,66 @@
+6
+BBLD0303.TXT
+
+BBLD
+BBL Danatama Finance Tbk
+Af          : DSST
+Sector Code : 82
+Sector Name : FINANCIAL INSTITUTION
+
+(In thousand rupiah except Par Value, Closing Price and Ratios)
+
+Financial Statement Date    : 31-Mar-2003
+Fiscal Year Ends            : Dec
+Months Covered in Income St : 3
+
+Summary of Balance Sheet
+  Receivables               :     101,381,897.14
+  Inventories               :               0.00
+  Current Assets            :               0.00
+  Fixed Assets              :       3,491,009.17
+  Other Asstes              :               0.00
+  Total Assets              :   1,004,808,815.81
+  Current Liabilities       :               0.00
+  Longterm Liabiities       :               0.00
+  Total Liabilities         :   1,077,461,665.62
+  Authorized                :         720,000.00
+  Paid-up Capital           :      90,000,000.00
+  Par Value                 :                500
+  Paid-up Capital Shares    :         180,000.00
+  Retained Earnings         :    -163,777,849.81
+  Total Equity              :     -72,652,849.81
+  Minority Interest         :               0.00
+
+Summary of Income Statement
+  Total Sales               :      72,361,450.68
+  Cost of Good Sold         :      15,732,192.44
+  Gross Profit              :      56,629,258.24
+  Operating Profit          :      56,629,258.24
+  Other Income              :               0.00
+  Eearning Before Tax       :      56,629,258.24
+  Tax                       :      16,097,971.46
+  Net Income                :      40,531,286.78
+  Closing Price             :              50.00
+
+Per Share Data (Rp)
+  Eps                       :             900.70
+  Book Value                :            -403.63
+
+Financial Ratios
+  Debt Equity Ratio (X)     :             -14.83
+  Roa (%)                   :              16.13
+  Roe (%)                   :            -223.15
+  Npm (%)                   :             224.05
+  Opm (%)                   :             313.04
+
+Cash Flow
+  CF from Operating Activities                        :      15,545,032.88
+  CF from Investing Activities                        :        -454,975.00
+  CF from Financing Activities                        :        -702,885.21
+  Net Increase in Cash & Cash Equivalent              :      13,793,973.01
+  Cash & Cash Equivalent at The Beginning of The Year :     385,346,283.99
+  Cash & Cash Equivalent at The End of The Year       :     399,140,256.99
+
+ 
+ 
+ 

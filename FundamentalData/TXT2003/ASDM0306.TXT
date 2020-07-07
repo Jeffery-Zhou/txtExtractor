@@ -1,0 +1,66 @@
+6
+ASDM0306.TXT
+
+ASDM
+Asuransi Dayin Mitra Tbk
+Af          : GSMF
+Sector Code : 84
+Sector Name : INSURANCE
+
+(In thousand rupiah except Par Value, Closing Price and Ratios)
+
+Financial Statement Date    : 30-Jun-2003
+Fiscal Year Ends            : Dec
+Months Covered in Income St : 6
+
+Summary of Balance Sheet
+  Receivables               :      59,981,390.03
+  Inventories               :               0.00
+  Current Assets            :               0.00
+  Fixed Assets              :      15,649,119.84
+  Other Asstes              :       4,136,632.96
+  Total Assets              :     177,240,940.58
+  Current Liabilities       :               0.00
+  Longterm Liabiities       :               0.00
+  Total Liabilities         :      82,120,251.76
+  Authorized                :         760,000.00
+  Paid-up Capital           :      48,000,000.00
+  Par Value                 :                250
+  Paid-up Capital Shares    :         192,000.00
+  Retained Earnings         :      46,520,688.82
+  Total Equity              :      95,120,688.82
+  Minority Interest         :               0.00
+
+Summary of Income Statement
+  Total Sales               :      32,783,892.87
+  Cost of Good Sold         :      30,668,238.56
+  Gross Profit              :       2,115,654.31
+  Operating Profit          :       2,115,654.31
+  Other Income              :         932,565.04
+  Eearning Before Tax       :       3,048,219.36
+  Tax                       :          24,022.91
+  Net Income                :       3,024,196.45
+  Closing Price             :             155.00
+
+Per Share Data (Rp)
+  Eps                       :              31.50
+  Book Value                :             495.42
+
+Financial Ratios
+  Debt Equity Ratio (X)     :                .86
+  Roa (%)                   :               3.41
+  Roe (%)                   :               6.36
+  Npm (%)                   :              18.45
+  Opm (%)                   :              12.91
+
+Cash Flow
+  CF from Operating Activities                        :      24,013,858.78
+  CF from Investing Activities                        :     -20,356,257.64
+  CF from Financing Activities                        :      -1,920,000.00
+  Net Increase in Cash & Cash Equivalent              :       1,129,119.73
+  Cash & Cash Equivalent at The Beginning of The Year :       1,411,231.01
+  Cash & Cash Equivalent at The End of The Year       :       2,540,350.74
+
+ 
+ 
+ 

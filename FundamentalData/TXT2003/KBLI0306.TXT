@@ -1,0 +1,66 @@
+6
+KBLI0306.TXT
+
+KBLI
+GT Kabel Indonesia Tbk
+Af          :
+Sector Code : 45
+Sector Name : CABLE
+
+(In thousand rupiah except Par Value, Closing Price and Ratios)
+
+Financial Statement Date    : 30-Jun-2003
+Fiscal Year Ends            : Dec
+Months Covered in Income St : 6
+
+Summary of Balance Sheet
+  Receivables               :      43,200,100.00
+  Inventories               :      66,475,371.00
+  Current Assets            :     176,736,847.00
+  Fixed Assets              :     194,337,057.00
+  Other Asstes              :               0.00
+  Total Assets              :     415,592,163.00
+  Current Liabilities       :      24,942,168.00
+  Longterm Liabiities       :     274,974,181.00
+  Total Liabilities         :     299,916,349.00
+  Authorized                :       4,560,000.00
+  Paid-up Capital           :     732,700,000.00
+  Par Value                 :            500&180
+  Paid-up Capital Shares    :       3,075,000.00
+  Retained Earnings         :    -640,277,904.00
+  Total Equity              :     115,675,814.00
+  Minority Interest         :               0.00
+
+Summary of Income Statement
+  Total Sales               :     160,982,375.00
+  Cost of Good Sold         :     161,305,934.00
+  Gross Profit              :        -323,559.00
+  Operating Profit          :     -15,910,248.00
+  Other Income              :      15,835,999.00
+  Eearning Before Tax       :         -74,249.00
+  Tax                       :      -1,646,855.00
+  Net Income                :       1,572,606.00
+  Closing Price             :             105.00
+
+Per Share Data (Rp)
+  Eps                       :               1.02
+  Book Value                :              37.62
+
+Financial Ratios
+  Debt Equity Ratio (X)     :               2.59
+  Roa (%)                   :                .76
+  Roe (%)                   :               2.72
+  Npm (%)                   :               1.95
+  Opm (%)                   :             -19.77
+
+Cash Flow
+  CF from Operating Activities                        :     -29,460,263.00
+  CF from Investing Activities                        :       2,624,782.00
+  CF from Financing Activities                        :        -269,405.00
+  Net Increase in Cash & Cash Equivalent              :     -27,104,886.00
+  Cash & Cash Equivalent at The Beginning of The Year :      60,017,911.00
+  Cash & Cash Equivalent at The End of The Year       :      30,964,173.00
+
+ 
+ 
+ 

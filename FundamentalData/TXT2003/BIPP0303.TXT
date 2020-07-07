@@ -1,0 +1,66 @@
+6
+BIPP0303.TXT
+
+BIPP
+Bhuwanatala Indah Permai Tbk
+Af          :
+Sector Code : 61
+Sector Name : PROPERTY AND REAL ESTATE
+
+(In thousand rupiah except Par Value, Closing Price and Ratios)
+
+Financial Statement Date    : 31-Mar-2003
+Fiscal Year Ends            : Dec
+Months Covered in Income St : 3
+
+Summary of Balance Sheet
+  Receivables               :      12,758,347.63
+  Inventories               :          41,181.08
+  Current Assets            :      58,173,446.89
+  Fixed Assets              :      81,385,577.97
+  Other Asstes              :         676,161.94
+  Total Assets              :   1,241,775,492.66
+  Current Liabilities       :   1,107,216,738.12
+  Longterm Liabiities       :     614,037,165.16
+  Total Liabilities         :   1,721,253,903.28
+  Authorized                :       2,000,000.00
+  Paid-up Capital           :     819,109,129.50
+  Par Value                 :                500
+  Paid-up Capital Shares    :       1,638,218.26
+  Retained Earnings         :  -1,012,849,291.76
+  Total Equity              :    -177,269,248.44
+  Minority Interest         :    -302,209,162.18
+
+Summary of Income Statement
+  Total Sales               :      45,276,599.32
+  Cost of Good Sold         :      22,776,790.94
+  Gross Profit              :      22,499,808.38
+  Operating Profit          :      14,283,898.85
+  Other Income              :     -20,103,038.95
+  Eearning Before Tax       :      -5,819,140.10
+  Tax                       :       2,366,569.19
+  Net Income                :     -10,859,284.34
+  Closing Price             :              15.00
+
+Per Share Data (Rp)
+  Eps                       :             -26.51
+  Book Value                :            -108.21
+
+Financial Ratios
+  Debt Equity Ratio (X)     :              -9.71
+  Roa (%)                   :              -3.50
+  Roe (%)                   :              24.50
+  Npm (%)                   :             -95.94
+  Opm (%)                   :             126.19
+
+Cash Flow
+  CF from Operating Activities                        :               0.00
+  CF from Investing Activities                        :               0.00
+  CF from Financing Activities                        :               0.00
+  Net Increase in Cash & Cash Equivalent              :               0.00
+  Cash & Cash Equivalent at The Beginning of The Year :               0.00
+  Cash & Cash Equivalent at The End of The Year       :               0.00
+
+ 
+ 
+ 

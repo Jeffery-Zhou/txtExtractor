@@ -1,0 +1,66 @@
+6
+BGIN0312.TXT
+
+BGIN
+Bank Global Internasional Tbk
+Af          :
+Sector Code : 81
+Sector Name : BANK
+
+(In thousand rupiah except Par Value, Closing Price and Ratios)
+
+Financial Statement Date    : 31-Dec-2003
+Fiscal Year Ends            : Dec
+Months Covered in Income St : 12
+
+Summary of Balance Sheet
+  Receivables               :               0.00
+  Inventories               :               0.00
+  Current Assets            :               0.00
+  Fixed Assets              :     190,214,376.00
+  Other Asstes              :     110,358,196.00
+  Total Assets              :   2,271,789,655.00
+  Current Liabilities       :               0.00
+  Longterm Liabiities       :               0.00
+  Total Liabilities         :   1,782,527,651.00
+  Authorized                :      12,000,000.00
+  Paid-up Capital           :     412,612,583.00
+  Par Value                 :                100
+  Paid-up Capital Shares    :       4,126,125.83
+  Retained Earnings         :      16,626,268.00
+  Total Equity              :     489,262,004.00
+  Minority Interest         :               0.00
+
+Summary of Income Statement
+  Total Sales               :     300,345,513.00
+  Cost of Good Sold         :     293,300,169.00
+  Gross Profit              :       7,045,344.00
+  Operating Profit          :       7,045,344.00
+  Other Income              :       4,060,354.00
+  Eearning Before Tax       :      11,105,698.00
+  Tax                       :       2,221,769.00
+  Net Income                :       8,883,929.00
+  Closing Price             :             105.00
+
+Per Share Data (Rp)
+  Eps                       :               2.15
+  Book Value                :             118.58
+
+Financial Ratios
+  Debt Equity Ratio (X)     :               3.64
+  Roa (%)                   :                .39
+  Roe (%)                   :               1.82
+  Npm (%)                   :               2.96
+  Opm (%)                   :               2.35
+
+Cash Flow
+  CF from Operating Activities                        :    -403,736,185.00
+  CF from Investing Activities                        :      -6,195,739.00
+  CF from Financing Activities                        :     432,639,386.00
+  Net Increase in Cash & Cash Equivalent              :      22,707,462.00
+  Cash & Cash Equivalent at The Beginning of The Year :      90,315,632.00
+  Cash & Cash Equivalent at The End of The Year       :     113,023,094.00
+
+ 
+ 
+ 

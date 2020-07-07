@@ -1,0 +1,66 @@
+6
+JIHD0203.TXT
+
+JIHD
+JIHD
+Af          :
+Sector Code : 61
+Sector Name : PROPERTY AND REAL ESTATE
+
+(In thousand rupiah except Par Value, Closing Price and Ratios)
+
+Financial Statement Date    : 31-Mar-2002
+Fiscal Year Ends            : Dec
+Months Covered in Income St : 3
+
+Summary of Balance Sheet
+  Receivables               :      23,564,186.00
+  Inventories               :   1,236,102,872.00
+  Current Assets            :               0.00
+  Fixed Assets              :   1,010,315,616.00
+  Other Asstes              :     563,712,861.00
+  Total Assets              :   4,615,025,578.00
+  Current Liabilities       :               0.00
+  Longterm Liabiities       :               0.00
+  Total Liabilities         :   3,592,659,925.00
+  Authorized                :       1,500,000.00
+  Paid-up Capital           :     965,019,600.00
+  Par Value                 :               1000
+  Paid-up Capital Shares    :         965,019.60
+  Retained Earnings         :  -1,220,914,948.00
+  Total Equity              :     990,518,980.00
+  Minority Interest         :      31,846,673.00
+
+Summary of Income Statement
+  Total Sales               :      40,458,789.00
+  Cost of Good Sold         :      11,981,779.00
+  Gross Profit              :      28,477,010.00
+  Operating Profit          :     -62,994,978.00
+  Other Income              :     145,388,739.00
+  Eearning Before Tax       :      82,393,761.00
+  Tax                       :      24,718,129.00
+  Net Income                :      51,099,082.00
+  Closing Price             :           1,000.00
+
+Per Share Data (Rp)
+  Eps                       :             211.81
+  Book Value                :           1,026.42
+
+Financial Ratios
+  Debt Equity Ratio (X)     :               3.63
+  Roa (%)                   :               4.43
+  Roe (%)                   :              20.64
+  Npm (%)                   :             126.30
+  Opm (%)                   :            -155.70
+
+Cash Flow
+  CF from Operating Activities                        :      -4,402,395.00
+  CF from Investing Activities                        :        -999,250.00
+  CF from Financing Activities                        :         950,000.00
+  Net Increase in Cash & Cash Equivalent              :      -4,451,645.00
+  Cash & Cash Equivalent at The Beginning of The Year :      19,804,883.00
+  Cash & Cash Equivalent at The End of The Year       :      15,353,238.00
+
+ 
+ 
+ 

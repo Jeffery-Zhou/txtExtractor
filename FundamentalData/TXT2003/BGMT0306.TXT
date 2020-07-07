@@ -1,0 +1,66 @@
+6
+BGMT0306.TXT
+
+BGMT
+Siloam Health Care Tbk
+Af          :
+Sector Code : 96
+Sector Name : HEALTHCARE
+
+(In thousand rupiah except Par Value, Closing Price and Ratios)
+
+Financial Statement Date    : 30-Jun-2003
+Fiscal Year Ends            : Dec
+Months Covered in Income St : 6
+
+Summary of Balance Sheet
+  Receivables               :      18,221,349.08
+  Inventories               :      11,834,533.52
+  Current Assets            :      49,639,971.49
+  Fixed Assets              :     402,293,006.42
+  Other Asstes              :       2,315,031.40
+  Total Assets              :     565,687,198.39
+  Current Liabilities       :      66,343,016.27
+  Longterm Liabiities       :      99,585,463.63
+  Total Liabilities         :     165,928,479.90
+  Authorized                :       8,873,562.07
+  Paid-up Capital           :     487,527,760.30
+  Par Value                 :          500 & 200
+  Paid-up Capital Shares    :       1,577,295.70
+  Retained Earnings         :    -135,621,059.16
+  Total Equity              :     378,194,857.65
+  Minority Interest         :      21,563,860.84
+
+Summary of Income Statement
+  Total Sales               :     145,119,791.69
+  Cost of Good Sold         :      94,350,691.07
+  Gross Profit              :      50,769,100.62
+  Operating Profit          :      10,227,472.76
+  Other Income              :         332,134.58
+  Eearning Before Tax       :      10,559,607.34
+  Tax                       :       6,590,166.77
+  Net Income                :       5,357,433.20
+  Closing Price             :             110.00
+
+Per Share Data (Rp)
+  Eps                       :               6.79
+  Book Value                :             239.77
+
+Financial Ratios
+  Debt Equity Ratio (X)     :                .44
+  Roa (%)                   :               1.89
+  Roe (%)                   :               2.83
+  Npm (%)                   :               7.38
+  Opm (%)                   :              14.10
+
+Cash Flow
+  CF from Operating Activities                        :      18,287,590.80
+  CF from Investing Activities                        :     -12,336,233.42
+  CF from Financing Activities                        :      -4,782,169.36
+  Net Increase in Cash & Cash Equivalent              :       1,169,188.02
+  Cash & Cash Equivalent at The Beginning of The Year :      15,135,147.70
+  Cash & Cash Equivalent at The End of The Year       :      16,304,335.71
+
+ 
+ 
+ 

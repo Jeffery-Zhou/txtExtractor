@@ -1,0 +1,66 @@
+6
+AALI0203.TXT
+
+AALI
+Astra Agro Lestari Tbk
+Af          : ASII
+Sector Code : 12
+Sector Name : PLANTATION
+
+(In thousand rupiah except Par Value, Closing Price and Ratios)
+
+Financial Statement Date    : 31-Mar-2002
+Fiscal Year Ends            : Dec
+Months Covered in Income St : 3
+
+Summary of Balance Sheet
+  Receivables               :      48,985,331.01
+  Inventories               :     153,112,522.26
+  Current Assets            :     350,666,247.46
+  Fixed Assets              :   1,927,170,418.98
+  Other Asstes              :      10,874,358.33
+  Total Assets              :   2,593,800,770.15
+  Current Liabilities       :     471,107,559.02
+  Longterm Liabiities       :     870,421,225.09
+  Total Liabilities         :   1,341,528,784.12
+  Authorized                :       4,000,000.00
+  Paid-up Capital           :     754,800,000.00
+  Par Value                 :                500
+  Paid-up Capital Shares    :       1,509,600.00
+  Retained Earnings         :     445,619,075.31
+  Total Equity              :   1,205,856,145.32
+  Minority Interest         :      46,415,840.72
+
+Summary of Income Statement
+  Total Sales               :     421,951,903.37
+  Cost of Good Sold         :     241,417,560.54
+  Gross Profit              :     180,534,342.83
+  Operating Profit          :     138,799,240.40
+  Other Income              :     -39,020,448.21
+  Eearning Before Tax       :      99,778,792.18
+  Tax                       :      39,069,507.28
+  Net Income                :      58,219,655.24
+  Closing Price             :           1,600.00
+
+Per Share Data (Rp)
+  Eps                       :             154.27
+  Book Value                :             798.79
+
+Financial Ratios
+  Debt Equity Ratio (X)     :               1.11
+  Roa (%)                   :               8.98
+  Roe (%)                   :              19.31
+  Npm (%)                   :              13.80
+  Opm (%)                   :              32.89
+
+Cash Flow
+  CF from Operating Activities                        :     131,845,209.71
+  CF from Investing Activities                        :     -35,850,632.50
+  CF from Financing Activities                        :     -59,156,144.44
+  Net Increase in Cash & Cash Equivalent              :      36,838,432.77
+  Cash & Cash Equivalent at The Beginning of The Year :      53,234,548.26
+  Cash & Cash Equivalent at The End of The Year       :      88,210,270.96
+
+ 
+ 
+ 

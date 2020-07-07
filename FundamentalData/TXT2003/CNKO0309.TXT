@@ -1,0 +1,67 @@
+6
+CNKO0309.TXT
+
+CNKO
+Central Korporindo Internasional Tbk
+Af          :
+Sector Code : 24
+Sector Name : LAND / STONE QUARRYING
+
+(In thousand rupiah except Par Value, Closing Price and Ratios)
+
+Financial Statement Date    : 30-Sep-2003
+Fiscal Year Ends            : Dec
+Months Covered in Income St : 9
+
+Summary of Balance Sheet
+  Receivables               :      18,711,727.00
+  Inventories               :       2,258,743.00
+  Current Assets            :      22,810,936.00
+  Fixed Assets              :     200,850,092.00
+  Other Asstes              :               0.00
+  Total Assets              :     241,566,919.00
+  Current Liabilities       :       6,059,264.00
+  Longterm Liabiities       :          56,361.00
+  Total Liabilities         :       6,115,625.00
+  Authorized                :       6,000,000.00
+  Paid-up Capital           :     230,000,000.00
+  Par Value                 :                100
+  Paid-up Capital Shares    :       2,300,000.00
+  Retained Earnings         :       1,451,293.00
+  Total Equity              :     235,451,293.00
+  Minority Interest         :               0.00
+
+Summary of Income Statement
+  Total Sales               :      31,665,848.00
+  Cost of Good Sold         :      25,926,458.00
+  Gross Profit              :       5,739,390.00
+  Operating Profit          :         107,388.00
+  Other Income              :         297,292.00
+  Eearning Before Tax       :         404,680.00
+  Tax                       :         147,962.00
+  Net Income                :         256,718.00
+  Closing Price             :              15.00
+
+Per Share Data (Rp)
+  Eps                       :                .15
+  Book Value                :             102.37
+
+Financial Ratios
+  Debt Equity Ratio (X)     :                .03
+  Roa (%)                   :                .14
+  Roe (%)                   :                .15
+  Npm (%)                   :               1.08
+  Opm (%)                   :                .45
+
+Cash Flow
+  CF from Operating Activities                        :       3,155,977.00
+  CF from Investing Activities                        :      -2,359,031.00
+  CF from Financing Activities                        :        -213,019.00
+  Net Increase in Cash & Cash Equivalent              :         583,927.00
+  Cash & Cash Equivalent at The Beginning of The Year :          70,518.00
+  Cash & Cash Equivalent at The End of The Year       :         654,445.00
+
+ 
+ 
+ 
+

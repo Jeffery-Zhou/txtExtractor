@@ -1,0 +1,66 @@
+6
+BUMI0306.TXT
+
+BUMI
+Bumi Resources Tbk
+Af          :
+Sector Code : 22
+Sector Name : CRUDE PETROLEUM & NATURAL GAS PRODUCTION
+
+(In thousand rupiah except Par Value, Closing Price and Ratios)
+
+Financial Statement Date    : 30-Jun-2003
+Fiscal Year Ends            : Dec
+Months Covered in Income St : 6
+
+Summary of Balance Sheet
+  Receivables               :     165,039,000.00
+  Inventories               :     172,767,000.00
+  Current Assets            :     772,780,000.00
+  Fixed Assets              :     980,096,000.00
+  Other Asstes              :   1,503,955,000.00
+  Total Assets              :   3,665,450,000.00
+  Current Liabilities       :   1,320,351,000.00
+  Longterm Liabiities       :   1,473,599,000.00
+  Total Liabilities         :   2,793,950,000.00
+  Authorized                :      20,000,000.00
+  Paid-up Capital           :   9,702,000,000.00
+  Par Value                 :                500
+  Paid-up Capital Shares    :      19,404,000.00
+  Retained Earnings         :     116,968,000.00
+  Total Equity              :     871,499,000.00
+  Minority Interest         :               0.00
+
+Summary of Income Statement
+  Total Sales               :   1,315,595,000.00
+  Cost of Good Sold         :     993,959,000.00
+  Gross Profit              :     321,635,000.00
+  Operating Profit          :     110,236,000.00
+  Other Income              :     -16,326,000.00
+  Eearning Before Tax       :      93,910,000.00
+  Tax                       :       9,630,000.00
+  Net Income                :      58,377,000.00
+  Closing Price             :              35.00
+
+Per Share Data (Rp)
+  Eps                       :               6.02
+  Book Value                :              44.91
+
+Financial Ratios
+  Debt Equity Ratio (X)     :               3.21
+  Roa (%)                   :               3.19
+  Roe (%)                   :              13.40
+  Npm (%)                   :               8.87
+  Opm (%)                   :              16.76
+
+Cash Flow
+  CF from Operating Activities                        :      81,456,000.00
+  CF from Investing Activities                        :     -32,416,000.00
+  CF from Financing Activities                        :     -45,451,000.00
+  Net Increase in Cash & Cash Equivalent              :       3,589,000.00
+  Cash & Cash Equivalent at The Beginning of The Year :      61,186,000.00
+  Cash & Cash Equivalent at The End of The Year       :      64,775,000.00
+
+ 
+ 
+ 

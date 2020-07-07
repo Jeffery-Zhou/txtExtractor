@@ -1,0 +1,66 @@
+6
+LPGI0312.TXT
+
+LPGI
+Lippo General Insurance Tbk
+Af          :
+Sector Code : 84
+Sector Name : INSURANCE
+
+(In thousand rupiah except Par Value, Closing Price and Ratios)
+
+Financial Statement Date    : 31-Dec-2003
+Fiscal Year Ends            : Dec
+Months Covered in Income St : 12
+
+Summary of Balance Sheet
+  Receivables               :      30,497,411.46
+  Inventories               :               0.00
+  Current Assets            :               0.00
+  Fixed Assets              :       6,461,427.78
+  Other Asstes              :      10,873,045.28
+  Total Assets              :     266,809,955.89
+  Current Liabilities       :               0.00
+  Longterm Liabiities       :               0.00
+  Total Liabilities         :      76,421,879.42
+  Authorized                :         350,000.00
+  Paid-up Capital           :      75,000,000.00
+  Par Value                 :                500
+  Paid-up Capital Shares    :         150,000.00
+  Retained Earnings         :      98,156,249.75
+  Total Equity              :     190,388,076.47
+  Minority Interest         :               0.00
+
+Summary of Income Statement
+  Total Sales               :      78,548,128.15
+  Cost of Good Sold         :      98,894,946.98
+  Gross Profit              :     -20,346,818.83
+  Operating Profit          :     -20,346,818.83
+  Other Income              :         576,352.30
+  Eearning Before Tax       :     -19,770,466.53
+  Tax                       :      -2,770,860.26
+  Net Income                :     -16,999,606.28
+  Closing Price             :             300.00
+
+Per Share Data (Rp)
+  Eps                       :            -113.33
+  Book Value                :           1,269.25
+
+Financial Ratios
+  Debt Equity Ratio (X)     :                .40
+  Roa (%)                   :              -6.37
+  Roe (%)                   :              -8.93
+  Npm (%)                   :             -21.64
+  Opm (%)                   :             -25.90
+
+Cash Flow
+  CF from Operating Activities                        :      10,801,712.71
+  CF from Investing Activities                        :      -9,309,265.40
+  CF from Financing Activities                        :      -1,935,934.20
+  Net Increase in Cash & Cash Equivalent              :        -443,486.89
+  Cash & Cash Equivalent at The Beginning of The Year :         987,169.16
+  Cash & Cash Equivalent at The End of The Year       :         543,682.28
+
+ 
+ 
+ 

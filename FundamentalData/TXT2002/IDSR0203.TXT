@@ -1,0 +1,66 @@
+6
+IDSR0203.TXT
+
+IDSR
+Indosiar Visual Mandiri Tbk
+Af          :
+Sector Code : 99
+Sector Name : OTHERS TRADE, SERVICES & INVESTMENT
+
+(In thousand rupiah except Par Value, Closing Price and Ratios)
+
+Financial Statement Date    : 31-Mar-2002
+Fiscal Year Ends            : Dec
+Months Covered in Income St : 3
+
+Summary of Balance Sheet
+  Receivables               :     268,748,902.57
+  Inventories               :     160,059,180.05
+  Current Assets            :     569,889,655.07
+  Fixed Assets              :     349,034,413.11
+  Other Asstes              :       3,335,974.26
+  Total Assets              :     977,080,510.15
+  Current Liabilities       :     175,370,956.88
+  Longterm Liabiities       :     281,774,605.02
+  Total Liabilities         :     457,145,561.90
+  Authorized                :       4,000,000.00
+  Paid-up Capital           :     497,290,750.75
+  Par Value                 :                250
+  Paid-up Capital Shares    :       1,989,163.00
+  Retained Earnings         :     -87,972,344.23
+  Total Equity              :     519,934,948.25
+  Minority Interest         :               0.00
+
+Summary of Income Statement
+  Total Sales               :     179,686,007.21
+  Cost of Good Sold         :     119,868,357.42
+  Gross Profit              :      59,817,649.79
+  Operating Profit          :      59,817,649.79
+  Other Income              :     -13,382,699.63
+  Eearning Before Tax       :      46,434,950.16
+  Tax                       :       4,235,136.79
+  Net Income                :      42,199,813.37
+  Closing Price             :             700.00
+
+Per Share Data (Rp)
+  Eps                       :              84.86
+  Book Value                :             261.38
+
+Financial Ratios
+  Debt Equity Ratio (X)     :                .88
+  Roa (%)                   :              17.28
+  Roe (%)                   :              32.47
+  Npm (%)                   :              23.49
+  Opm (%)                   :              33.29
+
+Cash Flow
+  CF from Operating Activities                        :      54,590,086.69
+  CF from Investing Activities                        :     -38,980,466.78
+  CF from Financing Activities                        :     -16,096,875.32
+  Net Increase in Cash & Cash Equivalent              :        -487,255.41
+  Cash & Cash Equivalent at The Beginning of The Year :      39,720,103.63
+  Cash & Cash Equivalent at The End of The Year       :      39,232,848.23
+
+ 
+ 
+ 

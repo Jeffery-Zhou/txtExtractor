@@ -1,0 +1,66 @@
+6
+SMSM0309.TXT
+
+SMSM
+Selamat Sempurna Tbk.
+Af          :
+Sector Code : 42
+Sector Name : AUTOMOTIVE AND COMPONENTS
+
+(In thousand rupiah except Par Value, Closing Price and Ratios)
+
+Financial Statement Date    : 30-Sep-2003
+Fiscal Year Ends            : Dec
+Months Covered in Income St : 9
+
+Summary of Balance Sheet
+  Receivables               :     141,999,908.28
+  Inventories               :     120,150,453.75
+  Current Assets            :     330,044,800.50
+  Fixed Assets              :     256,434,321.23
+  Other Asstes              :       3,763,579.47
+  Total Assets              :     612,489,095.74
+  Current Liabilities       :      76,112,490.29
+  Longterm Liabiities       :     122,638,087.79
+  Total Liabilities         :     200,161,173.25
+  Authorized                :       2,000,000.00
+  Paid-up Capital           :     129,866,880.00
+  Par Value                 :                100
+  Paid-up Capital Shares    :       1,298,668.80
+  Retained Earnings         :     204,462,015.83
+  Total Equity              :     351,845,262.47
+  Minority Interest         :      60,482,660.02
+
+Summary of Income Statement
+  Total Sales               :     494,297,867.08
+  Cost of Good Sold         :     369,355,527.05
+  Gross Profit              :     124,942,340.04
+  Operating Profit          :      74,969,026.84
+  Other Income              :      -3,930,066.39
+  Eearning Before Tax       :      71,038,960.45
+  Tax                       :      20,706,294.39
+  Net Income                :      42,416,058.91
+  Closing Price             :             270.00
+
+Per Share Data (Rp)
+  Eps                       :              43.55
+  Book Value                :             270.93
+
+Financial Ratios
+  Debt Equity Ratio (X)     :                .57
+  Roa (%)                   :               9.23
+  Roe (%)                   :              16.07
+  Npm (%)                   :              11.44
+  Opm (%)                   :              20.22
+
+Cash Flow
+  CF from Operating Activities                        :      36,968,431.41
+  CF from Investing Activities                        :     -51,271,664.80
+  CF from Financing Activities                        :     -43,946,134.14
+  Net Increase in Cash & Cash Equivalent              :     -58,249,367.54
+  Cash & Cash Equivalent at The Beginning of The Year :      94,030,353.34
+  Cash & Cash Equivalent at The End of The Year       :      35,780,985.80
+
+ 
+ 
+ 

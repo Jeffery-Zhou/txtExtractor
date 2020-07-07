@@ -1,0 +1,66 @@
+6
+ARTA0312.TXT
+
+ARTA
+Artha Securities Tbk
+Af          :
+Sector Code : 83
+Sector Name : SECURITIES COMPANY
+
+(In thousand rupiah except Par Value, Closing Price and Ratios)
+
+Financial Statement Date    : 31-Dec-2003
+Fiscal Year Ends            : Dec
+Months Covered in Income St : 12
+
+Summary of Balance Sheet
+  Receivables               :      58,180,244.33
+  Inventories               :               0.00
+  Current Assets            :               0.00
+  Fixed Assets              :       4,196,197.58
+  Other Asstes              :       4,673,268.41
+  Total Assets              :     117,583,480.08
+  Current Liabilities       :               0.00
+  Longterm Liabiities       :               0.00
+  Total Liabilities         :      51,714,676.35
+  Authorized                :         850,000.00
+  Paid-up Capital           :      58,000,000.00
+  Par Value                 :                200
+  Paid-up Capital Shares    :         290,000.00
+  Retained Earnings         :       6,389,031.97
+  Total Equity              :      65,868,803.73
+  Minority Interest         :               0.00
+
+Summary of Income Statement
+  Total Sales               :      13,875,308.21
+  Cost of Good Sold         :       8,627,725.59
+  Gross Profit              :       5,247,582.62
+  Operating Profit          :       5,247,582.62
+  Other Income              :        -728,333.09
+  Eearning Before Tax       :       4,519,249.53
+  Tax                       :       1,019,694.95
+  Net Income                :       3,499,554.58
+  Closing Price             :             400.00
+
+Per Share Data (Rp)
+  Eps                       :              12.07
+  Book Value                :             227.13
+
+Financial Ratios
+  Debt Equity Ratio (X)     :                .79
+  Roa (%)                   :               2.98
+  Roe (%)                   :               5.31
+  Npm (%)                   :              25.22
+  Opm (%)                   :              37.82
+
+Cash Flow
+  CF from Operating Activities                        :      23,821,793.86
+  CF from Investing Activities                        :      -2,612,953.88
+  CF from Financing Activities                        :      -5,025,000.00
+  Net Increase in Cash & Cash Equivalent              :      16,183,839.97
+  Cash & Cash Equivalent at The Beginning of The Year :       2,345,393.11
+  Cash & Cash Equivalent at The End of The Year       :      18,529,233.08
+
+ 
+ 
+ 

@@ -1,0 +1,66 @@
+6
+TIRA0209.TXT
+
+TIRA
+Tira Austenite Tbk
+Af          :
+Sector Code : 91
+Sector Name : WHOLESALE (DURABLE & NON-DURABLE GOODS)
+
+(In thousand rupiah except Par Value, Closing Price and Ratios)
+
+Financial Statement Date    : 30-Sep-2002
+Fiscal Year Ends            : Dec
+Months Covered in Income St : 9
+
+Summary of Balance Sheet
+  Receivables               :      16,619,917.40
+  Inventories               :      35,082,508.13
+  Current Assets            :      69,052,298.34
+  Fixed Assets              :      11,582,985.27
+  Other Asstes              :       3,412,089.34
+  Total Assets              :     100,989,350.37
+  Current Liabilities       :      32,223,366.34
+  Longterm Liabiities       :       1,591,076.69
+  Total Liabilities         :      33,814,443.03
+  Authorized                :         224,000.00
+  Paid-up Capital           :      56,000,000.00
+  Par Value                 :               1000
+  Paid-up Capital Shares    :          56,000.00
+  Retained Earnings         :        -509,030.76
+  Total Equity              :      64,276,230.70
+  Minority Interest         :       2,898,676.64
+
+Summary of Income Statement
+  Total Sales               :      72,453,663.01
+  Cost of Good Sold         :      43,285,448.09
+  Gross Profit              :      29,168,214.93
+  Operating Profit          :       6,014,827.75
+  Other Income              :        -169,294.62
+  Eearning Before Tax       :       5,845,533.13
+  Tax                       :       1,070,473.82
+  Net Income                :       4,266,128.74
+  Closing Price             :           2,000.00
+
+Per Share Data (Rp)
+  Eps                       :             101.57
+  Book Value                :           1,147.79
+
+Financial Ratios
+  Debt Equity Ratio (X)     :                .53
+  Roa (%)                   :               5.63
+  Roe (%)                   :               8.85
+  Npm (%)                   :               7.85
+  Opm (%)                   :              11.07
+
+Cash Flow
+  CF from Operating Activities                        :       3,329,835.65
+  CF from Investing Activities                        :      11,653,455.37
+  CF from Financing Activities                        :      -5,057,182.66
+  Net Increase in Cash & Cash Equivalent              :       9,926,108.36
+  Cash & Cash Equivalent at The Beginning of The Year :       3,386,064.96
+  Cash & Cash Equivalent at The End of The Year       :      13,312,173.31
+
+ 
+ 
+ 

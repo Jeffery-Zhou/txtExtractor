@@ -1,0 +1,66 @@
+6
+SCMA0212.TXT
+
+SCMA
+Surya Citra Media Tbk
+Af          :
+Sector Code : 99
+Sector Name : OTHERS TRADE, SERVICES & INVESTMENT
+
+(In thousand rupiah except Par Value, Closing Price and Ratios)
+
+Financial Statement Date    : 31-Dec-2002
+Fiscal Year Ends            : Dec
+Months Covered in Income St : 12
+
+Summary of Balance Sheet
+  Receivables               :     246,105,194.00
+  Inventories               :     242,656,027.00
+  Current Assets            :     766,708,528.00
+  Fixed Assets              :     286,623,386.00
+  Other Asstes              :       2,922,896.00
+  Total Assets              :   1,827,398,244.00
+  Current Liabilities       :     502,799,593.00
+  Longterm Liabiities       :     165,706,650.00
+  Total Liabilities         :     668,506,243.00
+  Authorized                :       6,000,000.00
+  Paid-up Capital           :     468,750,000.00
+  Par Value                 :                250
+  Paid-up Capital Shares    :       1,875,000.00
+  Retained Earnings         :     162,201,323.00
+  Total Equity              :   1,158,892,001.00
+  Minority Interest         :               0.00
+
+Summary of Income Statement
+  Total Sales               :     800,101,931.00
+  Cost of Good Sold         :     545,582,144.00
+  Gross Profit              :     254,519,787.00
+  Operating Profit          :     254,519,787.00
+  Other Income              :     -38,327,358.00
+  Eearning Before Tax       :     216,192,429.00
+  Tax                       :      78,629,642.00
+  Net Income                :     180,783,590.00
+  Closing Price             :             575.00
+
+Per Share Data (Rp)
+  Eps                       :              96.42
+  Book Value                :             618.08
+
+Financial Ratios
+  Debt Equity Ratio (X)     :                .58
+  Roa (%)                   :               9.89
+  Roe (%)                   :              15.60
+  Npm (%)                   :              22.60
+  Opm (%)                   :              31.81
+
+Cash Flow
+  CF from Operating Activities                        :     121,870,212.00
+  CF from Investing Activities                        :    -400,548,430.00
+  CF from Financing Activities                        :     287,741,558.00
+  Net Increase in Cash & Cash Equivalent              :       9,063,340.00
+  Cash & Cash Equivalent at The Beginning of The Year :     242,459,808.00
+  Cash & Cash Equivalent at The End of The Year       :     251,523,148.00
+
+ 
+ 
+ 

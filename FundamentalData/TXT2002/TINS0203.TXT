@@ -1,0 +1,66 @@
+6
+TINS0203.TXT
+
+TINS
+Timah Tbk
+Af          :
+Sector Code : 23
+Sector Name : METAL AND MINERAL MINING
+
+(In thousand rupiah except Par Value, Closing Price and Ratios)
+
+Financial Statement Date    : 31-Mar-2002
+Fiscal Year Ends            : Dec
+Months Covered in Income St : 3
+
+Summary of Balance Sheet
+  Receivables               :     167,482,000.00
+  Inventories               :     660,878,000.00
+  Current Assets            :   1,064,014,000.00
+  Fixed Assets              :     641,520,000.00
+  Other Asstes              :     110,019,000.00
+  Total Assets              :   1,961,080,000.00
+  Current Liabilities       :     425,922,000.00
+  Longterm Liabiities       :      54,744,000.00
+  Total Liabilities         :     480,666,000.00
+  Authorized                :       1,000,000.00
+  Paid-up Capital           :     251,651,000.00
+  Par Value                 :                500
+  Paid-up Capital Shares    :         503,302.00
+  Retained Earnings         :   1,109,576,000.00
+  Total Equity              :   1,480,402,000.00
+  Minority Interest         :          12,000.00
+
+Summary of Income Statement
+  Total Sales               :     241,713,000.00
+  Cost of Good Sold         :     208,936,000.00
+  Gross Profit              :      32,777,000.00
+  Operating Profit          :       6,315,000.00
+  Other Income              :       2,003,000.00
+  Eearning Before Tax       :       7,295,000.00
+  Tax                       :       6,164,000.00
+  Net Income                :       1,132,000.00
+  Closing Price             :             650.00
+
+Per Share Data (Rp)
+  Eps                       :               9.00
+  Book Value                :           2,941.38
+
+Financial Ratios
+  Debt Equity Ratio (X)     :                .32
+  Roa (%)                   :                .23
+  Roe (%)                   :                .31
+  Npm (%)                   :                .47
+  Opm (%)                   :               2.61
+
+Cash Flow
+  CF from Operating Activities                        :     -51,857,000.00
+  CF from Investing Activities                        :     -13,945,000.00
+  CF from Financing Activities                        :      50,895,000.00
+  Net Increase in Cash & Cash Equivalent              :     -14,907,000.00
+  Cash & Cash Equivalent at The Beginning of The Year :     120,599,000.00
+  Cash & Cash Equivalent at The End of The Year       :     105,692,000.00
+
+ 
+ 
+ 

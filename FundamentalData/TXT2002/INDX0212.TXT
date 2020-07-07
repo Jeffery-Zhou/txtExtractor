@@ -1,0 +1,66 @@
+6
+INDX0212.TXT
+
+INDX
+Indoexchange Tbk
+Af          :
+Sector Code : 97
+Sector Name : COMPUTER AND SERVICES
+
+(In thousand rupiah except Par Value, Closing Price and Ratios)
+
+Financial Statement Date    : 31-Dec-2002
+Fiscal Year Ends            : Dec
+Months Covered in Income St : 12
+
+Summary of Balance Sheet
+  Receivables               :         244,889.83
+  Inventories               :               0.00
+  Current Assets            :      14,089,169.53
+  Fixed Assets              :       2,743,695.78
+  Other Asstes              :       2,847,187.90
+  Total Assets              :      30,050,552.20
+  Current Liabilities       :         778,790.89
+  Longterm Liabiities       :               0.00
+  Total Liabilities         :         778,790.89
+  Authorized                :       4,000,000.00
+  Paid-up Capital           :      30,666,250.00
+  Par Value                 :                 25
+  Paid-up Capital Shares    :       1,226,650.00
+  Retained Earnings         :     -10,163,255.39
+  Total Equity              :      29,305,556.68
+  Minority Interest         :         -33,795.37
+
+Summary of Income Statement
+  Total Sales               :       1,663,425.27
+  Cost of Good Sold         :         663,141.84
+  Gross Profit              :       1,000,283.43
+  Operating Profit          :      -7,356,241.60
+  Other Income              :       1,447,151.10
+  Eearning Before Tax       :      -5,909,090.50
+  Tax                       :      -1,883,173.75
+  Net Income                :      -3,858,059.93
+  Closing Price             :               5.00
+
+Per Share Data (Rp)
+  Eps                       :              -3.15
+  Book Value                :              23.89
+
+Financial Ratios
+  Debt Equity Ratio (X)     :                .03
+  Roa (%)                   :             -12.84
+  Roe (%)                   :             -13.16
+  Npm (%)                   :            -231.93
+  Opm (%)                   :            -442.23
+
+Cash Flow
+  CF from Operating Activities                        :      -2,311,289.39
+  CF from Investing Activities                        :     -10,777,691.61
+  CF from Financing Activities                        :          -4,523.64
+  Net Increase in Cash & Cash Equivalent              :     -13,093,504.64
+  Cash & Cash Equivalent at The Beginning of The Year :      16,181,344.95
+  Cash & Cash Equivalent at The End of The Year       :       3,087,840.31
+
+ 
+ 
+ 

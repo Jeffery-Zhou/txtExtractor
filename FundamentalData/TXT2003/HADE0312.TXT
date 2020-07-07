@@ -1,0 +1,66 @@
+6
+HADE0312.TXT
+
+HADE
+Hortus Danavest Tbk
+Af          :
+Sector Code : 83
+Sector Name : SECURITIES COMPANY
+
+(In thousand rupiah except Par Value, Closing Price and Ratios)
+
+Financial Statement Date    : 31-Dec-2003
+Fiscal Year Ends            : Dec
+Months Covered in Income St : 12
+
+Summary of Balance Sheet
+  Receivables               :      11,934,747.42
+  Inventories               :               0.00
+  Current Assets            :               0.00
+  Fixed Assets              :         426,535.09
+  Other Asstes              :         500,563.50
+  Total Assets              :      40,144,550.73
+  Current Liabilities       :               0.00
+  Longterm Liabiities       :               0.00
+  Total Liabilities         :      12,841,582.08
+  Authorized                :         560,000.00
+  Paid-up Capital           :      28,000,000.00
+  Par Value                 :                200
+  Paid-up Capital Shares    :         140,000.00
+  Retained Earnings         :      -4,697,031.35
+  Total Equity              :      27,302,968.65
+  Minority Interest         :               0.00
+
+Summary of Income Statement
+  Total Sales               :       5,617,557.97
+  Cost of Good Sold         :       3,372,193.17
+  Gross Profit              :       2,245,364.80
+  Operating Profit          :       2,245,364.80
+  Other Income              :        -444,150.93
+  Eearning Before Tax       :       1,801,213.87
+  Tax                       :        -138,224.61
+  Net Income                :       1,939,438.48
+  Closing Price             :
+
+Per Share Data (Rp)
+  Eps                       :              13.85
+  Book Value                :             195.02
+
+Financial Ratios
+  Debt Equity Ratio (X)     :                .47
+  Roa (%)                   :               4.83
+  Roe (%)                   :               7.10
+  Npm (%)                   :              34.52
+  Opm (%)                   :              39.97
+
+Cash Flow
+  CF from Operating Activities                        :      -2,828,732.85
+  CF from Investing Activities                        :     -11,550,691.84
+  CF from Financing Activities                        :      16,000,000.00
+  Net Increase in Cash & Cash Equivalent              :       1,620,575.31
+  Cash & Cash Equivalent at The Beginning of The Year :       1,577,046.31
+  Cash & Cash Equivalent at The End of The Year       :       3,197,621.62
+
+ 
+ 
+ 

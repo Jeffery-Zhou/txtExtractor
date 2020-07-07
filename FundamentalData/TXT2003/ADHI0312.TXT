@@ -1,0 +1,66 @@
+6
+ADHI0312.TXT
+
+ADHI
+Adhi Karya (Persero) Tbk
+Af          :
+Sector Code : 62
+Sector Name : BUILDING CONSTRUCTION
+
+(In thousand rupiah except Par Value, Closing Price and Ratios)
+
+Financial Statement Date    : 31-Dec-2003
+Fiscal Year Ends            : Dec
+Months Covered in Income St : 12
+
+Summary of Balance Sheet
+  Receivables               :     805,687,649.24
+  Inventories               :     108,217,615.79
+  Current Assets            :   1,187,455,581.77
+  Fixed Assets              :      98,637,417.56
+  Other Asstes              :      25,639,645.98
+  Total Assets              :   1,343,342,563.54
+  Current Liabilities       :     742,445,553.98
+  Longterm Liabiities       :     362,786,800.40
+  Total Liabilities         :   1,105,232,354.39
+  Authorized                :       5,440,000.00
+  Paid-up Capital           :     136,000,000.00
+  Par Value                 :                100
+  Paid-up Capital Shares    :       1,360,000.00
+  Retained Earnings         :      90,226,209.73
+  Total Equity              :     227,130,629.43
+  Minority Interest         :      10,979,579.73
+
+Summary of Income Statement
+  Total Sales               :   2,234,985,183.07
+  Cost of Good Sold         :   2,073,998,548.32
+  Gross Profit              :     160,986,634.75
+  Operating Profit          :     116,844,526.59
+  Other Income              :     -49,046,198.56
+  Eearning Before Tax       :      67,798,328.02
+  Tax                       :      21,454,039.53
+  Net Income                :      44,337,963.87
+  Closing Price             :
+
+Per Share Data (Rp)
+  Eps                       :              32.60
+  Book Value                :             167.01
+
+Financial Ratios
+  Debt Equity Ratio (X)     :               4.87
+  Roa (%)                   :               3.30
+  Roe (%)                   :              19.52
+  Npm (%)                   :               1.98
+  Opm (%)                   :               5.23
+
+Cash Flow
+  CF from Operating Activities                        :       5,735,680.09
+  CF from Investing Activities                        :      49,147,946.93
+  CF from Financing Activities                        :      35,045,603.15
+  Net Increase in Cash & Cash Equivalent              :      89,929,230.18
+  Cash & Cash Equivalent at The Beginning of The Year :      39,702,742.74
+  Cash & Cash Equivalent at The End of The Year       :     130,041,429.84
+
+ 
+ 
+ 

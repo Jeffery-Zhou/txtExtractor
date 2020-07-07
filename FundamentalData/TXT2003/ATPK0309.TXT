@@ -1,0 +1,66 @@
+6
+ATPK0309.TXT
+
+ATPK
+Anugrah Tambak Perkasindo Tbk
+Af          :
+Sector Code : 14
+Sector Name : FISHERY
+
+(In thousand rupiah except Par Value, Closing Price and Ratios)
+
+Financial Statement Date    : 30-Sep-2003
+Fiscal Year Ends            : Dec
+Months Covered in Income St : 9
+
+Summary of Balance Sheet
+  Receivables               :       1,110,827.87
+  Inventories               :       7,717,647.76
+  Current Assets            :      10,528,542.82
+  Fixed Assets              :      77,468,727.83
+  Other Asstes              :       9,223,345.00
+  Total Assets              :      97,749,311.74
+  Current Liabilities       :       7,778,726.97
+  Longterm Liabiities       :               0.00
+  Total Liabilities         :       7,778,726.97
+  Authorized                :       1,000,000.00
+  Paid-up Capital           :      55,000,000.00
+  Par Value                 :                200
+  Paid-up Capital Shares    :         275,000.00
+  Retained Earnings         :      -1,718,071.82
+  Total Equity              :      89,970,584.77
+  Minority Interest         :               0.00
+
+Summary of Income Statement
+  Total Sales               :      11,365,370.17
+  Cost of Good Sold         :       9,524,539.70
+  Gross Profit              :       1,840,830.47
+  Operating Profit          :         627,238.84
+  Other Income              :      -5,067,936.69
+  Eearning Before Tax       :      -4,440,697.85
+  Tax                       :               0.00
+  Net Income                :      -4,440,697.85
+  Closing Price             :             130.00
+
+Per Share Data (Rp)
+  Eps                       :             -21.53
+  Book Value                :             327.17
+
+Financial Ratios
+  Debt Equity Ratio (X)     :                .09
+  Roa (%)                   :              -6.06
+  Roe (%)                   :              -6.58
+  Npm (%)                   :             -52.10
+  Opm (%)                   :               7.36
+
+Cash Flow
+  CF from Operating Activities                        :       8,734,677.83
+  CF from Investing Activities                        :      -7,269,059.65
+  CF from Financing Activities                        :         -75,153.39
+  Net Increase in Cash & Cash Equivalent              :       1,390,464.80
+  Cash & Cash Equivalent at The Beginning of The Year :         309,602.40
+  Cash & Cash Equivalent at The End of The Year       :       1,700,067.19
+
+ 
+ 
+ 

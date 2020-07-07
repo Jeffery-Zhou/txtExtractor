@@ -1,0 +1,66 @@
+6
+CNTX0206.TXT
+
+CNTX
+Centex
+Af          :
+Sector Code : 43
+Sector Name : TEXTILE, GARMENT
+
+(In thousand rupiah except Par Value, Closing Price and Ratios)
+
+Financial Statement Date    : 30-Jun-2002
+Fiscal Year Ends            : Mar
+Months Covered in Income St : 15
+
+Summary of Balance Sheet
+  Receivables               :      31,729,000.00
+  Inventories               :      56,738,000.00
+  Current Assets            :     117,566,000.00
+  Fixed Assets              :     123,337,000.00
+  Other Asstes              :       5,766,000.00
+  Total Assets              :     249,380,000.00
+  Current Liabilities       :      62,488,000.00
+  Longterm Liabiities       :      20,590,000.00
+  Total Liabilities         :      83,078,000.00
+  Authorized                :          10,000.00
+  Paid-up Capital           :       6,500,000.00
+  Par Value                 :               1000
+  Paid-up Capital Shares    :           6,500.00
+  Retained Earnings         :     141,793,000.00
+  Total Equity              :     166,302,000.00
+  Minority Interest         :               0.00
+
+Summary of Income Statement
+  Total Sales               :      56,256,000.00
+  Cost of Good Sold         :      49,458,000.00
+  Gross Profit              :       6,798,000.00
+  Operating Profit          :         -76,000.00
+  Other Income              :       2,326,000.00
+  Eearning Before Tax       :       2,250,000.00
+  Tax                       :         788,000.00
+  Net Income                :       1,462,000.00
+  Closing Price             :           6,500.00
+
+Per Share Data (Rp)
+  Eps                       :             179.94
+  Book Value                :          25,584.92
+
+Financial Ratios
+  Debt Equity Ratio (X)     :                .50
+  Roa (%)                   :                .47
+  Roe (%)                   :                .70
+  Npm (%)                   :               2.60
+  Opm (%)                   :               -.14
+
+Cash Flow
+  CF from Operating Activities                        :     -10,622,000.00
+  CF from Investing Activities                        :        -590,000.00
+  CF from Financing Activities                        :      13,678,000.00
+  Net Increase in Cash & Cash Equivalent              :       2,627,000.00
+  Cash & Cash Equivalent at The Beginning of The Year :       5,811,000.00
+  Cash & Cash Equivalent at The End of The Year       :       8,438,000.00
+
+ 
+ 
+ 

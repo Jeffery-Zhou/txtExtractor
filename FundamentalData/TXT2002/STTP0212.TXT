@@ -1,0 +1,66 @@
+6
+STTP0212.TXT
+
+STTP
+Siantar Top Tbk
+Af          :
+Sector Code : 51
+Sector Name : FOOD AND BEVERAGES
+
+(In thousand rupiah except Par Value, Closing Price and Ratios)
+
+Financial Statement Date    : 31-Dec-2002
+Fiscal Year Ends            : Dec
+Months Covered in Income St : 12
+
+Summary of Balance Sheet
+  Receivables               :      67,327,166.76
+  Inventories               :     112,023,167.39
+  Current Assets            :     216,809,033.17
+  Fixed Assets              :     244,296,916.67
+  Other Asstes              :               0.00
+  Total Assets              :     470,451,512.46
+  Current Liabilities       :     169,567,495.86
+  Longterm Liabiities       :      31,567,679.42
+  Total Liabilities         :     201,135,175.28
+  Authorized                :       3,000,000.00
+  Paid-up Capital           :     131,000,000.00
+  Par Value                 :                100
+  Paid-up Capital Shares    :       1,310,000.00
+  Retained Earnings         :     136,383,930.32
+  Total Equity              :     269,316,337.18
+  Minority Interest         :               0.00
+
+Summary of Income Statement
+  Total Sales               :     627,773,970.83
+  Cost of Good Sold         :     512,468,713.66
+  Gross Profit              :     115,305,257.16
+  Operating Profit          :      39,313,966.03
+  Other Income              :       3,855,470.49
+  Eearning Before Tax       :      43,169,436.51
+  Tax                       :      12,904,318.07
+  Net Income                :      30,265,118.44
+  Closing Price             :             260.00
+
+Per Share Data (Rp)
+  Eps                       :              23.10
+  Book Value                :             205.58
+
+Financial Ratios
+  Debt Equity Ratio (X)     :                .75
+  Roa (%)                   :               6.43
+  Roe (%)                   :              11.24
+  Npm (%)                   :               4.82
+  Opm (%)                   :               6.26
+
+Cash Flow
+  CF from Operating Activities                        :     -22,016,186.84
+  CF from Investing Activities                        :      23,966,962.99
+  CF from Financing Activities                        :      -6,056,428.19
+  Net Increase in Cash & Cash Equivalent              :      -4,105,652.04
+  Cash & Cash Equivalent at The Beginning of The Year :      16,661,497.88
+  Cash & Cash Equivalent at The End of The Year       :      12,555,845.84
+
+ 
+ 
+ 

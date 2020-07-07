@@ -1,0 +1,66 @@
+6
+AISA0312.TXT
+
+AISA
+Tiga Pilar Sejahtera Food Tbk
+Af          :
+Sector Code : 51
+Sector Name : FOOD AND BEVERAGES
+
+(In thousand rupiah except Par Value, Closing Price and Ratios)
+
+Financial Statement Date    : 31-Dec-2003
+Fiscal Year Ends            : Dec
+Months Covered in Income St : 12
+
+Summary of Balance Sheet
+  Receivables               :      28,135,995.74
+  Inventories               :      26,798,848.22
+  Current Assets            :      99,750,816.31
+  Fixed Assets              :     214,786,246.82
+  Other Asstes              :               0.00
+  Total Assets              :     339,006,694.76
+  Current Liabilities       :      81,980,166.84
+  Longterm Liabiities       :     159,471,004.70
+  Total Liabilities         :     241,451,171.53
+  Authorized                :       1,797,500.00
+  Paid-up Capital           :     249,500,000.00
+  Par Value                 :            500&200
+  Paid-up Capital Shares    :       1,045,000.00
+  Retained Earnings         :    -173,436,957.96
+  Total Equity              :      97,444,780.75
+  Minority Interest         :         110,742.48
+
+Summary of Income Statement
+  Total Sales               :     167,419,561.32
+  Cost of Good Sold         :     122,619,514.75
+  Gross Profit              :      44,800,046.57
+  Operating Profit          :      18,960,072.04
+  Other Income              :     -26,051,815.41
+  Eearning Before Tax       :      -7,091,743.36
+  Tax                       :       1,269,243.70
+  Net Income                :      -8,461,339.29
+  Closing Price             :             225.00
+
+Per Share Data (Rp)
+  Eps                       :              -8.10
+  Book Value                :              93.25
+
+Financial Ratios
+  Debt Equity Ratio (X)     :               2.48
+  Roa (%)                   :              -2.50
+  Roe (%)                   :              -8.68
+  Npm (%)                   :              -5.05
+  Opm (%)                   :              11.32
+
+Cash Flow
+  CF from Operating Activities                        :       6,855,112.34
+  CF from Investing Activities                        :    -159,902,700.72
+  CF from Financing Activities                        :     151,520,153.03
+  Net Increase in Cash & Cash Equivalent              :      -1,527,435.35
+  Cash & Cash Equivalent at The Beginning of The Year :      14,571,010.76
+  Cash & Cash Equivalent at The End of The Year       :      13,043,575.40
+
+ 
+ 
+ 

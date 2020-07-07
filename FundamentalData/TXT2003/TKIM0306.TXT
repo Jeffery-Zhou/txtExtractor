@@ -1,0 +1,66 @@
+6
+TKIM0306.TXT
+
+TKIM
+Tjiwi Kimia Tbk
+Af          :
+Sector Code : 38
+Sector Name : PULP & PAPER
+
+(In thousand rupiah except Par Value, Closing Price and Ratios)
+
+Financial Statement Date    : 30-Jun-2003
+Fiscal Year Ends            : Dec
+Months Covered in Income St : 6
+
+Summary of Balance Sheet
+  Receivables               :   1,180,356,079.25
+  Inventories               :   1,305,211,957.17
+  Current Assets            :   3,858,748,426.88
+  Fixed Assets              :  10,355,079,478.63
+  Other Asstes              :      44,537,699.36
+  Total Assets              :  17,340,881,984.07
+  Current Liabilities       :  13,740,211,994.85
+  Longterm Liabiities       :               0.00
+  Total Liabilities         :  13,740,211,994.85
+  Authorized                :       5,000,000.00
+  Paid-up Capital           :   1,335,702,240.00
+  Par Value                 :               1000
+  Paid-up Capital Shares    :       1,335,702.24
+  Retained Earnings         :  -1,099,996,898.22
+  Total Equity              :   3,600,669,989.23
+  Minority Interest         :               0.00
+
+Summary of Income Statement
+  Total Sales               :   3,857,369,256.07
+  Cost of Good Sold         :   3,022,663,385.11
+  Gross Profit              :     834,705,870.97
+  Operating Profit          :     410,119,090.72
+  Other Income              :    -530,095,153.35
+  Eearning Before Tax       :    -119,976,062.63
+  Tax                       :               0.00
+  Net Income                :    -119,976,062.63
+  Closing Price             :             400.00
+
+Per Share Data (Rp)
+  Eps                       :            -179.64
+  Book Value                :           2,695.71
+
+Financial Ratios
+  Debt Equity Ratio (X)     :               3.82
+  Roa (%)                   :              -1.38
+  Roe (%)                   :              -6.66
+  Npm (%)                   :              -6.22
+  Opm (%)                   :              21.26
+
+Cash Flow
+  CF from Operating Activities                        :     119,045,557.71
+  CF from Investing Activities                        :    -237,250,983.28
+  CF from Financing Activities                        :      67,311,283.66
+  Net Increase in Cash & Cash Equivalent              :     -50,894,141.91
+  Cash & Cash Equivalent at The Beginning of The Year :     201,594,165.98
+  Cash & Cash Equivalent at The End of The Year       :     150,700,024.07
+
+ 
+ 
+ 

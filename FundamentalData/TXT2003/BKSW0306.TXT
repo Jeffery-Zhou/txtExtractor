@@ -1,0 +1,66 @@
+6
+BKSW0306.TXT
+
+BKSW
+Bank Kesawan
+Af          :
+Sector Code : 81
+Sector Name : BANK
+
+(In thousand rupiah except Par Value, Closing Price and Ratios)
+
+Financial Statement Date    : 30-Jun-2003
+Fiscal Year Ends            : Dec
+Months Covered in Income St : 6
+
+Summary of Balance Sheet
+  Receivables               :               0.00
+  Inventories               :               0.00
+  Current Assets            :               0.00
+  Fixed Assets              :      37,125,000.00
+  Other Asstes              :      44,964,000.00
+  Total Assets              :   1,176,611,000.00
+  Current Liabilities       :               0.00
+  Longterm Liabiities       :               0.00
+  Total Liabilities         :   1,081,080,000.00
+  Authorized                :       1,000,000.00
+  Paid-up Capital           :     100,000,000.00
+  Par Value                 :                250
+  Paid-up Capital Shares    :         400,000.00
+  Retained Earnings         :     -19,992,000.00
+  Total Equity              :      95,531,000.00
+  Minority Interest         :               0.00
+
+Summary of Income Statement
+  Total Sales               :      87,591,000.00
+  Cost of Good Sold         :      81,783,000.00
+  Gross Profit              :       5,808,000.00
+  Operating Profit          :       5,808,000.00
+  Other Income              :       1,538,000.00
+  Eearning Before Tax       :       7,346,000.00
+  Tax                       :       1,608,000.00
+  Net Income                :       5,738,000.00
+  Closing Price             :             415.00
+
+Per Share Data (Rp)
+  Eps                       :              28.69
+  Book Value                :             238.83
+
+Financial Ratios
+  Debt Equity Ratio (X)     :              11.32
+  Roa (%)                   :                .98
+  Roe (%)                   :              12.01
+  Npm (%)                   :              13.10
+  Opm (%)                   :              13.26
+
+Cash Flow
+  CF from Operating Activities                        :    -200,905,000.00
+  CF from Investing Activities                        :     205,753,000.00
+  CF from Financing Activities                        :      19,700,000.00
+  Net Increase in Cash & Cash Equivalent              :      24,548,000.00
+  Cash & Cash Equivalent at The Beginning of The Year :      61,234,000.00
+  Cash & Cash Equivalent at The End of The Year       :      85,782,000.00
+
+ 
+ 
+ 

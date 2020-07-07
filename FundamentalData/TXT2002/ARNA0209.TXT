@@ -1,0 +1,66 @@
+6
+ARNA0209.TXT
+
+ARNA
+Arwana Citramulia Tbk
+Af          :
+Sector Code : 32
+Sector Name : CERAMICS, GLASS, PORCELAIN
+
+(In thousand rupiah except Par Value, Closing Price and Ratios)
+
+Financial Statement Date    : 30-Sep-2002
+Fiscal Year Ends            : Dec
+Months Covered in Income St : 9
+
+Summary of Balance Sheet
+  Receivables               :      36,734,760.32
+  Inventories               :      14,517,228.08
+  Current Assets            :      55,472,628.26
+  Fixed Assets              :     188,436,139.78
+  Other Asstes              :       2,573,355.25
+  Total Assets              :     250,285,494.61
+  Current Liabilities       :      55,657,150.17
+  Longterm Liabiities       :      94,546,810.52
+  Total Liabilities         :     150,203,960.69
+  Authorized                :       1,500,000.00
+  Paid-up Capital           :      54,885,100.00
+  Par Value                 :                100
+  Paid-up Capital Shares    :         548,851.00
+  Retained Earnings         :      21,212,471.68
+  Total Equity              :      74,262,050.86
+  Minority Interest         :      25,819,483.06
+
+Summary of Income Statement
+  Total Sales               :     117,668,725.71
+  Cost of Good Sold         :      76,712,417.35
+  Gross Profit              :      40,956,308.36
+  Operating Profit          :      23,173,741.41
+  Other Income              :      -8,073,307.57
+  Eearning Before Tax       :      15,100,433.84
+  Tax                       :       2,686,885.97
+  Net Income                :      10,001,878.54
+  Closing Price             :             110.00
+
+Per Share Data (Rp)
+  Eps                       :              24.30
+  Book Value                :             135.30
+
+Financial Ratios
+  Debt Equity Ratio (X)     :               2.02
+  Roa (%)                   :               5.33
+  Roe (%)                   :              17.96
+  Npm (%)                   :              11.33
+  Opm (%)                   :              26.26
+
+Cash Flow
+  CF from Operating Activities                        :               0.00
+  CF from Investing Activities                        :               0.00
+  CF from Financing Activities                        :               0.00
+  Net Increase in Cash & Cash Equivalent              :               0.00
+  Cash & Cash Equivalent at The Beginning of The Year :               0.00
+  Cash & Cash Equivalent at The End of The Year       :               0.00
+
+ 
+ 
+ 

@@ -1,0 +1,66 @@
+6
+TSPC0212.TXT
+
+TSPC
+Tempo Scan Pacific Tbk
+Af          :
+Sector Code : 53
+Sector Name : PHARMACEUTICALS
+
+(In thousand rupiah except Par Value, Closing Price and Ratios)
+
+Financial Statement Date    : 31-Dec-2002
+Fiscal Year Ends            : Dec
+Months Covered in Income St : 12
+
+Summary of Balance Sheet
+  Receivables               :     160,953,347.07
+  Inventories               :     245,275,168.01
+  Current Assets            :   1,234,415,779.27
+  Fixed Assets              :     346,961,963.93
+  Other Asstes              :      44,694,341.08
+  Total Assets              :   1,816,535,987.43
+  Current Liabilities       :     307,857,143.79
+  Longterm Liabiities       :      11,534,179.42
+  Total Liabilities         :     319,391,323.21
+  Authorized                :         600,000.00
+  Paid-up Capital           :     225,000,000.00
+  Par Value                 :                500
+  Paid-up Capital Shares    :         450,000.00
+  Retained Earnings         :     966,384,381.49
+  Total Equity              :   1,423,573,023.06
+  Minority Interest         :      73,571,641.16
+
+Summary of Income Statement
+  Total Sales               :   1,959,435,134.71
+  Cost of Good Sold         :   1,090,879,647.03
+  Gross Profit              :     868,555,487.67
+  Operating Profit          :     384,923,354.43
+  Other Income              :      32,047,562.03
+  Eearning Before Tax       :     416,970,916.45
+  Tax                       :      90,403,746.31
+  Net Income                :     316,307,331.82
+  Closing Price             :           4,125.00
+
+Per Share Data (Rp)
+  Eps                       :             702.91
+  Book Value                :           3,163.50
+
+Financial Ratios
+  Debt Equity Ratio (X)     :                .22
+  Roa (%)                   :              17.41
+  Roe (%)                   :              22.22
+  Npm (%)                   :              16.14
+  Opm (%)                   :              19.64
+
+Cash Flow
+  CF from Operating Activities                        :     341,918,200.60
+  CF from Investing Activities                        :     -97,037,584.36
+  CF from Financing Activities                        :    -136,494,101.05
+  Net Increase in Cash & Cash Equivalent              :      63,860,221.83
+  Cash & Cash Equivalent at The Beginning of The Year :     735,568,689.18
+  Cash & Cash Equivalent at The End of The Year       :     799,428,911.02
+
+ 
+ 
+ 

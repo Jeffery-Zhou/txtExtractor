@@ -1,0 +1,66 @@
+6
+PTRO0206.TXT
+
+PTRO
+Petrosea Tbk
+Af          :
+Sector Code : 75
+Sector Name : NON BUILDING CONSTRUCTION
+
+(In thousand rupiah except Par Value, Closing Price and Ratios)
+
+Financial Statement Date    : 30-Jun-2002
+Fiscal Year Ends            : Dec
+Months Covered in Income St : 6
+
+Summary of Balance Sheet
+  Receivables               :     220,232,000.00
+  Inventories               :      34,269,000.00
+  Current Assets            :     359,812,000.00
+  Fixed Assets              :     300,694,000.00
+  Other Asstes              :               0.00
+  Total Assets              :     664,088,000.00
+  Current Liabilities       :     122,629,000.00
+  Longterm Liabiities       :               0.00
+  Total Liabilities         :     122,629,000.00
+  Authorized                :         410,400.00
+  Paid-up Capital           :      51,300,000.00
+  Par Value                 :                500
+  Paid-up Capital Shares    :         102,600.00
+  Retained Earnings         :     479,449,000.00
+  Total Equity              :     541,459,000.00
+  Minority Interest         :               0.00
+
+Summary of Income Statement
+  Total Sales               :     413,053,000.00
+  Cost of Good Sold         :     374,737,000.00
+  Gross Profit              :      38,316,000.00
+  Operating Profit          :      18,532,000.00
+  Other Income              :     -16,641,000.00
+  Eearning Before Tax       :       1,891,000.00
+  Tax                       :       1,642,000.00
+  Net Income                :         249,000.00
+  Closing Price             :           2,200.00
+
+Per Share Data (Rp)
+  Eps                       :               4.85
+  Book Value                :           5,277.38
+
+Financial Ratios
+  Debt Equity Ratio (X)     :                .23
+  Roa (%)                   :                .07
+  Roe (%)                   :                .09
+  Npm (%)                   :                .06
+  Opm (%)                   :               4.49
+
+Cash Flow
+  CF from Operating Activities                        :      31,720,000.00
+  CF from Investing Activities                        :      -7,641,000.00
+  CF from Financing Activities                        :      -1,598,000.00
+  Net Increase in Cash & Cash Equivalent              :      22,481,000.00
+  Cash & Cash Equivalent at The Beginning of The Year :      52,194,000.00
+  Cash & Cash Equivalent at The End of The Year       :      74,675,000.00
+
+ 
+ 
+ 

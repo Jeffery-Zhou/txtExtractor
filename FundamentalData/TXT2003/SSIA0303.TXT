@@ -1,0 +1,66 @@
+6
+SSIA0303.TXT
+
+SSIA
+Surya Semesta Internusa Tbk
+Af          :
+Sector Code : 62
+Sector Name : BUILDING CONSTRUCTION
+
+(In thousand rupiah except Par Value, Closing Price and Ratios)
+
+Financial Statement Date    : 31-Mar-2003
+Fiscal Year Ends            : Dec
+Months Covered in Income St : 3
+
+Summary of Balance Sheet
+  Receivables               :     124,731,325.56
+  Inventories               :               0.00
+  Current Assets            :     221,412,891.12
+  Fixed Assets              :     167,942,824.88
+  Other Asstes              :               0.00
+  Total Assets              :   1,546,143,033.37
+  Current Liabilities       :     448,536,978.81
+  Longterm Liabiities       :     739,449,355.85
+  Total Liabilities         :   1,187,986,334.66
+  Authorized                :       1,600,000.00
+  Paid-up Capital           :     369,805,750.00
+  Par Value                 :                500
+  Paid-up Capital Shares    :         739,611.50
+  Retained Earnings         :    -108,789,393.81
+  Total Equity              :     348,572,454.88
+  Minority Interest         :       9,584,243.83
+
+Summary of Income Statement
+  Total Sales               :     156,193,247.60
+  Cost of Good Sold         :     130,168,057.10
+  Gross Profit              :      26,025,190.51
+  Operating Profit          :      12,015,477.55
+  Other Income              :     -16,086,874.16
+  Eearning Before Tax       :      -4,071,396.61
+  Tax                       :       1,932,189.96
+  Net Income                :      -6,344,327.19
+  Closing Price             :              90.00
+
+Per Share Data (Rp)
+  Eps                       :             -34.31
+  Book Value                :             471.29
+
+Financial Ratios
+  Debt Equity Ratio (X)     :               3.41
+  Roa (%)                   :              -1.64
+  Roe (%)                   :              -7.28
+  Npm (%)                   :             -16.25
+  Opm (%)                   :              30.77
+
+Cash Flow
+  CF from Operating Activities                        :      22,326,940.39
+  CF from Investing Activities                        :      -4,776,978.88
+  CF from Financing Activities                        :     -17,335,843.20
+  Net Increase in Cash & Cash Equivalent              :         214,118.31
+  Cash & Cash Equivalent at The Beginning of The Year :      54,247,936.28
+  Cash & Cash Equivalent at The End of The Year       :      54,462,214.39
+
+ 
+ 
+ 

@@ -1,0 +1,66 @@
+6
+MAMI0209.TXT
+
+MAMI
+Mas Murni Indonesia Tbk
+Af          :
+Sector Code : 94
+Sector Name : RESTAURANT, HOTEL AND TOURISM
+
+(In thousand rupiah except Par Value, Closing Price and Ratios)
+
+Financial Statement Date    : 30-Sep-2002
+Fiscal Year Ends            : Dec
+Months Covered in Income St : 9
+
+Summary of Balance Sheet
+  Receivables               :       5,061,523.86
+  Inventories               :         691,779.87
+  Current Assets            :       6,913,185.52
+  Fixed Assets              :     128,286,703.99
+  Other Asstes              :     223,134,230.69
+  Total Assets              :     530,172,996.85
+  Current Liabilities       :     729,822,297.11
+  Longterm Liabiities       :     114,875,180.08
+  Total Liabilities         :     844,697,477.19
+  Authorized                :       3,915,000.00
+  Paid-up Capital           :     203,218,750.00
+  Par Value                 :    500 & 200 & 150
+  Paid-up Capital Shares    :         761,637.50
+  Retained Earnings         :    -524,969,480.35
+  Total Equity              :    -314,524,480.35
+  Minority Interest         :               0.00
+
+Summary of Income Statement
+  Total Sales               :      22,975,551.24
+  Cost of Good Sold         :       7,972,095.81
+  Gross Profit              :      15,003,455.43
+  Operating Profit          :         949,838.09
+  Other Income              :       9,304,338.13
+  Eearning Before Tax       :      10,254,176.22
+  Tax                       :       4,472,998.20
+  Net Income                :       5,781,178.02
+  Closing Price             :              20.00
+
+Per Share Data (Rp)
+  Eps                       :              10.12
+  Book Value                :            -412.96
+
+Financial Ratios
+  Debt Equity Ratio (X)     :              -2.69
+  Roa (%)                   :               1.45
+  Roe (%)                   :              -2.45
+  Npm (%)                   :              33.55
+  Opm (%)                   :               5.51
+
+Cash Flow
+  CF from Operating Activities                        :       1,351,623.01
+  CF from Investing Activities                        :      -1,422,574.23
+  CF from Financing Activities                        :               0.00
+  Net Increase in Cash & Cash Equivalent              :         -70,951.22
+  Cash & Cash Equivalent at The Beginning of The Year :         873,093.74
+  Cash & Cash Equivalent at The End of The Year       :         802,142.52
+
+ 
+ 
+ 

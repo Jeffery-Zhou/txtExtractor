@@ -1,0 +1,66 @@
+6
+CTRS0203.TXT
+
+CTRS
+Ciputra Surya Tbk
+Af          : CTRA
+Sector Code : 61
+Sector Name : PROPERTY AND REAL ESTATE
+
+(In thousand rupiah except Par Value, Closing Price and Ratios)
+
+Financial Statement Date    : 31-Mar-2002
+Fiscal Year Ends            : Dec
+Months Covered in Income St : 3
+
+Summary of Balance Sheet
+  Receivables               :      17,767,062.05
+  Inventories               :     201,107,837.70
+  Current Assets            :               0.00
+  Fixed Assets              :      88,522,868.56
+  Other Asstes              :      24,650,912.85
+  Total Assets              :   1,154,125,824.68
+  Current Liabilities       :               0.00
+  Longterm Liabiities       :               0.00
+  Total Liabilities         :     519,786,496.70
+  Authorized                :       1,600,000.00
+  Paid-up Capital           :     477,468,788.50
+  Par Value                 :                500
+  Paid-up Capital Shares    :         954,937.58
+  Retained Earnings         :     137,697,661.70
+  Total Equity              :     633,166,450.20
+  Minority Interest         :       1,172,877.79
+
+Summary of Income Statement
+  Total Sales               :      31,827,927.01
+  Cost of Good Sold         :      16,855,670.09
+  Gross Profit              :      14,972,256.93
+  Operating Profit          :       4,514,343.76
+  Other Income              :         446,397.80
+  Eearning Before Tax       :       4,960,741.56
+  Tax                       :       1,350,100.70
+  Net Income                :       3,612,575.53
+  Closing Price             :             115.00
+
+Per Share Data (Rp)
+  Eps                       :              15.13
+  Book Value                :             663.04
+
+Financial Ratios
+  Debt Equity Ratio (X)     :                .82
+  Roa (%)                   :               1.25
+  Roe (%)                   :               2.28
+  Npm (%)                   :              11.35
+  Opm (%)                   :              14.18
+
+Cash Flow
+  CF from Operating Activities                        :      16,555,928.55
+  CF from Investing Activities                        :     -21,562,458.54
+  CF from Financing Activities                        :               0.00
+  Net Increase in Cash & Cash Equivalent              :      -5,006,529.99
+  Cash & Cash Equivalent at The Beginning of The Year :      27,229,659.70
+  Cash & Cash Equivalent at The End of The Year       :      22,223,129.71
+
+ 
+ 
+ 

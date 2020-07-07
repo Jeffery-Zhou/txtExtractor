@@ -1,0 +1,66 @@
+6
+ALFA0212.TXT
+
+ALFA
+Alfa Retailindo Tbk
+Af          :
+Sector Code : 93
+Sector Name : RETAIL TRADE
+
+(In thousand rupiah except Par Value, Closing Price and Ratios)
+
+Financial Statement Date    : 31-Dec-2002
+Fiscal Year Ends            : Dec
+Months Covered in Income St : 12
+
+Summary of Balance Sheet
+  Receivables               :      51,876,398.16
+  Inventories               :     178,248,734.64
+  Current Assets            :     302,134,347.90
+  Fixed Assets              :     312,753,865.50
+  Other Asstes              :       2,429,033.52
+  Total Assets              :     632,360,024.33
+  Current Liabilities       :     288,647,137.02
+  Longterm Liabiities       :      26,169,943.18
+  Total Liabilities         :     314,817,080.21
+  Authorized                :       1,260,000.00
+  Paid-up Capital           :     234,000,000.00
+  Par Value                 :                500
+  Paid-up Capital Shares    :         468,000.00
+  Retained Earnings         :      79,392,533.21
+  Total Equity              :     317,178,544.29
+  Minority Interest         :         364,399.84
+
+Summary of Income Statement
+  Total Sales               :   3,278,010,686.52
+  Cost of Good Sold         :   3,082,321,707.87
+  Gross Profit              :     195,688,978.65
+  Operating Profit          :      11,110,673.45
+  Other Income              :      19,507,378.15
+  Eearning Before Tax       :      30,618,051.60
+  Tax                       :          21,884.79
+  Net Income                :      30,582,983.82
+  Closing Price             :             775.00
+
+Per Share Data (Rp)
+  Eps                       :              65.35
+  Book Value                :             677.73
+
+Financial Ratios
+  Debt Equity Ratio (X)     :                .99
+  Roa (%)                   :               4.84
+  Roe (%)                   :               9.64
+  Npm (%)                   :                .93
+  Opm (%)                   :                .34
+
+Cash Flow
+  CF from Operating Activities                        :      16,871,257.03
+  CF from Investing Activities                        :     -13,413,031.85
+  CF from Financing Activities                        :      -4,356,307.17
+  Net Increase in Cash & Cash Equivalent              :        -898,081.99
+  Cash & Cash Equivalent at The Beginning of The Year :      54,672,142.82
+  Cash & Cash Equivalent at The End of The Year       :      53,774,060.83
+
+ 
+ 
+ 

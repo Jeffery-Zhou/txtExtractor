@@ -1,0 +1,66 @@
+6
+JRPT0306.TXT
+
+JRPT
+Jaya Real Property Tbk
+Af          :
+Sector Code : 61
+Sector Name : PROPERTY AND REAL ESTATE
+
+(In thousand rupiah except Par Value, Closing Price and Ratios)
+
+Financial Statement Date    : 30-Jun-2003
+Fiscal Year Ends            : Dec
+Months Covered in Income St : 6
+
+Summary of Balance Sheet
+  Receivables               :       6,154,482.00
+  Inventories               :     441,096,245.00
+  Current Assets            :               0.00
+  Fixed Assets              :     116,800,967.00
+  Other Asstes              :      15,757,501.00
+  Total Assets              :   1,396,089,567.00
+  Current Liabilities       :               0.00
+  Longterm Liabiities       :               0.00
+  Total Liabilities         :     628,045,299.00
+  Authorized                :       1,000,000.00
+  Paid-up Capital           :     235,000,000.00
+  Par Value                 :                500
+  Paid-up Capital Shares    :         470,000.00
+  Retained Earnings         :     340,464,943.00
+  Total Equity              :     715,374,307.00
+  Minority Interest         :      52,669,961.00
+
+Summary of Income Statement
+  Total Sales               :      65,995,977.00
+  Cost of Good Sold         :      34,328,042.00
+  Gross Profit              :      31,667,935.00
+  Operating Profit          :      18,904,974.00
+  Other Income              :      -7,014,013.00
+  Eearning Before Tax       :      11,890,961.00
+  Tax                       :       1,235,840.00
+  Net Income                :      10,741,730.00
+  Closing Price             :             500.00
+
+Per Share Data (Rp)
+  Eps                       :              45.71
+  Book Value                :           1,522.07
+
+Financial Ratios
+  Debt Equity Ratio (X)     :                .88
+  Roa (%)                   :               1.54
+  Roe (%)                   :               3.00
+  Npm (%)                   :              32.55
+  Opm (%)                   :              57.29
+
+Cash Flow
+  CF from Operating Activities                        :      14,463,386.00
+  CF from Investing Activities                        :      -2,391,880.00
+  CF from Financing Activities                        :      -7,627,919.00
+  Net Increase in Cash & Cash Equivalent              :       4,443,587.00
+  Cash & Cash Equivalent at The Beginning of The Year :      18,904,459.00
+  Cash & Cash Equivalent at The End of The Year       :      23,348,046.00
+
+ 
+ 
+ 

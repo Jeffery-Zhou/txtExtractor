@@ -1,0 +1,66 @@
+6
+IKAI0309.TXT
+
+IKAI
+Intikeramik Alamasri Industri Tbk
+Af          :
+Sector Code : 32
+Sector Name : CERAMICS, GLASS, PORCELAIN
+
+(In thousand rupiah except Par Value, Closing Price and Ratios)
+
+Financial Statement Date    : 30-Sep-2003
+Fiscal Year Ends            : Dec
+Months Covered in Income St : 9
+
+Summary of Balance Sheet
+  Receivables               :      80,232,178.64
+  Inventories               :     160,164,332.43
+  Current Assets            :     247,167,555.60
+  Fixed Assets              :     531,444,692.04
+  Other Asstes              :       1,712,921.62
+  Total Assets              :     786,424,901.39
+  Current Liabilities       :     227,153,152.26
+  Longterm Liabiities       :     442,497,343.36
+  Total Liabilities         :     669,650,495.62
+  Authorized                :         918,000.00
+  Paid-up Capital           :     225,000,000.00
+  Par Value                 :                500
+  Paid-up Capital Shares    :         450,000.00
+  Retained Earnings         :    -547,859,058.94
+  Total Equity              :     115,838,204.49
+  Minority Interest         :         936,201.28
+
+Summary of Income Statement
+  Total Sales               :     141,920,391.04
+  Cost of Good Sold         :     127,701,653.02
+  Gross Profit              :      14,218,738.02
+  Operating Profit          :     -12,977,755.56
+  Other Income              :      -7,995,990.08
+  Eearning Before Tax       :     -20,973,745.64
+  Tax                       :      -4,797,633.59
+  Net Income                :     -16,105,741.39
+  Closing Price             :             110.00
+
+Per Share Data (Rp)
+  Eps                       :             -47.72
+  Book Value                :             257.42
+
+Financial Ratios
+  Debt Equity Ratio (X)     :               5.78
+  Roa (%)                   :              -2.73
+  Roe (%)                   :             -18.54
+  Npm (%)                   :             -15.13
+  Opm (%)                   :             -12.19
+
+Cash Flow
+  CF from Operating Activities                        :         964,778.12
+  CF from Investing Activities                        :        -388,417.15
+  CF from Financing Activities                        :      -1,490,851.70
+  Net Increase in Cash & Cash Equivalent              :        -914,490.72
+  Cash & Cash Equivalent at The Beginning of The Year :       3,518,121.81
+  Cash & Cash Equivalent at The End of The Year       :       2,603,631.09
+
+ 
+ 
+ 

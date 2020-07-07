@@ -1,0 +1,66 @@
+6
+BAYU0203.TXT
+
+BAYU
+Bayu Buana Tbk
+Af          :
+Sector Code : 94
+Sector Name : RESTAURANT, HOTEL AND TOURISM
+
+(In thousand rupiah except Par Value, Closing Price and Ratios)
+
+Financial Statement Date    : 31-Mar-2002
+Fiscal Year Ends            : Dec
+Months Covered in Income St : 3
+
+Summary of Balance Sheet
+  Receivables               :      32,864,198.33
+  Inventories               :               0.00
+  Current Assets            :      83,173,296.22
+  Fixed Assets              :      10,464,795.77
+  Other Asstes              :       1,012,034.22
+  Total Assets              :     124,513,597.83
+  Current Liabilities       :      84,000,796.19
+  Longterm Liabiities       :           3,687.32
+  Total Liabilities         :      84,004,483.51
+  Authorized                :         960,000.00
+  Paid-up Capital           :     149,610,390.00
+  Par Value                 :                500
+  Paid-up Capital Shares    :         299,220.78
+  Retained Earnings         :    -109,154,103.10
+  Total Equity              :      40,507,869.90
+  Minority Interest         :           1,244.42
+
+Summary of Income Statement
+  Total Sales               :     127,236,350.19
+  Cost of Good Sold         :     121,233,754.05
+  Gross Profit              :       6,002,596.15
+  Operating Profit          :      -2,211,577.14
+  Other Income              :        -784,443.69
+  Eearning Before Tax       :      -2,939,719.22
+  Tax                       :      -8,963,839.39
+  Net Income                :     -21,451,903.23
+  Closing Price             :             175.00
+
+Per Share Data (Rp)
+  Eps                       :            -286.77
+  Book Value                :             135.38
+
+Financial Ratios
+  Debt Equity Ratio (X)     :               2.07
+  Roa (%)                   :             -68.91
+  Roe (%)                   :            -211.83
+  Npm (%)                   :             -16.86
+  Opm (%)                   :              -1.74
+
+Cash Flow
+  CF from Operating Activities                        :     -30,233,053.12
+  CF from Investing Activities                        :      43,212,427.86
+  CF from Financing Activities                        :     -20,800,000.00
+  Net Increase in Cash & Cash Equivalent              :      -7,820,625.27
+  Cash & Cash Equivalent at The Beginning of The Year :      28,279,061.30
+  Cash & Cash Equivalent at The End of The Year       :      20,458,436.03
+
+ 
+ 
+ 

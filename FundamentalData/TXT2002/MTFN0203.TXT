@@ -1,0 +1,66 @@
+6
+MTFN0203.TXT
+
+MTFN
+Bakrie Finance Corp. Tbk
+Af          :
+Sector Code : 89
+Sector Name : OTHERS FINANCE
+
+(In thousand rupiah except Par Value, Closing Price and Ratios)
+
+Financial Statement Date    : 31-Mar-2002
+Fiscal Year Ends            : Dec
+Months Covered in Income St : 3
+
+Summary of Balance Sheet
+  Receivables               :     582,410,411.89
+  Inventories               :               0.00
+  Current Assets            :               0.00
+  Fixed Assets              :       9,105,468.20
+  Other Asstes              :      63,157,768.91
+  Total Assets              :   2,480,941,603.12
+  Current Liabilities       :               0.00
+  Longterm Liabiities       :               0.00
+  Total Liabilities         :   2,680,569,368.94
+  Authorized                :       4,000,000.00
+  Paid-up Capital           :     963,000,000.00
+  Par Value                 :                500
+  Paid-up Capital Shares    :       1,926,000.00
+  Retained Earnings         :  -1,103,335,147.61
+  Total Equity              :    -206,207,590.72
+  Minority Interest         :       6,579,824.91
+
+Summary of Income Statement
+  Total Sales               :      54,220,795.94
+  Cost of Good Sold         :      56,332,205.22
+  Gross Profit              :      -2,111,409.28
+  Operating Profit          :      -2,111,409.28
+  Other Income              :               0.00
+  Eearning Before Tax       :      -2,111,409.28
+  Tax                       :          -7,191.13
+  Net Income                :      -1,624,734.66
+  Closing Price             :              15.00
+
+Per Share Data (Rp)
+  Eps                       :              -3.37
+  Book Value                :            -107.07
+
+Financial Ratios
+  Debt Equity Ratio (X)     :             -13.00
+  Roa (%)                   :               -.26
+  Roe (%)                   :               3.15
+  Npm (%)                   :              -3.00
+  Opm (%)                   :              -3.89
+
+Cash Flow
+  CF from Operating Activities                        :      -1,834,766.45
+  CF from Investing Activities                        :      14,787,291.75
+  CF from Financing Activities                        :               0.00
+  Net Increase in Cash & Cash Equivalent              :      12,952,525.30
+  Cash & Cash Equivalent at The Beginning of The Year :      21,070,448.78
+  Cash & Cash Equivalent at The End of The Year       :      34,022,974.08
+
+ 
+ 
+ 

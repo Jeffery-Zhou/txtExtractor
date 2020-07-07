@@ -1,0 +1,66 @@
+6
+HITS0309.TXT
+
+HITS
+Humpuss Intermoda Transportasi Tbk
+Af          :
+Sector Code : 74
+Sector Name : TRANSPORTATION
+
+(In thousand rupiah except Par Value, Closing Price and Ratios)
+
+Financial Statement Date    : 30-Sep-2003
+Fiscal Year Ends            : Dec
+Months Covered in Income St : 9
+
+Summary of Balance Sheet
+  Receivables               :     106,430,728.00
+  Inventories               :       2,131,460.00
+  Current Assets            :     449,120,783.00
+  Fixed Assets              :   1,376,661,716.00
+  Other Asstes              :     136,858,927.00
+  Total Assets              :   2,040,887,812.00
+  Current Liabilities       :     286,527,343.00
+  Longterm Liabiities       :   1,057,250,433.00
+  Total Liabilities         :   1,343,777,776.00
+  Authorized                :         600,000.00
+  Paid-up Capital           :     225,000,000.00
+  Par Value                 :                500
+  Paid-up Capital Shares    :         450,000.00
+  Retained Earnings         :     828,217,776.00
+  Total Equity              :     676,555,092.00
+  Minority Interest         :      20,554,944.00
+
+Summary of Income Statement
+  Total Sales               :     511,846,410.00
+  Cost of Good Sold         :     282,516,072.00
+  Gross Profit              :     229,330,338.00
+  Operating Profit          :     194,286,615.00
+  Other Income              :     -69,399,161.00
+  Eearning Before Tax       :     124,887,454.00
+  Tax                       :      10,895,264.00
+  Net Income                :     107,585,184.00
+  Closing Price             :           1,000.00
+
+Per Share Data (Rp)
+  Eps                       :             318.77
+  Book Value                :           1,503.46
+
+Financial Ratios
+  Debt Equity Ratio (X)     :               1.99
+  Roa (%)                   :               7.03
+  Roe (%)                   :              21.20
+  Npm (%)                   :              28.03
+  Opm (%)                   :              50.61
+
+Cash Flow
+  CF from Operating Activities                        :     181,792,890.00
+  CF from Investing Activities                        :     -74,841,355.00
+  CF from Financing Activities                        :    -130,461,833.00
+  Net Increase in Cash & Cash Equivalent              :     -23,510,298.00
+  Cash & Cash Equivalent at The Beginning of The Year :     186,266,786.00
+  Cash & Cash Equivalent at The End of The Year       :     162,756,488.00
+
+ 
+ 
+ 

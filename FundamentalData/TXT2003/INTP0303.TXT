@@ -1,0 +1,66 @@
+6
+INTP0303.TXT
+
+INTP
+Indocement Tunggal Prakarsa Tbk
+Af          :
+Sector Code : 31
+Sector Name : CEMENT
+
+(In thousand rupiah except Par Value, Closing Price and Ratios)
+
+Financial Statement Date    : 31-Mar-2003
+Fiscal Year Ends            : Dec
+Months Covered in Income St : 3
+
+Summary of Balance Sheet
+  Receivables               :     331,467,697.94
+  Inventories               :     895,200,694.31
+  Current Assets            :   1,746,406,205.73
+  Fixed Assets              :   8,490,955,143.88
+  Other Asstes              :     465,420,825.82
+  Total Assets              :  10,974,203,754.56
+  Current Liabilities       :     694,054,214.97
+  Longterm Liabiities       :   6,219,762,242.97
+  Total Liabilities         :   6,913,816,457.93
+  Authorized                :       8,000,000.00
+  Paid-up Capital           :   1,840,611,759.50
+  Par Value                 :                500
+  Paid-up Capital Shares    :       3,681,223.52
+  Retained Earnings         :   1,056,379,854.28
+  Total Equity              :   4,060,387,296.62
+  Minority Interest         :               0.00
+
+Summary of Income Statement
+  Total Sales               :     941,379,663.03
+  Cost of Good Sold         :     638,786,418.29
+  Gross Profit              :     302,593,244.74
+  Operating Profit          :     167,055,458.15
+  Other Income              :      87,858,633.37
+  Eearning Before Tax       :     258,034,982.58
+  Tax                       :      81,486,949.84
+  Net Income                :     231,604,267.32
+  Closing Price             :             800.00
+
+Per Share Data (Rp)
+  Eps                       :             251.66
+  Book Value                :           1,103.00
+
+Financial Ratios
+  Debt Equity Ratio (X)     :               1.70
+  Roa (%)                   :               8.44
+  Roe (%)                   :              22.82
+  Npm (%)                   :              98.41
+  Opm (%)                   :              70.98
+
+Cash Flow
+  CF from Operating Activities                        :     216,033,206.48
+  CF from Investing Activities                        :      61,376,795.41
+  CF from Financing Activities                        :               0.00
+  Net Increase in Cash & Cash Equivalent              :      44,570,770.85
+  Cash & Cash Equivalent at The Beginning of The Year :     273,609,131.59
+  Cash & Cash Equivalent at The End of The Year       :     318,179,902.44
+
+ 
+ 
+ 

@@ -1,0 +1,66 @@
+6
+RODA0209.TXT
+
+RODA
+Roda Panggon Harapan Tbk
+Af          :
+Sector Code : 61
+Sector Name : PROPERTY AND REAL ESTATE
+
+(In thousand rupiah except Par Value, Closing Price and Ratios)
+
+Financial Statement Date    : 30-Sep-2002
+Fiscal Year Ends            : Dec
+Months Covered in Income St : 9
+
+Summary of Balance Sheet
+  Receivables               :         945,992.60
+  Inventories               :      44,730,341.13
+  Current Assets            :               0.00
+  Fixed Assets              :         341,492.91
+  Other Asstes              :      18,168,619.96
+  Total Assets              :      78,466,300.34
+  Current Liabilities       :               0.00
+  Longterm Liabiities       :               0.00
+  Total Liabilities         :       4,352,943.98
+  Authorized                :       1,680,000.00
+  Paid-up Capital           :      59,100,000.00
+  Par Value                 :                100
+  Paid-up Capital Shares    :         591,000.00
+  Retained Earnings         :      12,984,341.72
+  Total Equity              :      74,113,356.36
+  Minority Interest         :               0.00
+
+Summary of Income Statement
+  Total Sales               :         665,074.14
+  Cost of Good Sold         :         568,817.98
+  Gross Profit              :          96,256.16
+  Operating Profit          :        -688,491.00
+  Other Income              :         157,254.31
+  Eearning Before Tax       :        -531,236.69
+  Tax                       :        -225,168.35
+  Net Income                :        -306,068.34
+  Closing Price             :             120.00
+
+Per Share Data (Rp)
+  Eps                       :               -.69
+  Book Value                :             125.40
+
+Financial Ratios
+  Debt Equity Ratio (X)     :                .06
+  Roa (%)                   :               -.52
+  Roe (%)                   :               -.55
+  Npm (%)                   :             -61.36
+  Opm (%)                   :            -138.03
+
+Cash Flow
+  CF from Operating Activities                        :               0.00
+  CF from Investing Activities                        :               0.00
+  CF from Financing Activities                        :               0.00
+  Net Increase in Cash & Cash Equivalent              :               0.00
+  Cash & Cash Equivalent at The Beginning of The Year :               0.00
+  Cash & Cash Equivalent at The End of The Year       :               0.00
+
+ 
+ 
+ 

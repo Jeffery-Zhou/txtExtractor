@@ -1,0 +1,66 @@
+6
+MPPA0303.TXT
+
+MPPA
+Matahari Putra Prima Tbk
+Af          : MLPL
+Sector Code : 93
+Sector Name : RETAIL TRADE
+
+(In thousand rupiah except Par Value, Closing Price and Ratios)
+
+Financial Statement Date    : 31-Mar-2003
+Fiscal Year Ends            : Dec
+Months Covered in Income St : 3
+
+Summary of Balance Sheet
+  Receivables               :      54,401,000.00
+  Inventories               :     384,695,000.00
+  Current Assets            :   1,224,855,000.00
+  Fixed Assets              :     838,246,000.00
+  Other Asstes              :     806,261,000.00
+  Total Assets              :   3,070,255,000.00
+  Current Liabilities       :     858,297,000.00
+  Longterm Liabiities       :     473,864,000.00
+  Total Liabilities         :   1,332,161,000.00
+  Authorized                :      10,800,000.00
+  Paid-up Capital           :   1,352,997,000.00
+  Par Value                 :                500
+  Paid-up Capital Shares    :       2,705,994.00
+  Retained Earnings         :     492,465,000.00
+  Total Equity              :   1,668,511,000.00
+  Minority Interest         :      69,583,000.00
+
+Summary of Income Statement
+  Total Sales               :   1,058,537,000.00
+  Cost of Good Sold         :     742,610,000.00
+  Gross Profit              :     315,927,000.00
+  Operating Profit          :         482,000.00
+  Other Income              :       6,078,000.00
+  Eearning Before Tax       :       8,101,000.00
+  Tax                       :      -3,325,000.00
+  Net Income                :       4,636,000.00
+  Closing Price             :             375.00
+
+Per Share Data (Rp)
+  Eps                       :               6.85
+  Book Value                :             616.60
+
+Financial Ratios
+  Debt Equity Ratio (X)     :                .80
+  Roa (%)                   :                .60
+  Roe (%)                   :               1.11
+  Npm (%)                   :               1.75
+  Opm (%)                   :                .18
+
+Cash Flow
+  CF from Operating Activities                        :    -133,247,000.00
+  CF from Investing Activities                        :     -60,401,000.00
+  CF from Financing Activities                        :    -100,478,000.00
+  Net Increase in Cash & Cash Equivalent              :    -294,126,000.00
+  Cash & Cash Equivalent at The Beginning of The Year :     784,415,000.00
+  Cash & Cash Equivalent at The End of The Year       :     490,289,000.00
+
+ 
+ 
+ 

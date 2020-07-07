@@ -1,0 +1,66 @@
+6
+INDF0312.TXT
+
+INDF
+Indofood Sukses Makmur Tbk
+Af          :
+Sector Code : 51
+Sector Name : FOOD AND BEVERAGES
+
+(In thousand rupiah except Par Value, Closing Price and Ratios)
+
+Financial Statement Date    : 31-Dec-2003
+Fiscal Year Ends            : Dec
+Months Covered in Income St : 12
+
+Summary of Balance Sheet
+  Receivables               :   2,006,187,981.94
+  Inventories               :   2,218,209,967.21
+  Current Assets            :   7,106,490,597.64
+  Fixed Assets              :   5,825,950,826.58
+  Other Asstes              :     559,043,227.50
+  Total Assets              :  15,308,854,459.91
+  Current Liabilities       :   3,664,192,739.76
+  Longterm Liabiities       :   6,888,137,600.98
+  Total Liabilities         :  10,552,330,340.73
+  Authorized                :      30,000,000.00
+  Paid-up Capital           :     944,326,950.00
+  Par Value                 :                100
+  Paid-up Capital Shares    :       9,443,269.50
+  Retained Earnings         :   3,616,825,574.35
+  Total Equity              :   4,093,880,900.39
+  Minority Interest         :     662,643,218.79
+
+Summary of Income Statement
+  Total Sales               :  17,871,425,474.27
+  Cost of Good Sold         :  13,405,368,540.89
+  Gross Profit              :   4,466,056,933.38
+  Operating Profit          :   2,008,794,942.34
+  Other Income              :    -977,659,770.55
+  Eearning Before Tax       :   1,031,135,171.79
+  Tax                       :     310,203,461.50
+  Net Income                :     603,481,302.85
+  Closing Price             :             800.00
+
+Per Share Data (Rp)
+  Eps                       :              63.91
+  Book Value                :             433.52
+
+Financial Ratios
+  Debt Equity Ratio (X)     :               2.58
+  Roa (%)                   :               3.94
+  Roe (%)                   :              14.74
+  Npm (%)                   :               3.38
+  Opm (%)                   :              11.24
+
+Cash Flow
+  CF from Operating Activities                        :   1,557,249,832.25
+  CF from Investing Activities                        :    -559,165,870.31
+  CF from Financing Activities                        :    -836,831,655.66
+  Net Increase in Cash & Cash Equivalent              :     161,252,306.28
+  Cash & Cash Equivalent at The Beginning of The Year :   1,368,445,832.62
+  Cash & Cash Equivalent at The End of The Year       :   1,529,698,138.90
+
+ 
+ 
+ 

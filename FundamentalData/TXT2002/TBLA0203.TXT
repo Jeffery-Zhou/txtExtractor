@@ -1,0 +1,66 @@
+6
+TBLA0203.TXT
+
+TBLA
+Tunas Baru Lampung Tbk
+Af          :
+Sector Code : 51
+Sector Name : FOOD AND BEVERAGES
+
+(In thousand rupiah except Par Value, Closing Price and Ratios)
+
+Financial Statement Date    : 31-Mar-2002
+Fiscal Year Ends            : Dec
+Months Covered in Income St : 3
+
+Summary of Balance Sheet
+  Receivables               :      58,764,406.00
+  Inventories               :      75,764,235.00
+  Current Assets            :     180,357,220.00
+  Fixed Assets              :     700,404,715.00
+  Other Asstes              :               0.00
+  Total Assets              :     983,735,413.00
+  Current Liabilities       :     243,771,169.00
+  Longterm Liabiities       :     280,309,298.00
+  Total Liabilities         :     524,080,467.00
+  Authorized                :       3,200,000.00
+  Paid-up Capital           :     192,308,000.00
+  Par Value                 :                125
+  Paid-up Capital Shares    :       1,538,464.00
+  Retained Earnings         :      82,751,252.00
+  Total Equity              :     459,131,991.00
+  Minority Interest         :         522,955.00
+
+Summary of Income Statement
+  Total Sales               :     146,086,955.00
+  Cost of Good Sold         :     122,710,018.00
+  Gross Profit              :      23,376,937.00
+  Operating Profit          :      10,505,148.00
+  Other Income              :      19,388,259.00
+  Eearning Before Tax       :      29,893,407.00
+  Tax                       :       9,014,910.00
+  Net Income                :      20,890,307.00
+  Closing Price             :             295.00
+
+Per Share Data (Rp)
+  Eps                       :              54.31
+  Book Value                :             298.44
+
+Financial Ratios
+  Debt Equity Ratio (X)     :               1.14
+  Roa (%)                   :               8.49
+  Roe (%)                   :              18.20
+  Npm (%)                   :              14.30
+  Opm (%)                   :               7.19
+
+Cash Flow
+  CF from Operating Activities                        :     -47,929,835.00
+  CF from Investing Activities                        :     -17,700,183.00
+  CF from Financing Activities                        :      57,556,553.00
+  Net Increase in Cash & Cash Equivalent              :      -8,073,465.00
+  Cash & Cash Equivalent at The Beginning of The Year :      37,234,761.00
+  Cash & Cash Equivalent at The End of The Year       :      29,161,296.00
+
+ 
+ 
+ 

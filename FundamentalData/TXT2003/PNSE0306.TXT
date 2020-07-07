@@ -1,0 +1,66 @@
+6
+PNSE0306.TXT
+
+PNSE
+Pudjiadi & Sons Estates Ltd. Tbk
+Af          :
+Sector Code : 94
+Sector Name : RESTAURANT, HOTEL AND TOURISM
+
+(In thousand rupiah except Par Value, Closing Price and Ratios)
+
+Financial Statement Date    : 30-Jun-2003
+Fiscal Year Ends            : Dec
+Months Covered in Income St : 6
+
+Summary of Balance Sheet
+  Receivables               :      10,045,801.14
+  Inventories               :       7,784,358.39
+  Current Assets            :      50,895,350.82
+  Fixed Assets              :     113,950,536.93
+  Other Asstes              :       1,179,541.57
+  Total Assets              :     173,332,185.83
+  Current Liabilities       :      15,615,736.28
+  Longterm Liabiities       :      86,815,044.88
+  Total Liabilities         :     102,430,781.16
+  Authorized                :         496,000.00
+  Paid-up Capital           :      64,862,885.50
+  Par Value                 :                500
+  Paid-up Capital Shares    :         129,725.77
+  Retained Earnings         :      28,503,804.11
+  Total Equity              :      57,884,620.41
+  Minority Interest         :      13,016,784.25
+
+Summary of Income Statement
+  Total Sales               :      28,203,782.33
+  Cost of Good Sold         :      10,014,399.23
+  Gross Profit              :      18,189,383.10
+  Operating Profit          :       7,580,402.66
+  Other Income              :      -1,884,191.95
+  Eearning Before Tax       :       7,859,727.65
+  Tax                       :       1,608,879.38
+  Net Income                :       5,878,154.28
+  Closing Price             :           1,000.00
+
+Per Share Data (Rp)
+  Eps                       :              90.62
+  Book Value                :             446.21
+
+Financial Ratios
+  Debt Equity Ratio (X)     :               1.77
+  Roa (%)                   :               6.78
+  Roe (%)                   :              20.31
+  Npm (%)                   :              41.68
+  Opm (%)                   :              53.75
+
+Cash Flow
+  CF from Operating Activities                        :       4,439,980.37
+  CF from Investing Activities                        :      -4,204,160.50
+  CF from Financing Activities                        :        -248,105.26
+  Net Increase in Cash & Cash Equivalent              :         -12,285.40
+  Cash & Cash Equivalent at The Beginning of The Year :      30,698,336.62
+  Cash & Cash Equivalent at The End of The Year       :      30,686,051.23
+
+ 
+ 
+ 

@@ -1,0 +1,66 @@
+6
+FISH0309.TXT
+
+FISH
+Fishindo Kusuma Sejahtera Tbk
+Af          :
+Sector Code : 36
+Sector Name : ANIMAL FEED
+
+(In thousand rupiah except Par Value, Closing Price and Ratios)
+
+Financial Statement Date    : 30-Sep-2003
+Fiscal Year Ends            : Dec
+Months Covered in Income St : 9
+
+Summary of Balance Sheet
+  Receivables               :      20,780,038.32
+  Inventories               :      51,242,263.33
+  Current Assets            :      83,603,667.95
+  Fixed Assets              :      34,434,436.48
+  Other Asstes              :               0.00
+  Total Assets              :     118,038,104.43
+  Current Liabilities       :      55,952,668.54
+  Longterm Liabiities       :         187,070.12
+  Total Liabilities         :      56,139,738.66
+  Authorized                :       1,000,000.00
+  Paid-up Capital           :      48,000,000.00
+  Par Value                 :                100
+  Paid-up Capital Shares    :         480,000.00
+  Retained Earnings         :      12,902,303.49
+  Total Equity              :      61,898,365.77
+  Minority Interest         :               0.00
+
+Summary of Income Statement
+  Total Sales               :     570,923,187.24
+  Cost of Good Sold         :     546,486,683.96
+  Gross Profit              :      24,436,503.28
+  Operating Profit          :       6,754,921.91
+  Other Income              :       4,226,012.34
+  Eearning Before Tax       :      10,980,934.25
+  Tax                       :       3,294,280.27
+  Net Income                :       7,686,653.97
+  Closing Price             :             250.00
+
+Per Share Data (Rp)
+  Eps                       :              21.35
+  Book Value                :             128.95
+
+Financial Ratios
+  Debt Equity Ratio (X)     :                .91
+  Roa (%)                   :               8.68
+  Roe (%)                   :              16.56
+  Npm (%)                   :               1.80
+  Opm (%)                   :               1.58
+
+Cash Flow
+  CF from Operating Activities                        :       6,080,977.67
+  CF from Investing Activities                        :      -4,207,032.45
+  CF from Financing Activities                        :               0.00
+  Net Increase in Cash & Cash Equivalent              :       1,873,945.21
+  Cash & Cash Equivalent at The Beginning of The Year :       7,713,567.28
+  Cash & Cash Equivalent at The End of The Year       :       9,587,512.50
+
+ 
+ 
+ 

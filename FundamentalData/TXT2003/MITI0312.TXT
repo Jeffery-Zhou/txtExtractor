@@ -1,0 +1,66 @@
+6
+MITI0312.TXT
+
+MITI
+Siwani Trimitra Tbk
+Af          :
+Sector Code : 82
+Sector Name : FINANCIAL INSTITUTION
+
+(In thousand rupiah except Par Value, Closing Price and Ratios)
+
+Financial Statement Date    : 31-Dec-2003
+Fiscal Year Ends            : Dec
+Months Covered in Income St : 12
+
+Summary of Balance Sheet
+  Receivables               :      79,724,439.13
+  Inventories               :               0.00
+  Current Assets            :               0.00
+  Fixed Assets              :       1,276,666.20
+  Other Asstes              :      45,025,798.99
+  Total Assets              :     212,307,691.77
+  Current Liabilities       :               0.00
+  Longterm Liabiities       :               0.00
+  Total Liabilities         :     192,220,683.94
+  Authorized                :       3,840,000.00
+  Paid-up Capital           :     240,000,000.00
+  Par Value                 :                250
+  Paid-up Capital Shares    :         960,000.00
+  Retained Earnings         :    -223,417,056.82
+  Total Equity              :      20,087,007.83
+  Minority Interest         :               0.00
+
+Summary of Income Statement
+  Total Sales               :         952,329.58
+  Cost of Good Sold         :       4,349,147.59
+  Gross Profit              :      -3,396,818.00
+  Operating Profit          :      -3,396,818.00
+  Other Income              :     -47,761,030.19
+  Eearning Before Tax       :     -51,157,848.19
+  Tax                       :      -9,106,169.72
+  Net Income                :     -42,051,678.48
+  Closing Price             :              35.00
+
+Per Share Data (Rp)
+  Eps                       :             -43.80
+  Book Value                :              20.92
+
+Financial Ratios
+  Debt Equity Ratio (X)     :               9.57
+  Roa (%)                   :             -19.81
+  Roe (%)                   :            -209.35
+  Npm (%)                   :          -4,415.66
+  Opm (%)                   :            -356.69
+
+Cash Flow
+  CF from Operating Activities                        :          99,713.38
+  CF from Investing Activities                        :         741,075.66
+  CF from Financing Activities                        :        -633,682.19
+  Net Increase in Cash & Cash Equivalent              :         207,106.85
+  Cash & Cash Equivalent at The Beginning of The Year :         302,548.43
+  Cash & Cash Equivalent at The End of The Year       :         509,655.28
+
+ 
+ 
+ 

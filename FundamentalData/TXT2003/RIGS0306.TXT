@@ -1,0 +1,66 @@
+6
+RIGS0306.TXT
+
+RIGS
+Rig Tenders
+Af          :
+Sector Code : 74
+Sector Name : TRANSPORTATION
+
+(In thousand rupiah except Par Value, Closing Price and Ratios)
+
+Financial Statement Date    : 30-Jun-2003
+Fiscal Year Ends            : Dec
+Months Covered in Income St : 6
+
+Summary of Balance Sheet
+  Receivables               :      52,273,000.00
+  Inventories               :       1,843,000.00
+  Current Assets            :     340,513,000.00
+  Fixed Assets              :     127,022,000.00
+  Other Asstes              :               0.00
+  Total Assets              :     467,965,000.00
+  Current Liabilities       :      54,429,000.00
+  Longterm Liabiities       :               0.00
+  Total Liabilities         :      54,429,000.00
+  Authorized                :         100,000.00
+  Paid-up Capital           :      60,913,000.00
+  Par Value                 :               1000
+  Paid-up Capital Shares    :          60,913.00
+  Retained Earnings         :     344,977,000.00
+  Total Equity              :     413,536,000.00
+  Minority Interest         :               0.00
+
+Summary of Income Statement
+  Total Sales               :      86,960,000.00
+  Cost of Good Sold         :      59,600,000.00
+  Gross Profit              :      27,360,000.00
+  Operating Profit          :      27,360,000.00
+  Other Income              :     -20,937,000.00
+  Eearning Before Tax       :       6,423,000.00
+  Tax                       :       2,898,000.00
+  Net Income                :       3,525,000.00
+  Closing Price             :           4,450.00
+
+Per Share Data (Rp)
+  Eps                       :             115.74
+  Book Value                :           6,788.96
+
+Financial Ratios
+  Debt Equity Ratio (X)     :                .13
+  Roa (%)                   :               1.51
+  Roe (%)                   :               1.70
+  Npm (%)                   :               8.11
+  Opm (%)                   :              62.93
+
+Cash Flow
+  CF from Operating Activities                        :      58,926,000.00
+  CF from Investing Activities                        :     -26,251,000.00
+  CF from Financing Activities                        :               0.00
+  Net Increase in Cash & Cash Equivalent              :      32,675,000.00
+  Cash & Cash Equivalent at The Beginning of The Year :     279,592,000.00
+  Cash & Cash Equivalent at The End of The Year       :     281,693,000.00
+
+ 
+ 
+ 

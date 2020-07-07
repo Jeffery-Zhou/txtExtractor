@@ -1,0 +1,66 @@
+6
+SDPC0212.TXT
+
+SDPC
+Millennium Pharmacon International Tbk
+Af          :
+Sector Code : 91
+Sector Name : WHOLESALE (DURABLE & NON-DURABLE GOODS)
+
+(In thousand rupiah except Par Value, Closing Price and Ratios)
+
+Financial Statement Date    : 31-Dec-2002
+Fiscal Year Ends            : Dec
+Months Covered in Income St : 12
+
+Summary of Balance Sheet
+  Receivables               :      33,569,483.58
+  Inventories               :      39,626,330.37
+  Current Assets            :      87,541,278.24
+  Fixed Assets              :      10,110,117.41
+  Other Asstes              :         776,828.87
+  Total Assets              :     108,271,889.54
+  Current Liabilities       :      66,517,026.95
+  Longterm Liabiities       :       5,104,940.13
+  Total Liabilities         :      71,621,967.08
+  Authorized                :       2,184,000.00
+  Paid-up Capital           :      72,800,000.00
+  Par Value                 :                100
+  Paid-up Capital Shares    :         728,000.00
+  Retained Earnings         :     -43,631,099.11
+  Total Equity              :      36,649,922.46
+  Minority Interest         :               0.00
+
+Summary of Income Statement
+  Total Sales               :     260,340,195.70
+  Cost of Good Sold         :     214,740,585.50
+  Gross Profit              :      45,599,610.20
+  Operating Profit          :        -291,950.98
+  Other Income              :      -5,495,623.22
+  Eearning Before Tax       :      -5,787,574.19
+  Tax                       :      -1,249,681.66
+  Net Income                :      -4,534,414.02
+  Closing Price             :             100.00
+
+Per Share Data (Rp)
+  Eps                       :              -6.23
+  Book Value                :              50.34
+
+Financial Ratios
+  Debt Equity Ratio (X)     :               1.95
+  Roa (%)                   :              -4.19
+  Roe (%)                   :             -12.37
+  Npm (%)                   :              -1.74
+  Opm (%)                   :               -.11
+
+Cash Flow
+  CF from Operating Activities                        :      -4,696,159.66
+  CF from Investing Activities                        :        -402,380.11
+  CF from Financing Activities                        :      16,081,622.67
+  Net Increase in Cash & Cash Equivalent              :      10,983,082.89
+  Cash & Cash Equivalent at The Beginning of The Year :       4,890,754.21
+  Cash & Cash Equivalent at The End of The Year       :      12,151,650.46
+
+ 
+ 
+ 

@@ -1,0 +1,66 @@
+6
+ADES0303.TXT
+
+ADES
+Ades Alfindo Putra Setia Tbk
+Af          :
+Sector Code : 51
+Sector Name : FOOD AND BEVERAGES
+
+(In thousand rupiah except Par Value, Closing Price and Ratios)
+
+Financial Statement Date    : 31-Mar-2003
+Fiscal Year Ends            : Dec
+Months Covered in Income St : 3
+
+Summary of Balance Sheet
+  Receivables               :      20,621,192.91
+  Inventories               :      10,901,374.05
+  Current Assets            :      36,862,550.49
+  Fixed Assets              :     164,920,960.90
+  Other Asstes              :               0.00
+  Total Assets              :     212,551,018.52
+  Current Liabilities       :      71,890,594.00
+  Longterm Liabiities       :      56,871,178.01
+  Total Liabilities         :     128,761,772.01
+  Authorized                :         150,000.00
+  Paid-up Capital           :      76,000,000.00
+  Par Value                 :               1000
+  Paid-up Capital Shares    :          76,000.00
+  Retained Earnings         :       3,037,761.21
+  Total Equity              :      83,787,761.21
+  Minority Interest         :           1,485.30
+
+Summary of Income Statement
+  Total Sales               :      41,974,268.24
+  Cost of Good Sold         :      27,384,787.67
+  Gross Profit              :      14,589,480.57
+  Operating Profit          :      -4,058,035.79
+  Other Income              :         -13,636.20
+  Eearning Before Tax       :      -4,071,671.98
+  Tax                       :        -982,597.05
+  Net Income                :      -3,089,184.58
+  Closing Price             :             550.00
+
+Per Share Data (Rp)
+  Eps                       :            -162.59
+  Book Value                :           1,102.47
+
+Financial Ratios
+  Debt Equity Ratio (X)     :               1.54
+  Roa (%)                   :              -5.81
+  Roe (%)                   :             -14.75
+  Npm (%)                   :             -29.44
+  Opm (%)                   :             -38.67
+
+Cash Flow
+  CF from Operating Activities                        :      -2,424,805.54
+  CF from Investing Activities                        :      -1,527,607.81
+  CF from Financing Activities                        :        -152,855.10
+  Net Increase in Cash & Cash Equivalent              :      -4,105,268.45
+  Cash & Cash Equivalent at The Beginning of The Year :       7,820,967.62
+  Cash & Cash Equivalent at The End of The Year       :       3,715,699.17
+
+ 
+ 
+ 

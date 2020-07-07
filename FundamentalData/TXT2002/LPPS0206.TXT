@@ -1,0 +1,66 @@
+6
+LPPS0206.TXT
+
+LPPS
+Lippo Securities Tbk
+Af          :
+Sector Code : 89
+Sector Name : OTHERS FINANCE
+
+(In thousand rupiah except Par Value, Closing Price and Ratios)
+
+Financial Statement Date    : 30-Jun-2002
+Fiscal Year Ends            : Dec
+Months Covered in Income St : 6
+
+Summary of Balance Sheet
+  Receivables               :       1,212,765.96
+  Inventories               :               0.00
+  Current Assets            :               0.00
+  Fixed Assets              :          70,051.35
+  Other Asstes              :       9,451,465.00
+  Total Assets              :     172,519,043.00
+  Current Liabilities       :               0.00
+  Longterm Liabiities       :               0.00
+  Total Liabilities         :     156,635,025.80
+  Authorized                :       8,874,000.00
+  Paid-up Capital           :   1,109,250,000.00
+  Par Value                 :                500
+  Paid-up Capital Shares    :       2,218,500.00
+  Retained Earnings         :  -1,005,120,632.79
+  Total Equity              :      15,884,017.20
+  Minority Interest         :               0.00
+
+Summary of Income Statement
+  Total Sales               :       2,542,324.27
+  Cost of Good Sold         :       7,205,362.82
+  Gross Profit              :      -4,663,038.55
+  Operating Profit          :      -4,663,038.55
+  Other Income              :     -26,372,103.17
+  Eearning Before Tax       :     -31,035,141.72
+  Tax                       :      -2,661,155.52
+  Net Income                :     -28,373,986.20
+  Closing Price             :              45.00
+
+Per Share Data (Rp)
+  Eps                       :             -25.58
+  Book Value                :               7.16
+
+Financial Ratios
+  Debt Equity Ratio (X)     :               9.86
+  Roa (%)                   :             -32.89
+  Roe (%)                   :            -357.26
+  Npm (%)                   :          -1,116.06
+  Opm (%)                   :            -183.42
+
+Cash Flow
+  CF from Operating Activities                        :        -570,492.13
+  CF from Investing Activities                        :       1,721,858.85
+  CF from Financing Activities                        :        -623,694.31
+  Net Increase in Cash & Cash Equivalent              :         527,672.41
+  Cash & Cash Equivalent at The Beginning of The Year :       2,759,306.05
+  Cash & Cash Equivalent at The End of The Year       :       3,286,978.46
+
+ 
+ 
+ 

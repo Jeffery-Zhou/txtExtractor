@@ -1,0 +1,66 @@
+6
+DSUC0206.TXT
+
+DSUC
+Daya Sakti Unggul Corporation Tbk
+Af          :
+Sector Code : 37
+Sector Name : WOOD INDUSTRIES
+
+(In thousand rupiah except Par Value, Closing Price and Ratios)
+
+Financial Statement Date    : 30-Jun-2002
+Fiscal Year Ends            : Dec
+Months Covered in Income St : 6
+
+Summary of Balance Sheet
+  Receivables               :      25,105,815.72
+  Inventories               :     112,278,174.84
+  Current Assets            :     173,247,708.11
+  Fixed Assets              :     157,843,112.44
+  Other Asstes              :         818,166.68
+  Total Assets              :     357,752,312.89
+  Current Liabilities       :     195,340,037.59
+  Longterm Liabiities       :      72,519,846.89
+  Total Liabilities         :     267,859,884.48
+  Authorized                :         750,000.00
+  Paid-up Capital           :     100,000,000.00
+  Par Value                 :                200
+  Paid-up Capital Shares    :         500,000.00
+  Retained Earnings         :     -23,184,773.22
+  Total Equity              :      89,762,223.00
+  Minority Interest         :         130,205.41
+
+Summary of Income Statement
+  Total Sales               :     262,237,251.85
+  Cost of Good Sold         :     222,845,864.30
+  Gross Profit              :      39,391,387.55
+  Operating Profit          :     -11,654,866.29
+  Other Income              :      23,192,496.36
+  Eearning Before Tax       :      11,537,630.07
+  Tax                       :       3,793,271.52
+  Net Income                :       7,780,377.13
+  Closing Price             :              95.00
+
+Per Share Data (Rp)
+  Eps                       :              31.12
+  Book Value                :             179.52
+
+Financial Ratios
+  Debt Equity Ratio (X)     :               2.98
+  Roa (%)                   :               4.35
+  Roe (%)                   :              17.34
+  Npm (%)                   :               2.97
+  Opm (%)                   :              -4.44
+
+Cash Flow
+  CF from Operating Activities                        :      17,203,214.18
+  CF from Investing Activities                        :     -10,794,456.43
+  CF from Financing Activities                        :      -9,616,784.44
+  Net Increase in Cash & Cash Equivalent              :      -3,208,026.69
+  Cash & Cash Equivalent at The Beginning of The Year :      15,833,116.89
+  Cash & Cash Equivalent at The End of The Year       :      12,625,090.20
+
+ 
+ 
+ 

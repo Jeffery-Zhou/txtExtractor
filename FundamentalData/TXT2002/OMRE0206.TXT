@@ -1,0 +1,66 @@
+6
+OMRE0206.TXT
+
+OMRE
+Indonesia Prima Property Tbk
+Af          :
+Sector Code : 61
+Sector Name : PROPERTY AND REAL ESTATE
+
+(In thousand rupiah except Par Value, Closing Price and Ratios)
+
+Financial Statement Date    : 30-Jun-2002
+Fiscal Year Ends            : Dec
+Months Covered in Income St : 6
+
+Summary of Balance Sheet
+  Receivables               :      16,975,615.29
+  Inventories               :         848,071.77
+  Current Assets            :               0.00
+  Fixed Assets              :     253,137,670.44
+  Other Asstes              :         422,287.00
+  Total Assets              :   1,083,432,103.65
+  Current Liabilities       :               0.00
+  Longterm Liabiities       :               0.00
+  Total Liabilities         :   1,241,971,696.34
+  Authorized                :       1,900,000.00
+  Paid-up Capital           :     495,000,000.00
+  Par Value                 :               1000
+  Paid-up Capital Shares    :         495,000.00
+  Retained Earnings         :    -575,383,204.14
+  Total Equity              :    -165,479,466.86
+  Minority Interest         :       6,939,874.18
+
+Summary of Income Statement
+  Total Sales               :      53,853,213.19
+  Cost of Good Sold         :      31,565,143.46
+  Gross Profit              :      22,288,069.74
+  Operating Profit          :       8,942,825.61
+  Other Income              :      40,863,584.97
+  Eearning Before Tax       :      49,806,410.58
+  Tax                       :       1,226,312.13
+  Net Income                :      48,620,462.95
+  Closing Price             :             130.00
+
+Per Share Data (Rp)
+  Eps                       :             196.45
+  Book Value                :            -334.30
+
+Financial Ratios
+  Debt Equity Ratio (X)     :              -7.51
+  Roa (%)                   :               8.98
+  Roe (%)                   :             -58.76
+  Npm (%)                   :              90.28
+  Opm (%)                   :              16.61
+
+Cash Flow
+  CF from Operating Activities                        :      12,294,489.57
+  CF from Investing Activities                        :         990,119.36
+  CF from Financing Activities                        :     -10,717,133.51
+  Net Increase in Cash & Cash Equivalent              :       2,567,475.42
+  Cash & Cash Equivalent at The Beginning of The Year :      39,351,981.57
+  Cash & Cash Equivalent at The End of The Year       :      43,666,806.95
+
+ 
+ 
+ 

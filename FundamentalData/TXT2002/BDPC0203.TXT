@@ -1,0 +1,66 @@
+6
+BDPC0203.TXT
+
+BDPC
+Bank DANPAC Tbk
+Af          :
+Sector Code : 81
+Sector Name : BANK
+
+(In thousand rupiah except Par Value, Closing Price and Ratios)
+
+Financial Statement Date    : 31-Mar-2002
+Fiscal Year Ends            : Dec
+Months Covered in Income St : 3
+
+Summary of Balance Sheet
+  Receivables               :               0.00
+  Inventories               :               0.00
+  Current Assets            :               0.00
+  Fixed Assets              :      12,296,000.00
+  Other Asstes              :       5,625,000.00
+  Total Assets              :     776,063,000.00
+  Current Liabilities       :               0.00
+  Longterm Liabiities       :               0.00
+  Total Liabilities         :     650,094,000.00
+  Authorized                :         400,000.00
+  Paid-up Capital           :      98,000,000.00
+  Par Value                 :                500
+  Paid-up Capital Shares    :         196,000.00
+  Retained Earnings         :      30,272,000.00
+  Total Equity              :     125,969,000.00
+  Minority Interest         :               0.00
+
+Summary of Income Statement
+  Total Sales               :      37,459,000.00
+  Cost of Good Sold         :      34,414,000.00
+  Gross Profit              :       3,045,000.00
+  Operating Profit          :       3,045,000.00
+  Other Income              :          37,000.00
+  Eearning Before Tax       :       3,082,000.00
+  Tax                       :       1,415,000.00
+  Net Income                :       1,667,000.00
+  Closing Price             :             750.00
+
+Per Share Data (Rp)
+  Eps                       :              34.02
+  Book Value                :             642.70
+
+Financial Ratios
+  Debt Equity Ratio (X)     :               5.16
+  Roa (%)                   :                .86
+  Roe (%)                   :               5.29
+  Npm (%)                   :               4.45
+  Opm (%)                   :               8.13
+
+Cash Flow
+  CF from Operating Activities                        :   5,111,468,000.00
+  CF from Investing Activities                        :    -817,155,000.00
+  CF from Financing Activities                        :     111,875,000.00
+  Net Increase in Cash & Cash Equivalent              :   4,406,188,000.00
+  Cash & Cash Equivalent at The Beginning of The Year :  32,758,989,000.00
+  Cash & Cash Equivalent at The End of The Year       :  37,165,177,000.00
+
+ 
+ 
+ 

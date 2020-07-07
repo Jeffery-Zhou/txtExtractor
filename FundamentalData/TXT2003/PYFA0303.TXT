@@ -1,0 +1,66 @@
+6
+PYFA0303.TXT
+
+PYFA
+Pyridam Farma Tbk
+Af          :
+Sector Code : 53
+Sector Name : PHARMACEUTICALS
+
+(In thousand rupiah except Par Value, Closing Price and Ratios)
+
+Financial Statement Date    : 31-Mar-2003
+Fiscal Year Ends            : Dec
+Months Covered in Income St : 3
+
+Summary of Balance Sheet
+  Receivables               :       5,877,752.50
+  Inventories               :       5,046,705.62
+  Current Assets            :      12,623,947.04
+  Fixed Assets              :      56,671,650.10
+  Other Asstes              :               0.00
+  Total Assets              :      69,796,984.67
+  Current Liabilities       :       6,914,835.03
+  Longterm Liabiities       :       2,440,796.01
+  Total Liabilities         :       9,355,631.04
+  Authorized                :       1,600,000.00
+  Paid-up Capital           :      53,508,000.00
+  Par Value                 :                100
+  Paid-up Capital Shares    :         535,080.00
+  Retained Earnings         :       4,868,275.14
+  Total Equity              :      60,441,353.64
+  Minority Interest         :               0.00
+
+Summary of Income Statement
+  Total Sales               :       6,997,916.44
+  Cost of Good Sold         :       2,713,946.44
+  Gross Profit              :       4,283,970.00
+  Operating Profit          :         814,503.44
+  Other Income              :        -140,356.03
+  Eearning Before Tax       :         674,147.41
+  Tax                       :         325,240.28
+  Net Income                :         348,907.13
+  Closing Price             :             275.00
+
+Per Share Data (Rp)
+  Eps                       :               2.61
+  Book Value                :             112.96
+
+Financial Ratios
+  Debt Equity Ratio (X)     :                .15
+  Roa (%)                   :               2.00
+  Roe (%)                   :               2.31
+  Npm (%)                   :              19.94
+  Opm (%)                   :              46.56
+
+Cash Flow
+  CF from Operating Activities                        :       1,962,030.16
+  CF from Investing Activities                        :        -662,075.24
+  CF from Financing Activities                        :      -1,193,654.81
+  Net Increase in Cash & Cash Equivalent              :         106,300.12
+  Cash & Cash Equivalent at The Beginning of The Year :         831,256.76
+  Cash & Cash Equivalent at The End of The Year       :         937,556.88
+
+ 
+ 
+ 

@@ -1,0 +1,66 @@
+6
+TBMS0212.TXT
+
+TBMS
+Tembaga Mulia Semanan Tbk
+Af          :
+Sector Code : 33
+Sector Name : METAL AND ALLIED PRODUCTS
+
+(In thousand rupiah except Par Value, Closing Price and Ratios)
+
+Financial Statement Date    : 31-Dec-2002
+Fiscal Year Ends            : Dec
+Months Covered in Income St : 12
+
+Summary of Balance Sheet
+  Receivables               :     187,536,007.05
+  Inventories               :     141,407,996.23
+  Current Assets            :     423,657,927.91
+  Fixed Assets              :     113,249,434.21
+  Other Asstes              :               0.00
+  Total Assets              :     569,271,046.64
+  Current Liabilities       :     459,534,142.11
+  Longterm Liabiities       :         981,234.40
+  Total Liabilities         :     460,515,376.50
+  Authorized                :          73,468.00
+  Paid-up Capital           :      18,367,000.00
+  Par Value                 :               1000
+  Paid-up Capital Shares    :          18,367.00
+  Retained Earnings         :      47,067,440.14
+  Total Equity              :     108,755,670.14
+  Minority Interest         :               0.00
+
+Summary of Income Statement
+  Total Sales               :     953,102,602.91
+  Cost of Good Sold         :     913,365,542.66
+  Gross Profit              :      39,737,060.26
+  Operating Profit          :       5,078,882.04
+  Other Income              :      36,011,216.71
+  Eearning Before Tax       :      41,090,098.75
+  Tax                       :      13,183,615.74
+  Net Income                :      21,068,567.38
+  Closing Price             :           1,800.00
+
+Per Share Data (Rp)
+  Eps                       :           1,147.09
+  Book Value                :           5,921.25
+
+Financial Ratios
+  Debt Equity Ratio (X)     :               4.23
+  Roa (%)                   :               3.70
+  Roe (%)                   :              19.37
+  Npm (%)                   :               2.21
+  Opm (%)                   :                .53
+
+Cash Flow
+  CF from Operating Activities                        :      19,155,573.58
+  CF from Investing Activities                        :     -43,877,283.36
+  CF from Financing Activities                        :      -7,582,569.63
+  Net Increase in Cash & Cash Equivalent              :     -32,304,279.40
+  Cash & Cash Equivalent at The Beginning of The Year :     126,056,210.73
+  Cash & Cash Equivalent at The End of The Year       :      93,751,931.33
+
+ 
+ 
+ 

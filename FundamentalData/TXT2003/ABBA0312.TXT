@@ -1,0 +1,66 @@
+6
+ABBA0312.TXT
+
+ABBA
+Abdi Bangsa Tbk
+Af          :
+Sector Code : 99
+Sector Name : OTHERS TRADE, SERVICES & INVESTMENT
+
+(In thousand rupiah except Par Value, Closing Price and Ratios)
+
+Financial Statement Date    : 31-Dec-2003
+Fiscal Year Ends            : Dec
+Months Covered in Income St : 12
+
+Summary of Balance Sheet
+  Receivables               :      14,368,969.67
+  Inventories               :         545,033.94
+  Current Assets            :      20,054,847.07
+  Fixed Assets              :      22,718,902.49
+  Other Asstes              :       2,280,536.90
+  Total Assets              :      57,231,952.71
+  Current Liabilities       :       9,369,499.70
+  Longterm Liabiities       :       1,682,052.34
+  Total Liabilities         :      11,051,552.05
+  Authorized                :       1,600,000.00
+  Paid-up Capital           :      64,000,000.00
+  Par Value                 :                100
+  Paid-up Capital Shares    :         640,000.00
+  Retained Earnings         :     -18,420,308.02
+  Total Equity              :      46,022,072.49
+  Minority Interest         :         158,328.17
+
+Summary of Income Statement
+  Total Sales               :      49,372,026.73
+  Cost of Good Sold         :      32,816,942.35
+  Gross Profit              :      16,555,084.38
+  Operating Profit          :      -4,841,751.09
+  Other Income              :         939,652.86
+  Eearning Before Tax       :     -10,263,676.94
+  Tax                       :      -2,957,981.57
+  Net Income                :      -7,341,523.54
+  Closing Price             :             275.00
+
+Per Share Data (Rp)
+  Eps                       :             -11.47
+  Book Value                :              71.91
+
+Financial Ratios
+  Debt Equity Ratio (X)     :                .24
+  Roa (%)                   :             -12.83
+  Roe (%)                   :             -15.95
+  Npm (%)                   :             -14.87
+  Opm (%)                   :              -9.81
+
+Cash Flow
+  CF from Operating Activities                        :      -9,793,098.54
+  CF from Investing Activities                        :       6,868,383.61
+  CF from Financing Activities                        :         383,094.90
+  Net Increase in Cash & Cash Equivalent              :      -2,541,620.03
+  Cash & Cash Equivalent at The Beginning of The Year :       3,882,989.49
+  Cash & Cash Equivalent at The End of The Year       :       1,341,369.46
+
+ 
+ 
+ 

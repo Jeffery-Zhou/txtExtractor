@@ -1,0 +1,66 @@
+6
+EKAD0206.TXT
+
+EKAD
+Ekadharma Tape Ind.Tbk
+Af          :
+Sector Code : 34
+Sector Name : CHEMICALS
+
+(In thousand rupiah except Par Value, Closing Price and Ratios)
+
+Financial Statement Date    : 30-Jun-2002
+Fiscal Year Ends            : Dec
+Months Covered in Income St : 6
+
+Summary of Balance Sheet
+  Receivables               :      10,665,693.05
+  Inventories               :       8,876,537.14
+  Current Assets            :      45,800,510.10
+  Fixed Assets              :      12,290,062.69
+  Other Asstes              :               0.00
+  Total Assets              :      61,224,822.79
+  Current Liabilities       :      13,677,728.16
+  Longterm Liabiities       :         434,531.35
+  Total Liabilities         :      14,112,259.50
+  Authorized                :         160,000.00
+  Paid-up Capital           :      22,360,800.00
+  Par Value                 :                500
+  Paid-up Capital Shares    :          44,721.60
+  Retained Earnings         :      20,621,675.07
+  Total Equity              :      46,813,068.84
+  Minority Interest         :         299,494.45
+
+Summary of Income Statement
+  Total Sales               :      38,443,773.48
+  Cost of Good Sold         :      30,622,078.87
+  Gross Profit              :       7,821,694.61
+  Operating Profit          :       3,365,183.12
+  Other Income              :       2,572,407.00
+  Eearning Before Tax       :       5,937,590.12
+  Tax                       :       1,416,654.22
+  Net Income                :       4,571,451.55
+  Closing Price             :             525.00
+
+Per Share Data (Rp)
+  Eps                       :             204.44
+  Book Value                :           1,046.77
+
+Financial Ratios
+  Debt Equity Ratio (X)     :                .30
+  Roa (%)                   :              14.93
+  Roe (%)                   :              19.53
+  Npm (%)                   :              11.89
+  Opm (%)                   :               8.75
+
+Cash Flow
+  CF from Operating Activities                        :       2,899,288.47
+  CF from Investing Activities                        :      -1,444,229.14
+  CF from Financing Activities                        :      -3,516,214.95
+  Net Increase in Cash & Cash Equivalent              :      -2,061,155.63
+  Cash & Cash Equivalent at The Beginning of The Year :      27,611,034.83
+  Cash & Cash Equivalent at The End of The Year       :      25,549,879.20
+
+ 
+ 
+ 

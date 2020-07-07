@@ -1,0 +1,66 @@
+6
+SMMA0306.TXT
+
+SMMA
+Sinar Mas Multiartha Tbk
+Af          :
+Sector Code : 89
+Sector Name : OTHERS FINANCE
+
+(In thousand rupiah except Par Value, Closing Price and Ratios)
+
+Financial Statement Date    : 30-Jun-2003
+Fiscal Year Ends            : Dec
+Months Covered in Income St : 6
+
+Summary of Balance Sheet
+  Receivables               :     240,021,000.00
+  Inventories               :               0.00
+  Current Assets            :               0.00
+  Fixed Assets              :      43,560,000.00
+  Other Asstes              :      87,275,000.00
+  Total Assets              :     926,412,000.00
+  Current Liabilities       :               0.00
+  Longterm Liabiities       :               0.00
+  Total Liabilities         :     606,390,000.00
+  Authorized                :      21,513,629.57
+  Paid-up Capital           :     712,371,840.00
+  Par Value                 :                500
+  Paid-up Capital Shares    :       1,424,743.68
+  Retained Earnings         :    -611,747,000.00
+  Total Equity              :     319,966,000.00
+  Minority Interest         :          56,000.00
+
+Summary of Income Statement
+  Total Sales               :     259,351,000.00
+  Cost of Good Sold         :     158,740,000.00
+  Gross Profit              :     100,611,000.00
+  Operating Profit          :     100,611,000.00
+  Other Income              :       1,246,000.00
+  Eearning Before Tax       :     101,857,000.00
+  Tax                       :       4,269,000.00
+  Net Income                :      97,585,000.00
+  Closing Price             :             650.00
+
+Per Share Data (Rp)
+  Eps                       :             136.99
+  Book Value                :             224.58
+
+Financial Ratios
+  Debt Equity Ratio (X)     :               1.90
+  Roa (%)                   :              21.07
+  Roe (%)                   :              61.00
+  Npm (%)                   :              75.25
+  Opm (%)                   :              77.59
+
+Cash Flow
+  CF from Operating Activities                        :      13,080,000.00
+  CF from Investing Activities                        :     -17,375,000.00
+  CF from Financing Activities                        :               0.00
+  Net Increase in Cash & Cash Equivalent              :      -4,295,000.00
+  Cash & Cash Equivalent at The Beginning of The Year :     208,746,000.00
+  Cash & Cash Equivalent at The End of The Year       :     198,954,000.00
+
+ 
+ 
+ 

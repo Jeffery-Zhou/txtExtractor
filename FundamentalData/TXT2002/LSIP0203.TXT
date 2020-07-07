@@ -1,0 +1,66 @@
+6
+LSIP0203.TXT
+
+LSIP
+PP London Sumatera Tbk
+Af          :
+Sector Code : 12
+Sector Name : PLANTATION
+
+(In thousand rupiah except Par Value, Closing Price and Ratios)
+
+Financial Statement Date    : 31-Mar-2002
+Fiscal Year Ends            : Dec
+Months Covered in Income St : 3
+
+Summary of Balance Sheet
+  Receivables               :      23,654,000.00
+  Inventories               :      73,453,000.00
+  Current Assets            :     187,559,000.00
+  Fixed Assets              :     859,571,000.00
+  Other Asstes              :      71,920,000.00
+  Total Assets              :   1,391,466,000.00
+  Current Liabilities       :   1,819,120,000.00
+  Longterm Liabiities       :     115,130,000.00
+  Total Liabilities         :   1,934,250,000.00
+  Authorized                :       1,600,000.00
+  Paid-up Capital           :     242,806,646.50
+  Par Value                 :                500
+  Paid-up Capital Shares    :         485,613.29
+  Retained Earnings         :    -792,495,000.00
+  Total Equity              :    -542,857,000.00
+  Minority Interest         :          74,000.00
+
+Summary of Income Statement
+  Total Sales               :     211,584,000.00
+  Cost of Good Sold         :     149,013,000.00
+  Gross Profit              :      62,571,000.00
+  Operating Profit          :      50,274,000.00
+  Other Income              :     124,839,000.00
+  Eearning Before Tax       :     175,113,000.00
+  Tax                       :       6,120,000.00
+  Net Income                :     168,993,000.00
+  Closing Price             :             355.00
+
+Per Share Data (Rp)
+  Eps                       :           1,392.00
+  Book Value                :          -1,117.88
+
+Financial Ratios
+  Debt Equity Ratio (X)     :              -3.56
+  Roa (%)                   :              48.58
+  Roe (%)                   :            -124.52
+  Npm (%)                   :              79.87
+  Opm (%)                   :              23.76
+
+Cash Flow
+  CF from Operating Activities                        :      -9,142,000.00
+  CF from Investing Activities                        :     -13,295,000.00
+  CF from Financing Activities                        :      -3,322,000.00
+  Net Increase in Cash & Cash Equivalent              :     -25,759,000.00
+  Cash & Cash Equivalent at The Beginning of The Year :      71,106,000.00
+  Cash & Cash Equivalent at The End of The Year       :      45,347,000.00
+
+ 
+ 
+ 

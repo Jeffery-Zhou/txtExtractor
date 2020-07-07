@@ -1,0 +1,66 @@
+6
+ESTI0306.TXT
+
+ESTI
+Ever Shine Textile Industry Tbk
+Af          :
+Sector Code : 43
+Sector Name : TEXTILE, GARMENT
+
+(In thousand rupiah except Par Value, Closing Price and Ratios)
+
+Financial Statement Date    : 30-Jun-2003
+Fiscal Year Ends            : Dec
+Months Covered in Income St : 6
+
+Summary of Balance Sheet
+  Receivables               :      50,471,597.12
+  Inventories               :     212,305,048.68
+  Current Assets            :     304,220,773.41
+  Fixed Assets              :     317,286,204.54
+  Other Asstes              :      14,708,131.75
+  Total Assets              :     636,215,109.70
+  Current Liabilities       :     177,225,123.77
+  Longterm Liabiities       :      66,621,277.43
+  Total Liabilities         :     243,846,401.20
+  Authorized                :       3,000,000.00
+  Paid-up Capital           :     201,520,872.00
+  Par Value                 :                100
+  Paid-up Capital Shares    :       2,015,208.72
+  Retained Earnings         :     149,039,820.41
+  Total Equity              :     392,355,957.67
+  Minority Interest         :          12,750.83
+
+Summary of Income Statement
+  Total Sales               :     176,753,870.55
+  Cost of Good Sold         :     166,162,472.08
+  Gross Profit              :      10,591,398.47
+  Operating Profit          :         343,098.71
+  Other Income              :       4,459,605.91
+  Eearning Before Tax       :       4,802,704.62
+  Tax                       :       1,612,882.66
+  Net Income                :       3,189,821.96
+  Closing Price             :              95.00
+
+Per Share Data (Rp)
+  Eps                       :               3.17
+  Book Value                :             194.70
+
+Financial Ratios
+  Debt Equity Ratio (X)     :                .62
+  Roa (%)                   :               1.00
+  Roe (%)                   :               1.63
+  Npm (%)                   :               3.61
+  Opm (%)                   :                .39
+
+Cash Flow
+  CF from Operating Activities                        :      12,768,521.90
+  CF from Investing Activities                        :      -3,120,768.52
+  CF from Financing Activities                        :     -37,284,330.38
+  Net Increase in Cash & Cash Equivalent              :     -27,636,576.99
+  Cash & Cash Equivalent at The Beginning of The Year :      61,986,675.48
+  Cash & Cash Equivalent at The End of The Year       :      34,350,098.49
+
+ 
+ 
+ 

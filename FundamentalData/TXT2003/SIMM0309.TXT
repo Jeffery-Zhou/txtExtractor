@@ -1,0 +1,66 @@
+6
+SIMM0309.TXT
+
+SIMM
+Surya Intrindo Makmur Tbk
+Af          :
+Sector Code : 44
+Sector Name : FOOTWEAR
+
+(In thousand rupiah except Par Value, Closing Price and Ratios)
+
+Financial Statement Date    : 30-Sep-2003
+Fiscal Year Ends            : Dec
+Months Covered in Income St : 9
+
+Summary of Balance Sheet
+  Receivables               :      41,254,051.16
+  Inventories               :      52,888,102.37
+  Current Assets            :     105,421,190.86
+  Fixed Assets              :      72,630,189.88
+  Other Asstes              :               0.00
+  Total Assets              :     188,358,719.74
+  Current Liabilities       :      83,303,446.15
+  Longterm Liabiities       :         207,047.27
+  Total Liabilities         :      83,510,493.41
+  Authorized                :       2,800,000.00
+  Paid-up Capital           :     100,000,000.00
+  Par Value                 :                100
+  Paid-up Capital Shares    :       1,000,000.00
+  Retained Earnings         :      -1,062,818.16
+  Total Equity              :      99,685,757.46
+  Minority Interest         :       5,162,468.86
+
+Summary of Income Statement
+  Total Sales               :      85,856,708.45
+  Cost of Good Sold         :     104,004,370.74
+  Gross Profit              :     -18,147,662.29
+  Operating Profit          :     -23,337,020.35
+  Other Income              :        -338,174.84
+  Eearning Before Tax       :     -23,675,195.19
+  Tax                       :      -7,236,877.03
+  Net Income                :     -15,228,885.78
+  Closing Price             :             280.00
+
+Per Share Data (Rp)
+  Eps                       :             -20.31
+  Book Value                :              99.69
+
+Financial Ratios
+  Debt Equity Ratio (X)     :                .84
+  Roa (%)                   :             -10.78
+  Roe (%)                   :             -20.37
+  Npm (%)                   :             -23.65
+  Opm (%)                   :             -36.24
+
+Cash Flow
+  CF from Operating Activities                        :     -11,760,611.07
+  CF from Investing Activities                        :      13,270,883.98
+  CF from Financing Activities                        :      -6,998,103.89
+  Net Increase in Cash & Cash Equivalent              :      -5,487,830.98
+  Cash & Cash Equivalent at The Beginning of The Year :       6,656,713.79
+  Cash & Cash Equivalent at The End of The Year       :       1,168,882.81
+
+ 
+ 
+ 

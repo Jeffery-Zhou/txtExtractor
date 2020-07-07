@@ -1,0 +1,66 @@
+6
+ARTI0309.TXT
+
+ARTI
+Arona Binasejati Tbk
+Af          :
+Sector Code : 49
+Sector Name : OTHERS MISCELLANEOUS INDUSTRY
+
+(In thousand rupiah except Par Value, Closing Price and Ratios)
+
+Financial Statement Date    : 30-Sep-2003
+Fiscal Year Ends            : Dec
+Months Covered in Income St : 9
+
+Summary of Balance Sheet
+  Receivables               :       3,394,571.00
+  Inventories               :     172,007,884.00
+  Current Assets            :     202,482,235.00
+  Fixed Assets              :      78,174,047.00
+  Other Asstes              :         808,510.00
+  Total Assets              :     281,751,848.00
+  Current Liabilities       :     147,651,007.00
+  Longterm Liabiities       :       4,561,961.00
+  Total Liabilities         :     152,212,968.00
+  Authorized                :         404,000.00
+  Paid-up Capital           :      98,000,000.00
+  Par Value                 :                500
+  Paid-up Capital Shares    :         196,000.00
+  Retained Earnings         :       6,027,171.00
+  Total Equity              :     114,806,830.00
+  Minority Interest         :      14,732,050.00
+
+Summary of Income Statement
+  Total Sales               :     112,008,570.00
+  Cost of Good Sold         :      81,513,506.00
+  Gross Profit              :      30,495,064.00
+  Operating Profit          :      12,636,689.00
+  Other Income              :      -3,203,422.00
+  Eearning Before Tax       :       9,433,267.00
+  Tax                       :       3,526,670.00
+  Net Income                :       4,722,213.00
+  Closing Price             :             675.00
+
+Per Share Data (Rp)
+  Eps                       :              32.12
+  Book Value                :             585.75
+
+Financial Ratios
+  Debt Equity Ratio (X)     :               1.33
+  Roa (%)                   :               2.23
+  Roe (%)                   :               5.48
+  Npm (%)                   :               5.62
+  Opm (%)                   :              15.04
+
+Cash Flow
+  CF from Operating Activities                        :     -30,161,177.00
+  CF from Investing Activities                        :      -3,068,293.00
+  CF from Financing Activities                        :      33,868,136.00
+  Net Increase in Cash & Cash Equivalent              :         638,666.00
+  Cash & Cash Equivalent at The Beginning of The Year :         799,849.00
+  Cash & Cash Equivalent at The End of The Year       :       6,681,893.00
+
+ 
+ 
+ 

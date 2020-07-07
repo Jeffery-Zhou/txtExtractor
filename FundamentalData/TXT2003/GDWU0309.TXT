@@ -1,0 +1,66 @@
+6
+GDWU0309.TXT
+
+GDWU
+Kasogi International Tbk
+Af          :
+Sector Code : 44
+Sector Name : FOOTWEAR
+
+(In thousand rupiah except Par Value, Closing Price and Ratios)
+
+Financial Statement Date    : 30-Sep-2003
+Fiscal Year Ends            : Dec
+Months Covered in Income St : 9
+
+Summary of Balance Sheet
+  Receivables               :      14,876,136.42
+  Inventories               :      48,887,503.87
+  Current Assets            :      71,667,515.95
+  Fixed Assets              :      31,356,245.35
+  Other Asstes              :          57,430.84
+  Total Assets              :     121,147,226.75
+  Current Liabilities       :     803,928,387.44
+  Longterm Liabiities       :      22,997,857.69
+  Total Liabilities         :     826,926,245.13
+  Authorized                :       1,000,000.00
+  Paid-up Capital           :     126,000,000.00
+  Par Value                 :                500
+  Paid-up Capital Shares    :         252,000.00
+  Retained Earnings         :    -831,478,981.98
+  Total Equity              :    -705,788,393.79
+  Minority Interest         :           9,375.41
+
+Summary of Income Statement
+  Total Sales               :      49,207,817.79
+  Cost of Good Sold         :      57,038,056.68
+  Gross Profit              :      -7,830,238.90
+  Operating Profit          :     -18,938,052.92
+  Other Income              :     -28,553,240.05
+  Eearning Before Tax       :     -47,491,292.97
+  Tax                       :               0.00
+  Net Income                :     -47,490,774.86
+  Closing Price             :              20.00
+
+Per Share Data (Rp)
+  Eps                       :            -251.27
+  Book Value                :          -2,800.75
+
+Financial Ratios
+  Debt Equity Ratio (X)     :              -1.17
+  Roa (%)                   :             -52.27
+  Roe (%)                   :               8.97
+  Npm (%)                   :            -128.68
+  Opm (%)                   :             -51.31
+
+Cash Flow
+  CF from Operating Activities                        :        -101,696.96
+  CF from Investing Activities                        :         314,226.04
+  CF from Financing Activities                        :         207,254.25
+  Net Increase in Cash & Cash Equivalent              :         419,783.33
+  Cash & Cash Equivalent at The Beginning of The Year :       3,300,493.62
+  Cash & Cash Equivalent at The End of The Year       :       3,720,276.94
+
+ 
+ 
+ 

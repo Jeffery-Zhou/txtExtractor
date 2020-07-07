@@ -1,0 +1,66 @@
+6
+DSFI0306.TXT
+
+DSFI
+Dharma Samudera Fishing Industries Tbk
+Af          :
+Sector Code : 14
+Sector Name : FISHERY
+
+(In thousand rupiah except Par Value, Closing Price and Ratios)
+
+Financial Statement Date    : 30-Jun-2003
+Fiscal Year Ends            : Dec
+Months Covered in Income St : 6
+
+Summary of Balance Sheet
+  Receivables               :       9,436,404.88
+  Inventories               :      70,349,728.97
+  Current Assets            :     101,612,927.35
+  Fixed Assets              :      97,342,336.00
+  Other Asstes              :       2,666,478.08
+  Total Assets              :     231,157,973.25
+  Current Liabilities       :      86,481,054.89
+  Longterm Liabiities       :       4,703,750.13
+  Total Liabilities         :      91,184,805.02
+  Authorized                :       2,000,000.00
+  Paid-up Capital           :      92,856,775.00
+  Par Value                 :                100
+  Paid-up Capital Shares    :         928,567.75
+  Retained Earnings         :      25,889,821.51
+  Total Equity              :     139,973,168.22
+  Minority Interest         :               0.00
+
+Summary of Income Statement
+  Total Sales               :     141,729,263.39
+  Cost of Good Sold         :     115,909,652.58
+  Gross Profit              :      25,819,610.81
+  Operating Profit          :       4,005,790.04
+  Other Income              :      -4,739,082.48
+  Eearning Before Tax       :        -733,292.44
+  Tax                       :         -11,119.18
+  Net Income                :        -722,173.26
+  Closing Price             :              85.00
+
+Per Share Data (Rp)
+  Eps                       :              -1.56
+  Book Value                :             150.74
+
+Financial Ratios
+  Debt Equity Ratio (X)     :                .65
+  Roa (%)                   :               -.62
+  Roe (%)                   :              -1.03
+  Npm (%)                   :              -1.02
+  Opm (%)                   :               5.65
+
+Cash Flow
+  CF from Operating Activities                        :       1,943,046.63
+  CF from Investing Activities                        :      -2,295,723.84
+  CF from Financing Activities                        :         354,468.12
+  Net Increase in Cash & Cash Equivalent              :           1,790.91
+  Cash & Cash Equivalent at The Beginning of The Year :       1,873,324.93
+  Cash & Cash Equivalent at The End of The Year       :       1,875,115.84
+
+ 
+ 
+ 

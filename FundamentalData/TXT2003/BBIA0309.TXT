@@ -1,0 +1,66 @@
+6
+BBIA0309.TXT
+
+BBIA
+Bank Buana Indonesia Tbk
+Af          :
+Sector Code : 81
+Sector Name : BANK
+
+(In thousand rupiah except Par Value, Closing Price and Ratios)
+
+Financial Statement Date    : 30-Sep-2003
+Fiscal Year Ends            : Dec
+Months Covered in Income St : 9
+
+Summary of Balance Sheet
+  Receivables               :               0.00
+  Inventories               :               0.00
+  Current Assets            :               0.00
+  Fixed Assets              :     320,265,000.00
+  Other Asstes              :     348,125,000.00
+  Total Assets              :  14,195,995,000.00
+  Current Liabilities       :               0.00
+  Longterm Liabiities       :               0.00
+  Total Liabilities         :  12,517,911,000.00
+  Authorized                :       7,200,000.00
+  Paid-up Capital           :     930,617,753.00
+  Par Value                 :                250
+  Paid-up Capital Shares    :       3,722,471.01
+  Retained Earnings         :     406,923,000.00
+  Total Equity              :   1,678,084,000.00
+  Minority Interest         :               0.00
+
+Summary of Income Statement
+  Total Sales               :   1,262,563,000.00
+  Cost of Good Sold         :   1,045,727,000.00
+  Gross Profit              :     216,836,000.00
+  Operating Profit          :     216,836,000.00
+  Other Income              :       1,175,000.00
+  Eearning Before Tax       :     218,011,000.00
+  Tax                       :               0.00
+  Net Income                :     218,011,000.00
+  Closing Price             :             700.00
+
+Per Share Data (Rp)
+  Eps                       :              78.09
+  Book Value                :             450.80
+
+Financial Ratios
+  Debt Equity Ratio (X)     :               7.46
+  Roa (%)                   :               2.05
+  Roe (%)                   :              17.32
+  Npm (%)                   :              23.02
+  Opm (%)                   :              22.90
+
+Cash Flow
+  CF from Operating Activities                        :       6,173,000.00
+  CF from Investing Activities                        :    -343,684,000.00
+  CF from Financing Activities                        :     189,407,000.00
+  Net Increase in Cash & Cash Equivalent              :    -148,104,000.00
+  Cash & Cash Equivalent at The Beginning of The Year :     852,746,000.00
+  Cash & Cash Equivalent at The End of The Year       :     704,642,000.00
+
+ 
+ 
+ 

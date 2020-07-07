@@ -1,0 +1,66 @@
+6
+POLY0209.TXT
+
+POLY
+Polysindo Eka Perkasa Tbk
+Af          :
+Sector Code : 43
+Sector Name : TEXTILE, GARMENT
+
+(In thousand rupiah except Par Value, Closing Price and Ratios)
+
+Financial Statement Date    : 30-Sep-2002
+Fiscal Year Ends            : Dec
+Months Covered in Income St : 9
+
+Summary of Balance Sheet
+  Receivables               :   1,275,692,520.38
+  Inventories               :     480,950,308.03
+  Current Assets            :   1,897,203,831.55
+  Fixed Assets              :   6,424,297,386.55
+  Other Asstes              :       2,060,600.00
+  Total Assets              :   8,663,984,119.27
+  Current Liabilities       :  15,337,793,769.26
+  Longterm Liabiities       :     578,501,578.69
+  Total Liabilities         :  15,916,295,347.96
+  Authorized                :      17,000,000.00
+  Paid-up Capital           :   2,196,960,000.00
+  Par Value                 :                500
+  Paid-up Capital Shares    :       4,393,920.00
+  Retained Earnings         :  -9,463,197,237.94
+  Total Equity              :  -7,252,311,228.69
+  Minority Interest         :               0.00
+
+Summary of Income Statement
+  Total Sales               :   2,909,909,092.94
+  Cost of Good Sold         :   3,038,171,890.02
+  Gross Profit              :    -128,262,797.08
+  Operating Profit          :    -521,898,093.74
+  Other Income              :   1,417,686,680.60
+  Eearning Before Tax       :     895,788,586.86
+  Tax                       :      15,037,496.39
+  Net Income                :     880,751,090.47
+  Closing Price             :              20.00
+
+Per Share Data (Rp)
+  Eps                       :             267.26
+  Book Value                :          -1,650.53
+
+Financial Ratios
+  Debt Equity Ratio (X)     :              -2.19
+  Roa (%)                   :              13.55
+  Roe (%)                   :             -16.19
+  Npm (%)                   :              40.36
+  Opm (%)                   :             -23.91
+
+Cash Flow
+  CF from Operating Activities                        :     515,735,834.98
+  CF from Investing Activities                        :         126,187.11
+  CF from Financing Activities                        :    -598,551,669.66
+  Net Increase in Cash & Cash Equivalent              :     -82,689,647.58
+  Cash & Cash Equivalent at The Beginning of The Year :      96,576,150.49
+  Cash & Cash Equivalent at The End of The Year       :      13,886,502.92
+
+ 
+ 
+ 

@@ -1,0 +1,66 @@
+6
+BKSL0206.TXT
+
+BKSL
+Bukit Sentul Tbk
+Af          :
+Sector Code : 61
+Sector Name : PROPERTY AND REAL ESTATE
+
+(In thousand rupiah except Par Value, Closing Price and Ratios)
+
+Financial Statement Date    : 30-Jun-2002
+Fiscal Year Ends            : Dec
+Months Covered in Income St : 6
+
+Summary of Balance Sheet
+  Receivables               :      13,920,285.95
+  Inventories               :     850,203,805.53
+  Current Assets            :               0.00
+  Fixed Assets              :      77,911,284.75
+  Other Asstes              :     528,544,350.75
+  Total Assets              :   2,229,216,859.12
+  Current Liabilities       :               0.00
+  Longterm Liabiities       :               0.00
+  Total Liabilities         :     748,923,477.25
+  Authorized                :      14,280,000.00
+  Paid-up Capital           :   1,115,400,000.00
+  Par Value                 :          500 & 100
+  Paid-up Capital Shares    :       5,434,000.00
+  Retained Earnings         :     -33,838,255.83
+  Total Equity              :   1,480,193,375.88
+  Minority Interest         :         100,006.00
+
+Summary of Income Statement
+  Total Sales               :     127,633,810.79
+  Cost of Good Sold         :      72,527,469.00
+  Gross Profit              :      55,106,341.79
+  Operating Profit          :      13,734,657.12
+  Other Income              :      -9,181,372.59
+  Eearning Before Tax       :       5,425,063.01
+  Tax                       :       1,887,644.94
+  Net Income                :       5,599,442.73
+  Closing Price             :             135.00
+
+Per Share Data (Rp)
+  Eps                       :               2.06
+  Book Value                :             272.39
+
+Financial Ratios
+  Debt Equity Ratio (X)     :                .51
+  Roa (%)                   :                .50
+  Roe (%)                   :                .76
+  Npm (%)                   :               4.39
+  Opm (%)                   :              10.76
+
+Cash Flow
+  CF from Operating Activities                        :       1,974,671.26
+  CF from Investing Activities                        :        -775,142.52
+  CF from Financing Activities                        :      -4,155,164.80
+  Net Increase in Cash & Cash Equivalent              :      -2,955,636.06
+  Cash & Cash Equivalent at The Beginning of The Year :      10,929,018.22
+  Cash & Cash Equivalent at The End of The Year       :       7,973,382.16
+
+ 
+ 
+ 

@@ -1,0 +1,66 @@
+6
+BMRI0309.TXT
+
+BMRI
+Bank Mandiri (Persero) Tbk
+Af          :
+Sector Code : 81
+Sector Name : BANK
+
+(In thousand rupiah except Par Value, Closing Price and Ratios)
+
+Financial Statement Date    : 30-Sep-2003
+Fiscal Year Ends            : Dec
+Months Covered in Income St : 9
+
+Summary of Balance Sheet
+  Receivables               :               0.00
+  Inventories               :               0.00
+  Current Assets            :               0.00
+  Fixed Assets              :   5,274,713,000.00
+  Other Asstes              :   9,280,030,000.00
+  Total Assets              : 251,049,395,000.00
+  Current Liabilities       :               0.00
+  Longterm Liabiities       :               0.00
+  Total Liabilities         : 229,156,795,000.00
+  Authorized                :      32,000,000.00
+  Paid-up Capital           :  10,000,000,000.00
+  Par Value                 :                500
+  Paid-up Capital Shares    :      20,000,000.00
+  Retained Earnings         :   2,409,035,000.00
+  Total Equity              :  21,889,087,000.00
+  Minority Interest         :       3,513,000.00
+
+Summary of Income Statement
+  Total Sales               :  11,259,524,000.00
+  Cost of Good Sold         :   8,281,755,000.00
+  Gross Profit              :   2,977,769,000.00
+  Operating Profit          :   2,977,769,000.00
+  Other Income              :     210,907,000.00
+  Eearning Before Tax       :   3,188,676,000.00
+  Tax                       :     779,366,000.00
+  Net Income                :   2,409,035,000.00
+  Closing Price             :             850.00
+
+Per Share Data (Rp)
+  Eps                       :             160.60
+  Book Value                :           1,094.45
+
+Financial Ratios
+  Debt Equity Ratio (X)     :              10.47
+  Roa (%)                   :               1.28
+  Roe (%)                   :              14.67
+  Npm (%)                   :              28.53
+  Opm (%)                   :              35.26
+
+Cash Flow
+  CF from Operating Activities                        :     570,347,000.00
+  CF from Investing Activities                        :   1,982,299,000.00
+  CF from Financing Activities                        :  -1,694,323,000.00
+  Net Increase in Cash & Cash Equivalent              :     858,323,000.00
+  Cash & Cash Equivalent at The Beginning of The Year :  11,906,005,000.00
+  Cash & Cash Equivalent at The End of The Year       :  12,764,328,000.00
+
+ 
+ 
+ 

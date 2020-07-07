@@ -1,0 +1,66 @@
+6
+AISA0303.TXT
+
+AISA
+Asia Intiselera Tbk
+Af          :
+Sector Code : 51
+Sector Name : FOOD AND BEVERAGES
+
+(In thousand rupiah except Par Value, Closing Price and Ratios)
+
+Financial Statement Date    : 31-Mar-2003
+Fiscal Year Ends            : Dec
+Months Covered in Income St : 3
+
+Summary of Balance Sheet
+  Receivables               :       1,849,048.51
+  Inventories               :       2,112,126.01
+  Current Assets            :       6,969,348.28
+  Fixed Assets              :      19,094,046.40
+  Other Asstes              :               0.00
+  Total Assets              :      83,368,635.59
+  Current Liabilities       :      25,971,327.89
+  Longterm Liabiities       :      93,345,085.81
+  Total Liabilities         :     119,316,413.70
+  Authorized                :         697,500.00
+  Paid-up Capital           :     113,500,000.00
+  Par Value                 :            500&200
+  Paid-up Capital Shares    :         365,000.00
+  Retained Earnings         :    -169,697,778.11
+  Total Equity              :     -35,947,778.11
+  Minority Interest         :               0.00
+
+Summary of Income Statement
+  Total Sales               :       4,920,241.00
+  Cost of Good Sold         :       5,111,979.10
+  Gross Profit              :        -191,738.10
+  Operating Profit          :      -3,011,402.94
+  Other Income              :      -1,710,756.49
+  Eearning Before Tax       :      -4,722,159.44
+  Tax                       :               0.00
+  Net Income                :      -4,722,159.44
+  Closing Price             :             345.00
+
+Per Share Data (Rp)
+  Eps                       :             -51.75
+  Book Value                :             -98.49
+
+Financial Ratios
+  Debt Equity Ratio (X)     :              -3.32
+  Roa (%)                   :             -22.66
+  Roe (%)                   :              52.54
+  Npm (%)                   :            -383.90
+  Opm (%)                   :            -244.82
+
+Cash Flow
+  CF from Operating Activities                        :      -4,190,454.76
+  CF from Investing Activities                        :         222,874.62
+  CF from Financing Activities                        :       3,689,945.77
+  Net Increase in Cash & Cash Equivalent              :        -277,634.37
+  Cash & Cash Equivalent at The Beginning of The Year :         980,313.04
+  Cash & Cash Equivalent at The End of The Year       :         702,678.66
+
+ 
+ 
+ 

@@ -1,0 +1,66 @@
+6
+BNII0309.TXT
+
+BNII
+Bank Int' l Indonesia Tbk
+Af          : SMMA
+Sector Code : 81
+Sector Name : BANK
+
+(In thousand rupiah except Par Value, Closing Price and Ratios)
+
+Financial Statement Date    : 30-Sep-2003
+Fiscal Year Ends            : Dec
+Months Covered in Income St : 9
+
+Summary of Balance Sheet
+  Receivables               :               0.00
+  Inventories               :               0.00
+  Current Assets            :               0.00
+  Fixed Assets              :     898,729,000.00
+  Other Asstes              :     437,113,000.00
+  Total Assets              :  34,726,767,000.00
+  Current Liabilities       :               0.00
+  Longterm Liabiities       :               0.00
+  Total Liabilities         :  31,397,595,000.00
+  Authorized                :     208,841,497.00
+  Paid-up Capital           :  17,867,731,155.00
+  Par Value                 :      5000&1250&125
+  Paid-up Capital Shares    :      47,783,346.23
+  Retained Earnings         : -15,934,582,000.00
+  Total Equity              :   3,329,172,000.00
+  Minority Interest         :               0.00
+
+Summary of Income Statement
+  Total Sales               :   3,119,256,000.00
+  Cost of Good Sold         :   2,909,040,000.00
+  Gross Profit              :     210,216,000.00
+  Operating Profit          :     210,216,000.00
+  Other Income              :      -8,688,000.00
+  Eearning Before Tax       :     201,528,000.00
+  Tax                       :     -20,198,000.00
+  Net Income                :     221,726,000.00
+  Closing Price             :             115.00
+
+Per Share Data (Rp)
+  Eps                       :               6.19
+  Book Value                :              69.67
+
+Financial Ratios
+  Debt Equity Ratio (X)     :               9.43
+  Roa (%)                   :                .85
+  Roe (%)                   :               8.88
+  Npm (%)                   :               9.48
+  Opm (%)                   :               8.99
+
+Cash Flow
+  CF from Operating Activities                        :   1,176,729,000.00
+  CF from Investing Activities                        :      24,711,000.00
+  CF from Financing Activities                        :  -1,514,036,000.00
+  Net Increase in Cash & Cash Equivalent              :    -312,596,000.00
+  Cash & Cash Equivalent at The Beginning of The Year :   2,507,126,000.00
+  Cash & Cash Equivalent at The End of The Year       :   2,147,394,000.00
+
+ 
+ 
+ 

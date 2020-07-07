@@ -1,0 +1,66 @@
+6
+ELTY0212.TXT
+
+ELTY
+Bakrieland Development Tbk
+Af          :
+Sector Code : 61
+Sector Name : PROPERTY AND REAL ESTATE
+
+(In thousand rupiah except Par Value, Closing Price and Ratios)
+
+Financial Statement Date    : 31-Dec-2002
+Fiscal Year Ends            : Dec
+Months Covered in Income St : 12
+
+Summary of Balance Sheet
+  Receivables               :       6,323,875.22
+  Inventories               :      70,285,324.39
+  Current Assets            :     149,101,656.91
+  Fixed Assets              :     108,588,455.38
+  Other Asstes              :               0.00
+  Total Assets              :     717,123,836.29
+  Current Liabilities       :     439,128,576.20
+  Longterm Liabiities       :      79,379,253.36
+  Total Liabilities         :     518,639,146.71
+  Authorized                :       1,400,000.00
+  Paid-up Capital           :     700,000,000.00
+  Par Value                 :                500
+  Paid-up Capital Shares    :       1,400,000.00
+  Retained Earnings         :    -413,696,278.46
+  Total Equity              :     198,484,689.58
+  Minority Interest         :               0.00
+
+Summary of Income Statement
+  Total Sales               :      33,222,391.38
+  Cost of Good Sold         :      18,950,746.69
+  Gross Profit              :      14,271,644.69
+  Operating Profit          :      -2,072,065.88
+  Other Income              :      16,850,837.22
+  Eearning Before Tax       :      14,778,771.34
+  Tax                       :       4,949,755.15
+  Net Income                :       9,829,016.19
+  Closing Price             :              15.00
+
+Per Share Data (Rp)
+  Eps                       :               7.02
+  Book Value                :             141.77
+
+Financial Ratios
+  Debt Equity Ratio (X)     :               2.61
+  Roa (%)                   :               1.37
+  Roe (%)                   :               4.95
+  Npm (%)                   :              29.59
+  Opm (%)                   :              -6.24
+
+Cash Flow
+  CF from Operating Activities                        :         841,046.68
+  CF from Investing Activities                        :         344,829.70
+  CF from Financing Activities                        :      -1,864,383.36
+  Net Increase in Cash & Cash Equivalent              :        -678,506.98
+  Cash & Cash Equivalent at The Beginning of The Year :       1,905,368.85
+  Cash & Cash Equivalent at The End of The Year       :       1,226,861.87
+
+ 
+ 
+ 

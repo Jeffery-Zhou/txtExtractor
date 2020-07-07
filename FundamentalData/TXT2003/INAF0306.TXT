@@ -1,0 +1,66 @@
+6
+INAF0306.TXT
+
+INAF
+Indofarma Tbk
+Af          :
+Sector Code : 53
+Sector Name : PHARMACEUTICALS
+
+(In thousand rupiah except Par Value, Closing Price and Ratios)
+
+Financial Statement Date    : 30-Jun-2003
+Fiscal Year Ends            : Dec
+Months Covered in Income St : 6
+
+Summary of Balance Sheet
+  Receivables               :      97,676,393.15
+  Inventories               :     296,394,902.42
+  Current Assets            :     540,012,069.42
+  Fixed Assets              :     120,463,702.74
+  Other Asstes              :      19,037,861.77
+  Total Assets              :     711,131,081.97
+  Current Liabilities       :     308,385,708.25
+  Longterm Liabiities       :      39,615,203.86
+  Total Liabilities         :     348,000,912.11
+  Authorized                :      10,000,000.00
+  Paid-up Capital           :     309,926,750.00
+  Par Value                 :                100
+  Paid-up Capital Shares    :       3,099,267.50
+  Retained Earnings         :     -28,620,208.56
+  Total Equity              :     356,406,897.62
+  Minority Interest         :       6,723,272.23
+
+Summary of Income Statement
+  Total Sales               :     166,944,773.80
+  Cost of Good Sold         :     113,685,974.85
+  Gross Profit              :      53,258,798.95
+  Operating Profit          :     -25,197,017.62
+  Other Income              :     -16,814,213.88
+  Eearning Before Tax       :     -42,011,231.50
+  Tax                       :      -7,152,591.63
+  Net Income                :     -34,028,602.88
+  Closing Price             :             180.00
+
+Per Share Data (Rp)
+  Eps                       :             -21.96
+  Book Value                :             115.00
+
+Financial Ratios
+  Debt Equity Ratio (X)     :                .98
+  Roa (%)                   :              -9.57
+  Roe (%)                   :             -19.10
+  Npm (%)                   :             -40.77
+  Opm (%)                   :             -30.19
+
+Cash Flow
+  CF from Operating Activities                        :     -69,615,180.74
+  CF from Investing Activities                        :      -4,187,375.93
+  CF from Financing Activities                        :      42,948,690.56
+  Net Increase in Cash & Cash Equivalent              :     -30,853,866.11
+  Cash & Cash Equivalent at The Beginning of The Year :      48,171,949.67
+  Cash & Cash Equivalent at The End of The Year       :      16,879,753.43
+
+ 
+ 
+ 

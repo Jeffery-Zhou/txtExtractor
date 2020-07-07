@@ -1,0 +1,66 @@
+6
+INCI0312.TXT
+
+INCI
+Intanwijaya Internasional Tbk
+Af          :
+Sector Code : 34
+Sector Name : CHEMICALS
+
+(In thousand rupiah except Par Value, Closing Price and Ratios)
+
+Financial Statement Date    : 31-Dec-2003
+Fiscal Year Ends            : Dec
+Months Covered in Income St : 12
+
+Summary of Balance Sheet
+  Receivables               :      89,217,402.99
+  Inventories               :       6,176,646.85
+  Current Assets            :     121,258,001.76
+  Fixed Assets              :      46,964,617.61
+  Other Asstes              :         569,080.00
+  Total Assets              :     169,118,863.11
+  Current Liabilities       :      23,199,093.04
+  Longterm Liabiities       :         956,583.62
+  Total Liabilities         :      24,155,676.66
+  Authorized                :         220,000.00
+  Paid-up Capital           :      84,333,333.50
+  Par Value                 :                500
+  Paid-up Capital Shares    :         168,666.67
+  Retained Earnings         :      56,453,061.46
+  Total Equity              :     144,963,186.46
+  Minority Interest         :               0.00
+
+Summary of Income Statement
+  Total Sales               :     147,258,179.23
+  Cost of Good Sold         :     116,530,076.95
+  Gross Profit              :      30,728,102.29
+  Operating Profit          :      16,450,154.02
+  Other Income              :      -5,164,325.84
+  Eearning Before Tax       :      11,285,828.18
+  Tax                       :       3,278,605.79
+  Net Income                :       8,007,222.39
+  Closing Price             :             300.00
+
+Per Share Data (Rp)
+  Eps                       :              47.47
+  Book Value                :             859.47
+
+Financial Ratios
+  Debt Equity Ratio (X)     :                .17
+  Roa (%)                   :               4.73
+  Roe (%)                   :               5.52
+  Npm (%)                   :               5.44
+  Opm (%)                   :              11.17
+
+Cash Flow
+  CF from Operating Activities                        :      -3,353,177.52
+  CF from Investing Activities                        :         -82,696.08
+  CF from Financing Activities                        :      -1,726,521.34
+  Net Increase in Cash & Cash Equivalent              :      -5,162,394.94
+  Cash & Cash Equivalent at The Beginning of The Year :      19,163,443.89
+  Cash & Cash Equivalent at The End of The Year       :      14,001,048.95
+
+ 
+ 
+ 

@@ -1,0 +1,66 @@
+6
+SIPD0312.TXT
+
+SIPD
+Sierad Produce Tbk
+Af          :
+Sector Code : 36
+Sector Name : ANIMAL FEED
+
+(In thousand rupiah except Par Value, Closing Price and Ratios)
+
+Financial Statement Date    : 31-Dec-2003
+Fiscal Year Ends            : Dec
+Months Covered in Income St : 12
+
+Summary of Balance Sheet
+  Receivables               :     161,038,284.62
+  Inventories               :     139,655,600.16
+  Current Assets            :     424,374,893.88
+  Fixed Assets              :     649,975,582.31
+  Other Asstes              :               0.00
+  Total Assets              :   1,266,008,459.69
+  Current Liabilities       :     124,611,931.95
+  Longterm Liabiities       :     935,767,698.09
+  Total Liabilities         :   1,060,379,630.04
+  Authorized                :      28,951,460.34
+  Paid-up Capital           :   2,317,559,324.90
+  Par Value                 :          500 & 300
+  Paid-up Capital Shares    :       7,237,865.08
+  Retained Earnings         :  -2,550,018,022.71
+  Total Equity              :     205,340,766.31
+  Minority Interest         :         288,063.35
+
+Summary of Income Statement
+  Total Sales               :   1,126,707,966.02
+  Cost of Good Sold         :   1,054,203,336.70
+  Gross Profit              :      72,504,629.33
+  Operating Profit          :     -41,852,641.22
+  Other Income              :       5,880,364.30
+  Eearning Before Tax       :     -35,972,276.92
+  Tax                       :      70,857,582.57
+  Net Income                :    -106,754,143.37
+  Closing Price             :              40.00
+
+Per Share Data (Rp)
+  Eps                       :             -14.75
+  Book Value                :              28.37
+
+Financial Ratios
+  Debt Equity Ratio (X)     :               5.16
+  Roa (%)                   :              -8.43
+  Roe (%)                   :             -51.99
+  Npm (%)                   :              -9.47
+  Opm (%)                   :              -3.71
+
+Cash Flow
+  CF from Operating Activities                        :      -1,725,523.29
+  CF from Investing Activities                        :     -12,153,065.15
+  CF from Financing Activities                        :          36,800.20
+  Net Increase in Cash & Cash Equivalent              :     -13,841,788.24
+  Cash & Cash Equivalent at The Beginning of The Year :      29,093,527.88
+  Cash & Cash Equivalent at The End of The Year       :      15,251,739.64
+
+ 
+ 
+ 

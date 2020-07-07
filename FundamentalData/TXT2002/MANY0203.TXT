@@ -1,0 +1,66 @@
+6
+MANY0203.TXT
+
+MANY
+Manly Unitama Finance Tbk
+Af          :
+Sector Code : 82
+Sector Name : FINANCIAL INSTITUTION
+
+(In thousand rupiah except Par Value, Closing Price and Ratios)
+
+Financial Statement Date    : 31-Mar-2002
+Fiscal Year Ends            : Dec
+Months Covered in Income St : 3
+
+Summary of Balance Sheet
+  Receivables               :      14,297,320.75
+  Inventories               :               0.00
+  Current Assets            :               0.00
+  Fixed Assets              :         365,321.32
+  Other Asstes              :       3,131,071.30
+  Total Assets              :      97,315,607.36
+  Current Liabilities       :               0.00
+  Longterm Liabiities       :               0.00
+  Total Liabilities         :      40,019,294.43
+  Authorized                :         240,000.00
+  Paid-up Capital           :      55,000,000.00
+  Par Value                 :                500
+  Paid-up Capital Shares    :         110,000.00
+  Retained Earnings         :       3,396,312.94
+  Total Equity              :      57,296,312.94
+  Minority Interest         :               0.00
+
+Summary of Income Statement
+  Total Sales               :       1,025,616.68
+  Cost of Good Sold         :         685,768.01
+  Gross Profit              :         339,848.67
+  Operating Profit          :         339,848.67
+  Other Income              :        -230,072.52
+  Eearning Before Tax       :         109,776.16
+  Tax                       :               0.00
+  Net Income                :         109,776.16
+  Closing Price             :              95.00
+
+Per Share Data (Rp)
+  Eps                       :               3.99
+  Book Value                :             520.88
+
+Financial Ratios
+  Debt Equity Ratio (X)     :                .70
+  Roa (%)                   :                .45
+  Roe (%)                   :                .77
+  Npm (%)                   :              10.70
+  Opm (%)                   :              33.14
+
+Cash Flow
+  CF from Operating Activities                        :      -2,359,621.52
+  CF from Investing Activities                        :          96,702.37
+  CF from Financing Activities                        :               0.00
+  Net Increase in Cash & Cash Equivalent              :      -2,262,919.15
+  Cash & Cash Equivalent at The Beginning of The Year :       2,782,814.98
+  Cash & Cash Equivalent at The End of The Year       :         519,895.83
+
+ 
+ 
+ 

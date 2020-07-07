@@ -1,0 +1,66 @@
+6
+BBLD0312.TXT
+
+BBLD
+Bina Danatama Finance Tbk
+Af          : DSST
+Sector Code : 82
+Sector Name : FINANCIAL INSTITUTION
+
+(In thousand rupiah except Par Value, Closing Price and Ratios)
+
+Financial Statement Date    : 31-Dec-2003
+Fiscal Year Ends            : Dec
+Months Covered in Income St : 12
+
+Summary of Balance Sheet
+  Receivables               :      96,133,962.11
+  Inventories               :               0.00
+  Current Assets            :               0.00
+  Fixed Assets              :       5,327,470.43
+  Other Asstes              :               0.00
+  Total Assets              :     971,460,951.13
+  Current Liabilities       :               0.00
+  Longterm Liabiities       :               0.00
+  Total Liabilities         :     912,703,690.24
+  Authorized                :         720,000.00
+  Paid-up Capital           :      90,000,000.00
+  Par Value                 :                500
+  Paid-up Capital Shares    :         180,000.00
+  Retained Earnings         :     -32,367,739.11
+  Total Equity              :      58,757,260.89
+  Minority Interest         :               0.00
+
+Summary of Income Statement
+  Total Sales               :     256,711,062.43
+  Cost of Good Sold         :      62,107,771.40
+  Gross Profit              :     194,603,291.03
+  Operating Profit          :     194,603,291.03
+  Other Income              :               0.00
+  Eearning Before Tax       :     194,603,291.03
+  Tax                       :      22,661,893.56
+  Net Income                :     171,941,397.47
+  Closing Price             :             625.00
+
+Per Share Data (Rp)
+  Eps                       :             955.23
+  Book Value                :             326.43
+
+Financial Ratios
+  Debt Equity Ratio (X)     :              15.53
+  Roa (%)                   :              17.70
+  Roe (%)                   :             292.63
+  Npm (%)                   :              66.98
+  Opm (%)                   :              75.81
+
+Cash Flow
+  CF from Operating Activities                        :      78,073,136.76
+  CF from Investing Activities                        :      -2,217,812.30
+  CF from Financing Activities                        :    -116,558,836.78
+  Net Increase in Cash & Cash Equivalent              :     -46,892,418.42
+  Cash & Cash Equivalent at The Beginning of The Year :     385,346,283.99
+  Cash & Cash Equivalent at The End of The Year       :     338,453,865.57
+
+ 
+ 
+ 

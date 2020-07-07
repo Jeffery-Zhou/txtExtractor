@@ -1,0 +1,66 @@
+6
+SUDI0212.TXT
+
+SUDI
+Surya Dumai Industri Tbk.
+Af          :
+Sector Code : 37
+Sector Name : WOOD INDUSTRIES
+
+(In thousand rupiah except Par Value, Closing Price and Ratios)
+
+Financial Statement Date    : 31-Dec-2002
+Fiscal Year Ends            : Dec
+Months Covered in Income St : 12
+
+Summary of Balance Sheet
+  Receivables               :     103,434,036.55
+  Inventories               :     107,967,340.88
+  Current Assets            :     262,135,518.37
+  Fixed Assets              :     644,738,105.03
+  Other Asstes              :       6,135,590.21
+  Total Assets              :   1,379,331,128.06
+  Current Liabilities       :     888,667,138.61
+  Longterm Liabiities       :   1,081,847,050.26
+  Total Liabilities         :   1,970,514,188.86
+  Authorized                :      10,000,000.00
+  Paid-up Capital           :     250,000,000.00
+  Par Value                 :                100
+  Paid-up Capital Shares    :       2,500,000.00
+  Retained Earnings         :  -1,110,858,288.45
+  Total Equity              :    -756,241,756.04
+  Minority Interest         :     165,058,695.24
+
+Summary of Income Statement
+  Total Sales               :     586,961,229.02
+  Cost of Good Sold         :     512,873,426.29
+  Gross Profit              :      74,087,802.74
+  Operating Profit          :      31,852,520.89
+  Other Income              :    -411,998,949.79
+  Eearning Before Tax       :    -380,600,948.70
+  Tax                       :     -53,098,300.86
+  Net Income                :    -328,398,412.91
+  Closing Price             :             450.00
+
+Per Share Data (Rp)
+  Eps                       :            -131.36
+  Book Value                :            -302.50
+
+Financial Ratios
+  Debt Equity Ratio (X)     :              -2.61
+  Roa (%)                   :             -23.81
+  Roe (%)                   :              43.43
+  Npm (%)                   :             -55.95
+  Opm (%)                   :               5.43
+
+Cash Flow
+  CF from Operating Activities                        :      34,431,998.60
+  CF from Investing Activities                        :     -46,825,250.89
+  CF from Financing Activities                        :       3,539,254.84
+  Net Increase in Cash & Cash Equivalent              :      -8,853,997.46
+  Cash & Cash Equivalent at The Beginning of The Year :      28,978,258.81
+  Cash & Cash Equivalent at The End of The Year       :      20,124,261.35
+
+ 
+ 
+ 

@@ -1,0 +1,66 @@
+6
+DEFI0312.TXT
+
+DEFI
+Danasupra Erapacific Tbk
+Af          :
+Sector Code : 82
+Sector Name : FINANCIAL INSTITUTION
+
+(In thousand rupiah except Par Value, Closing Price and Ratios)
+
+Financial Statement Date    : 31-Dec-2003
+Fiscal Year Ends            : Dec
+Months Covered in Income St : 12
+
+Summary of Balance Sheet
+  Receivables               :      75,676,866.85
+  Inventories               :               0.00
+  Current Assets            :               0.00
+  Fixed Assets              :       3,054,372.38
+  Other Asstes              :         629,233.64
+  Total Assets              :      93,228,264.39
+  Current Liabilities       :               0.00
+  Longterm Liabiities       :               0.00
+  Total Liabilities         :      50,385,652.90
+  Authorized                :         200,000.00
+  Paid-up Capital           :      33,800,000.00
+  Par Value                 :                500
+  Paid-up Capital Shares    :          67,600.00
+  Retained Earnings         :       9,206,753.49
+  Total Equity              :      42,803,943.16
+  Minority Interest         :          38,668.33
+
+Summary of Income Statement
+  Total Sales               :      30,094,168.69
+  Cost of Good Sold         :      25,831,284.84
+  Gross Profit              :       4,262,883.86
+  Operating Profit          :       4,262,883.86
+  Other Income              :         456,418.55
+  Eearning Before Tax       :       4,719,302.40
+  Tax                       :       1,349,883.04
+  Net Income                :       3,369,419.36
+  Closing Price             :             160.00
+
+Per Share Data (Rp)
+  Eps                       :              49.84
+  Book Value                :             633.19
+
+Financial Ratios
+  Debt Equity Ratio (X)     :               1.18
+  Roa (%)                   :               3.61
+  Roe (%)                   :               7.87
+  Npm (%)                   :              11.20
+  Opm (%)                   :              14.17
+
+Cash Flow
+  CF from Operating Activities                        :      18,801,204.95
+  CF from Investing Activities                        :      -1,800,311.82
+  CF from Financing Activities                        :     -12,710,274.18
+  Net Increase in Cash & Cash Equivalent              :       4,290,618.94
+  Cash & Cash Equivalent at The Beginning of The Year :       1,599,448.72
+  Cash & Cash Equivalent at The End of The Year       :       5,890,067.66
+
+ 
+ 
+ 

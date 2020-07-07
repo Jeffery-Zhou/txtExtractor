@@ -1,0 +1,66 @@
+6
+BUKK0303.TXT
+
+BUKK
+Bukaka Teknik Utama
+Af          :
+Sector Code : 75
+Sector Name : NON BUILDING CONSTRUCTION
+
+(In thousand rupiah except Par Value, Closing Price and Ratios)
+
+Financial Statement Date    : 31-Mar-2003
+Fiscal Year Ends            : Dec
+Months Covered in Income St : 3
+
+Summary of Balance Sheet
+  Receivables               :     251,089,792.00
+  Inventories               :      25,526,790.00
+  Current Assets            :     361,279,772.00
+  Fixed Assets              :      52,399,519.00
+  Other Asstes              :      13,572,224.00
+  Total Assets              :     472,718,373.00
+  Current Liabilities       :   1,612,521,279.00
+  Longterm Liabiities       :               0.00
+  Total Liabilities         :   1,612,521,279.00
+  Authorized                :         400,000.00
+  Paid-up Capital           :      70,306,000.00
+  Par Value                 :                500
+  Paid-up Capital Shares    :         140,612.00
+  Retained Earnings         :  -1,325,375,600.00
+  Total Equity              :  -1,139,802,906.00
+  Minority Interest         :               0.00
+
+Summary of Income Statement
+  Total Sales               :      53,497,669.00
+  Cost of Good Sold         :      24,350,155.00
+  Gross Profit              :      29,147,514.00
+  Operating Profit          :      22,310,124.00
+  Other Income              :       5,793,740.00
+  Eearning Before Tax       :      28,103,864.00
+  Tax                       :               0.00
+  Net Income                :      28,103,864.00
+  Closing Price             :             305.00
+
+Per Share Data (Rp)
+  Eps                       :             799.47
+  Book Value                :          -8,106.01
+
+Financial Ratios
+  Debt Equity Ratio (X)     :              -1.41
+  Roa (%)                   :              23.78
+  Roe (%)                   :              -9.86
+  Npm (%)                   :             210.13
+  Opm (%)                   :             166.81
+
+Cash Flow
+  CF from Operating Activities                        :      46,482,562.00
+  CF from Investing Activities                        :       2,203,834.00
+  CF from Financing Activities                        :     -42,775,025.00
+  Net Increase in Cash & Cash Equivalent              :       5,911,371.00
+  Cash & Cash Equivalent at The Beginning of The Year :      44,387,148.00
+  Cash & Cash Equivalent at The End of The Year       :      50,298,519.00
+
+ 
+ 
+ 

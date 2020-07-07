@@ -1,0 +1,66 @@
+6
+INDR0203.TXT
+
+INDR
+Indorama  Synthetics
+Af          :
+Sector Code : 43
+Sector Name : TEXTILE, GARMENT
+
+(In thousand rupiah except Par Value, Closing Price and Ratios)
+
+Financial Statement Date    : 31-Mar-2002
+Fiscal Year Ends            : Dec
+Months Covered in Income St : 3
+
+Summary of Balance Sheet
+  Receivables               :     359,765,672.05
+  Inventories               :     417,477,024.92
+  Current Assets            :   1,751,616,163.34
+  Fixed Assets              :   3,182,975,551.86
+  Other Asstes              :               0.00
+  Total Assets              :   5,153,963,742.60
+  Current Liabilities       :   1,333,425,788.40
+  Longterm Liabiities       :   1,661,346,480.16
+  Total Liabilities         :   2,994,772,268.56
+  Authorized                :       1,000,000.00
+  Paid-up Capital           :     327,175,853.50
+  Par Value                 :                500
+  Paid-up Capital Shares    :         654,351.71
+  Retained Earnings         :     604,872,368.17
+  Total Equity              :   2,159,191,474.05
+  Minority Interest         :               0.00
+
+Summary of Income Statement
+  Total Sales               :     759,416,660.82
+  Cost of Good Sold         :     637,300,404.26
+  Gross Profit              :     122,116,256.56
+  Operating Profit          :      56,169,555.58
+  Other Income              :     -45,327,589.19
+  Eearning Before Tax       :      10,841,966.39
+  Tax                       :       2,487,214.90
+  Net Income                :       8,354,751.50
+  Closing Price             :             725.00
+
+Per Share Data (Rp)
+  Eps                       :              51.07
+  Book Value                :           3,299.74
+
+Financial Ratios
+  Debt Equity Ratio (X)     :               1.39
+  Roa (%)                   :                .65
+  Roe (%)                   :               1.55
+  Npm (%)                   :               1.10
+  Opm (%)                   :               7.40
+
+Cash Flow
+  CF from Operating Activities                        :     800,950,172.93
+  CF from Investing Activities                        :    -247,931,942.22
+  CF from Financing Activities                        :    -550,565,300.72
+  Net Increase in Cash & Cash Equivalent              :       2,452,929.99
+  Cash & Cash Equivalent at The Beginning of The Year :      31,119,754.62
+  Cash & Cash Equivalent at The End of The Year       :      33,572,684.62
+
+ 
+ 
+ 

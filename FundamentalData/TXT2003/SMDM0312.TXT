@@ -1,0 +1,66 @@
+6
+SMDM0312.TXT
+
+SMDM
+Suryamas Dutamakmur Tbk
+Af          :
+Sector Code : 61
+Sector Name : PROPERTY AND REAL ESTATE
+
+(In thousand rupiah except Par Value, Closing Price and Ratios)
+
+Financial Statement Date    : 31-Dec-2003
+Fiscal Year Ends            : Dec
+Months Covered in Income St : 12
+
+Summary of Balance Sheet
+  Receivables               :       5,618,227.14
+  Inventories               :         508,023.08
+  Current Assets            :               0.00
+  Fixed Assets              :     150,672,735.43
+  Other Asstes              :         147,738.76
+  Total Assets              :   1,997,388,665.97
+  Current Liabilities       :               0.00
+  Longterm Liabiities       :               0.00
+  Total Liabilities         :   2,225,790,732.63
+  Authorized                :       4,000,000.00
+  Paid-up Capital           :     527,570,796.50
+  Par Value                 :                500
+  Paid-up Capital Shares    :       1,055,141.59
+  Retained Earnings         :    -867,971,812.10
+  Total Equity              :    -311,212,614.18
+  Minority Interest         :      82,810,547.52
+
+Summary of Income Statement
+  Total Sales               :      47,704,240.91
+  Cost of Good Sold         :      32,524,088.35
+  Gross Profit              :      15,180,152.56
+  Operating Profit          :      -8,026,162.19
+  Other Income              :      -7,998,060.39
+  Eearning Before Tax       :     -16,024,222.58
+  Tax                       :     -10,418,681.71
+  Net Income                :       8,863,994.05
+  Closing Price             :              40.00
+
+Per Share Data (Rp)
+  Eps                       :               8.40
+  Book Value                :            -294.95
+
+Financial Ratios
+  Debt Equity Ratio (X)     :              -7.15
+  Roa (%)                   :                .44
+  Roe (%)                   :              -2.85
+  Npm (%)                   :              18.58
+  Opm (%)                   :             -16.82
+
+Cash Flow
+  CF from Operating Activities                        :        -128,807.64
+  CF from Investing Activities                        :      -5,134,810.12
+  CF from Financing Activities                        :      -2,000,000.00
+  Net Increase in Cash & Cash Equivalent              :      -7,263,617.77
+  Cash & Cash Equivalent at The Beginning of The Year :      84,449,981.32
+  Cash & Cash Equivalent at The End of The Year       :      77,186,363.56
+
+ 
+ 
+ 

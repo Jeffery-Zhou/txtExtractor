@@ -1,0 +1,66 @@
+6
+WAPO0303.TXT
+
+WAPO
+Wahana Phonix Mandiri Tbk
+Af          :
+Sector Code : 91
+Sector Name : WHOLESALE (DURABLE & NON-DURABLE GOODS)
+
+(In thousand rupiah except Par Value, Closing Price and Ratios)
+
+Financial Statement Date    : 31-Mar-2003
+Fiscal Year Ends            : Dec
+Months Covered in Income St : 3
+
+Summary of Balance Sheet
+  Receivables               :      14,825,159.12
+  Inventories               :      25,394,982.21
+  Current Assets            :      59,896,791.68
+  Fixed Assets              :      54,656,512.20
+  Other Asstes              :          47,443.56
+  Total Assets              :     114,600,747.43
+  Current Liabilities       :      36,747,029.03
+  Longterm Liabiities       :       1,488,390.28
+  Total Liabilities         :      38,235,419.31
+  Authorized                :       1,000,000.00
+  Paid-up Capital           :      52,000,000.00
+  Par Value                 :                100
+  Paid-up Capital Shares    :         520,000.00
+  Retained Earnings         :      11,658,959.19
+  Total Equity              :      76,113,364.81
+  Minority Interest         :         251,963.31
+
+Summary of Income Statement
+  Total Sales               :      31,272,830.86
+  Cost of Good Sold         :      27,100,687.62
+  Gross Profit              :       4,172,143.25
+  Operating Profit          :       2,917,817.05
+  Other Income              :      -1,556,045.73
+  Eearning Before Tax       :       1,361,771.32
+  Tax                       :         432,548.07
+  Net Income                :         925,262.10
+  Closing Price             :              20.00
+
+Per Share Data (Rp)
+  Eps                       :               7.12
+  Book Value                :             146.37
+
+Financial Ratios
+  Debt Equity Ratio (X)     :                .50
+  Roa (%)                   :               3.23
+  Roe (%)                   :               4.86
+  Npm (%)                   :              11.83
+  Opm (%)                   :              37.32
+
+Cash Flow
+  CF from Operating Activities                        :        -365,162.22
+  CF from Investing Activities                        :      -1,212,520.00
+  CF from Financing Activities                        :               0.00
+  Net Increase in Cash & Cash Equivalent              :      -1,577,682.22
+  Cash & Cash Equivalent at The Beginning of The Year :       2,434,523.99
+  Cash & Cash Equivalent at The End of The Year       :         856,841.77
+
+ 
+ 
+ 

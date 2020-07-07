@@ -1,0 +1,66 @@
+6
+LPIN0203.TXT
+
+LPIN
+Multi Prima Sejahtera Tbk
+Af          :
+Sector Code : 42
+Sector Name : AUTOMOTIVE AND COMPONENTS
+
+(In thousand rupiah except Par Value, Closing Price and Ratios)
+
+Financial Statement Date    : 31-Mar-2002
+Fiscal Year Ends            : Dec
+Months Covered in Income St : 3
+
+Summary of Balance Sheet
+  Receivables               :       5,164,421.00
+  Inventories               :      12,512,156.00
+  Current Assets            :      50,610,686.00
+  Fixed Assets              :       2,060,129.00
+  Other Asstes              :       8,901,852.00
+  Total Assets              :      85,078,849.00
+  Current Liabilities       :      67,771,142.00
+  Longterm Liabiities       :               0.00
+  Total Liabilities         :      67,771,142.00
+  Authorized                :          85,000.00
+  Paid-up Capital           :      10,625,000.00
+  Par Value                 :                500
+  Paid-up Capital Shares    :          21,250.00
+  Retained Earnings         :     -56,141,041.00
+  Total Equity              :      17,307,707.00
+  Minority Interest         :               0.00
+
+Summary of Income Statement
+  Total Sales               :      10,847,646.00
+  Cost of Good Sold         :       9,121,357.00
+  Gross Profit              :       1,726,289.00
+  Operating Profit          :         183,461.00
+  Other Income              :         356,633.00
+  Eearning Before Tax       :       4,105,014.00
+  Tax                       :          82,113.00
+  Net Income                :       4,022,901.00
+  Closing Price             :             550.00
+
+Per Share Data (Rp)
+  Eps                       :             757.25
+  Book Value                :             814.48
+
+Financial Ratios
+  Debt Equity Ratio (X)     :               3.92
+  Roa (%)                   :              18.91
+  Roe (%)                   :              92.97
+  Npm (%)                   :              37.09
+  Opm (%)                   :               1.69
+
+Cash Flow
+  CF from Operating Activities                        :      18,061,049.00
+  CF from Investing Activities                        :     -14,459,500.00
+  CF from Financing Activities                        :      -1,138,827.00
+  Net Increase in Cash & Cash Equivalent              :       2,462,722.00
+  Cash & Cash Equivalent at The Beginning of The Year :      17,006,333.00
+  Cash & Cash Equivalent at The End of The Year       :      19,469,055.00
+
+ 
+ 
+ 

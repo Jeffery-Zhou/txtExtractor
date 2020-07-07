@@ -1,0 +1,66 @@
+6
+TOTO0212.TXT
+
+TOTO
+Surya Toto Indonesia Tbk
+Af          :
+Sector Code : 32
+Sector Name : CERAMICS, GLASS, PORCELAIN
+
+(In thousand rupiah except Par Value, Closing Price and Ratios)
+
+Financial Statement Date    : 31-Dec-2002
+Fiscal Year Ends            : Dec
+Months Covered in Income St : 12
+
+Summary of Balance Sheet
+  Receivables               :      74,691,995.29
+  Inventories               :     112,975,435.89
+  Current Assets            :     221,225,424.55
+  Fixed Assets              :     327,872,133.87
+  Other Asstes              :         738,007.39
+  Total Assets              :     551,573,130.56
+  Current Liabilities       :     221,767,099.82
+  Longterm Liabiities       :     222,338,483.20
+  Total Liabilities         :     444,105,583.02
+  Authorized                :         150,000.00
+  Paid-up Capital           :      49,536,000.00
+  Par Value                 :               1000
+  Paid-up Capital Shares    :          49,536.00
+  Retained Earnings         :      56,808,987.66
+  Total Equity              :     107,467,547.54
+  Minority Interest         :               0.00
+
+Summary of Income Statement
+  Total Sales               :     414,703,624.02
+  Cost of Good Sold         :     280,340,321.46
+  Gross Profit              :     134,363,302.56
+  Operating Profit          :      72,524,467.26
+  Other Income              :       3,696,260.71
+  Eearning Before Tax       :      76,220,727.97
+  Tax                       :       7,368,161.16
+  Net Income                :      68,873,709.81
+  Closing Price             :           5,500.00
+
+Per Share Data (Rp)
+  Eps                       :           1,390.38
+  Book Value                :           2,169.48
+
+Financial Ratios
+  Debt Equity Ratio (X)     :               4.13
+  Roa (%)                   :              12.49
+  Roe (%)                   :              64.09
+  Npm (%)                   :              16.61
+  Opm (%)                   :              17.49
+
+Cash Flow
+  CF from Operating Activities                        :      62,663,749.44
+  CF from Investing Activities                        :     -32,458,554.23
+  CF from Financing Activities                        :     -29,650,323.08
+  Net Increase in Cash & Cash Equivalent              :         554,872.13
+  Cash & Cash Equivalent at The Beginning of The Year :      24,680,490.66
+  Cash & Cash Equivalent at The End of The Year       :      25,235,362.79
+
+ 
+ 
+ 

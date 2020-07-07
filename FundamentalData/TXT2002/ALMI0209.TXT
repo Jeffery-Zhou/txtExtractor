@@ -1,0 +1,66 @@
+6
+ALMI0209.TXT
+
+ALMI
+Alumindo Light Metal Industry Tbk
+Af          :
+Sector Code : 33
+Sector Name : METAL AND ALLIED PRODUCTS
+
+(In thousand rupiah except Par Value, Closing Price and Ratios)
+
+Financial Statement Date    : 30-Sep-2002
+Fiscal Year Ends            : Dec
+Months Covered in Income St : 9
+
+Summary of Balance Sheet
+  Receivables               :      79,003,754.34
+  Inventories               :     226,368,151.56
+  Current Assets            :     363,717,980.45
+  Fixed Assets              :     500,628,916.85
+  Other Asstes              :           6,000.00
+  Total Assets              :     945,406,998.12
+  Current Liabilities       :     353,570,334.18
+  Longterm Liabiities       :     210,425,816.65
+  Total Liabilities         :     563,996,150.83
+  Authorized                :         418,000.00
+  Paid-up Capital           :     154,000,000.00
+  Par Value                 :                500
+  Paid-up Capital Shares    :         308,000.00
+  Retained Earnings         :     138,839,871.76
+  Total Equity              :     359,280,882.38
+  Minority Interest         :      22,129,964.92
+
+Summary of Income Statement
+  Total Sales               :     730,583,415.51
+  Cost of Good Sold         :     685,378,164.01
+  Gross Profit              :      45,205,251.49
+  Operating Profit          :     -13,001,260.02
+  Other Income              :       2,478,653.70
+  Eearning Before Tax       :     -10,522,606.32
+  Tax                       :      -2,954,540.20
+  Net Income                :      -1,713,942.52
+  Closing Price             :             215.00
+
+Per Share Data (Rp)
+  Eps                       :              -7.42
+  Book Value                :           1,166.50
+
+Financial Ratios
+  Debt Equity Ratio (X)     :               1.57
+  Roa (%)                   :               -.24
+  Roe (%)                   :               -.64
+  Npm (%)                   :               -.31
+  Opm (%)                   :              -2.37
+
+Cash Flow
+  CF from Operating Activities                        :      75,507,834.49
+  CF from Investing Activities                        :     -19,266,561.07
+  CF from Financing Activities                        :     -72,687,557.52
+  Net Increase in Cash & Cash Equivalent              :     -16,446,284.11
+  Cash & Cash Equivalent at The Beginning of The Year :      41,523,564.57
+  Cash & Cash Equivalent at The End of The Year       :      25,269,279.46
+
+ 
+ 
+ 

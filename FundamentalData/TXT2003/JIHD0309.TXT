@@ -1,0 +1,66 @@
+6
+JIHD0309.TXT
+
+JIHD
+JIHD
+Af          :
+Sector Code : 94
+Sector Name : RESTAURANT, HOTEL AND TOURISM
+
+(In thousand rupiah except Par Value, Closing Price and Ratios)
+
+Financial Statement Date    : 30-Sep-2003
+Fiscal Year Ends            : Dec
+Months Covered in Income St : 9
+
+Summary of Balance Sheet
+  Receivables               :      15,263,173.00
+  Inventories               :   2,453,916,330.00
+  Current Assets            :               0.00
+  Fixed Assets              :     900,756,060.00
+  Other Asstes              :      17,442,058.00
+  Total Assets              :   4,360,136,575.00
+  Current Liabilities       :               0.00
+  Longterm Liabiities       :               0.00
+  Total Liabilities         :   3,059,016,214.00
+  Authorized                :       1,500,000.00
+  Paid-up Capital           :     965,019,600.00
+  Par Value                 :               1000
+  Paid-up Capital Shares    :         965,019.60
+  Retained Earnings         :  -1,076,094,484.00
+  Total Equity              :   1,149,825,395.00
+  Minority Interest         :     151,294,966.00
+
+Summary of Income Statement
+  Total Sales               :     129,881,606.00
+  Cost of Good Sold         :      36,654,852.00
+  Gross Profit              :      93,226,754.00
+  Operating Profit          :     -51,429,415.00
+  Other Income              :     227,182,867.00
+  Eearning Before Tax       :     175,753,452.00
+  Tax                       :      79,694,009.00
+  Net Income                :      95,780,218.00
+  Closing Price             :             775.00
+
+Per Share Data (Rp)
+  Eps                       :             132.34
+  Book Value                :           1,191.50
+
+Financial Ratios
+  Debt Equity Ratio (X)     :               2.66
+  Roa (%)                   :               2.93
+  Roe (%)                   :              11.11
+  Npm (%)                   :              98.33
+  Opm (%)                   :             -52.80
+
+Cash Flow
+  CF from Operating Activities                        :      11,583,805.00
+  CF from Investing Activities                        :     -54,654,157.00
+  CF from Financing Activities                        :      24,521,728.00
+  Net Increase in Cash & Cash Equivalent              :     -18,548,624.00
+  Cash & Cash Equivalent at The Beginning of The Year :      28,715,436.00
+  Cash & Cash Equivalent at The End of The Year       :      10,166,812.00
+
+ 
+ 
+ 

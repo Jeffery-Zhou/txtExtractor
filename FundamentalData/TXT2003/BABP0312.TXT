@@ -1,0 +1,66 @@
+6
+BABP0312.TXT
+
+BABP
+Bank Bumiputera Indonesia Tbk
+Af          :
+Sector Code : 81
+Sector Name : BANK
+
+(In thousand rupiah except Par Value, Closing Price and Ratios)
+
+Financial Statement Date    : 31-Dec-2003
+Fiscal Year Ends            : Dec
+Months Covered in Income St : 12
+
+Summary of Balance Sheet
+  Receivables               :               0.00
+  Inventories               :               0.00
+  Current Assets            :               0.00
+  Fixed Assets              :      36,158,027.00
+  Other Asstes              :      24,102,129.00
+  Total Assets              :   3,254,898,362.00
+  Current Liabilities       :               0.00
+  Longterm Liabiities       :               0.00
+  Total Liabilities         :   3,010,858,232.00
+  Authorized                :       5,000,000.00
+  Paid-up Capital           :     200,000,000.00
+  Par Value                 :                100
+  Paid-up Capital Shares    :       2,000,000.00
+  Retained Earnings         :      46,679,062.00
+  Total Equity              :     244,040,130.00
+  Minority Interest         :               0.00
+
+Summary of Income Statement
+  Total Sales               :     450,990,022.00
+  Cost of Good Sold         :     408,907,432.00
+  Gross Profit              :      42,082,590.00
+  Operating Profit          :      42,082,590.00
+  Other Income              :        -667,805.00
+  Eearning Before Tax       :      41,414,785.00
+  Tax                       :      13,121,693.00
+  Net Income                :      28,293,092.00
+  Closing Price             :             160.00
+
+Per Share Data (Rp)
+  Eps                       :              14.15
+  Book Value                :             122.02
+
+Financial Ratios
+  Debt Equity Ratio (X)     :              12.34
+  Roa (%)                   :                .87
+  Roe (%)                   :              11.59
+  Npm (%)                   :               6.27
+  Opm (%)                   :               9.33
+
+Cash Flow
+  CF from Operating Activities                        :    -142,629,738.00
+  CF from Investing Activities                        :      14,831,879.00
+  CF from Financing Activities                        :     282,613,688.00
+  Net Increase in Cash & Cash Equivalent              :     154,815,829.00
+  Cash & Cash Equivalent at The Beginning of The Year :     135,575,151.00
+  Cash & Cash Equivalent at The End of The Year       :     290,390,980.00
+
+ 
+ 
+ 

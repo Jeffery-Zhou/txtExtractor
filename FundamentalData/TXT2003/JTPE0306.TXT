@@ -1,0 +1,66 @@
+6
+JTPE0306.TXT
+
+JTPE
+Jasuindo Tiga Perkasa Tbk
+Af          :
+Sector Code : 99
+Sector Name : OTHERS TRADE, SERVICES & INVESTMENT
+
+(In thousand rupiah except Par Value, Closing Price and Ratios)
+
+Financial Statement Date    : 30-Jun-2003
+Fiscal Year Ends            : Dec
+Months Covered in Income St : 6
+
+Summary of Balance Sheet
+  Receivables               :       8,890,627.70
+  Inventories               :       9,268,439.26
+  Current Assets            :      33,600,378.84
+  Fixed Assets              :      30,488,063.05
+  Other Asstes              :         108,687.61
+  Total Assets              :      64,294,191.09
+  Current Liabilities       :       8,643,963.22
+  Longterm Liabiities       :         500,000.00
+  Total Liabilities         :       9,143,963.22
+  Authorized                :       1,000,000.00
+  Paid-up Capital           :      35,000,000.00
+  Par Value                 :                100
+  Paid-up Capital Shares    :         350,000.00
+  Retained Earnings         :       9,167,135.47
+  Total Equity              :      55,149,327.41
+  Minority Interest         :             900.46
+
+Summary of Income Statement
+  Total Sales               :      20,678,368.83
+  Cost of Good Sold         :      14,376,648.00
+  Gross Profit              :       6,301,720.83
+  Operating Profit          :       2,774,501.71
+  Other Income              :        -345,424.46
+  Eearning Before Tax       :       2,429,077.26
+  Tax                       :         485,337.33
+  Net Income                :       1,943,839.56
+  Closing Price             :             350.00
+
+Per Share Data (Rp)
+  Eps                       :              11.11
+  Book Value                :             157.57
+
+Financial Ratios
+  Debt Equity Ratio (X)     :                .17
+  Roa (%)                   :               6.05
+  Roe (%)                   :               7.05
+  Npm (%)                   :              18.80
+  Opm (%)                   :              26.83
+
+Cash Flow
+  CF from Operating Activities                        :      -1,678,468.12
+  CF from Investing Activities                        :        -414,439.55
+  CF from Financing Activities                        :      -4,375,523.31
+  Net Increase in Cash & Cash Equivalent              :      -6,468,430.98
+  Cash & Cash Equivalent at The Beginning of The Year :      17,099,844.02
+  Cash & Cash Equivalent at The End of The Year       :      10,631,413.03
+
+ 
+ 
+ 

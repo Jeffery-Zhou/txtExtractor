@@ -1,0 +1,66 @@
+6
+BSWD0209.TXT
+
+BSWD
+Bank Swadesi Tbk
+Af          :
+Sector Code : 81
+Sector Name : BANK
+
+(In thousand rupiah except Par Value, Closing Price and Ratios)
+
+Financial Statement Date    : 30-Sep-2002
+Fiscal Year Ends            : Dec
+Months Covered in Income St : 9
+
+Summary of Balance Sheet
+  Receivables               :               0.00
+  Inventories               :               0.00
+  Current Assets            :               0.00
+  Fixed Assets              :      13,126,770.64
+  Other Asstes              :       1,132,288.27
+  Total Assets              :     520,636,720.45
+  Current Liabilities       :               0.00
+  Longterm Liabiities       :               0.00
+  Total Liabilities         :     434,142,378.34
+  Authorized                :       1,000,000.00
+  Paid-up Capital           :      62,000,000.00
+  Par Value                 :                200
+  Paid-up Capital Shares    :         310,000.00
+  Retained Earnings         :      22,790,393.15
+  Total Equity              :      86,494,342.11
+  Minority Interest         :               0.00
+
+Summary of Income Statement
+  Total Sales               :      56,836,240.74
+  Cost of Good Sold         :      46,218,413.22
+  Gross Profit              :      10,617,827.52
+  Operating Profit          :      10,617,827.52
+  Other Income              :         319,990.14
+  Eearning Before Tax       :      10,937,817.67
+  Tax                       :       3,263,845.30
+  Net Income                :       7,673,972.37
+  Closing Price             :             300.00
+
+Per Share Data (Rp)
+  Eps                       :              33.01
+  Book Value                :             279.01
+
+Financial Ratios
+  Debt Equity Ratio (X)     :               5.02
+  Roa (%)                   :               1.97
+  Roe (%)                   :              11.83
+  Npm (%)                   :              18.00
+  Opm (%)                   :              24.91
+
+Cash Flow
+  CF from Operating Activities                        :     -43,072,629.62
+  CF from Investing Activities                        :      -3,151,550.74
+  CF from Financing Activities                        :      13,703,948.95
+  Net Increase in Cash & Cash Equivalent              :     -32,520,231.41
+  Cash & Cash Equivalent at The Beginning of The Year :     111,707,750.72
+  Cash & Cash Equivalent at The End of The Year       :      79,608,014.04
+
+ 
+ 
+ 

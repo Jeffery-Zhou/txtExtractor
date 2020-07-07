@@ -1,0 +1,66 @@
+6
+BMTR0312.TXT
+
+BMTR
+Bimantara Citra Tbk
+Af          :
+Sector Code : 98
+Sector Name : INVESTMENT COMPANY
+
+(In thousand rupiah except Par Value, Closing Price and Ratios)
+
+Financial Statement Date    : 31-Dec-2003
+Fiscal Year Ends            : Dec
+Months Covered in Income St : 12
+
+Summary of Balance Sheet
+  Receivables               :     451,725,000.00
+  Inventories               :     279,678,000.00
+  Current Assets            :   2,146,254,000.00
+  Fixed Assets              :   2,170,035,000.00
+  Other Asstes              :     386,956,000.00
+  Total Assets              :   5,927,586,000.00
+  Current Liabilities       :   1,587,156,000.00
+  Longterm Liabiities       :   2,019,146,000.00
+  Total Liabilities         :   3,606,302,000.00
+  Authorized                :       3,000,000.00
+  Paid-up Capital           :     512,100,126.00
+  Par Value                 :                500
+  Paid-up Capital Shares    :       1,024,200.25
+  Retained Earnings         :   1,060,887,000.00
+  Total Equity              :   1,865,266,000.00
+  Minority Interest         :     456,018,000.00
+
+Summary of Income Statement
+  Total Sales               :   1,570,843,000.00
+  Cost of Good Sold         :     683,557,000.00
+  Gross Profit              :     887,286,000.00
+  Operating Profit          :      20,186,000.00
+  Other Income              :     181,135,000.00
+  Eearning Before Tax       :     201,321,000.00
+  Tax                       :     -10,589,000.00
+  Net Income                :     241,817,000.00
+  Closing Price             :           3,200.00
+
+Per Share Data (Rp)
+  Eps                       :             236.10
+  Book Value                :           1,821.19
+
+Financial Ratios
+  Debt Equity Ratio (X)     :               1.93
+  Roa (%)                   :               4.08
+  Roe (%)                   :              12.96
+  Npm (%)                   :              15.39
+  Opm (%)                   :               1.29
+
+Cash Flow
+  CF from Operating Activities                        :     206,692,000.00
+  CF from Investing Activities                        :  -1,197,542,000.00
+  CF from Financing Activities                        :   1,016,780,000.00
+  Net Increase in Cash & Cash Equivalent              :      25,930,000.00
+  Cash & Cash Equivalent at The Beginning of The Year :     217,295,000.00
+  Cash & Cash Equivalent at The End of The Year       :     243,101,000.00
+
+ 
+ 
+ 

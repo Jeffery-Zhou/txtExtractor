@@ -1,0 +1,66 @@
+6
+SSTM0212.TXT
+
+SSTM
+Sunson Textile Manufacturer Tbk
+Af          :
+Sector Code : 43
+Sector Name : TEXTILE, GARMENT
+
+(In thousand rupiah except Par Value, Closing Price and Ratios)
+
+Financial Statement Date    : 31-Dec-2002
+Fiscal Year Ends            : Dec
+Months Covered in Income St : 12
+
+Summary of Balance Sheet
+  Receivables               :      99,504,948.33
+  Inventories               :     182,563,834.01
+  Current Assets            :     312,853,734.08
+  Fixed Assets              :     485,540,499.40
+  Other Asstes              :               0.00
+  Total Assets              :     811,519,051.67
+  Current Liabilities       :     260,265,492.42
+  Longterm Liabiities       :     270,328,975.62
+  Total Liabilities         :     530,594,468.04
+  Authorized                :       2,000,000.00
+  Paid-up Capital           :     209,176,750.00
+  Par Value                 :                250
+  Paid-up Capital Shares    :         836,707.00
+  Retained Earnings         :      42,499,359.65
+  Total Equity              :     280,924,583.64
+  Minority Interest         :               0.00
+
+Summary of Income Statement
+  Total Sales               :     507,144,197.12
+  Cost of Good Sold         :     456,981,969.65
+  Gross Profit              :      50,162,227.47
+  Operating Profit          :      20,841,117.67
+  Other Income              :      19,296,856.53
+  Eearning Before Tax       :      40,137,974.20
+  Tax                       :      17,463,326.92
+  Net Income                :      22,674,647.28
+  Closing Price             :              90.00
+
+Per Share Data (Rp)
+  Eps                       :              27.10
+  Book Value                :             335.75
+
+Financial Ratios
+  Debt Equity Ratio (X)     :               1.89
+  Roa (%)                   :               2.79
+  Roe (%)                   :               8.07
+  Npm (%)                   :               4.47
+  Opm (%)                   :               4.11
+
+Cash Flow
+  CF from Operating Activities                        :      34,690,534.63
+  CF from Investing Activities                        :     -38,791,093.17
+  CF from Financing Activities                        :     -10,853,675.61
+  Net Increase in Cash & Cash Equivalent              :     -14,954,234.16
+  Cash & Cash Equivalent at The Beginning of The Year :      35,618,105.06
+  Cash & Cash Equivalent at The End of The Year       :      20,663,870.91
+
+ 
+ 
+ 

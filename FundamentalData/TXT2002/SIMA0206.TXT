@@ -1,0 +1,66 @@
+6
+SIMA0206.TXT
+
+SIMA
+Siwani Makmur Tbk
+Af          :
+Sector Code : 35
+Sector Name : PLASTICS & PACKAGING
+
+(In thousand rupiah except Par Value, Closing Price and Ratios)
+
+Financial Statement Date    : 30-Jun-2002
+Fiscal Year Ends            : Dec
+Months Covered in Income St : 6
+
+Summary of Balance Sheet
+  Receivables               :      10,204,055.42
+  Inventories               :      10,675,030.21
+  Current Assets            :      28,122,456.40
+  Fixed Assets              :      18,977,522.05
+  Other Asstes              :               0.00
+  Total Assets              :      80,100,384.22
+  Current Liabilities       :       8,831,016.68
+  Longterm Liabiities       :       4,579,593.51
+  Total Liabilities         :      13,410,610.19
+  Authorized                :         320,000.00
+  Paid-up Capital           :      46,250,000.00
+  Par Value                 :                500
+  Paid-up Capital Shares    :          92,500.00
+  Retained Earnings         :      16,761,624.03
+  Total Equity              :      66,689,774.03
+  Minority Interest         :               0.00
+
+Summary of Income Statement
+  Total Sales               :      31,806,261.88
+  Cost of Good Sold         :      25,568,753.20
+  Gross Profit              :       6,237,508.68
+  Operating Profit          :       2,268,600.37
+  Other Income              :      -1,768,273.04
+  Eearning Before Tax       :         500,327.33
+  Tax                       :         249,649.36
+  Net Income                :         250,677.97
+  Closing Price             :             250.00
+
+Per Share Data (Rp)
+  Eps                       :               5.42
+  Book Value                :             720.97
+
+Financial Ratios
+  Debt Equity Ratio (X)     :                .20
+  Roa (%)                   :                .63
+  Roe (%)                   :                .75
+  Npm (%)                   :                .79
+  Opm (%)                   :               7.13
+
+Cash Flow
+  CF from Operating Activities                        :       1,450,618.12
+  CF from Investing Activities                        :        -186,894.38
+  CF from Financing Activities                        :        -554,771.02
+  Net Increase in Cash & Cash Equivalent              :         708,952.72
+  Cash & Cash Equivalent at The Beginning of The Year :       3,695,410.28
+  Cash & Cash Equivalent at The End of The Year       :       4,404,362.99
+
+ 
+ 
+ 

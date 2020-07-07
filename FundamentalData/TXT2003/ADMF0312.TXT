@@ -1,0 +1,66 @@
+6
+ADMF0312.TXT
+
+ADMF
+Adira Dinamika Multi Finance Tbk
+Af          : DSST
+Sector Code : 82
+Sector Name : FINANCIAL INSTITUTION
+
+(In thousand rupiah except Par Value, Closing Price and Ratios)
+
+Financial Statement Date    : 31-Dec-2003
+Fiscal Year Ends            : Dec
+Months Covered in Income St : 12
+
+Summary of Balance Sheet
+  Receivables               :   1,233,052,095.00
+  Inventories               :               0.00
+  Current Assets            :               0.00
+  Fixed Assets              :      75,845,703.00
+  Other Asstes              :          70,675.00
+  Total Assets              :   1,584,892,905.00
+  Current Liabilities       :               0.00
+  Longterm Liabiities       :               0.00
+  Total Liabilities         :   1,241,410,665.00
+  Authorized                :         100,000.00
+  Paid-up Capital           :     100,000,000.00
+  Par Value                 :               1000
+  Paid-up Capital Shares    :         100,000.00
+  Retained Earnings         :     241,238,802.00
+  Total Equity              :     343,482,240.00
+  Minority Interest         :               0.00
+
+Summary of Income Statement
+  Total Sales               :     651,134,370.00
+  Cost of Good Sold         :     426,190,074.00
+  Gross Profit              :     224,944,296.00
+  Operating Profit          :     224,944,296.00
+  Other Income              :               0.00
+  Eearning Before Tax       :     224,944,296.00
+  Tax                       :      69,588,537.00
+  Net Income                :     155,355,759.00
+  Closing Price             :
+
+Per Share Data (Rp)
+  Eps                       :           1,553.56
+  Book Value                :           3,434.82
+
+Financial Ratios
+  Debt Equity Ratio (X)     :               3.61
+  Roa (%)                   :               9.80
+  Roe (%)                   :              45.23
+  Npm (%)                   :              23.86
+  Opm (%)                   :              34.55
+
+Cash Flow
+  CF from Operating Activities                        :  -1,235,073,278.00
+  CF from Investing Activities                        :     -62,303,804.00
+  CF from Financing Activities                        :   1,330,100,085.00
+  Net Increase in Cash & Cash Equivalent              :      32,723,003.00
+  Cash & Cash Equivalent at The Beginning of The Year :      70,055,155.00
+  Cash & Cash Equivalent at The End of The Year       :     102,778,158.00
+
+ 
+ 
+ 

@@ -1,0 +1,66 @@
+6
+ERTX0203.TXT
+
+ERTX
+Eratex Djaja Limited Tbk
+Af          :
+Sector Code : 43
+Sector Name : TEXTILE, GARMENT
+
+(In thousand rupiah except Par Value, Closing Price and Ratios)
+
+Financial Statement Date    : 31-Mar-2002
+Fiscal Year Ends            : Dec
+Months Covered in Income St : 3
+
+Summary of Balance Sheet
+  Receivables               :      43,663,775.00
+  Inventories               :     108,352,183.00
+  Current Assets            :     271,744,101.00
+  Fixed Assets              :     135,710,866.00
+  Other Asstes              :         497,447.00
+  Total Assets              :     416,818,414.00
+  Current Liabilities       :     104,816,313.00
+  Longterm Liabiities       :     228,480,513.00
+  Total Liabilities         :     333,296,826.00
+  Authorized                :         100,000.00
+  Paid-up Capital           :      49,118,000.00
+  Par Value                 :                500
+  Paid-up Capital Shares    :          98,236.00
+  Retained Earnings         :      26,098,449.00
+  Total Equity              :      75,801,767.00
+  Minority Interest         :       7,719,821.00
+
+Summary of Income Statement
+  Total Sales               :      95,897,188.00
+  Cost of Good Sold         :      83,920,993.00
+  Gross Profit              :      11,976,195.00
+  Operating Profit          :      -6,863,008.00
+  Other Income              :      16,237,474.00
+  Eearning Before Tax       :       9,374,466.00
+  Tax                       :       2,452,266.00
+  Net Income                :       6,820,224.00
+  Closing Price             :             460.00
+
+Per Share Data (Rp)
+  Eps                       :             277.71
+  Book Value                :             771.63
+
+Financial Ratios
+  Debt Equity Ratio (X)     :               4.40
+  Roa (%)                   :               6.55
+  Roe (%)                   :              35.99
+  Npm (%)                   :               7.11
+  Opm (%)                   :              -7.16
+
+Cash Flow
+  CF from Operating Activities                        :      29,392,696.00
+  CF from Investing Activities                        :       3,577,919.00
+  CF from Financing Activities                        :     -46,196,887.00
+  Net Increase in Cash & Cash Equivalent              :     -13,226,272.00
+  Cash & Cash Equivalent at The Beginning of The Year :      46,053,637.00
+  Cash & Cash Equivalent at The End of The Year       :      32,827,365.00
+
+ 
+ 
+ 

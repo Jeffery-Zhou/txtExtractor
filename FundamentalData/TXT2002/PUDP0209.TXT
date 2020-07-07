@@ -1,0 +1,66 @@
+6
+PUDP0209.TXT
+
+PUDP
+Pudjiadi Prestige Limited Tbk
+Af          :
+Sector Code : 61
+Sector Name : PROPERTY AND REAL ESTATE
+
+(In thousand rupiah except Par Value, Closing Price and Ratios)
+
+Financial Statement Date    : 30-Sep-2002
+Fiscal Year Ends            : Dec
+Months Covered in Income St : 9
+
+Summary of Balance Sheet
+  Receivables               :      11,774,864.78
+  Inventories               :      86,657,097.44
+  Current Assets            :               0.00
+  Fixed Assets              :      99,821,257.92
+  Other Asstes              :       1,724,177.91
+  Total Assets              :     350,290,841.03
+  Current Liabilities       :               0.00
+  Longterm Liabiities       :               0.00
+  Total Liabilities         :     169,938,320.45
+  Authorized                :         972,500.00
+  Paid-up Capital           :     140,000,000.00
+  Par Value                 :                500
+  Paid-up Capital Shares    :         280,000.00
+  Retained Earnings         :      44,355,242.03
+  Total Equity              :     179,248,865.97
+  Minority Interest         :       1,103,654.61
+
+Summary of Income Statement
+  Total Sales               :      39,617,543.60
+  Cost of Good Sold         :      11,066,857.43
+  Gross Profit              :      28,550,686.17
+  Operating Profit          :       7,250,733.47
+  Other Income              :      -1,889,319.60
+  Eearning Before Tax       :       5,361,413.87
+  Tax                       :       1,596,027.32
+  Net Income                :       3,753,230.42
+  Closing Price             :             115.00
+
+Per Share Data (Rp)
+  Eps                       :              17.87
+  Book Value                :             640.17
+
+Financial Ratios
+  Debt Equity Ratio (X)     :                .95
+  Roa (%)                   :               1.43
+  Roe (%)                   :               2.79
+  Npm (%)                   :              12.63
+  Opm (%)                   :              24.40
+
+Cash Flow
+  CF from Operating Activities                        :      10,595,215.02
+  CF from Investing Activities                        :     -45,293,483.56
+  CF from Financing Activities                        :      -1,220,718.18
+  Net Increase in Cash & Cash Equivalent              :     -35,918,986.71
+  Cash & Cash Equivalent at The Beginning of The Year :      83,173,413.90
+  Cash & Cash Equivalent at The End of The Year       :      47,254,427.19
+
+ 
+ 
+ 

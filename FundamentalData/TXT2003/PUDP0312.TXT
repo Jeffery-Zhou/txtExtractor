@@ -1,0 +1,66 @@
+6
+PUDP0312.TXT
+
+PUDP
+Pudjiadi Prestige Limited Tbk
+Af          :
+Sector Code : 94
+Sector Name : RESTAURANT, HOTEL AND TOURISM
+
+(In thousand rupiah except Par Value, Closing Price and Ratios)
+
+Financial Statement Date    : 31-Dec-2003
+Fiscal Year Ends            : Dec
+Months Covered in Income St : 12
+
+Summary of Balance Sheet
+  Receivables               :       7,896,842.20
+  Inventories               :      77,423,153.37
+  Current Assets            :               0.00
+  Fixed Assets              :      93,444,656.31
+  Other Asstes              :       4,130,036.66
+  Total Assets              :     340,946,469.16
+  Current Liabilities       :               0.00
+  Longterm Liabiities       :               0.00
+  Total Liabilities         :     147,324,567.24
+  Authorized                :         972,500.00
+  Paid-up Capital           :     140,000,000.00
+  Par Value                 :                500
+  Paid-up Capital Shares    :         280,000.00
+  Retained Earnings         :      56,279,769.23
+  Total Equity              :     192,713,206.50
+  Minority Interest         :         908,695.42
+
+Summary of Income Statement
+  Total Sales               :      71,558,195.43
+  Cost of Good Sold         :      30,632,338.71
+  Gross Profit              :      40,925,856.71
+  Operating Profit          :      18,861,830.35
+  Other Income              :      -8,885,383.68
+  Eearning Before Tax       :       9,976,587.16
+  Tax                       :          29,488.81
+  Net Income                :       9,916,488.38
+  Closing Price             :             190.00
+
+Per Share Data (Rp)
+  Eps                       :              35.42
+  Book Value                :             688.26
+
+Financial Ratios
+  Debt Equity Ratio (X)     :                .76
+  Roa (%)                   :               2.91
+  Roe (%)                   :               5.15
+  Npm (%)                   :              13.86
+  Opm (%)                   :              26.36
+
+Cash Flow
+  CF from Operating Activities                        :      15,424,577.55
+  CF from Investing Activities                        :      -4,691,294.44
+  CF from Financing Activities                        :     -10,110,889.22
+  Net Increase in Cash & Cash Equivalent              :         622,393.89
+  Cash & Cash Equivalent at The Beginning of The Year :      37,010,473.82
+  Cash & Cash Equivalent at The End of The Year       :      37,632,867.71
+
+ 
+ 
+ 

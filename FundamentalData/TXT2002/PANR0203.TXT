@@ -1,0 +1,66 @@
+6
+PANR0203.TXT
+
+PANR
+Panorama Sentrawisata Tbk
+Af          :
+Sector Code : 94
+Sector Name : RESTAURANT, HOTEL AND TOURISM
+
+(In thousand rupiah except Par Value, Closing Price and Ratios)
+
+Financial Statement Date    : 31-Mar-2002
+Fiscal Year Ends            : Dec
+Months Covered in Income St : 3
+
+Summary of Balance Sheet
+  Receivables               :      27,345,841.67
+  Inventories               :         296,241.86
+  Current Assets            :      97,208,313.47
+  Fixed Assets              :      69,936,643.42
+  Other Asstes              :       4,133,685.89
+  Total Assets              :     185,952,286.45
+  Current Liabilities       :      45,243,693.58
+  Longterm Liabiities       :       9,250,865.22
+  Total Liabilities         :      54,494,558.80
+  Authorized                :       1,000,000.00
+  Paid-up Capital           :      60,000,000.00
+  Par Value                 :                150
+  Paid-up Capital Shares    :         400,000.00
+  Retained Earnings         :      27,235,423.48
+  Total Equity              :     125,961,414.26
+  Minority Interest         :       5,496,313.38
+
+Summary of Income Statement
+  Total Sales               :      90,911,001.14
+  Cost of Good Sold         :      79,704,559.29
+  Gross Profit              :      11,206,441.85
+  Operating Profit          :       4,243,881.74
+  Other Income              :        -938,826.56
+  Eearning Before Tax       :       3,305,055.18
+  Tax                       :       1,108,291.97
+  Net Income                :       2,225,626.14
+  Closing Price             :             975.00
+
+Per Share Data (Rp)
+  Eps                       :              22.26
+  Book Value                :             314.90
+
+Financial Ratios
+  Debt Equity Ratio (X)     :                .43
+  Roa (%)                   :               4.79
+  Roe (%)                   :               7.07
+  Npm (%)                   :               2.45
+  Opm (%)                   :               4.67
+
+Cash Flow
+  CF from Operating Activities                        :     -17,552,021.00
+  CF from Investing Activities                        :         443,513.00
+  CF from Financing Activities                        :       5,350,772.00
+  Net Increase in Cash & Cash Equivalent              :     -11,757,736.00
+  Cash & Cash Equivalent at The Beginning of The Year :      45,258,355.00
+  Cash & Cash Equivalent at The End of The Year       :      32,366,306.00
+
+ 
+ 
+ 

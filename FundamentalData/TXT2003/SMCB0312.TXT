@@ -1,0 +1,66 @@
+6
+SMCB0312.TXT
+
+SMCB
+Semen Cibinong Tbk
+Af          :
+Sector Code : 31
+Sector Name : CEMENT
+
+(In thousand rupiah except Par Value, Closing Price and Ratios)
+
+Financial Statement Date    : 31-Dec-2003
+Fiscal Year Ends            : Dec
+Months Covered in Income St : 12
+
+Summary of Balance Sheet
+  Receivables               :     255,916,000.00
+  Inventories               :     222,790,000.00
+  Current Assets            :     855,764,000.00
+  Fixed Assets              :   6,663,954,000.00
+  Other Asstes              :      62,061,000.00
+  Total Assets              :   7,647,642,000.00
+  Current Liabilities       :     340,183,000.00
+  Longterm Liabiities       :   4,650,409,000.00
+  Total Liabilities         :   4,990,592,000.00
+  Authorized                :      30,651,600.00
+  Paid-up Capital           :   3,831,450,000.00
+  Par Value                 :                500
+  Paid-up Capital Shares    :       7,662,900.00
+  Retained Earnings         :  -7,043,144,000.00
+  Total Equity              :   2,657,050,000.00
+  Minority Interest         :               0.00
+
+Summary of Income Statement
+  Total Sales               :   2,240,296,000.00
+  Cost of Good Sold         :   2,015,729,000.00
+  Gross Profit              :     224,567,000.00
+  Operating Profit          :     -13,795,000.00
+  Other Income              :     187,912,000.00
+  Eearning Before Tax       :     174,117,000.00
+  Tax                       :               0.00
+  Net Income                :     174,117,000.00
+  Closing Price             :             405.00
+
+Per Share Data (Rp)
+  Eps                       :              22.72
+  Book Value                :             346.74
+
+Financial Ratios
+  Debt Equity Ratio (X)     :               1.88
+  Roa (%)                   :               2.28
+  Roe (%)                   :               6.55
+  Npm (%)                   :               7.77
+  Opm (%)                   :               -.62
+
+Cash Flow
+  CF from Operating Activities                        :     310,829,000.00
+  CF from Investing Activities                        :    -106,888,000.00
+  CF from Financing Activities                        :      -2,365,000.00
+  Net Increase in Cash & Cash Equivalent              :     201,576,000.00
+  Cash & Cash Equivalent at The Beginning of The Year :     109,593,000.00
+  Cash & Cash Equivalent at The End of The Year       :     311,390,000.00
+
+ 
+ 
+ 

@@ -1,0 +1,66 @@
+6
+IGAR0203.TXT
+
+IGAR
+Igar Jaya Tbk
+Af          :
+Sector Code : 35
+Sector Name : PLASTICS & PACKAGING
+
+(In thousand rupiah except Par Value, Closing Price and Ratios)
+
+Financial Statement Date    : 31-Mar-2002
+Fiscal Year Ends            : Dec
+Months Covered in Income St : 3
+
+Summary of Balance Sheet
+  Receivables               :      73,905,429.80
+  Inventories               :      52,857,733.39
+  Current Assets            :     154,763,834.44
+  Fixed Assets              :      92,331,221.87
+  Other Asstes              :         148,680.47
+  Total Assets              :     259,153,296.88
+  Current Liabilities       :     119,890,923.24
+  Longterm Liabiities       :      17,405,599.38
+  Total Liabilities         :     137,296,522.63
+  Authorized                :       1,750,000.00
+  Paid-up Capital           :      52,500,000.00
+  Par Value                 :                 50
+  Paid-up Capital Shares    :       1,050,000.00
+  Retained Earnings         :      62,435,931.67
+  Total Equity              :     110,161,737.08
+  Minority Interest         :      11,695,037.17
+
+Summary of Income Statement
+  Total Sales               :      89,897,585.68
+  Cost of Good Sold         :      74,705,004.39
+  Gross Profit              :      15,192,581.28
+  Operating Profit          :      10,282,588.34
+  Other Income              :      -2,540,978.61
+  Eearning Before Tax       :       7,741,609.73
+  Tax                       :       1,646,811.33
+  Net Income                :       4,849,560.48
+  Closing Price             :              85.00
+
+Per Share Data (Rp)
+  Eps                       :              18.47
+  Book Value                :             104.92
+
+Financial Ratios
+  Debt Equity Ratio (X)     :               1.25
+  Roa (%)                   :               7.49
+  Roe (%)                   :              17.61
+  Npm (%)                   :               5.39
+  Opm (%)                   :              11.44
+
+Cash Flow
+  CF from Operating Activities                        :       3,132,402.79
+  CF from Investing Activities                        :      -1,627,597.88
+  CF from Financing Activities                        :      -6,151,426.92
+  Net Increase in Cash & Cash Equivalent              :      -4,733,139.93
+  Cash & Cash Equivalent at The Beginning of The Year :      14,507,470.29
+  Cash & Cash Equivalent at The End of The Year       :       9,774,330.35
+
+ 
+ 
+ 

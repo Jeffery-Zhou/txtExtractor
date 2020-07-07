@@ -1,0 +1,66 @@
+6
+CPPR0312.TXT
+
+CPPR
+CP. Prima Tbk
+Af          : SHSA
+Sector Code : 36
+Sector Name : ANIMAL FEED
+
+(In thousand rupiah except Par Value, Closing Price and Ratios)
+
+Financial Statement Date    : 31-Dec-2003
+Fiscal Year Ends            : Dec
+Months Covered in Income St : 12
+
+Summary of Balance Sheet
+  Receivables               :   1,151,986,000.00
+  Inventories               :     904,346,000.00
+  Current Assets            :   2,573,042,000.00
+  Fixed Assets              :   1,527,691,000.00
+  Other Asstes              :      12,799,000.00
+  Total Assets              :   4,513,217,000.00
+  Current Liabilities       :   1,079,108,000.00
+  Longterm Liabiities       :   2,224,835,000.00
+  Total Liabilities         :   3,303,943,000.00
+  Authorized                :       1,500,000.00
+  Paid-up Capital           :     451,584,000.00
+  Par Value                 :            500&375
+  Paid-up Capital Shares    :       1,032,192.00
+  Retained Earnings         :      22,591,000.00
+  Total Equity              :     752,786,000.00
+  Minority Interest         :     456,488,000.00
+
+Summary of Income Statement
+  Total Sales               :   6,697,967,000.00
+  Cost of Good Sold         :   5,903,594,000.00
+  Gross Profit              :     794,373,000.00
+  Operating Profit          :      25,662,000.00
+  Other Income              :     -73,787,000.00
+  Eearning Before Tax       :     -48,125,000.00
+  Tax                       :     -14,671,000.00
+  Net Income                :      33,729,000.00
+  Closing Price             :             300.00
+
+Per Share Data (Rp)
+  Eps                       :              32.68
+  Book Value                :             729.31
+
+Financial Ratios
+  Debt Equity Ratio (X)     :               4.39
+  Roa (%)                   :                .75
+  Roe (%)                   :               4.48
+  Npm (%)                   :                .50
+  Opm (%)                   :                .38
+
+Cash Flow
+  CF from Operating Activities                        :    -245,186,000.00
+  CF from Investing Activities                        :    -274,128,000.00
+  CF from Financing Activities                        :     392,248,000.00
+  Net Increase in Cash & Cash Equivalent              :    -127,066,000.00
+  Cash & Cash Equivalent at The Beginning of The Year :     397,070,000.00
+  Cash & Cash Equivalent at The End of The Year       :     270,004,000.00
+
+ 
+ 
+ 

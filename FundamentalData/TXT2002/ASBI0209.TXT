@@ -1,0 +1,66 @@
+6
+ASBI0209.TXT
+
+ASBI
+Asuransi Bintang Tbk
+Af          :
+Sector Code : 84
+Sector Name : INSURANCE
+
+(In thousand rupiah except Par Value, Closing Price and Ratios)
+
+Financial Statement Date    : 30-Sep-2002
+Fiscal Year Ends            : Dec
+Months Covered in Income St : 9
+
+Summary of Balance Sheet
+  Receivables               :      55,601,689.00
+  Inventories               :               0.00
+  Current Assets            :               0.00
+  Fixed Assets              :      46,544,241.00
+  Other Asstes              :       1,014,515.00
+  Total Assets              :     193,001,331.00
+  Current Liabilities       :               0.00
+  Longterm Liabiities       :               0.00
+  Total Liabilities         :     124,511,206.00
+  Authorized                :         320,000.00
+  Paid-up Capital           :      40,249,997.00
+  Par Value                 :                500
+  Paid-up Capital Shares    :          80,499.99
+  Retained Earnings         :      30,692,258.00
+  Total Equity              :      68,490,125.00
+  Minority Interest         :               0.00
+
+Summary of Income Statement
+  Total Sales               :      87,893,947.00
+  Cost of Good Sold         :      84,292,780.00
+  Gross Profit              :       3,601,167.00
+  Operating Profit          :       3,601,167.00
+  Other Income              :         788,629.00
+  Eearning Before Tax       :       4,389,796.00
+  Tax                       :       1,113,926.00
+  Net Income                :       3,275,870.00
+  Closing Price             :             340.00
+
+Per Share Data (Rp)
+  Eps                       :              54.26
+  Book Value                :             850.81
+
+Financial Ratios
+  Debt Equity Ratio (X)     :               1.82
+  Roa (%)                   :               2.26
+  Roe (%)                   :               6.38
+  Npm (%)                   :               4.97
+  Opm (%)                   :               5.46
+
+Cash Flow
+  CF from Operating Activities                        :       8,801,460.00
+  CF from Investing Activities                        :      -5,402,508.00
+  CF from Financing Activities                        :      -3,983,175.00
+  Net Increase in Cash & Cash Equivalent              :        -630,354.00
+  Cash & Cash Equivalent at The Beginning of The Year :       2,597,448.00
+  Cash & Cash Equivalent at The End of The Year       :       1,967,094.00
+
+ 
+ 
+ 

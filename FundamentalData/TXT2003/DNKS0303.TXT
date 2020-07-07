@@ -1,0 +1,66 @@
+6
+DNKS0303.TXT
+
+DNKS
+Dankos Laboratories Tbk
+Af          :
+Sector Code : 53
+Sector Name : PHARMACEUTICALS
+
+(In thousand rupiah except Par Value, Closing Price and Ratios)
+
+Financial Statement Date    : 31-Mar-2003
+Fiscal Year Ends            : Dec
+Months Covered in Income St : 3
+
+Summary of Balance Sheet
+  Receivables               :     186,738,934.01
+  Inventories               :     108,871,935.75
+  Current Assets            :     478,417,893.32
+  Fixed Assets              :     120,404,505.86
+  Other Asstes              :      24,174,507.25
+  Total Assets              :     716,844,675.20
+  Current Liabilities       :     194,384,636.65
+  Longterm Liabiities       :     206,884,388.00
+  Total Liabilities         :     401,269,024.65
+  Authorized                :       2,550,000.00
+  Paid-up Capital           :      89,302,500.00
+  Par Value                 :                100
+  Paid-up Capital Shares    :         893,025.00
+  Retained Earnings         :     212,571,071.18
+  Total Equity              :     309,542,946.63
+  Minority Interest         :       6,032,703.92
+
+Summary of Income Statement
+  Total Sales               :     273,293,232.08
+  Cost of Good Sold         :     140,336,074.67
+  Gross Profit              :     132,957,157.41
+  Operating Profit          :      50,646,060.20
+  Other Income              :      -7,375,201.65
+  Eearning Before Tax       :      43,270,858.55
+  Tax                       :      12,972,603.39
+  Net Income                :      30,138,855.93
+  Closing Price             :             500.00
+
+Per Share Data (Rp)
+  Eps                       :             135.00
+  Book Value                :             346.62
+
+Financial Ratios
+  Debt Equity Ratio (X)     :               1.30
+  Roa (%)                   :              16.82
+  Roe (%)                   :              38.95
+  Npm (%)                   :              44.11
+  Opm (%)                   :              74.13
+
+Cash Flow
+  CF from Operating Activities                        :      18,507,414.48
+  CF from Investing Activities                        :     -31,230,014.47
+  CF from Financing Activities                        :       2,253,576.10
+  Net Increase in Cash & Cash Equivalent              :      -9,128,237.52
+  Cash & Cash Equivalent at The Beginning of The Year :     118,177,358.15
+  Cash & Cash Equivalent at The End of The Year       :     109,049,120.62
+
+ 
+ 
+ 

@@ -1,0 +1,66 @@
+6
+GEMA0303.TXT
+
+GEMA
+Gema Grahasarana Tbk
+Af          :
+Sector Code : 99
+Sector Name : OTHERS TRADE, SERVICES & INVESTMENT
+
+(In thousand rupiah except Par Value, Closing Price and Ratios)
+
+Financial Statement Date    : 31-Mar-2003
+Fiscal Year Ends            : Dec
+Months Covered in Income St : 3
+
+Summary of Balance Sheet
+  Receivables               :      10,232,830.10
+  Inventories               :       2,569,512.96
+  Current Assets            :      44,989,006.14
+  Fixed Assets              :      20,099,295.62
+  Other Asstes              :               0.00
+  Total Assets              :      67,305,714.45
+  Current Liabilities       :      19,228,324.00
+  Longterm Liabiities       :         779,396.60
+  Total Liabilities         :      20,007,720.60
+  Authorized                :         800,000.00
+  Paid-up Capital           :      32,000,000.00
+  Par Value                 :                100
+  Paid-up Capital Shares    :         320,000.00
+  Retained Earnings         :       7,607,314.73
+  Total Equity              :      47,267,989.25
+  Minority Interest         :          30,004.61
+
+Summary of Income Statement
+  Total Sales               :      21,163,680.66
+  Cost of Good Sold         :      17,057,223.17
+  Gross Profit              :       4,106,457.50
+  Operating Profit          :       1,575,210.71
+  Other Income              :        -149,086.62
+  Eearning Before Tax       :       1,426,124.09
+  Tax                       :         330,451.74
+  Net Income                :       1,091,685.87
+  Closing Price             :             100.00
+
+Per Share Data (Rp)
+  Eps                       :              13.65
+  Book Value                :             147.71
+
+Financial Ratios
+  Debt Equity Ratio (X)     :                .42
+  Roa (%)                   :               6.49
+  Roe (%)                   :               9.24
+  Npm (%)                   :              20.63
+  Opm (%)                   :              29.77
+
+Cash Flow
+  CF from Operating Activities                        :      -4,221,385.64
+  CF from Investing Activities                        :      -1,195,113.54
+  CF from Financing Activities                        :         684,383.79
+  Net Increase in Cash & Cash Equivalent              :      -4,732,115.39
+  Cash & Cash Equivalent at The Beginning of The Year :       9,846,306.96
+  Cash & Cash Equivalent at The End of The Year       :       5,114,191.57
+
+ 
+ 
+ 

@@ -1,0 +1,66 @@
+6
+CPDW0306.TXT
+
+CPDW
+Cipendawa Agroindustri Tbk
+Af          :
+Sector Code : 13
+Sector Name : ANIMAL HUSBANDRY
+
+(In thousand rupiah except Par Value, Closing Price and Ratios)
+
+Financial Statement Date    : 30-Jun-2003
+Fiscal Year Ends            : Dec
+Months Covered in Income St : 6
+
+Summary of Balance Sheet
+  Receivables               :      13,316,129.92
+  Inventories               :       2,051,478.88
+  Current Assets            :      24,184,369.78
+  Fixed Assets              :      10,702,925.59
+  Other Asstes              :         417,712.61
+  Total Assets              :      73,396,263.69
+  Current Liabilities       :     113,240,723.17
+  Longterm Liabiities       :       4,371,776.87
+  Total Liabilities         :     117,612,500.04
+  Authorized                :          80,000.00
+  Paid-up Capital           :      20,000,000.00
+  Par Value                 :               1000
+  Paid-up Capital Shares    :          20,000.00
+  Retained Earnings         :     -66,692,616.35
+  Total Equity              :     -44,216,236.35
+  Minority Interest         :               0.00
+
+Summary of Income Statement
+  Total Sales               :      17,913,772.10
+  Cost of Good Sold         :      17,874,377.46
+  Gross Profit              :          39,394.65
+  Operating Profit          :      -2,630,877.53
+  Other Income              :      -1,246,068.93
+  Eearning Before Tax       :      -3,876,946.46
+  Tax                       :        -854,858.41
+  Net Income                :      -3,022,088.05
+  Closing Price             :             300.00
+
+Per Share Data (Rp)
+  Eps                       :            -302.21
+  Book Value                :          -2,210.81
+
+Financial Ratios
+  Debt Equity Ratio (X)     :              -2.66
+  Roa (%)                   :              -8.23
+  Roe (%)                   :              13.67
+  Npm (%)                   :             -33.74
+  Opm (%)                   :             -29.37
+
+Cash Flow
+  CF from Operating Activities                        :         259,519.08
+  CF from Investing Activities                        :       4,712,711.02
+  CF from Financing Activities                        :      -6,599,201.04
+  Net Increase in Cash & Cash Equivalent              :      -1,626,970.94
+  Cash & Cash Equivalent at The Beginning of The Year :       2,209,200.11
+  Cash & Cash Equivalent at The End of The Year       :         582,229.17
+
+ 
+ 
+ 

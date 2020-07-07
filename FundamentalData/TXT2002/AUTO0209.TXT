@@ -1,0 +1,66 @@
+6
+AUTO0209.TXT
+
+AUTO
+Astra Otoparts Tbk
+Af          : ASII
+Sector Code : 42
+Sector Name : AUTOMOTIVE AND COMPONENTS
+
+(In thousand rupiah except Par Value, Closing Price and Ratios)
+
+Financial Statement Date    : 30-Sep-2002
+Fiscal Year Ends            : Dec
+Months Covered in Income St : 9
+
+Summary of Balance Sheet
+  Receivables               :     316,542,833.93
+  Inventories               :     256,033,637.72
+  Current Assets            :     983,288,454.49
+  Fixed Assets              :     304,527,568.73
+  Other Asstes              :      56,207,848.70
+  Total Assets              :   1,836,823,362.70
+  Current Liabilities       :     500,451,792.08
+  Longterm Liabiities       :     194,050,438.22
+  Total Liabilities         :     694,502,230.30
+  Authorized                :       2,000,000.00
+  Paid-up Capital           :     374,965,140.00
+  Par Value                 :                500
+  Paid-up Capital Shares    :         749,930.28
+  Retained Earnings         :     625,103,800.80
+  Total Equity              :   1,031,542,490.03
+  Minority Interest         :     110,778,642.37
+
+Summary of Income Statement
+  Total Sales               :   1,584,340,381.22
+  Cost of Good Sold         :   1,273,446,966.01
+  Gross Profit              :     310,893,415.20
+  Operating Profit          :     151,461,163.95
+  Other Income              :      38,470,154.35
+  Eearning Before Tax       :     292,142,665.93
+  Tax                       :      64,883,903.13
+  Net Income                :     236,843,450.87
+  Closing Price             :           1,350.00
+
+Per Share Data (Rp)
+  Eps                       :             421.09
+  Book Value                :           1,375.52
+
+Financial Ratios
+  Debt Equity Ratio (X)     :                .67
+  Roa (%)                   :              17.19
+  Roe (%)                   :              30.61
+  Npm (%)                   :              19.93
+  Opm (%)                   :              12.75
+
+Cash Flow
+  CF from Operating Activities                        :      60,664,347.90
+  CF from Investing Activities                        :      33,493,879.61
+  CF from Financing Activities                        :    -101,540,528.69
+  Net Increase in Cash & Cash Equivalent              :      -7,382,301.19
+  Cash & Cash Equivalent at The Beginning of The Year :     367,959,307.99
+  Cash & Cash Equivalent at The End of The Year       :     360,577,006.80
+
+ 
+ 
+ 

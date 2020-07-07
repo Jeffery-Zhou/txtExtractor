@@ -1,0 +1,66 @@
+6
+KIJA0206.TXT
+
+KIJA
+Kawasan Industri Jababeka Tbk
+Af          :
+Sector Code : 61
+Sector Name : PROPERTY AND REAL ESTATE
+
+(In thousand rupiah except Par Value, Closing Price and Ratios)
+
+Financial Statement Date    : 30-Jun-2002
+Fiscal Year Ends            : Dec
+Months Covered in Income St : 6
+
+Summary of Balance Sheet
+  Receivables               :     129,976,773.29
+  Inventories               :     547,079,104.08
+  Current Assets            :               0.00
+  Fixed Assets              :     182,177,763.81
+  Other Asstes              :      18,941,217.47
+  Total Assets              :   2,482,085,916.05
+  Current Liabilities       :               0.00
+  Longterm Liabiities       :               0.00
+  Total Liabilities         :   3,725,379,713.03
+  Authorized                :       1,500,000.00
+  Paid-up Capital           :     711,956,815.00
+  Par Value                 :               1000
+  Paid-up Capital Shares    :         711,956.82
+  Retained Earnings         :  -2,059,571,978.90
+  Total Equity              :  -1,255,215,417.70
+  Minority Interest         :      11,921,620.72
+
+Summary of Income Statement
+  Total Sales               :     197,646,277.01
+  Cost of Good Sold         :      96,546,407.71
+  Gross Profit              :     101,099,869.30
+  Operating Profit          :      75,697,522.04
+  Other Income              :     384,302,140.54
+  Eearning Before Tax       :     459,999,662.58
+  Tax                       :       8,640,391.37
+  Net Income                :     451,398,024.31
+  Closing Price             :             145.00
+
+Per Share Data (Rp)
+  Eps                       :           1,268.05
+  Book Value                :          -1,763.05
+
+Financial Ratios
+  Debt Equity Ratio (X)     :              -2.97
+  Roa (%)                   :              36.37
+  Roe (%)                   :             -71.92
+  Npm (%)                   :             228.39
+  Opm (%)                   :              38.30
+
+Cash Flow
+  CF from Operating Activities                        :      93,041,057.49
+  CF from Investing Activities                        :      -2,289,847.03
+  CF from Financing Activities                        :       1,629,119.06
+  Net Increase in Cash & Cash Equivalent              :      51,750,159.75
+  Cash & Cash Equivalent at The Beginning of The Year :     305,684,398.71
+  Cash & Cash Equivalent at The End of The Year       :     357,434,558.45
+
+ 
+ 
+ 

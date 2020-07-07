@@ -1,0 +1,66 @@
+6
+ABDA0306.TXT
+
+ABDA
+Asuransi Bina Dana Arta Tbk
+Af          : DSST
+Sector Code : 84
+Sector Name : INSURANCE
+
+(In thousand rupiah except Par Value, Closing Price and Ratios)
+
+Financial Statement Date    : 30-Jun-2003
+Fiscal Year Ends            : Dec
+Months Covered in Income St : 6
+
+Summary of Balance Sheet
+  Receivables               :      41,649,804.00
+  Inventories               :               0.00
+  Current Assets            :               0.00
+  Fixed Assets              :      19,812,265.00
+  Other Asstes              :       2,717,140.00
+  Total Assets              :     146,657,885.00
+  Current Liabilities       :               0.00
+  Longterm Liabiities       :               0.00
+  Total Liabilities         :      81,548,209.00
+  Authorized                :         212,241.60
+  Paid-up Capital           :      38,910,960.00
+  Par Value                 :          500 & 300
+  Paid-up Capital Shares    :         106,120.80
+  Retained Earnings         :      16,247,143.00
+  Total Equity              :      65,109,676.00
+  Minority Interest         :               0.00
+
+Summary of Income Statement
+  Total Sales               :      68,657,894.00
+  Cost of Good Sold         :      67,799,242.00
+  Gross Profit              :         858,652.00
+  Operating Profit          :         858,652.00
+  Other Income              :         590,811.00
+  Eearning Before Tax       :       1,449,463.00
+  Tax                       :        -592,881.00
+  Net Income                :       2,042,344.00
+  Closing Price             :             285.00
+
+Per Share Data (Rp)
+  Eps                       :              38.49
+  Book Value                :             613.54
+
+Financial Ratios
+  Debt Equity Ratio (X)     :               1.25
+  Roa (%)                   :               2.79
+  Roe (%)                   :               6.27
+  Npm (%)                   :               5.95
+  Opm (%)                   :               2.50
+
+Cash Flow
+  CF from Operating Activities                        :       8,123,702.00
+  CF from Investing Activities                        :     -14,599,571.00
+  CF from Financing Activities                        :               0.00
+  Net Increase in Cash & Cash Equivalent              :      -6,475,869.00
+  Cash & Cash Equivalent at The Beginning of The Year :      11,669,743.00
+  Cash & Cash Equivalent at The End of The Year       :       5,193,874.00
+
+ 
+ 
+ 

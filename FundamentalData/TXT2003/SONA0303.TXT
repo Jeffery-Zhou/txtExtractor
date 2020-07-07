@@ -1,0 +1,66 @@
+6
+SONA0303.TXT
+
+SONA
+Sona Topas Tourism Industry
+Af          :
+Sector Code : 93
+Sector Name : RETAIL TRADE
+
+(In thousand rupiah except Par Value, Closing Price and Ratios)
+
+Financial Statement Date    : 31-Mar-2003
+Fiscal Year Ends            : Dec
+Months Covered in Income St : 3
+
+Summary of Balance Sheet
+  Receivables               :       3,248,442.96
+  Inventories               :      25,019,750.71
+  Current Assets            :      75,465,694.80
+  Fixed Assets              :     234,274,020.34
+  Other Asstes              :               0.00
+  Total Assets              :     329,036,450.10
+  Current Liabilities       :      68,244,341.69
+  Longterm Liabiities       :     146,632,271.89
+  Total Liabilities         :     214,876,613.58
+  Authorized                :       1,320,000.00
+  Paid-up Capital           :      82,800,000.00
+  Par Value                 :                250
+  Paid-up Capital Shares    :         331,200.00
+  Retained Earnings         :      31,233,909.30
+  Total Equity              :     114,033,909.30
+  Minority Interest         :         125,927.22
+
+Summary of Income Statement
+  Total Sales               :      28,658,980.37
+  Cost of Good Sold         :      16,347,965.41
+  Gross Profit              :      12,311,014.96
+  Operating Profit          :      -6,231,811.87
+  Other Income              :      -1,177,365.09
+  Eearning Before Tax       :      -7,409,176.96
+  Tax                       :      -2,854,172.48
+  Net Income                :      -4,549,492.41
+  Closing Price             :              90.00
+
+Per Share Data (Rp)
+  Eps                       :             -54.95
+  Book Value                :             344.31
+
+Financial Ratios
+  Debt Equity Ratio (X)     :               1.88
+  Roa (%)                   :              -5.53
+  Roe (%)                   :             -15.96
+  Npm (%)                   :             -63.50
+  Opm (%)                   :             -86.98
+
+Cash Flow
+  CF from Operating Activities                        :     -10,413,120.99
+  CF from Investing Activities                        :     -12,523,188.02
+  CF from Financing Activities                        :               0.00
+  Net Increase in Cash & Cash Equivalent              :     -22,936,309.02
+  Cash & Cash Equivalent at The Beginning of The Year :      64,840,306.77
+  Cash & Cash Equivalent at The End of The Year       :      41,953,994.11
+
+ 
+ 
+ 

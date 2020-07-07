@@ -1,0 +1,66 @@
+6
+BEKS0312.TXT
+
+BEKS
+Bank Eksekutif Internasional Tbk
+Af          :
+Sector Code : 81
+Sector Name : BANK
+
+(In thousand rupiah except Par Value, Closing Price and Ratios)
+
+Financial Statement Date    : 31-Dec-2003
+Fiscal Year Ends            : Dec
+Months Covered in Income St : 12
+
+Summary of Balance Sheet
+  Receivables               :               0.00
+  Inventories               :               0.00
+  Current Assets            :               0.00
+  Fixed Assets              :      59,027,209.95
+  Other Asstes              :      96,429,591.40
+  Total Assets              :   1,873,790,652.17
+  Current Liabilities       :               0.00
+  Longterm Liabiities       :               0.00
+  Total Liabilities         :   1,729,707,476.34
+  Authorized                :       1,990,000.00
+  Paid-up Capital           :      77,500,000.00
+  Par Value                 :                100
+  Paid-up Capital Shares    :         775,000.00
+  Retained Earnings         :      56,136,434.36
+  Total Equity              :     144,083,175.83
+  Minority Interest         :               0.00
+
+Summary of Income Statement
+  Total Sales               :     347,488,417.01
+  Cost of Good Sold         :     309,592,214.23
+  Gross Profit              :      37,896,202.79
+  Operating Profit          :      37,896,202.79
+  Other Income              :      17,920,562.74
+  Eearning Before Tax       :      55,816,765.53
+  Tax                       :      13,113,519.63
+  Net Income                :      42,703,245.90
+  Closing Price             :              95.00
+
+Per Share Data (Rp)
+  Eps                       :              55.10
+  Book Value                :             185.91
+
+Financial Ratios
+  Debt Equity Ratio (X)     :              12.00
+  Roa (%)                   :               2.28
+  Roe (%)                   :              29.64
+  Npm (%)                   :              12.29
+  Opm (%)                   :              10.91
+
+Cash Flow
+  CF from Operating Activities                        :       4,971,474.18
+  CF from Investing Activities                        :      -1,791,489.77
+  CF from Financing Activities                        :      -6,522,732.63
+  Net Increase in Cash & Cash Equivalent              :      -3,342,748.22
+  Cash & Cash Equivalent at The Beginning of The Year :      92,618,222.17
+  Cash & Cash Equivalent at The End of The Year       :      89,275,473.95
+
+ 
+ 
+ 

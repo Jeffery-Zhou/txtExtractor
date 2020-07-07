@@ -1,0 +1,66 @@
+6
+SAIP0312.TXT
+
+SAIP
+Surabaya Agung Industry Pulp
+Af          :
+Sector Code : 38
+Sector Name : PULP & PAPER
+
+(In thousand rupiah except Par Value, Closing Price and Ratios)
+
+Financial Statement Date    : 31-Dec-2003
+Fiscal Year Ends            : Dec
+Months Covered in Income St : 12
+
+Summary of Balance Sheet
+  Receivables               :      27,856,260.78
+  Inventories               :      72,703,649.73
+  Current Assets            :     127,518,813.22
+  Fixed Assets              :   2,152,885,293.21
+  Other Asstes              :               0.00
+  Total Assets              :   2,324,153,458.88
+  Current Liabilities       :   3,548,073,630.53
+  Longterm Liabiities       :     169,425,710.17
+  Total Liabilities         :   3,717,499,340.70
+  Authorized                :         500,000.00
+  Paid-up Capital           :     294,000,000.00
+  Par Value                 :               1000
+  Paid-up Capital Shares    :         294,000.00
+  Retained Earnings         :  -1,687,430,340.43
+  Total Equity              :  -1,393,345,881.82
+  Minority Interest         :               0.00
+
+Summary of Income Statement
+  Total Sales               :     355,860,292.95
+  Cost of Good Sold         :     393,242,603.99
+  Gross Profit              :     -37,382,311.04
+  Operating Profit          :    -113,035,381.84
+  Other Income              :      67,851,057.39
+  Eearning Before Tax       :     -45,184,324.45
+  Tax                       :       8,831,413.61
+  Net Income                :     -54,015,738.06
+  Closing Price             :              65.00
+
+Per Share Data (Rp)
+  Eps                       :            -183.73
+  Book Value                :          -4,739.27
+
+Financial Ratios
+  Debt Equity Ratio (X)     :              -2.67
+  Roa (%)                   :              -2.32
+  Roe (%)                   :               3.88
+  Npm (%)                   :             -15.18
+  Opm (%)                   :             -31.76
+
+Cash Flow
+  CF from Operating Activities                        :      37,915,121.69
+  CF from Investing Activities                        :     -11,997,616.37
+  CF from Financing Activities                        :     -21,890,339.01
+  Net Increase in Cash & Cash Equivalent              :       4,027,166.31
+  Cash & Cash Equivalent at The Beginning of The Year :       4,656,345.75
+  Cash & Cash Equivalent at The End of The Year       :       8,683,512.06
+
+ 
+ 
+ 

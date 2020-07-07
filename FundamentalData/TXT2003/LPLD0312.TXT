@@ -1,0 +1,66 @@
+6
+LPLD0312.TXT
+
+LPLD
+Lippo Land Development Tbk
+Af          :
+Sector Code : 61
+Sector Name : PROPERTY AND REAL ESTATE
+
+(In thousand rupiah except Par Value, Closing Price and Ratios)
+
+Financial Statement Date    : 31-Dec-2003
+Fiscal Year Ends            : Dec
+Months Covered in Income St : 12
+
+Summary of Balance Sheet
+  Receivables               :      19,778,953.94
+  Inventories               :      82,960,161.35
+  Current Assets            :               0.00
+  Fixed Assets              :      14,055,521.73
+  Other Asstes              :       1,629,842.20
+  Total Assets              :     752,067,965.67
+  Current Liabilities       :               0.00
+  Longterm Liabiities       :               0.00
+  Total Liabilities         :     776,243,605.63
+  Authorized                :       1,244,134.23
+  Paid-up Capital           :     248,826,846.00
+  Par Value                 :                500
+  Paid-up Capital Shares    :         497,653.69
+  Retained Earnings         :    -529,970,089.57
+  Total Equity              :     -24,460,639.96
+  Minority Interest         :         285,000.00
+
+Summary of Income Statement
+  Total Sales               :     268,090,328.12
+  Cost of Good Sold         :     142,815,374.62
+  Gross Profit              :     139,354,308.30
+  Operating Profit          :      71,045,811.84
+  Other Income              :      10,918,051.27
+  Eearning Before Tax       :      89,722,525.08
+  Tax                       :       3,363,949.05
+  Net Income                :      86,358,576.03
+  Closing Price             :             525.00
+
+Per Share Data (Rp)
+  Eps                       :             173.53
+  Book Value                :             -49.15
+
+Financial Ratios
+  Debt Equity Ratio (X)     :             -31.73
+  Roa (%)                   :              11.48
+  Roe (%)                   :            -353.05
+  Npm (%)                   :              32.21
+  Opm (%)                   :              26.50
+
+Cash Flow
+  CF from Operating Activities                        :      17,671,972.05
+  CF from Investing Activities                        :    -304,863,156.01
+  CF from Financing Activities                        :     308,371,739.71
+  Net Increase in Cash & Cash Equivalent              :      21,180,555.75
+  Cash & Cash Equivalent at The Beginning of The Year :      18,736,670.89
+  Cash & Cash Equivalent at The End of The Year       :      39,917,226.64
+
+ 
+ 
+ 

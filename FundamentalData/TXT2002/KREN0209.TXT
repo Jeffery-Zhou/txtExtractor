@@ -1,0 +1,66 @@
+6
+KREN0209.TXT
+
+KREN
+Kresna Graha Sekurindo Tbk
+Af          :
+Sector Code : 83
+Sector Name : SECURITIES COMPANY
+
+(In thousand rupiah except Par Value, Closing Price and Ratios)
+
+Financial Statement Date    : 30-Sep-2002
+Fiscal Year Ends            : Dec
+Months Covered in Income St : 9
+
+Summary of Balance Sheet
+  Receivables               :      10,007,294.85
+  Inventories               :               0.00
+  Current Assets            :               0.00
+  Fixed Assets              :       1,214,896.48
+  Other Asstes              :               0.00
+  Total Assets              :      59,922,988.96
+  Current Liabilities       :               0.00
+  Longterm Liabiities       :               0.00
+  Total Liabilities         :      13,078,215.40
+  Authorized                :       1,060,000.00
+  Paid-up Capital           :      36,500,000.00
+  Par Value                 :                100
+  Paid-up Capital Shares    :         365,000.00
+  Retained Earnings         :       1,065,908.54
+  Total Equity              :      46,844,773.56
+  Minority Interest         :               0.00
+
+Summary of Income Statement
+  Total Sales               :       3,860,599.86
+  Cost of Good Sold         :       3,011,044.35
+  Gross Profit              :         849,555.51
+  Operating Profit          :         849,555.51
+  Other Income              :         469,461.28
+  Eearning Before Tax       :       1,319,016.79
+  Tax                       :               0.00
+  Net Income                :       1,319,016.79
+  Closing Price             :              75.00
+
+Per Share Data (Rp)
+  Eps                       :               4.82
+  Book Value                :             128.34
+
+Financial Ratios
+  Debt Equity Ratio (X)     :                .28
+  Roa (%)                   :               2.93
+  Roe (%)                   :               3.75
+  Npm (%)                   :              45.55
+  Opm (%)                   :              29.34
+
+Cash Flow
+  CF from Operating Activities                        :     -26,502,520.79
+  CF from Investing Activities                        :         -63,594.50
+  CF from Financing Activities                        :      19,284,364.97
+  Net Increase in Cash & Cash Equivalent              :      -7,281,750.32
+  Cash & Cash Equivalent at The Beginning of The Year :      11,940,274.78
+  Cash & Cash Equivalent at The End of The Year       :       4,658,524.47
+
+ 
+ 
+ 

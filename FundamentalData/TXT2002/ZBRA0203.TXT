@@ -1,0 +1,66 @@
+6
+ZBRA0203.TXT
+
+ZBRA
+Zebra Nusantara Tbk
+Af          :
+Sector Code : 74
+Sector Name : TRANSPORTATION
+
+(In thousand rupiah except Par Value, Closing Price and Ratios)
+
+Financial Statement Date    : 31-Mar-2002
+Fiscal Year Ends            : Dec
+Months Covered in Income St : 3
+
+Summary of Balance Sheet
+  Receivables               :       1,429,414.45
+  Inventories               :       4,893,540.98
+  Current Assets            :      16,938,463.44
+  Fixed Assets              :      68,681,408.50
+  Other Asstes              :               0.00
+  Total Assets              :      85,619,871.94
+  Current Liabilities       :      36,086,095.19
+  Longterm Liabiities       :       4,711,983.60
+  Total Liabilities         :      40,798,078.79
+  Authorized                :         639,670.01
+  Paid-up Capital           :      58,598,669.40
+  Par Value                 :          500 & 100
+  Paid-up Capital Shares    :         425,656.70
+  Retained Earnings         :     -10,389,483.10
+  Total Equity              :      44,821,793.15
+  Minority Interest         :               0.00
+
+Summary of Income Statement
+  Total Sales               :      12,365,094.98
+  Cost of Good Sold         :       6,839,071.33
+  Gross Profit              :       5,526,023.65
+  Operating Profit          :       1,523,380.14
+  Other Income              :        -709,644.53
+  Eearning Before Tax       :         813,735.61
+  Tax                       :               0.00
+  Net Income                :         813,735.61
+  Closing Price             :             100.00
+
+Per Share Data (Rp)
+  Eps                       :               7.65
+  Book Value                :             105.30
+
+Financial Ratios
+  Debt Equity Ratio (X)     :                .91
+  Roa (%)                   :               3.80
+  Roe (%)                   :               7.26
+  Npm (%)                   :               6.58
+  Opm (%)                   :              12.32
+
+Cash Flow
+  CF from Operating Activities                        :       3,941,875.72
+  CF from Investing Activities                        :      -6,947,557.71
+  CF from Financing Activities                        :       2,806,974.16
+  Net Increase in Cash & Cash Equivalent              :        -198,707.82
+  Cash & Cash Equivalent at The Beginning of The Year :       1,469,626.18
+  Cash & Cash Equivalent at The End of The Year       :       1,270,918.36
+
+ 
+ 
+ 

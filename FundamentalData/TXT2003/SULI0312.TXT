@@ -1,0 +1,66 @@
+6
+SULI0312.TXT
+
+SULI
+Sumalindo Lestari Jaya Tbk
+Af          :
+Sector Code : 37
+Sector Name : WOOD INDUSTRIES
+
+(In thousand rupiah except Par Value, Closing Price and Ratios)
+
+Financial Statement Date    : 31-Dec-2003
+Fiscal Year Ends            : Dec
+Months Covered in Income St : 12
+
+Summary of Balance Sheet
+  Receivables               :      25,029,592.53
+  Inventories               :     174,924,232.25
+  Current Assets            :     266,096,586.05
+  Fixed Assets              :     715,537,643.27
+  Other Asstes              :      14,258,140.15
+  Total Assets              :   1,290,967,366.41
+  Current Liabilities       :   1,669,514,964.24
+  Longterm Liabiities       :      54,612,076.62
+  Total Liabilities         :   1,724,127,040.87
+  Authorized                :       1,800,000.00
+  Paid-up Capital           :     468,750,000.00
+  Par Value                 :               1000
+  Paid-up Capital Shares    :         468,750.00
+  Retained Earnings         :    -920,526,096.28
+  Total Equity              :    -433,166,065.54
+  Minority Interest         :           6,391.08
+
+Summary of Income Statement
+  Total Sales               :     689,608,153.49
+  Cost of Good Sold         :     700,184,895.34
+  Gross Profit              :     -10,576,741.85
+  Operating Profit          :     -73,986,628.43
+  Other Income              :     -88,617,367.70
+  Eearning Before Tax       :    -162,603,996.13
+  Tax                       :      49,366,965.22
+  Net Income                :    -155,867,815.40
+  Closing Price             :             110.00
+
+Per Share Data (Rp)
+  Eps                       :            -332.52
+  Book Value                :            -924.09
+
+Financial Ratios
+  Debt Equity Ratio (X)     :              -3.98
+  Roa (%)                   :             -12.07
+  Roe (%)                   :              35.98
+  Npm (%)                   :             -22.60
+  Opm (%)                   :             -10.73
+
+Cash Flow
+  CF from Operating Activities                        :       9,672,878.79
+  CF from Investing Activities                        :     -15,812,273.26
+  CF from Financing Activities                        :        -921,160.84
+  Net Increase in Cash & Cash Equivalent              :      -7,060,555.31
+  Cash & Cash Equivalent at The Beginning of The Year :      27,434,932.68
+  Cash & Cash Equivalent at The End of The Year       :      20,374,377.38
+
+ 
+ 
+ 

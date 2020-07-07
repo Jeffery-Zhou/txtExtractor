@@ -1,0 +1,132 @@
+6
+SUDI0306.TXT
+
+SUDI
+Surya Dumai Industri Tbk.
+Af          :
+Sector Code : 37
+Sector Name : WOOD INDUSTRIES
+
+(In thousand rupiah except Par Value, Closing Price and Ratios)
+
+Financial Statement Date    : 30-Jun-2002
+Fiscal Year Ends            : Dec
+Months Covered in Income St : 6
+
+Summary of Balance Sheet
+  Receivables               :      88,847,235.22
+  Inventories               :      90,514,415.81
+  Current Assets            :     206,827,276.41
+  Fixed Assets              :     626,138,370.40
+  Other Asstes              :      57,997,951.10
+  Total Assets              :   1,092,627,362.16
+  Current Liabilities       :     857,475,915.02
+  Longterm Liabiities       :     332,124,628.29
+  Total Liabilities         :   1,189,600,543.31
+  Authorized                :      10,000,000.00
+  Paid-up Capital           :     250,000,000.00
+  Par Value                 :              100&1
+  Paid-up Capital Shares    :       2,500,000.00
+  Retained Earnings         :    -806,705,589.35
+  Total Equity              :    -152,092,041.78
+  Minority Interest         :      55,118,860.62
+
+Summary of Income Statement
+  Total Sales               :     209,781,096.20
+  Cost of Good Sold         :     213,313,555.63
+  Gross Profit              :      -3,532,459.43
+  Operating Profit          :     -20,242,644.39
+  Other Income              :     326,158,342.58
+  Eearning Before Tax       :     305,337,772.75
+  Tax                       :       1,790,634.60
+  Net Income                :     304,152,699.11
+  Closing Price             :             400.00
+
+Per Share Data (Rp)
+  Eps                       :             243.32
+  Book Value                :             -60.84
+
+Financial Ratios
+  Debt Equity Ratio (X)     :              -7.82
+  Roa (%)                   :              55.67
+  Roe (%)                   :            -399.96
+  Npm (%)                   :             289.97
+  Opm (%)                   :             -19.30
+
+Cash Flow
+  CF from Operating Activities                        :      20,134,194.19
+  CF from Investing Activities                        :      -2,855,752.51
+  CF from Financing Activities                        :     -30,804,263.60
+  Net Increase in Cash & Cash Equivalent              :     -13,525,821.91
+  Cash & Cash Equivalent at The Beginning of The Year :      20,124,261.35
+  Cash & Cash Equivalent at The End of The Year       :       6,598,439.44
+
+ 
+ 
+ 
+
+SUDI0306.TXT
+
+SUDI
+Surya Dumai Industri Tbk.
+Af          :
+Sector Code : 37
+Sector Name : WOOD INDUSTRIES
+
+(In thousand rupiah except Par Value, Closing Price and Ratios)
+
+Financial Statement Date    : 30-Jun-2003
+Fiscal Year Ends            : Dec
+Months Covered in Income St : 6
+
+Summary of Balance Sheet
+  Receivables               :      88,847,235.22
+  Inventories               :      90,514,415.81
+  Current Assets            :     206,827,276.41
+  Fixed Assets              :     626,138,370.40
+  Other Asstes              :      57,997,951.10
+  Total Assets              :   1,092,627,362.16
+  Current Liabilities       :     857,475,915.02
+  Longterm Liabiities       :     332,124,628.29
+  Total Liabilities         :   1,189,600,543.31
+  Authorized                :      10,000,000.00
+  Paid-up Capital           :     250,000,000.00
+  Par Value                 :                100
+  Paid-up Capital Shares    :       2,500,000.00
+  Retained Earnings         :    -806,705,589.35
+  Total Equity              :    -152,092,041.78
+  Minority Interest         :      55,118,860.62
+
+Summary of Income Statement
+  Total Sales               :     209,781,096.20
+  Cost of Good Sold         :     213,313,555.63
+  Gross Profit              :      -3,532,459.43
+  Operating Profit          :     -20,242,644.39
+  Other Income              :     326,158,342.58
+  Eearning Before Tax       :     305,337,772.75
+  Tax                       :       1,790,634.60
+  Net Income                :     304,152,699.11
+  Closing Price             :             400.00
+
+Per Share Data (Rp)
+  Eps                       :             243.32
+  Book Value                :             -60.84
+
+Financial Ratios
+  Debt Equity Ratio (X)     :              -7.82
+  Roa (%)                   :              55.67
+  Roe (%)                   :            -399.96
+  Npm (%)                   :             289.97
+  Opm (%)                   :             -19.30
+
+Cash Flow
+  CF from Operating Activities                        :      20,134,194.19
+  CF from Investing Activities                        :      -2,855,752.51
+  CF from Financing Activities                        :     -30,804,263.60
+  Net Increase in Cash & Cash Equivalent              :     -13,525,821.91
+  Cash & Cash Equivalent at The Beginning of The Year :      20,124,261.35
+  Cash & Cash Equivalent at The End of The Year       :       6,598,439.44
+
+ 
+ 
+ 

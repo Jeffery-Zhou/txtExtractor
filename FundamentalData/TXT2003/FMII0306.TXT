@@ -1,0 +1,66 @@
+6
+FMII0306.TXT
+
+FMII
+Fortune Mate Indonesia Tbk
+Af          :
+Sector Code : 44
+Sector Name : FOOTWEAR
+
+(In thousand rupiah except Par Value, Closing Price and Ratios)
+
+Financial Statement Date    : 30-Jun-2003
+Fiscal Year Ends            : Dec
+Months Covered in Income St : 6
+
+Summary of Balance Sheet
+  Receivables               :      22,227,028.40
+  Inventories               :     106,163,327.26
+  Current Assets            :     193,727,848.52
+  Fixed Assets              :      31,244,680.33
+  Other Asstes              :          67,368.85
+  Total Assets              :     230,972,271.99
+  Current Liabilities       :      44,554,193.89
+  Longterm Liabiities       :       1,580,627.29
+  Total Liabilities         :      46,134,821.18
+  Authorized                :       4,400,000.00
+  Paid-up Capital           :     160,000,000.00
+  Par Value                 :                100
+  Paid-up Capital Shares    :       1,600,000.00
+  Retained Earnings         :      27,344,571.08
+  Total Equity              :     184,837,450.81
+  Minority Interest         :               0.00
+
+Summary of Income Statement
+  Total Sales               :     116,515,472.30
+  Cost of Good Sold         :     123,479,532.40
+  Gross Profit              :      -6,964,060.10
+  Operating Profit          :      -9,307,000.14
+  Other Income              :      -4,227,350.23
+  Eearning Before Tax       :     -13,534,350.37
+  Tax                       :      -4,253,946.29
+  Net Income                :      -9,280,404.08
+  Closing Price             :             140.00
+
+Per Share Data (Rp)
+  Eps                       :             -11.60
+  Book Value                :             115.52
+
+Financial Ratios
+  Debt Equity Ratio (X)     :                .25
+  Roa (%)                   :              -8.04
+  Roe (%)                   :             -10.04
+  Npm (%)                   :             -15.93
+  Opm (%)                   :             -15.98
+
+Cash Flow
+  CF from Operating Activities                        :        -240,659.02
+  CF from Investing Activities                        :          56,253.86
+  CF from Financing Activities                        :               0.00
+  Net Increase in Cash & Cash Equivalent              :        -184,405.16
+  Cash & Cash Equivalent at The Beginning of The Year :      27,311,308.55
+  Cash & Cash Equivalent at The End of The Year       :      27,126,903.39
+
+ 
+ 
+ 

@@ -1,0 +1,66 @@
+6
+ATPK0212.TXT
+
+ATPK
+Anugrah Tambak Perkasindo Tbk
+Af          :
+Sector Code : 13
+Sector Name : ANIMAL HUSBANDRY
+
+(In thousand rupiah except Par Value, Closing Price and Ratios)
+
+Financial Statement Date    : 31-Dec-2002
+Fiscal Year Ends            : Dec
+Months Covered in Income St : 12
+
+Summary of Balance Sheet
+  Receivables               :       9,789,103.76
+  Inventories               :       2,670,368.44
+  Current Assets            :      15,423,625.50
+  Fixed Assets              :      73,501,274.67
+  Other Asstes              :       8,760,000.00
+  Total Assets              :      98,229,241.56
+  Current Liabilities       :       3,819,153.45
+  Longterm Liabiities       :               0.00
+  Total Liabilities         :       3,819,153.45
+  Authorized                :       1,000,000.00
+  Paid-up Capital           :      55,000,000.00
+  Par Value                 :                200
+  Paid-up Capital Shares    :         275,000.00
+  Retained Earnings         :       2,721,431.53
+  Total Equity              :      94,410,088.12
+  Minority Interest         :               0.00
+
+Summary of Income Statement
+  Total Sales               :      33,321,893.47
+  Cost of Good Sold         :      18,006,939.08
+  Gross Profit              :      15,314,954.39
+  Operating Profit          :      13,020,265.93
+  Other Income              :     -10,960,713.51
+  Eearning Before Tax       :       2,059,552.42
+  Tax                       :         383,368.17
+  Net Income                :       1,676,184.26
+  Closing Price             :              85.00
+
+Per Share Data (Rp)
+  Eps                       :               6.10
+  Book Value                :             343.31
+
+Financial Ratios
+  Debt Equity Ratio (X)     :                .04
+  Roa (%)                   :               1.71
+  Roe (%)                   :               1.78
+  Npm (%)                   :               5.03
+  Opm (%)                   :              39.07
+
+Cash Flow
+  CF from Operating Activities                        :      -5,394,444.04
+  CF from Investing Activities                        :     -25,575,470.32
+  CF from Financing Activities                        :      33,886,543.43
+  Net Increase in Cash & Cash Equivalent              :       2,916,629.08
+  Cash & Cash Equivalent at The Beginning of The Year :          47,524.21
+  Cash & Cash Equivalent at The End of The Year       :       2,964,153.29
+
+ 
+ 
+ 

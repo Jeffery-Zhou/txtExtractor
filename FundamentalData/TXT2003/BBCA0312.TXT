@@ -1,0 +1,66 @@
+6
+BBCA0312.TXT
+
+BBCA
+Bank Central Asia Tbk
+Af          :
+Sector Code : 81
+Sector Name : BANK
+
+(In thousand rupiah except Par Value, Closing Price and Ratios)
+
+Financial Statement Date    : 31-Dec-2003
+Fiscal Year Ends            : Dec
+Months Covered in Income St : 12
+
+Summary of Balance Sheet
+  Receivables               :     412,222,000.00
+  Inventories               :               0.00
+  Current Assets            :               0.00
+  Fixed Assets              :   1,888,511,000.00
+  Other Asstes              :   1,708,757,000.00
+  Total Assets              : 133,260,087,000.00
+  Current Liabilities       :               0.00
+  Longterm Liabiities       :               0.00
+  Total Liabilities         : 120,633,866,000.00
+  Authorized                :      22,000,000.00
+  Paid-up Capital           :   1,532,783,625.00
+  Par Value                 :                250
+  Paid-up Capital Shares    :       6,131,134.50
+  Retained Earnings         :   6,019,338,000.00
+  Total Equity              :  12,625,445,000.00
+  Minority Interest         :         776,000.00
+
+Summary of Income Statement
+  Total Sales               :  13,612,975,000.00
+  Cost of Good Sold         :  10,493,729,000.00
+  Gross Profit              :   3,119,246,000.00
+  Operating Profit          :   3,119,246,000.00
+  Other Income              :      19,600,000.00
+  Eearning Before Tax       :   3,139,711,000.00
+  Tax                       :     748,723,000.00
+  Net Income                :   2,390,855,000.00
+  Closing Price             :           3,325.00
+
+Per Share Data (Rp)
+  Eps                       :             389.95
+  Book Value                :           2,059.23
+
+Financial Ratios
+  Debt Equity Ratio (X)     :               9.55
+  Roa (%)                   :               1.79
+  Roe (%)                   :              18.94
+  Npm (%)                   :              17.56
+  Opm (%)                   :              22.91
+
+Cash Flow
+  CF from Operating Activities                        :   6,211,974,000.00
+  CF from Investing Activities                        :  -3,940,546,000.00
+  CF from Financing Activities                        :  -1,476,215,000.00
+  Net Increase in Cash & Cash Equivalent              :     795,213,000.00
+  Cash & Cash Equivalent at The Beginning of The Year :   8,827,322,000.00
+  Cash & Cash Equivalent at The End of The Year       :   9,622,535,000.00
+
+ 
+ 
+ 

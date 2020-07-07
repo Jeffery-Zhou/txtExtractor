@@ -1,0 +1,66 @@
+6
+CENT0206.TXT
+
+CENT
+Centrin Online Tbk
+Af          :
+Sector Code : 97
+Sector Name : COMPUTER AND SERVICES
+
+(In thousand rupiah except Par Value, Closing Price and Ratios)
+
+Financial Statement Date    : 30-Jun-2002
+Fiscal Year Ends            : Dec
+Months Covered in Income St : 6
+
+Summary of Balance Sheet
+  Receivables               :       4,512,812.20
+  Inventories               :          48,111.90
+  Current Assets            :      34,231,056.71
+  Fixed Assets              :      30,328,538.25
+  Other Asstes              :               0.00
+  Total Assets              :      71,259,566.35
+  Current Liabilities       :       5,026,922.72
+  Longterm Liabiities       :         797,328.62
+  Total Liabilities         :       5,824,251.34
+  Authorized                :       1,500,000.00
+  Paid-up Capital           :      55,011,250.00
+  Par Value                 :                100
+  Paid-up Capital Shares    :         550,112.50
+  Retained Earnings         :       9,753,200.39
+  Total Equity              :      65,435,315.01
+  Minority Interest         :               0.00
+
+Summary of Income Statement
+  Total Sales               :      22,418,218.25
+  Cost of Good Sold         :      17,874,270.97
+  Gross Profit              :       4,543,947.28
+  Operating Profit          :       4,543,947.28
+  Other Income              :       1,540,619.80
+  Eearning Before Tax       :       6,084,567.08
+  Tax                       :       1,213,750.17
+  Net Income                :       4,870,816.91
+  Closing Price             :             500.00
+
+Per Share Data (Rp)
+  Eps                       :              17.71
+  Book Value                :             118.95
+
+Financial Ratios
+  Debt Equity Ratio (X)     :                .09
+  Roa (%)                   :              13.67
+  Roe (%)                   :              14.89
+  Npm (%)                   :              21.73
+  Opm (%)                   :              20.27
+
+Cash Flow
+  CF from Operating Activities                        :       8,085,531.23
+  CF from Investing Activities                        :      -6,865,415.23
+  CF from Financing Activities                        :        -408,725.28
+  Net Increase in Cash & Cash Equivalent              :         811,390.71
+  Cash & Cash Equivalent at The Beginning of The Year :      24,450,938.02
+  Cash & Cash Equivalent at The End of The Year       :      25,250,446.47
+
+ 
+ 
+ 

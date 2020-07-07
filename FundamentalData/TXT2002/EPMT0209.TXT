@@ -1,0 +1,66 @@
+6
+EPMT0209.TXT
+
+EPMT
+Enseval Putra Megatrading Tbk
+Af          :
+Sector Code : 91
+Sector Name : WHOLESALE (DURABLE & NON-DURABLE GOODS)
+
+(In thousand rupiah except Par Value, Closing Price and Ratios)
+
+Financial Statement Date    : 30-Sep-2002
+Fiscal Year Ends            : Dec
+Months Covered in Income St : 9
+
+Summary of Balance Sheet
+  Receivables               :     320,266,255.87
+  Inventories               :     345,861,836.22
+  Current Assets            :     979,431,233.79
+  Fixed Assets              :      68,728,332.72
+  Other Asstes              :               0.00
+  Total Assets              :   1,166,819,297.37
+  Current Liabilities       :     701,431,734.71
+  Longterm Liabiities       :     206,555,423.85
+  Total Liabilities         :     908,570,258.21
+  Authorized                :       1,824,000.00
+  Paid-up Capital           :     114,000,000.00
+  Par Value                 :                250
+  Paid-up Capital Shares    :         456,000.00
+  Retained Earnings         :     140,990,292.73
+  Total Equity              :     256,322,285.92
+  Minority Interest         :       1,926,753.23
+
+Summary of Income Statement
+  Total Sales               :   2,308,238,669.51
+  Cost of Good Sold         :   1,997,974,663.07
+  Gross Profit              :     310,264,006.44
+  Operating Profit          :     134,900,894.49
+  Other Income              :      45,305,654.68
+  Eearning Before Tax       :     180,206,549.18
+  Tax                       :      51,806,375.99
+  Net Income                :     128,246,912.77
+  Closing Price             :             240.00
+
+Per Share Data (Rp)
+  Eps                       :             374.99
+  Book Value                :             562.11
+
+Financial Ratios
+  Debt Equity Ratio (X)     :               3.54
+  Roa (%)                   :              14.65
+  Roe (%)                   :              66.71
+  Npm (%)                   :               7.41
+  Opm (%)                   :               7.79
+
+Cash Flow
+  CF from Operating Activities                        :     138,932,146.83
+  CF from Investing Activities                        :     -12,957,200.53
+  CF from Financing Activities                        :     -14,299,152.21
+  Net Increase in Cash & Cash Equivalent              :     111,675,794.09
+  Cash & Cash Equivalent at The Beginning of The Year :      93,528,476.97
+  Cash & Cash Equivalent at The End of The Year       :     203,710,555.47
+
+ 
+ 
+ 

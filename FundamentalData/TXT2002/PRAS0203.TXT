@@ -1,0 +1,66 @@
+6
+PRAS0203.TXT
+
+PRAS
+Prima Alloy Steel Universal Tbk
+Af          :
+Sector Code : 42
+Sector Name : AUTOMOTIVE AND COMPONENTS
+
+(In thousand rupiah except Par Value, Closing Price and Ratios)
+
+Financial Statement Date    : 31-Mar-2002
+Fiscal Year Ends            : Dec
+Months Covered in Income St : 3
+
+Summary of Balance Sheet
+  Receivables               :     186,804,799.15
+  Inventories               :      61,504,284.63
+  Current Assets            :     254,772,249.23
+  Fixed Assets              :     107,296,065.82
+  Other Asstes              :     120,268,798.49
+  Total Assets              :     499,422,606.41
+  Current Liabilities       :     320,147,945.15
+  Longterm Liabiities       :     149,154,363.81
+  Total Liabilities         :     469,302,308.96
+  Authorized                :         300,000.00
+  Paid-up Capital           :      38,000,000.00
+  Par Value                 :                500
+  Paid-up Capital Shares    :          76,000.00
+  Retained Earnings         :     -15,560,943.90
+  Total Equity              :      30,120,297.45
+  Minority Interest         :               0.00
+
+Summary of Income Statement
+  Total Sales               :      34,099,715.66
+  Cost of Good Sold         :      30,561,825.44
+  Gross Profit              :       3,537,890.22
+  Operating Profit          :         853,791.05
+  Other Income              :       2,969,356.57
+  Eearning Before Tax       :       3,823,147.62
+  Tax                       :       1,027,786.36
+  Net Income                :       2,795,361.27
+  Closing Price             :             270.00
+
+Per Share Data (Rp)
+  Eps                       :             147.12
+  Book Value                :             396.32
+
+Financial Ratios
+  Debt Equity Ratio (X)     :              15.58
+  Roa (%)                   :               2.24
+  Roe (%)                   :              37.12
+  Npm (%)                   :               8.20
+  Opm (%)                   :               2.50
+
+Cash Flow
+  CF from Operating Activities                        :        -826,755.04
+  CF from Investing Activities                        :         144,662.98
+  CF from Financing Activities                        :        -760,680.92
+  Net Increase in Cash & Cash Equivalent              :      -1,442,772.98
+  Cash & Cash Equivalent at The Beginning of The Year :       2,981,232.26
+  Cash & Cash Equivalent at The End of The Year       :       1,538,459.28
+
+ 
+ 
+ 

@@ -1,0 +1,66 @@
+6
+FORU0206.TXT
+
+FORU
+Fortune Indonesia Tbk
+Af          :
+Sector Code : 99
+Sector Name : OTHERS TRADE, SERVICES & INVESTMENT
+
+(In thousand rupiah except Par Value, Closing Price and Ratios)
+
+Financial Statement Date    : 30-Jun-2002
+Fiscal Year Ends            : Dec
+Months Covered in Income St : 6
+
+Summary of Balance Sheet
+  Receivables               :      13,435,968.31
+  Inventories               :               0.00
+  Current Assets            :      56,105,764.64
+  Fixed Assets              :      11,224,315.77
+  Other Asstes              :               0.00
+  Total Assets              :      69,025,413.68
+  Current Liabilities       :       9,774,670.62
+  Longterm Liabiities       :         309,277.55
+  Total Liabilities         :      10,083,948.17
+  Authorized                :       1,000,000.00
+  Paid-up Capital           :      45,500,000.00
+  Par Value                 :                100
+  Paid-up Capital Shares    :         455,000.00
+  Retained Earnings         :       6,806,988.55
+  Total Equity              :      58,842,517.89
+  Minority Interest         :          98,947.63
+
+Summary of Income Statement
+  Total Sales               :      28,185,719.23
+  Cost of Good Sold         :      21,965,330.12
+  Gross Profit              :       6,220,389.11
+  Operating Profit          :       1,073,783.55
+  Other Income              :       1,102,925.44
+  Eearning Before Tax       :       2,176,708.98
+  Tax                       :         508,963.35
+  Net Income                :       1,666,325.06
+  Closing Price             :           1,150.00
+
+Per Share Data (Rp)
+  Eps                       :               7.32
+  Book Value                :             129.32
+
+Financial Ratios
+  Debt Equity Ratio (X)     :                .17
+  Roa (%)                   :               4.83
+  Roe (%)                   :               5.66
+  Npm (%)                   :               5.91
+  Opm (%)                   :               3.81
+
+Cash Flow
+  CF from Operating Activities                        :      -8,882,045.72
+  CF from Investing Activities                        :         315,828.62
+  CF from Financing Activities                        :      22,040,909.11
+  Net Increase in Cash & Cash Equivalent              :      13,474,692.01
+  Cash & Cash Equivalent at The Beginning of The Year :       7,385,923.70
+  Cash & Cash Equivalent at The End of The Year       :      20,860,615.70
+
+ 
+ 
+ 

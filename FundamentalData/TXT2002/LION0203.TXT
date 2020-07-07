@@ -1,0 +1,66 @@
+6
+LION0203.TXT
+
+LION
+Lion Metal Works Tbk
+Af          :
+Sector Code : 33
+Sector Name : METAL AND ALLIED PRODUCTS
+
+(In thousand rupiah except Par Value, Closing Price and Ratios)
+
+Financial Statement Date    : 31-Mar-2002
+Fiscal Year Ends            : Dec
+Months Covered in Income St : 3
+
+Summary of Balance Sheet
+  Receivables               :      14,411,080.14
+  Inventories               :      32,160,776.48
+  Current Assets            :      82,306,281.72
+  Fixed Assets              :      16,229,669.50
+  Other Asstes              :               0.00
+  Total Assets              :     108,937,064.25
+  Current Liabilities       :      20,072,077.83
+  Longterm Liabiities       :               0.00
+  Total Liabilities         :      20,072,077.83
+  Authorized                :         200,000.00
+  Paid-up Capital           :      52,016,000.00
+  Par Value                 :               1000
+  Paid-up Capital Shares    :          52,016.00
+  Retained Earnings         :      34,894,356.20
+  Total Equity              :      88,864,986.42
+  Minority Interest         :               0.00
+
+Summary of Income Statement
+  Total Sales               :      19,489,102.91
+  Cost of Good Sold         :      10,311,737.23
+  Gross Profit              :       9,177,365.68
+  Operating Profit          :       5,394,232.86
+  Other Income              :      -1,022,146.06
+  Eearning Before Tax       :       4,372,086.81
+  Tax                       :       1,257,903.50
+  Net Income                :       3,114,183.31
+  Closing Price             :             750.00
+
+Per Share Data (Rp)
+  Eps                       :             239.48
+  Book Value                :           1,708.42
+
+Financial Ratios
+  Debt Equity Ratio (X)     :                .23
+  Roa (%)                   :              11.43
+  Roe (%)                   :              14.02
+  Npm (%)                   :              15.98
+  Opm (%)                   :              27.68
+
+Cash Flow
+  CF from Operating Activities                        :         375,881.09
+  CF from Investing Activities                        :         -39,105.00
+  CF from Financing Activities                        :      -1,830,300.00
+  Net Increase in Cash & Cash Equivalent              :      -1,493,523.90
+  Cash & Cash Equivalent at The Beginning of The Year :      33,543,377.17
+  Cash & Cash Equivalent at The End of The Year       :      32,049,853.26
+
+ 
+ 
+ 

@@ -1,0 +1,66 @@
+6
+DAVO0212.TXT
+
+DAVO
+Davomas Abadi Tbk
+Af          :
+Sector Code : 51
+Sector Name : FOOD AND BEVERAGES
+
+(In thousand rupiah except Par Value, Closing Price and Ratios)
+
+Financial Statement Date    : 31-Dec-2002
+Fiscal Year Ends            : Dec
+Months Covered in Income St : 12
+
+Summary of Balance Sheet
+  Receivables               :      34,921,168.38
+  Inventories               :      53,654,520.30
+  Current Assets            :     126,212,211.93
+  Fixed Assets              :     665,098,372.58
+  Other Asstes              :               0.00
+  Total Assets              :     791,796,530.67
+  Current Liabilities       :         377,608.86
+  Longterm Liabiities       :     292,787,921.29
+  Total Liabilities         :     293,165,530.15
+  Authorized                :       1,817,393.60
+  Paid-up Capital           :     620,185,566.00
+  Par Value                 :                500
+  Paid-up Capital Shares    :       1,240,371.13
+  Retained Earnings         :    -123,449,671.62
+  Total Equity              :     498,631,000.53
+  Minority Interest         :               0.00
+
+Summary of Income Statement
+  Total Sales               :     600,500,655.10
+  Cost of Good Sold         :     560,227,534.87
+  Gross Profit              :      40,273,120.23
+  Operating Profit          :      33,976,403.96
+  Other Income              :      11,481,257.68
+  Eearning Before Tax       :      45,457,661.64
+  Tax                       :      23,340,750.40
+  Net Income                :      22,116,911.24
+  Closing Price             :              90.00
+
+Per Share Data (Rp)
+  Eps                       :              17.83
+  Book Value                :             402.00
+
+Financial Ratios
+  Debt Equity Ratio (X)     :                .59
+  Roa (%)                   :               2.79
+  Roe (%)                   :               4.44
+  Npm (%)                   :               3.68
+  Opm (%)                   :               5.66
+
+Cash Flow
+  CF from Operating Activities                        :     157,134,962.47
+  CF from Investing Activities                        :    -163,613,843.98
+  CF from Financing Activities                        :      11,358,710.00
+  Net Increase in Cash & Cash Equivalent              :       4,879,828.49
+  Cash & Cash Equivalent at The Beginning of The Year :      10,819,956.25
+  Cash & Cash Equivalent at The End of The Year       :      15,699,784.74
+
+ 
+ 
+ 

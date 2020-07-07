@@ -1,0 +1,66 @@
+6
+RBMS0306.TXT
+
+RBMS
+Ristia Bintang Mahkotasejati Tbk
+Af          :
+Sector Code : 61
+Sector Name : PROPERTY AND REAL ESTATE
+
+(In thousand rupiah except Par Value, Closing Price and Ratios)
+
+Financial Statement Date    : 30-Jun-2003
+Fiscal Year Ends            : Dec
+Months Covered in Income St : 6
+
+Summary of Balance Sheet
+  Receivables               :       8,702,723.97
+  Inventories               :     123,408,063.53
+  Current Assets            :               0.00
+  Fixed Assets              :       2,447,380.07
+  Other Asstes              :         721,532.15
+  Total Assets              :     206,624,470.41
+  Current Liabilities       :               0.00
+  Longterm Liabiities       :               0.00
+  Total Liabilities         :      11,733,949.00
+  Authorized                :       1,080,033.50
+  Paid-up Capital           :     143,344,500.00
+  Par Value                 :          500 & 200
+  Paid-up Capital Shares    :         326,722.50
+  Retained Earnings         :      15,239,536.68
+  Total Equity              :     157,805,656.93
+  Minority Interest         :      37,084,864.49
+
+Summary of Income Statement
+  Total Sales               :       5,264,996.64
+  Cost of Good Sold         :       4,252,612.52
+  Gross Profit              :       1,012,384.12
+  Operating Profit          :      -1,319,162.85
+  Other Income              :         252,572.62
+  Eearning Before Tax       :      -1,066,590.23
+  Tax                       :        -357,249.39
+  Net Income                :        -499,860.60
+  Closing Price             :              60.00
+
+Per Share Data (Rp)
+  Eps                       :              -3.06
+  Book Value                :             483.00
+
+Financial Ratios
+  Debt Equity Ratio (X)     :                .07
+  Roa (%)                   :               -.48
+  Roe (%)                   :               -.63
+  Npm (%)                   :             -18.99
+  Opm (%)                   :             -50.11
+
+Cash Flow
+  CF from Operating Activities                        :       2,794,420.20
+  CF from Investing Activities                        :      -3,805,320.55
+  CF from Financing Activities                        :         615,281.72
+  Net Increase in Cash & Cash Equivalent              :        -395,618.64
+  Cash & Cash Equivalent at The Beginning of The Year :       4,642,899.48
+  Cash & Cash Equivalent at The End of The Year       :       4,247,280.84
+
+ 
+ 
+ 

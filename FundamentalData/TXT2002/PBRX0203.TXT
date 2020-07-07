@@ -1,0 +1,66 @@
+6
+PBRX0203.TXT
+
+PBRX
+Pan Brothers Tbk
+Af          :
+Sector Code : 43
+Sector Name : TEXTILE, GARMENT
+
+(In thousand rupiah except Par Value, Closing Price and Ratios)
+
+Financial Statement Date    : 31-Mar-2002
+Fiscal Year Ends            : Dec
+Months Covered in Income St : 3
+
+Summary of Balance Sheet
+  Receivables               :      58,463,665.81
+  Inventories               :      20,162,898.16
+  Current Assets            :     104,393,554.58
+  Fixed Assets              :      25,671,119.57
+  Other Asstes              :       2,746,083.35
+  Total Assets              :     132,811,577.24
+  Current Liabilities       :      42,422,129.51
+  Longterm Liabiities       :      24,316,677.97
+  Total Liabilities         :      66,738,807.47
+  Authorized                :         384,000.00
+  Paid-up Capital           :      38,400,000.00
+  Par Value                 :                500
+  Paid-up Capital Shares    :          76,800.00
+  Retained Earnings         :      22,998,562.79
+  Total Equity              :      65,058,562.79
+  Minority Interest         :       1,014,206.98
+
+Summary of Income Statement
+  Total Sales               :      68,635,017.27
+  Cost of Good Sold         :      56,771,700.23
+  Gross Profit              :      11,863,317.03
+  Operating Profit          :       6,045,305.54
+  Other Income              :      -2,116,766.39
+  Eearning Before Tax       :       3,928,539.15
+  Tax                       :               0.00
+  Net Income                :       3,968,517.22
+  Closing Price             :           1,050.00
+
+Per Share Data (Rp)
+  Eps                       :             206.69
+  Book Value                :             847.12
+
+Financial Ratios
+  Debt Equity Ratio (X)     :               1.03
+  Roa (%)                   :              11.95
+  Roe (%)                   :              24.40
+  Npm (%)                   :               5.78
+  Opm (%)                   :               8.81
+
+Cash Flow
+  CF from Operating Activities                        :     -24,168,513.85
+  CF from Investing Activities                        :      -2,344,084.22
+  CF from Financing Activities                        :      17,550,067.10
+  Net Increase in Cash & Cash Equivalent              :      -8,962,530.97
+  Cash & Cash Equivalent at The Beginning of The Year :      23,560,910.71
+  Cash & Cash Equivalent at The End of The Year       :      14,598,379.74
+
+ 
+ 
+ 

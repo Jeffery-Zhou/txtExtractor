@@ -1,0 +1,66 @@
+6
+BYSP0309.TXT
+
+BYSP
+Bayer Indonesia (preferred stock)
+Af          : BYSB
+Sector Code : 53
+Sector Name : PHARMACEUTICALS
+
+(In thousand rupiah except Par Value, Closing Price and Ratios)
+
+Financial Statement Date    : 30-Sep-2003
+Fiscal Year Ends            : Dec
+Months Covered in Income St : 9
+
+Summary of Balance Sheet
+  Receivables               :     161,189,736.78
+  Inventories               :     119,476,219.88
+  Current Assets            :     457,271,459.75
+  Fixed Assets              :      40,316,693.01
+  Other Asstes              :               0.00
+  Total Assets              :     511,514,539.40
+  Current Liabilities       :     148,978,563.79
+  Longterm Liabiities       :         619,688.02
+  Total Liabilities         :     149,598,251.81
+  Authorized                :           5,660.20
+  Paid-up Capital           :       4,648,200.00
+  Par Value                 :               1000
+  Paid-up Capital Shares    :           4,648.20
+  Retained Earnings         :     274,151,644.02
+  Total Equity              :     361,916,287.60
+  Minority Interest         :               0.00
+
+Summary of Income Statement
+  Total Sales               :     440,679,168.42
+  Cost of Good Sold         :     259,188,123.32
+  Gross Profit              :     181,491,045.09
+  Operating Profit          :      77,977,202.79
+  Other Income              :      22,140,189.44
+  Eearning Before Tax       :     100,117,392.23
+  Tax                       :      31,290,533.31
+  Net Income                :      68,826,858.92
+  Closing Price             :           8,000.00
+
+Per Share Data (Rp)
+  Eps                       :          19,742.94
+  Book Value                :          77,861.60
+
+Financial Ratios
+  Debt Equity Ratio (X)     :                .41
+  Roa (%)                   :              17.94
+  Roe (%)                   :              25.36
+  Npm (%)                   :              20.82
+  Opm (%)                   :              23.59
+
+Cash Flow
+  CF from Operating Activities                        :      19,510,382.27
+  CF from Investing Activities                        :     -72,232,740.89
+  CF from Financing Activities                        :      -4,619,297.77
+  Net Increase in Cash & Cash Equivalent              :     -57,341,656.39
+  Cash & Cash Equivalent at The Beginning of The Year :     174,382,320.10
+  Cash & Cash Equivalent at The End of The Year       :     117,040,663.71
+
+ 
+ 
+ 

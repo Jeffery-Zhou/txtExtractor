@@ -1,0 +1,66 @@
+6
+PLAS0312.TXT
+
+PLAS
+Palm Asia Corpora Tbk
+Af          :
+Sector Code : 35
+Sector Name : PLASTICS & PACKAGING
+
+(In thousand rupiah except Par Value, Closing Price and Ratios)
+
+Financial Statement Date    : 31-Dec-2003
+Fiscal Year Ends            : Dec
+Months Covered in Income St : 12
+
+Summary of Balance Sheet
+  Receivables               :       3,017,816.07
+  Inventories               :       3,570,369.27
+  Current Assets            :      39,853,934.65
+  Fixed Assets              :      34,096,186.91
+  Other Asstes              :         803,170.56
+  Total Assets              :      82,108,390.44
+  Current Liabilities       :      20,909,284.30
+  Longterm Liabiities       :       1,362,604.63
+  Total Liabilities         :      22,271,888.93
+  Authorized                :         600,000.00
+  Paid-up Capital           :      25,000,000.00
+  Par Value                 :                100
+  Paid-up Capital Shares    :         250,000.00
+  Retained Earnings         :       2,859,218.68
+  Total Equity              :      35,669,686.85
+  Minority Interest         :      24,166,814.66
+
+Summary of Income Statement
+  Total Sales               :      53,569,262.64
+  Cost of Good Sold         :      50,909,877.40
+  Gross Profit              :       2,659,385.24
+  Operating Profit          :        -225,538.39
+  Other Income              :      -1,077,745.99
+  Eearning Before Tax       :      -1,303,284.38
+  Tax                       :          59,456.62
+  Net Income                :      -1,559,782.04
+  Closing Price             :              40.00
+
+Per Share Data (Rp)
+  Eps                       :              -6.24
+  Book Value                :             142.68
+
+Financial Ratios
+  Debt Equity Ratio (X)     :                .62
+  Roa (%)                   :              -1.90
+  Roe (%)                   :              -4.37
+  Npm (%)                   :              -2.91
+  Opm (%)                   :               -.42
+
+Cash Flow
+  CF from Operating Activities                        :       9,296,038.75
+  CF from Investing Activities                        :      -7,664,383.85
+  CF from Financing Activities                        :       4,311,385.08
+  Net Increase in Cash & Cash Equivalent              :       5,943,039.99
+  Cash & Cash Equivalent at The Beginning of The Year :      16,607,729.37
+  Cash & Cash Equivalent at The End of The Year       :      22,550,769.36
+
+ 
+ 
+ 

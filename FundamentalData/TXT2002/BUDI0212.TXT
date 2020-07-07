@@ -1,0 +1,66 @@
+6
+BUDI0212.TXT
+
+BUDI
+Budi Acid Jaya Tbk
+Af          :
+Sector Code : 34
+Sector Name : CHEMICALS
+
+(In thousand rupiah except Par Value, Closing Price and Ratios)
+
+Financial Statement Date    : 31-Dec-2002
+Fiscal Year Ends            : Dec
+Months Covered in Income St : 12
+
+Summary of Balance Sheet
+  Receivables               :     210,214,000.00
+  Inventories               :      81,570,000.00
+  Current Assets            :     358,461,000.00
+  Fixed Assets              :     547,363,000.00
+  Other Asstes              :               0.00
+  Total Assets              :     931,900,000.00
+  Current Liabilities       :     122,292,000.00
+  Longterm Liabiities       :     645,520,000.00
+  Total Liabilities         :     767,812,000.00
+  Authorized                :       4,200,000.00
+  Paid-up Capital           :     131,250,000.00
+  Par Value                 :                125
+  Paid-up Capital Shares    :       1,050,000.00
+  Retained Earnings         :     -20,794,000.00
+  Total Equity              :     139,206,000.00
+  Minority Interest         :      24,882,000.00
+
+Summary of Income Statement
+  Total Sales               :     771,989,000.00
+  Cost of Good Sold         :     685,189,000.00
+  Gross Profit              :      86,800,000.00
+  Operating Profit          :      23,953,000.00
+  Other Income              :      -2,411,000.00
+  Eearning Before Tax       :      18,140,000.00
+  Tax                       :       9,947,000.00
+  Net Income                :       5,977,000.00
+  Closing Price             :             105.00
+
+Per Share Data (Rp)
+  Eps                       :               5.69
+  Book Value                :             132.58
+
+Financial Ratios
+  Debt Equity Ratio (X)     :               5.52
+  Roa (%)                   :                .64
+  Roe (%)                   :               4.29
+  Npm (%)                   :                .77
+  Opm (%)                   :               3.10
+
+Cash Flow
+  CF from Operating Activities                        :      54,590,000.00
+  CF from Investing Activities                        :     -41,196,000.00
+  CF from Financing Activities                        :     -14,361,000.00
+  Net Increase in Cash & Cash Equivalent              :        -967,000.00
+  Cash & Cash Equivalent at The Beginning of The Year :      46,770,000.00
+  Cash & Cash Equivalent at The End of The Year       :      45,803,000.00
+
+ 
+ 
+ 

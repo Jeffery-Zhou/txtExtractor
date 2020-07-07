@@ -1,0 +1,66 @@
+6
+TRUS0303.TXT
+
+TRUS
+Trust Finance Indonesia Tbk
+Af          :
+Sector Code : 83
+Sector Name : SECURITIES COMPANY
+
+(In thousand rupiah except Par Value, Closing Price and Ratios)
+
+Financial Statement Date    : 31-Mar-2003
+Fiscal Year Ends            : Dec
+Months Covered in Income St : 3
+
+Summary of Balance Sheet
+  Receivables               :      94,202,408.03
+  Inventories               :               0.00
+  Current Assets            :               0.00
+  Fixed Assets              :         995,605.85
+  Other Asstes              :         944,131.23
+  Total Assets              :      97,933,823.39
+  Current Liabilities       :               0.00
+  Longterm Liabiities       :               0.00
+  Total Liabilities         :      39,637,982.59
+  Authorized                :       1,000,000.00
+  Paid-up Capital           :      40,000,000.00
+  Par Value                 :                100
+  Paid-up Capital Shares    :         400,000.00
+  Retained Earnings         :      11,866,840.80
+  Total Equity              :      58,295,840.80
+  Minority Interest         :               0.00
+
+Summary of Income Statement
+  Total Sales               :       6,358,509.59
+  Cost of Good Sold         :       3,204,082.50
+  Gross Profit              :       3,154,427.09
+  Operating Profit          :       3,154,427.09
+  Other Income              :               0.00
+  Eearning Before Tax       :       3,154,427.09
+  Tax                       :               0.00
+  Net Income                :       3,154,427.09
+  Closing Price             :             180.00
+
+Per Share Data (Rp)
+  Eps                       :              31.54
+  Book Value                :             145.74
+
+Financial Ratios
+  Debt Equity Ratio (X)     :                .68
+  Roa (%)                   :              12.88
+  Roe (%)                   :              21.64
+  Npm (%)                   :             198.44
+  Opm (%)                   :             198.44
+
+Cash Flow
+  CF from Operating Activities                        :      -3,422,260.97
+  CF from Investing Activities                        :        -428,571.15
+  CF from Financing Activities                        :      -3,645,475.63
+  Net Increase in Cash & Cash Equivalent              :      -7,496,307.75
+  Cash & Cash Equivalent at The Beginning of The Year :       8,316,626.12
+  Cash & Cash Equivalent at The End of The Year       :         820,318.37
+
+ 
+ 
+ 

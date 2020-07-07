@@ -1,0 +1,66 @@
+6
+BATI0303.TXT
+
+BATI
+BAT Indonesia Tbk
+Af          :
+Sector Code : 52
+Sector Name : TOBACCO MANUFACTURERS
+
+(In thousand rupiah except Par Value, Closing Price and Ratios)
+
+Financial Statement Date    : 31-Mar-2003
+Fiscal Year Ends            : Dec
+Months Covered in Income St : 3
+
+Summary of Balance Sheet
+  Receivables               :      25,436,000.00
+  Inventories               :     308,319,000.00
+  Current Assets            :     452,780,000.00
+  Fixed Assets              :     154,120,000.00
+  Other Asstes              :      50,045,000.00
+  Total Assets              :     659,500,000.00
+  Current Liabilities       :     199,263,000.00
+  Longterm Liabiities       :      29,651,000.00
+  Total Liabilities         :     228,914,000.00
+  Authorized                :          88,000.00
+  Paid-up Capital           :      66,000,000.00
+  Par Value                 :               1000
+  Paid-up Capital Shares    :          66,000.00
+  Retained Earnings         :      11,098,000.00
+  Total Equity              :     425,675,000.00
+  Minority Interest         :       4,911,000.00
+
+Summary of Income Statement
+  Total Sales               :     158,718,000.00
+  Cost of Good Sold         :      67,114,000.00
+  Gross Profit              :      91,604,000.00
+  Operating Profit          :      29,229,000.00
+  Other Income              :         678,000.00
+  Eearning Before Tax       :      29,907,000.00
+  Tax                       :       8,934,000.00
+  Net Income                :      20,943,000.00
+  Closing Price             :           9,150.00
+
+Per Share Data (Rp)
+  Eps                       :           1,269.27
+  Book Value                :           6,449.62
+
+Financial Ratios
+  Debt Equity Ratio (X)     :                .54
+  Roa (%)                   :              12.70
+  Roe (%)                   :              19.68
+  Npm (%)                   :              52.78
+  Opm (%)                   :              73.66
+
+Cash Flow
+  CF from Operating Activities                        :     242,305,000.00
+  CF from Investing Activities                        :       4,945,000.00
+  CF from Financing Activities                        :    -175,925,000.00
+  Net Increase in Cash & Cash Equivalent              :      71,325,000.00
+  Cash & Cash Equivalent at The Beginning of The Year :      24,826,000.00
+  Cash & Cash Equivalent at The End of The Year       :      96,199,000.00
+
+ 
+ 
+ 

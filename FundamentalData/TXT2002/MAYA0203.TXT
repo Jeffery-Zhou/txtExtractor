@@ -1,0 +1,66 @@
+6
+MAYA0203.TXT
+
+MAYA
+Bank Mayapada Internasional Tbk
+Af          :
+Sector Code : 81
+Sector Name : BANK
+
+(In thousand rupiah except Par Value, Closing Price and Ratios)
+
+Financial Statement Date    : 31-Mar-2002
+Fiscal Year Ends            : Dec
+Months Covered in Income St : 3
+
+Summary of Balance Sheet
+  Receivables               :               0.00
+  Inventories               :               0.00
+  Current Assets            :               0.00
+  Fixed Assets              :      79,171,191.00
+  Other Asstes              :      11,112,935.00
+  Total Assets              :   1,577,898,649.00
+  Current Liabilities       :               0.00
+  Longterm Liabiities       :               0.00
+  Total Liabilities         :   1,419,253,439.00
+  Authorized                :       4,946,974.00
+  Paid-up Capital           :     219,129,200.00
+  Par Value                 :          500 & 100
+  Paid-up Capital Shares    :         638,266.00
+  Retained Earnings         :    -100,878,060.00
+  Total Equity              :     158,645,210.00
+  Minority Interest         :               0.00
+
+Summary of Income Statement
+  Total Sales               :      49,879,776.00
+  Cost of Good Sold         :      57,244,839.00
+  Gross Profit              :      -7,365,063.00
+  Operating Profit          :      -7,365,063.00
+  Other Income              :          40,818.00
+  Eearning Before Tax       :      -7,324,245.00
+  Tax                       :               0.00
+  Net Income                :      -7,324,245.00
+  Closing Price             :             170.00
+
+Per Share Data (Rp)
+  Eps                       :             -45.90
+  Book Value                :             248.56
+
+Financial Ratios
+  Debt Equity Ratio (X)     :               8.95
+  Roa (%)                   :              -1.86
+  Roe (%)                   :             -18.47
+  Npm (%)                   :             -14.68
+  Opm (%)                   :             -14.77
+
+Cash Flow
+  CF from Operating Activities                        :     -27,192,651.00
+  CF from Investing Activities                        :      33,080,522.00
+  CF from Financing Activities                        :               0.00
+  Net Increase in Cash & Cash Equivalent              :       5,887,871.00
+  Cash & Cash Equivalent at The Beginning of The Year :      84,958,669.00
+  Cash & Cash Equivalent at The End of The Year       :      90,846,540.00
+
+ 
+ 
+ 

@@ -1,0 +1,66 @@
+6
+MEGA0306.TXT
+
+MEGA
+Bank MEGA Tbk
+Af          :
+Sector Code : 81
+Sector Name : BANK
+
+(In thousand rupiah except Par Value, Closing Price and Ratios)
+
+Financial Statement Date    : 30-Jun-2003
+Fiscal Year Ends            : Dec
+Months Covered in Income St : 6
+
+Summary of Balance Sheet
+  Receivables               :               0.00
+  Inventories               :               0.00
+  Current Assets            :               0.00
+  Fixed Assets              :     169,966,000.00
+  Other Asstes              :     349,813,000.00
+  Total Assets              :  11,491,102,000.00
+  Current Liabilities       :               0.00
+  Longterm Liabiities       :               0.00
+  Total Liabilities         :  10,564,880,000.00
+  Authorized                :       1,800,000.00
+  Paid-up Capital           :     470,115,000.00
+  Par Value                 :                500
+  Paid-up Capital Shares    :         940,230.00
+  Retained Earnings         :     312,391,000.00
+  Total Equity              :     925,894,000.00
+  Minority Interest         :         328,000.00
+
+Summary of Income Statement
+  Total Sales               :     896,997,000.00
+  Cost of Good Sold         :     714,171,000.00
+  Gross Profit              :     182,826,000.00
+  Operating Profit          :     182,826,000.00
+  Other Income              :       1,027,000.00
+  Eearning Before Tax       :     183,853,000.00
+  Tax                       :               0.00
+  Net Income                :     183,832,000.00
+  Closing Price             :           1,100.00
+
+Per Share Data (Rp)
+  Eps                       :             391.04
+  Book Value                :             984.75
+
+Financial Ratios
+  Debt Equity Ratio (X)     :              11.41
+  Roa (%)                   :               3.20
+  Roe (%)                   :              39.71
+  Npm (%)                   :              40.99
+  Opm (%)                   :              40.76
+
+Cash Flow
+  CF from Operating Activities                        :   1,359,704,000.00
+  CF from Investing Activities                        :      -5,519,000.00
+  CF from Financing Activities                        :  -1,321,109,000.00
+  Net Increase in Cash & Cash Equivalent              :      33,076,000.00
+  Cash & Cash Equivalent at The Beginning of The Year :     591,032,000.00
+  Cash & Cash Equivalent at The End of The Year       :     624,108,000.00
+
+ 
+ 
+ 

@@ -1,0 +1,66 @@
+6
+MRAT0306.TXT
+
+MRAT
+Mustika Ratu Tbk
+Af          :
+Sector Code : 54
+Sector Name : COSMETICS AND HOUSEHOLD
+
+(In thousand rupiah except Par Value, Closing Price and Ratios)
+
+Financial Statement Date    : 30-Jun-2003
+Fiscal Year Ends            : Dec
+Months Covered in Income St : 6
+
+Summary of Balance Sheet
+  Receivables               :      85,271,870.59
+  Inventories               :      48,420,725.90
+  Current Assets            :     210,265,606.03
+  Fixed Assets              :      53,777,038.27
+  Other Asstes              :               0.00
+  Total Assets              :     299,529,390.26
+  Current Liabilities       :      61,942,102.14
+  Longterm Liabiities       :       1,629,201.54
+  Total Liabilities         :      63,571,303.68
+  Authorized                :         800,000.00
+  Paid-up Capital           :      53,500,000.00
+  Par Value                 :                125
+  Paid-up Capital Shares    :         428,000.00
+  Retained Earnings         :     109,312,005.94
+  Total Equity              :     235,948,086.58
+  Minority Interest         :          10,000.00
+
+Summary of Income Statement
+  Total Sales               :     131,700,730.21
+  Cost of Good Sold         :      57,256,960.98
+  Gross Profit              :      74,443,769.22
+  Operating Profit          :      26,797,326.20
+  Other Income              :      -9,330,548.36
+  Eearning Before Tax       :      17,466,777.84
+  Tax                       :       4,642,134.42
+  Net Income                :      12,824,643.42
+  Closing Price             :             525.00
+
+Per Share Data (Rp)
+  Eps                       :              59.93
+  Book Value                :             551.28
+
+Financial Ratios
+  Debt Equity Ratio (X)     :                .27
+  Roa (%)                   :               8.56
+  Roe (%)                   :              10.87
+  Npm (%)                   :              19.48
+  Opm (%)                   :              40.69
+
+Cash Flow
+  CF from Operating Activities                        :      11,956,133.75
+  CF from Investing Activities                        :      -1,999,486.07
+  CF from Financing Activities                        :        -179,621.80
+  Net Increase in Cash & Cash Equivalent              :       9,777,025.89
+  Cash & Cash Equivalent at The Beginning of The Year :      71,585,493.78
+  Cash & Cash Equivalent at The End of The Year       :      81,362,519.67
+
+ 
+ 
+ 

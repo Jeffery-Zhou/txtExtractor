@@ -1,0 +1,66 @@
+6
+PANS0312.TXT
+
+PANS
+Panin Sekuritas Tbk
+Af          :
+Sector Code : 83
+Sector Name : SECURITIES COMPANY
+
+(In thousand rupiah except Par Value, Closing Price and Ratios)
+
+Financial Statement Date    : 31-Dec-2003
+Fiscal Year Ends            : Dec
+Months Covered in Income St : 12
+
+Summary of Balance Sheet
+  Receivables               :      63,530,354.79
+  Inventories               :               0.00
+  Current Assets            :               0.00
+  Fixed Assets              :         971,623.30
+  Other Asstes              :         222,509.30
+  Total Assets              :     301,602,243.84
+  Current Liabilities       :               0.00
+  Longterm Liabiities       :               0.00
+  Total Liabilities         :     198,545,735.82
+  Authorized                :         640,000.00
+  Paid-up Capital           :      80,000,000.00
+  Par Value                 :                250
+  Paid-up Capital Shares    :         320,000.00
+  Retained Earnings         :      21,470,877.13
+  Total Equity              :     103,056,508.02
+  Minority Interest         :               0.00
+
+Summary of Income Statement
+  Total Sales               :      38,904,030.14
+  Cost of Good Sold         :      13,685,657.11
+  Gross Profit              :      25,218,373.04
+  Operating Profit          :      25,218,373.04
+  Other Income              :      -4,331,698.51
+  Eearning Before Tax       :      20,886,674.52
+  Tax                       :       1,920,655.25
+  Net Income                :      18,966,019.28
+  Closing Price             :             305.00
+
+Per Share Data (Rp)
+  Eps                       :              59.27
+  Book Value                :             322.05
+
+Financial Ratios
+  Debt Equity Ratio (X)     :               1.93
+  Roa (%)                   :               6.29
+  Roe (%)                   :              18.40
+  Npm (%)                   :              48.75
+  Opm (%)                   :              64.82
+
+Cash Flow
+  CF from Operating Activities                        :     -73,986,600.68
+  CF from Investing Activities                        :        -310,320.10
+  CF from Financing Activities                        :      85,648,817.74
+  Net Increase in Cash & Cash Equivalent              :      11,351,896.96
+  Cash & Cash Equivalent at The Beginning of The Year :       3,866,545.04
+  Cash & Cash Equivalent at The End of The Year       :      15,218,442.00
+
+ 
+ 
+ 

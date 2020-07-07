@@ -1,0 +1,66 @@
+6
+TIRT0209.TXT
+
+TIRT
+Tirta Mahakam Plywood Industry Tbk
+Af          :
+Sector Code : 37
+Sector Name : WOOD INDUSTRIES
+
+(In thousand rupiah except Par Value, Closing Price and Ratios)
+
+Financial Statement Date    : 30-Sep-2002
+Fiscal Year Ends            : Dec
+Months Covered in Income St : 9
+
+Summary of Balance Sheet
+  Receivables               :      24,413,261.00
+  Inventories               :     124,143,055.00
+  Current Assets            :     180,427,319.00
+  Fixed Assets              :     163,801,077.00
+  Other Asstes              :       7,945,301.00
+  Total Assets              :     352,385,602.00
+  Current Liabilities       :     155,384,143.00
+  Longterm Liabiities       :      57,892,335.00
+  Total Liabilities         :     213,276,478.00
+  Authorized                :           1,600.00
+  Paid-up Capital           :      78,000,000.00
+  Par Value                 :                125
+  Paid-up Capital Shares    :         624,000.00
+  Retained Earnings         :      32,935,776.00
+  Total Equity              :     124,232,208.00
+  Minority Interest         :      14,876,916.00
+
+Summary of Income Statement
+  Total Sales               :     269,421,289.00
+  Cost of Good Sold         :     248,779,424.00
+  Gross Profit              :      20,641,865.00
+  Operating Profit          :       5,886,691.00
+  Other Income              :       7,308,291.00
+  Eearning Before Tax       :      13,194,982.00
+  Tax                       :       3,661,325.00
+  Net Income                :       9,056,740.00
+  Closing Price             :             115.00
+
+Per Share Data (Rp)
+  Eps                       :              19.35
+  Book Value                :             199.09
+
+Financial Ratios
+  Debt Equity Ratio (X)     :               1.72
+  Roa (%)                   :               3.43
+  Roe (%)                   :               9.72
+  Npm (%)                   :               4.48
+  Opm (%)                   :               2.91
+
+Cash Flow
+  CF from Operating Activities                        :      -7,567,821.00
+  CF from Investing Activities                        :     -28,017,766.00
+  CF from Financing Activities                        :      43,305,929.00
+  Net Increase in Cash & Cash Equivalent              :       7,720,342.00
+  Cash & Cash Equivalent at The Beginning of The Year :       5,296,645.00
+  Cash & Cash Equivalent at The End of The Year       :      13,016,987.00
+
+ 
+ 
+ 

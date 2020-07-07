@@ -1,0 +1,66 @@
+6
+MIRA0309.TXT
+
+MIRA
+Mitra Rajasa Tbk
+Af          :
+Sector Code : 74
+Sector Name : TRANSPORTATION
+
+(In thousand rupiah except Par Value, Closing Price and Ratios)
+
+Financial Statement Date    : 30-Sep-2003
+Fiscal Year Ends            : Dec
+Months Covered in Income St : 9
+
+Summary of Balance Sheet
+  Receivables               :      11,368,316.66
+  Inventories               :       3,074,094.32
+  Current Assets            :      19,186,251.15
+  Fixed Assets              :      82,029,866.02
+  Other Asstes              :         220,225.03
+  Total Assets              :     107,215,189.29
+  Current Liabilities       :      26,612,049.64
+  Longterm Liabiities       :      42,797,274.31
+  Total Liabilities         :      69,409,323.95
+  Authorized                :         600,000.00
+  Paid-up Capital           :      57,000,000.00
+  Par Value                 :                250
+  Paid-up Capital Shares    :         228,000.00
+  Retained Earnings         :     -70,233,786.86
+  Total Equity              :      37,792,640.21
+  Minority Interest         :          13,225.13
+
+Summary of Income Statement
+  Total Sales               :      54,408,123.00
+  Cost of Good Sold         :      53,591,928.76
+  Gross Profit              :         816,194.25
+  Operating Profit          :      -6,516,447.71
+  Other Income              :      -3,541,194.47
+  Eearning Before Tax       :     -10,057,642.18
+  Tax                       :      -2,891,331.00
+  Net Income                :      -7,161,649.81
+  Closing Price             :              70.00
+
+Per Share Data (Rp)
+  Eps                       :             -41.88
+  Book Value                :             165.76
+
+Financial Ratios
+  Debt Equity Ratio (X)     :               1.84
+  Roa (%)                   :              -8.91
+  Roe (%)                   :             -25.27
+  Npm (%)                   :             -17.55
+  Opm (%)                   :             -15.97
+
+Cash Flow
+  CF from Operating Activities                        :         373,405.59
+  CF from Investing Activities                        :      -2,400,404.38
+  CF from Financing Activities                        :       1,218,795.80
+  Net Increase in Cash & Cash Equivalent              :        -808,202.98
+  Cash & Cash Equivalent at The Beginning of The Year :       1,429,056.28
+  Cash & Cash Equivalent at The End of The Year       :         620,853.30
+
+ 
+ 
+ 

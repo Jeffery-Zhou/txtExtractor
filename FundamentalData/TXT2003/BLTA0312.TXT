@@ -1,0 +1,66 @@
+6
+BLTA0312.TXT
+
+BLTA
+Berlian Laju Tanker Tbk
+Af          :
+Sector Code : 74
+Sector Name : TRANSPORTATION
+
+(In thousand rupiah except Par Value, Closing Price and Ratios)
+
+Financial Statement Date    : 31-Dec-2003
+Fiscal Year Ends            : Dec
+Months Covered in Income St : 12
+
+Summary of Balance Sheet
+  Receivables               :     142,351,407.61
+  Inventories               :      23,237,451.61
+  Current Assets            :     590,811,011.09
+  Fixed Assets              :   2,175,580,249.52
+  Other Asstes              :               0.00
+  Total Assets              :   3,010,417,416.37
+  Current Liabilities       :     299,881,488.31
+  Longterm Liabiities       :   1,628,645,409.36
+  Total Liabilities         :   1,928,526,897.67
+  Authorized                :       7,338,240.00
+  Paid-up Capital           :     258,534,698.50
+  Par Value                 :                125
+  Paid-up Capital Shares    :       2,068,277.59
+  Retained Earnings         :     599,591,174.30
+  Total Equity              :   1,081,890,518.70
+  Minority Interest         :               0.00
+
+Summary of Income Statement
+  Total Sales               :     969,865,568.57
+  Cost of Good Sold         :     707,595,606.16
+  Gross Profit              :     262,269,962.41
+  Operating Profit          :     203,121,580.42
+  Other Income              :     -48,807,630.64
+  Eearning Before Tax       :     154,313,949.77
+  Tax                       :       5,164,436.87
+  Net Income                :     149,149,512.90
+  Closing Price             :           1,000.00
+
+Per Share Data (Rp)
+  Eps                       :              72.11
+  Book Value                :             523.09
+
+Financial Ratios
+  Debt Equity Ratio (X)     :               1.78
+  Roa (%)                   :               4.95
+  Roe (%)                   :              13.79
+  Npm (%)                   :              15.38
+  Opm (%)                   :              20.94
+
+Cash Flow
+  CF from Operating Activities                        :     201,224,861.12
+  CF from Investing Activities                        :    -594,296,409.45
+  CF from Financing Activities                        :     389,809,950.81
+  Net Increase in Cash & Cash Equivalent              :      -3,261,597.52
+  Cash & Cash Equivalent at The Beginning of The Year :     276,564,709.10
+  Cash & Cash Equivalent at The End of The Year       :     273,303,111.58
+
+ 
+ 
+ 

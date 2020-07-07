@@ -1,0 +1,66 @@
+6
+IIKP0303.TXT
+
+IIKP
+Inti Indah Karya Plasindo Tbk
+Af          :
+Sector Code : 35
+Sector Name : PLASTICS & PACKAGING
+
+(In thousand rupiah except Par Value, Closing Price and Ratios)
+
+Financial Statement Date    : 31-Mar-2003
+Fiscal Year Ends            : Dec
+Months Covered in Income St : 3
+
+Summary of Balance Sheet
+  Receivables               :       3,580,122.06
+  Inventories               :       4,182,252.63
+  Current Assets            :      34,921,288.03
+  Fixed Assets              :      21,947,124.61
+  Other Asstes              :         213,904.69
+  Total Assets              :      59,786,273.80
+  Current Liabilities       :      10,018,239.21
+  Longterm Liabiities       :       3,953,004.29
+  Total Liabilities         :      13,971,243.50
+  Authorized                :          80,000.00
+  Paid-up Capital           :      32,000,000.00
+  Par Value                 :                200
+  Paid-up Capital Shares    :         160,000.00
+  Retained Earnings         :       2,307,128.87
+  Total Equity              :      45,815,030.29
+  Minority Interest         :               0.00
+
+Summary of Income Statement
+  Total Sales               :       6,760,966.55
+  Cost of Good Sold         :       6,123,628.90
+  Gross Profit              :         637,337.65
+  Operating Profit          :         256,858.43
+  Other Income              :         151,390.05
+  Eearning Before Tax       :         408,248.48
+  Tax                       :          38,350.49
+  Net Income                :         369,898.00
+  Closing Price             :           1,425.00
+
+Per Share Data (Rp)
+  Eps                       :               9.25
+  Book Value                :             286.34
+
+Financial Ratios
+  Debt Equity Ratio (X)     :                .30
+  Roa (%)                   :               2.47
+  Roe (%)                   :               3.23
+  Npm (%)                   :              21.88
+  Opm (%)                   :              15.20
+
+Cash Flow
+  CF from Operating Activities                        :        -685,844.00
+  CF from Investing Activities                        :         -33,342.63
+  CF from Financing Activities                        :       1,094,022.38
+  Net Increase in Cash & Cash Equivalent              :         374,835.75
+  Cash & Cash Equivalent at The Beginning of The Year :      16,493,825.19
+  Cash & Cash Equivalent at The End of The Year       :      16,868,660.94
+
+ 
+ 
+ 

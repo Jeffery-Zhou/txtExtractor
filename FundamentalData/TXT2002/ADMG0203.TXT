@@ -1,0 +1,66 @@
+6
+ADMG0203.TXT
+
+ADMG
+GT Petrochem Industries Tbk
+Af          : GJTL
+Sector Code : 42
+Sector Name : AUTOMOTIVE AND COMPONENTS
+
+(In thousand rupiah except Par Value, Closing Price and Ratios)
+
+Financial Statement Date    : 31-Mar-2002
+Fiscal Year Ends            : Dec
+Months Covered in Income St : 3
+
+Summary of Balance Sheet
+  Receivables               :      73,732,993.06
+  Inventories               :     537,213,629.00
+  Current Assets            :   1,806,950,549.00
+  Fixed Assets              :   4,480,065,672.00
+  Other Asstes              :       1,989,763.00
+  Total Assets              :   7,347,082,239.00
+  Current Liabilities       :   5,816,831,883.00
+  Longterm Liabiities       :   4,207,393,531.00
+  Total Liabilities         :  10,024,225,414.00
+  Authorized                :       8,500,000.00
+  Paid-up Capital           :   1,120,000,000.00
+  Par Value                 :                500
+  Paid-up Capital Shares    :       2,240,000.00
+  Retained Earnings         :  -3,842,874,947.00
+  Total Equity              :  -2,677,143,175.00
+  Minority Interest         :               0.00
+
+Summary of Income Statement
+  Total Sales               :     777,376,411.00
+  Cost of Good Sold         :     789,843,678.00
+  Gross Profit              :     -12,467,267.00
+  Operating Profit          :     -40,102,275.00
+  Other Income              :     566,312,747.00
+  Eearning Before Tax       :     526,210,472.00
+  Tax                       :     -56,452,629.00
+  Net Income                :     582,663,101.00
+  Closing Price             :             140.00
+
+Per Share Data (Rp)
+  Eps                       :           1,040.47
+  Book Value                :          -1,195.15
+
+Financial Ratios
+  Debt Equity Ratio (X)     :              -3.74
+  Roa (%)                   :              31.72
+  Roe (%)                   :             -87.06
+  Npm (%)                   :              74.95
+  Opm (%)                   :              -5.16
+
+Cash Flow
+  CF from Operating Activities                        :     255,436,017.00
+  CF from Investing Activities                        :     -53,655,435.00
+  CF from Financing Activities                        :     -12,761,503.00
+  Net Increase in Cash & Cash Equivalent              :     189,019,080.00
+  Cash & Cash Equivalent at The Beginning of The Year :     306,987,223.00
+  Cash & Cash Equivalent at The End of The Year       :     479,289,149.00
+
+ 
+ 
+ 

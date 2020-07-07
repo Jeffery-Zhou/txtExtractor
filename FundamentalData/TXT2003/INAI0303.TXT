@@ -1,0 +1,66 @@
+6
+INAI0303.TXT
+
+INAI
+Indal Aluminium Industry Tbk *)
+Af          :
+Sector Code : 33
+Sector Name : METAL AND ALLIED PRODUCTS
+
+(In thousand rupiah except Par Value, Closing Price and Ratios)
+
+Financial Statement Date    : 31-Mar-2003
+Fiscal Year Ends            : Dec
+Months Covered in Income St : 3
+
+Summary of Balance Sheet
+  Receivables               :      36,136,592.61
+  Inventories               :      73,422,401.38
+  Current Assets            :     117,976,089.55
+  Fixed Assets              :      81,903,859.43
+  Other Asstes              :       3,830,331.22
+  Total Assets              :     311,646,435.35
+  Current Liabilities       :      83,991,778.50
+  Longterm Liabiities       :     139,736,040.79
+  Total Liabilities         :     223,727,819.29
+  Authorized                :         308,000.00
+  Paid-up Capital           :      79,200,000.00
+  Par Value                 :                500
+  Paid-up Capital Shares    :         158,400.00
+  Retained Earnings         :       4,978,616.06
+  Total Equity              :      87,918,616.06
+  Minority Interest         :               0.00
+
+Summary of Income Statement
+  Total Sales               :      71,324,814.71
+  Cost of Good Sold         :      68,640,432.66
+  Gross Profit              :       2,684,382.05
+  Operating Profit          :      -7,309,691.12
+  Other Income              :      -3,871,844.68
+  Eearning Before Tax       :     -11,181,535.80
+  Tax                       :        -500,818.21
+  Net Income                :     -10,680,717.59
+  Closing Price             :             115.00
+
+Per Share Data (Rp)
+  Eps                       :            -269.72
+  Book Value                :             555.04
+
+Financial Ratios
+  Debt Equity Ratio (X)     :               2.54
+  Roa (%)                   :             -13.71
+  Roe (%)                   :             -48.59
+  Npm (%)                   :             -59.90
+  Opm (%)                   :             -40.99
+
+Cash Flow
+  CF from Operating Activities                        :     -51,840,742.90
+  CF from Investing Activities                        :        -109,214.55
+  CF from Financing Activities                        :      53,087,999.11
+  Net Increase in Cash & Cash Equivalent              :       1,138,041.67
+  Cash & Cash Equivalent at The Beginning of The Year :       5,362,223.30
+  Cash & Cash Equivalent at The End of The Year       :       6,500,264.97
+
+ 
+ 
+ 

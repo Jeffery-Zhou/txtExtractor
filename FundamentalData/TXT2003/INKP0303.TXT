@@ -1,0 +1,66 @@
+6
+INKP0303.TXT
+
+INKP
+Indah Kiat Pulp & Paper Corp Tbk
+Af          :
+Sector Code : 38
+Sector Name : PULP & PAPER
+
+(In thousand rupiah except Par Value, Closing Price and Ratios)
+
+Financial Statement Date    : 31-Mar-2003
+Fiscal Year Ends            : Dec
+Months Covered in Income St : 3
+
+Summary of Balance Sheet
+  Receivables               :   3,182,285,029.82
+  Inventories               :   2,240,872,018.63
+  Current Assets            :   7,398,131,315.61
+  Fixed Assets              :  33,123,466,784.40
+  Other Asstes              :   2,857,593,810.25
+  Total Assets              :  49,265,608,144.70
+  Current Liabilities       :  32,569,400,764.80
+  Longterm Liabiities       :       9,073,697.71
+  Total Liabilities         :  32,578,474,462.51
+  Authorized                :      20,000,000.00
+  Paid-up Capital           :   5,470,982,941.00
+  Par Value                 :               1000
+  Paid-up Capital Shares    :       5,470,982.94
+  Retained Earnings         :  -2,864,353,414.44
+  Total Equity              :  16,687,133,682.18
+  Minority Interest         :               0.00
+
+Summary of Income Statement
+  Total Sales               :   2,953,531,669.68
+  Cost of Good Sold         :   2,595,343,136.51
+  Gross Profit              :     358,188,533.17
+  Operating Profit          :     102,737,175.49
+  Other Income              :    -585,188,077.36
+  Eearning Before Tax       :    -482,450,901.87
+  Tax                       :               0.00
+  Net Income                :    -482,450,901.87
+  Closing Price             :             205.00
+
+Per Share Data (Rp)
+  Eps                       :            -352.73
+  Book Value                :           3,050.12
+
+Financial Ratios
+  Debt Equity Ratio (X)     :               1.95
+  Roa (%)                   :              -3.92
+  Roe (%)                   :             -11.56
+  Npm (%)                   :             -65.34
+  Opm (%)                   :              13.91
+
+Cash Flow
+  CF from Operating Activities                        :     364,753,800.44
+  CF from Investing Activities                        :    -534,167,605.35
+  CF from Financing Activities                        :     103,109,173.57
+  Net Increase in Cash & Cash Equivalent              :     -66,304,631.34
+  Cash & Cash Equivalent at The Beginning of The Year :     245,887,764.52
+  Cash & Cash Equivalent at The End of The Year       :     179,583,133.17
+
+ 
+ 
+ 

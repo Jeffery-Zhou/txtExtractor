@@ -1,0 +1,66 @@
+6
+TOTO0309.TXT
+
+TOTO
+Surya Toto Indonesia Tbk
+Af          :
+Sector Code : 32
+Sector Name : CERAMICS, GLASS, PORCELAIN
+
+(In thousand rupiah except Par Value, Closing Price and Ratios)
+
+Financial Statement Date    : 30-Sep-2003
+Fiscal Year Ends            : Dec
+Months Covered in Income St : 9
+
+Summary of Balance Sheet
+  Receivables               :      78,355,128.30
+  Inventories               :     116,401,791.18
+  Current Assets            :     229,926,256.18
+  Fixed Assets              :     317,018,522.12
+  Other Asstes              :         736,102.40
+  Total Assets              :     549,418,445.45
+  Current Liabilities       :     236,971,054.37
+  Longterm Liabiities       :     180,687,610.85
+  Total Liabilities         :     417,658,665.22
+  Authorized                :         150,000.00
+  Paid-up Capital           :      49,536,000.00
+  Par Value                 :               1000
+  Paid-up Capital Shares    :          49,536.00
+  Retained Earnings         :      81,111,888.23
+  Total Equity              :     131,770,448.11
+  Minority Interest         :         -10,667.88
+
+Summary of Income Statement
+  Total Sales               :     344,866,116.34
+  Cost of Good Sold         :     246,711,994.15
+  Gross Profit              :      98,154,122.19
+  Operating Profit          :      49,384,270.36
+  Other Income              :        -806,094.65
+  Eearning Before Tax       :      48,578,175.71
+  Tax                       :      14,569,246.09
+  Net Income                :      34,019,597.51
+  Closing Price             :           4,500.00
+
+Per Share Data (Rp)
+  Eps                       :             915.69
+  Book Value                :           2,660.09
+
+Financial Ratios
+  Debt Equity Ratio (X)     :               3.17
+  Roa (%)                   :               8.26
+  Roe (%)                   :              34.42
+  Npm (%)                   :              13.15
+  Opm (%)                   :              19.09
+
+Cash Flow
+  CF from Operating Activities                        :      38,411,806.11
+  CF from Investing Activities                        :      -9,291,124.61
+  CF from Financing Activities                        :     -32,335,856.73
+  Net Increase in Cash & Cash Equivalent              :      -3,215,175.23
+  Cash & Cash Equivalent at The Beginning of The Year :      25,235,362.79
+  Cash & Cash Equivalent at The End of The Year       :      22,020,187.56
+
+ 
+ 
+ 

@@ -1,0 +1,66 @@
+6
+TRIM0306.TXT
+
+TRIM
+Trimegah Securities Tbk
+Af          :
+Sector Code : 83
+Sector Name : SECURITIES COMPANY
+
+(In thousand rupiah except Par Value, Closing Price and Ratios)
+
+Financial Statement Date    : 30-Jun-2003
+Fiscal Year Ends            : Dec
+Months Covered in Income St : 6
+
+Summary of Balance Sheet
+  Receivables               :     117,920,862.00
+  Inventories               :               0.00
+  Current Assets            :               0.00
+  Fixed Assets              :      13,283,054.14
+  Other Asstes              :       3,873,352.67
+  Total Assets              :     329,477,524.12
+  Current Liabilities       :               0.00
+  Longterm Liabiities       :               0.00
+  Total Liabilities         :      96,626,730.01
+  Authorized                :      13,600,000.00
+  Paid-up Capital           :     170,000,000.00
+  Par Value                 :                 50
+  Paid-up Capital Shares    :       3,400,000.00
+  Retained Earnings         :      62,205,818.67
+  Total Equity              :     232,850,794.12
+  Minority Interest         :               0.00
+
+Summary of Income Statement
+  Total Sales               :      49,852,435.46
+  Cost of Good Sold         :      34,512,490.19
+  Gross Profit              :      15,339,945.27
+  Operating Profit          :      15,339,945.27
+  Other Income              :       1,426,760.10
+  Eearning Before Tax       :      16,766,705.36
+  Tax                       :       2,735,326.18
+  Net Income                :      14,031,379.19
+  Closing Price             :              65.00
+
+Per Share Data (Rp)
+  Eps                       :               8.25
+  Book Value                :              68.49
+
+Financial Ratios
+  Debt Equity Ratio (X)     :                .41
+  Roa (%)                   :               8.52
+  Roe (%)                   :              12.05
+  Npm (%)                   :              56.29
+  Opm (%)                   :              61.54
+
+Cash Flow
+  CF from Operating Activities                        :       9,416,455.22
+  CF from Investing Activities                        :      21,589,732.17
+  CF from Financing Activities                        :      -2,617,171.81
+  Net Increase in Cash & Cash Equivalent              :      28,389,015.58
+  Cash & Cash Equivalent at The Beginning of The Year :      54,729,834.36
+  Cash & Cash Equivalent at The End of The Year       :      83,118,849.94
+
+ 
+ 
+ 

@@ -1,0 +1,66 @@
+6
+AHAP0203.TXT
+
+AHAP
+Asuransi Harta Aman Pratama Tbk
+Af          :
+Sector Code : 84
+Sector Name : INSURANCE
+
+(In thousand rupiah except Par Value, Closing Price and Ratios)
+
+Financial Statement Date    : 31-Mar-2002
+Fiscal Year Ends            : Dec
+Months Covered in Income St : 3
+
+Summary of Balance Sheet
+  Receivables               :       3,858,822.08
+  Inventories               :               0.00
+  Current Assets            :               0.00
+  Fixed Assets              :       2,459,818.28
+  Other Asstes              :       1,172,123.23
+  Total Assets              :      28,481,213.53
+  Current Liabilities       :               0.00
+  Longterm Liabiities       :               0.00
+  Total Liabilities         :       8,109,384.49
+  Authorized                :          40,000.00
+  Paid-up Capital           :       6,000,000.00
+  Par Value                 :                500
+  Paid-up Capital Shares    :          12,000.00
+  Retained Earnings         :      13,655,605.98
+  Total Equity              :      20,371,829.04
+  Minority Interest         :               0.00
+
+Summary of Income Statement
+  Total Sales               :       3,126,565.00
+  Cost of Good Sold         :       3,828,403.58
+  Gross Profit              :        -701,838.58
+  Operating Profit          :        -701,838.58
+  Other Income              :          75,523.05
+  Eearning Before Tax       :        -626,315.54
+  Tax                       :               0.00
+  Net Income                :        -626,315.54
+  Closing Price             :           2,000.00
+
+Per Share Data (Rp)
+  Eps                       :            -208.77
+  Book Value                :           1,697.65
+
+Financial Ratios
+  Debt Equity Ratio (X)     :                .40
+  Roa (%)                   :              -8.80
+  Roe (%)                   :             -12.30
+  Npm (%)                   :             -20.03
+  Opm (%)                   :             -22.45
+
+Cash Flow
+  CF from Operating Activities                        :        -174,225.82
+  CF from Investing Activities                        :         205,930.10
+  CF from Financing Activities                        :               0.00
+  Net Increase in Cash & Cash Equivalent              :          31,704.29
+  Cash & Cash Equivalent at The Beginning of The Year :               0.00
+  Cash & Cash Equivalent at The End of The Year       :       1,380,688.44
+
+ 
+ 
+ 

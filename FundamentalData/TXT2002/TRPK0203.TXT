@@ -1,0 +1,66 @@
+6
+TRPK0203.TXT
+
+TRPK
+Multi Agro Persada Tbk
+Af          :
+Sector Code : 46
+Sector Name : ELECTRONICS
+
+(In thousand rupiah except Par Value, Closing Price and Ratios)
+
+Financial Statement Date    : 31-Mar-2002
+Fiscal Year Ends            : Dec
+Months Covered in Income St : 3
+
+Summary of Balance Sheet
+  Receivables               :      23,924,904.69
+  Inventories               :      23,278,398.76
+  Current Assets            :      57,106,487.45
+  Fixed Assets              :      65,540,224.67
+  Other Asstes              :               0.00
+  Total Assets              :     139,280,061.32
+  Current Liabilities       :      39,867,037.72
+  Longterm Liabiities       :      15,982,906.62
+  Total Liabilities         :      55,849,944.33
+  Authorized                :         100,000.00
+  Paid-up Capital           :      56,100,000.00
+  Par Value                 :               1000
+  Paid-up Capital Shares    :          56,100.00
+  Retained Earnings         :      24,040,884.87
+  Total Equity              :      83,425,116.99
+  Minority Interest         :           5,000.00
+
+Summary of Income Statement
+  Total Sales               :      63,311,852.33
+  Cost of Good Sold         :      56,760,041.61
+  Gross Profit              :       6,551,810.72
+  Operating Profit          :       4,546,117.42
+  Other Income              :        -425,043.17
+  Eearning Before Tax       :       4,121,074.26
+  Tax                       :               0.00
+  Net Income                :       4,121,074.26
+  Closing Price             :             495.00
+
+Per Share Data (Rp)
+  Eps                       :             293.84
+  Book Value                :           1,487.08
+
+Financial Ratios
+  Debt Equity Ratio (X)     :                .67
+  Roa (%)                   :              11.84
+  Roe (%)                   :              19.76
+  Npm (%)                   :               6.51
+  Opm (%)                   :               7.18
+
+Cash Flow
+  CF from Operating Activities                        :       7,914,996.47
+  CF from Investing Activities                        :        -267,111.96
+  CF from Financing Activities                        :        -970,827.21
+  Net Increase in Cash & Cash Equivalent              :       6,677,057.30
+  Cash & Cash Equivalent at The Beginning of The Year :       2,569,069.22
+  Cash & Cash Equivalent at The End of The Year       :       9,246,126.51
+
+ 
+ 
+ 

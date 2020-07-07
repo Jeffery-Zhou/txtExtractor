@@ -1,0 +1,66 @@
+6
+SQBI0309.TXT
+
+SQBI
+Bristol-Myers Squibb Indonesia Tbk (PS)
+Af          :
+Sector Code : 53
+Sector Name : PHARMACEUTICALS
+
+(In thousand rupiah except Par Value, Closing Price and Ratios)
+
+Financial Statement Date    : 30-Sep-2003
+Fiscal Year Ends            : Dec
+Months Covered in Income St : 9
+
+Summary of Balance Sheet
+  Receivables               :      53,164,266.00
+  Inventories               :      28,925,052.00
+  Current Assets            :     128,409,982.00
+  Fixed Assets              :      34,473,709.00
+  Other Asstes              :               0.00
+  Total Assets              :     165,369,073.00
+  Current Liabilities       :      58,894,742.00
+  Longterm Liabiities       :       5,879,448.00
+  Total Liabilities         :      64,774,190.00
+  Authorized                :             972.00
+  Paid-up Capital           :         972,000.00
+  Par Value                 :               1000
+  Paid-up Capital Shares    :             972.00
+  Retained Earnings         :      13,318,883.00
+  Total Equity              :     100,594,883.00
+  Minority Interest         :               0.00
+
+Summary of Income Statement
+  Total Sales               :     140,869,603.00
+  Cost of Good Sold         :      62,355,390.00
+  Gross Profit              :      78,514,213.00
+  Operating Profit          :      34,570,143.00
+  Other Income              :      -6,737,856.00
+  Eearning Before Tax       :      27,832,287.00
+  Tax                       :       8,972,714.00
+  Net Income                :      18,859,573.00
+  Closing Price             :           9,200.00
+
+Per Share Data (Rp)
+  Eps                       :          25,870.47
+  Book Value                :         103,492.68
+
+Financial Ratios
+  Debt Equity Ratio (X)     :                .64
+  Roa (%)                   :              15.21
+  Roe (%)                   :              25.00
+  Npm (%)                   :              17.85
+  Opm (%)                   :              32.72
+
+Cash Flow
+  CF from Operating Activities                        :       2,432,455.00
+  CF from Investing Activities                        :         -97,850.00
+  CF from Financing Activities                        :      -1,454,676.00
+  Net Increase in Cash & Cash Equivalent              :         879,929.00
+  Cash & Cash Equivalent at The Beginning of The Year :      26,821,767.00
+  Cash & Cash Equivalent at The End of The Year       :      27,660,139.00
+
+ 
+ 
+ 

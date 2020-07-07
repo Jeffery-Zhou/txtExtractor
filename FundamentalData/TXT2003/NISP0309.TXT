@@ -1,0 +1,66 @@
+6
+NISP0309.TXT
+
+NISP
+Bank NISP  Tbk
+Af          :
+Sector Code : 81
+Sector Name : BANK
+
+(In thousand rupiah except Par Value, Closing Price and Ratios)
+
+Financial Statement Date    : 30-Sep-2003
+Fiscal Year Ends            : Dec
+Months Covered in Income St : 9
+
+Summary of Balance Sheet
+  Receivables               :               0.00
+  Inventories               :               0.00
+  Current Assets            :               0.00
+  Fixed Assets              :     190,259,059.00
+  Other Asstes              :      85,336,244.00
+  Total Assets              :  15,267,067,772.00
+  Current Liabilities       :               0.00
+  Longterm Liabiities       :               0.00
+  Total Liabilities         :  14,264,457,192.00
+  Authorized                :       9,600,000.00
+  Paid-up Capital           :     506,615,125.25
+  Par Value                 :                125
+  Paid-up Capital Shares    :       4,052,921.00
+  Retained Earnings         :     335,969,919.00
+  Total Equity              :     995,431,114.00
+  Minority Interest         :       7,179,466.00
+
+Summary of Income Statement
+  Total Sales               :   1,262,238,115.00
+  Cost of Good Sold         :   1,107,244,927.00
+  Gross Profit              :     154,993,188.00
+  Operating Profit          :     154,993,188.00
+  Other Income              :       1,809,900.00
+  Eearning Before Tax       :     156,803,088.00
+  Tax                       :      36,810,045.00
+  Net Income                :     118,738,027.00
+  Closing Price             :             320.00
+
+Per Share Data (Rp)
+  Eps                       :              39.06
+  Book Value                :             245.61
+
+Financial Ratios
+  Debt Equity Ratio (X)     :              14.33
+  Roa (%)                   :               1.04
+  Roe (%)                   :              15.90
+  Npm (%)                   :              12.54
+  Opm (%)                   :              16.37
+
+Cash Flow
+  CF from Operating Activities                        :   1,770,314,648.00
+  CF from Investing Activities                        :  -2,115,111,331.00
+  CF from Financing Activities                        :     448,598,413.00
+  Net Increase in Cash & Cash Equivalent              :     103,801,730.00
+  Cash & Cash Equivalent at The Beginning of The Year :     691,232,293.00
+  Cash & Cash Equivalent at The End of The Year       :     795,034,023.00
+
+ 
+ 
+ 

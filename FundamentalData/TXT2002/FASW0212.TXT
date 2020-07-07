@@ -1,0 +1,66 @@
+6
+FASW0212.TXT
+
+FASW
+Fajar Surya Wisesa Tbk
+Af          :
+Sector Code : 38
+Sector Name : PULP & PAPER
+
+(In thousand rupiah except Par Value, Closing Price and Ratios)
+
+Financial Statement Date    : 31-Dec-2002
+Fiscal Year Ends            : Dec
+Months Covered in Income St : 12
+
+Summary of Balance Sheet
+  Receivables               :     141,613,600.77
+  Inventories               :     180,119,396.49
+  Current Assets            :     370,782,588.99
+  Fixed Assets              :   2,344,030,880.78
+  Other Asstes              :               0.00
+  Total Assets              :   2,720,953,873.37
+  Current Liabilities       :     242,083,940.19
+  Longterm Liabiities       :   1,464,918,275.63
+  Total Liabilities         :   1,707,002,215.81
+  Authorized                :       5,000,000.00
+  Paid-up Capital           :   1,238,944,393.50
+  Par Value                 :                500
+  Paid-up Capital Shares    :       2,477,888.79
+  Retained Earnings         :    -228,553,463.77
+  Total Equity              :   1,013,951,657.56
+  Minority Interest         :               0.00
+
+Summary of Income Statement
+  Total Sales               :   1,174,066,158.77
+  Cost of Good Sold         :     980,094,188.27
+  Gross Profit              :     193,971,970.50
+  Operating Profit          :      89,421,140.84
+  Other Income              :     171,964,994.00
+  Eearning Before Tax       :     261,386,134.84
+  Tax                       :      83,895,811.48
+  Net Income                :     177,490,323.35
+  Closing Price             :             420.00
+
+Per Share Data (Rp)
+  Eps                       :              71.63
+  Book Value                :             409.20
+
+Financial Ratios
+  Debt Equity Ratio (X)     :               1.68
+  Roa (%)                   :               6.52
+  Roe (%)                   :              17.50
+  Npm (%)                   :              15.12
+  Opm (%)                   :               7.62
+
+Cash Flow
+  CF from Operating Activities                        :     152,560,069.84
+  CF from Investing Activities                        :     -21,427,865.50
+  CF from Financing Activities                        :    -161,243,546.88
+  Net Increase in Cash & Cash Equivalent              :     -30,111,342.54
+  Cash & Cash Equivalent at The Beginning of The Year :      76,528,464.24
+  Cash & Cash Equivalent at The End of The Year       :      46,417,121.70
+
+ 
+ 
+ 

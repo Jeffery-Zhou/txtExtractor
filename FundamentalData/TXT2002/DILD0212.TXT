@@ -1,0 +1,66 @@
+6
+DILD0212.TXT
+
+DILD
+Dharmala Intiland Tbk
+Af          :
+Sector Code : 61
+Sector Name : PROPERTY AND REAL ESTATE
+
+(In thousand rupiah except Par Value, Closing Price and Ratios)
+
+Financial Statement Date    : 31-Dec-2002
+Fiscal Year Ends            : Dec
+Months Covered in Income St : 12
+
+Summary of Balance Sheet
+  Receivables               :      89,704,893.24
+  Inventories               :         729,008.59
+  Current Assets            :               0.00
+  Fixed Assets              :     406,449,121.91
+  Other Asstes              :         698,103.74
+  Total Assets              :   1,753,453,562.77
+  Current Liabilities       :               0.00
+  Longterm Liabiities       :               0.00
+  Total Liabilities         :   1,735,736,526.98
+  Authorized                :       3,600,000.00
+  Paid-up Capital           :     462,891,300.00
+  Par Value                 :                500
+  Paid-up Capital Shares    :         925,782.60
+  Retained Earnings         :    -486,694,841.42
+  Total Equity              :      -8,991,614.71
+  Minority Interest         :      26,708,650.49
+
+Summary of Income Statement
+  Total Sales               :     161,063,488.65
+  Cost of Good Sold         :     123,230,389.20
+  Gross Profit              :      37,833,099.45
+  Operating Profit          :         936,901.35
+  Other Income              :     153,484,368.59
+  Eearning Before Tax       :     154,421,269.93
+  Tax                       :      47,825,264.37
+  Net Income                :     108,069,679.01
+  Closing Price             :              35.00
+
+Per Share Data (Rp)
+  Eps                       :             116.73
+  Book Value                :              -9.71
+
+Financial Ratios
+  Debt Equity Ratio (X)     :            -193.04
+  Roa (%)                   :               6.16
+  Roe (%)                   :          -1,201.89
+  Npm (%)                   :              67.10
+  Opm (%)                   :                .58
+
+Cash Flow
+  CF from Operating Activities                        :      -8,840,904.22
+  CF from Investing Activities                        :      -5,791,950.92
+  CF from Financing Activities                        :       3,211,158.28
+  Net Increase in Cash & Cash Equivalent              :     -11,421,696.87
+  Cash & Cash Equivalent at The Beginning of The Year :      46,903,793.51
+  Cash & Cash Equivalent at The End of The Year       :      33,219,797.85
+
+ 
+ 
+ 

@@ -1,0 +1,66 @@
+6
+KKGI0306.TXT
+
+KKGI
+Kurnia Kapuas UGI Tbk
+Af          :
+Sector Code : 34
+Sector Name : CHEMICALS
+
+(In thousand rupiah except Par Value, Closing Price and Ratios)
+
+Financial Statement Date    : 30-Jun-2003
+Fiscal Year Ends            : Dec
+Months Covered in Income St : 6
+
+Summary of Balance Sheet
+  Receivables               :     193,435,691.27
+  Inventories               :      38,577,285.27
+  Current Assets            :     240,827,517.95
+  Fixed Assets              :      14,898,313.08
+  Other Asstes              :               0.00
+  Total Assets              :     271,195,705.80
+  Current Liabilities       :     127,235,348.15
+  Longterm Liabiities       :      10,965,854.43
+  Total Liabilities         :     138,201,202.58
+  Authorized                :       1,000,000.00
+  Paid-up Capital           :      50,000,000.00
+  Par Value                 :                200
+  Paid-up Capital Shares    :         250,000.00
+  Retained Earnings         :      81,844,503.22
+  Total Equity              :     132,994,503.22
+  Minority Interest         :               0.00
+
+Summary of Income Statement
+  Total Sales               :      88,861,808.77
+  Cost of Good Sold         :      73,092,958.53
+  Gross Profit              :      15,768,850.24
+  Operating Profit          :       3,093,197.92
+  Other Income              :     -13,034,364.73
+  Eearning Before Tax       :      -9,941,166.81
+  Tax                       :      -2,710,083.00
+  Net Income                :      -7,231,083.81
+  Closing Price             :             135.00
+
+Per Share Data (Rp)
+  Eps                       :             -57.85
+  Book Value                :             531.98
+
+Financial Ratios
+  Debt Equity Ratio (X)     :               1.04
+  Roa (%)                   :              -5.33
+  Roe (%)                   :             -10.87
+  Npm (%)                   :             -16.27
+  Opm (%)                   :               6.96
+
+Cash Flow
+  CF from Operating Activities                        :       6,105,970.17
+  CF from Investing Activities                        :       1,348,244.48
+  CF from Financing Activities                        :      -6,018,837.61
+  Net Increase in Cash & Cash Equivalent              :       1,435,377.04
+  Cash & Cash Equivalent at The Beginning of The Year :       1,043,656.05
+  Cash & Cash Equivalent at The End of The Year       :       2,479,033.09
+
+ 
+ 
+ 

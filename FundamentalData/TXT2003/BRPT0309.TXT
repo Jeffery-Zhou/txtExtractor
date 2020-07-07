@@ -1,0 +1,66 @@
+6
+BRPT0309.TXT
+
+BRPT
+Barito Pacific Timber Tbk
+Af          :
+Sector Code : 37
+Sector Name : WOOD INDUSTRIES
+
+(In thousand rupiah except Par Value, Closing Price and Ratios)
+
+Financial Statement Date    : 30-Sep-2003
+Fiscal Year Ends            : Dec
+Months Covered in Income St : 9
+
+Summary of Balance Sheet
+  Receivables               :     340,407,163.12
+  Inventories               :     430,324,804.73
+  Current Assets            :     916,507,019.00
+  Fixed Assets              :     542,037,248.78
+  Other Asstes              :      51,881,017.13
+  Total Assets              :   4,399,390,051.07
+  Current Liabilities       :   3,736,741,274.04
+  Longterm Liabiities       :   1,726,453,530.13
+  Total Liabilities         :   5,463,194,804.17
+  Authorized                :       4,000,000.00
+  Paid-up Capital           :   2,617,459,794.00
+  Par Value                 :               1000
+  Paid-up Capital Shares    :       2,617,459.79
+  Retained Earnings         :  -3,345,466,308.05
+  Total Equity              :  -1,069,314,315.32
+  Minority Interest         :       5,509,562.22
+
+Summary of Income Statement
+  Total Sales               :   1,562,843,479.34
+  Cost of Good Sold         :   1,542,621,904.64
+  Gross Profit              :      20,221,574.70
+  Operating Profit          :    -179,739,934.43
+  Other Income              :    -309,277,542.15
+  Eearning Before Tax       :    -489,017,476.58
+  Tax                       :     -50,472,158.26
+  Net Income                :    -407,612,668.14
+  Closing Price             :             285.00
+
+Per Share Data (Rp)
+  Eps                       :            -207.64
+  Book Value                :            -408.53
+
+Financial Ratios
+  Debt Equity Ratio (X)     :              -5.11
+  Roa (%)                   :             -12.35
+  Roe (%)                   :              50.83
+  Npm (%)                   :             -34.78
+  Opm (%)                   :             -15.33
+
+Cash Flow
+  CF from Operating Activities                        :    -108,071,750.56
+  CF from Investing Activities                        :       9,641,936.61
+  CF from Financing Activities                        :      72,795,564.60
+  Net Increase in Cash & Cash Equivalent              :     -25,634,249.34
+  Cash & Cash Equivalent at The Beginning of The Year :     122,183,042.28
+  Cash & Cash Equivalent at The End of The Year       :      96,548,792.93
+
+ 
+ 
+ 

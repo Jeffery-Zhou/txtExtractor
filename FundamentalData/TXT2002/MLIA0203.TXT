@@ -1,0 +1,66 @@
+6
+MLIA0203.TXT
+
+MLIA
+Mulia Industrindo Tbk
+Af          :
+Sector Code : 32
+Sector Name : CERAMICS, GLASS, PORCELAIN
+
+(In thousand rupiah except Par Value, Closing Price and Ratios)
+
+Financial Statement Date    : 31-Mar-2002
+Fiscal Year Ends            : Dec
+Months Covered in Income St : 3
+
+Summary of Balance Sheet
+  Receivables               :     680,518,077.00
+  Inventories               :     565,679,796.00
+  Current Assets            :   1,529,745,584.00
+  Fixed Assets              :   2,705,672,825.00
+  Other Asstes              :               0.00
+  Total Assets              :   4,621,643,080.00
+  Current Liabilities       :     477,032,801.00
+  Longterm Liabiities       :   5,281,648,794.00
+  Total Liabilities         :   5,673,398,503.00
+  Authorized                :       5,000,000.00
+  Paid-up Capital           :     661,500,000.00
+  Par Value                 :                500
+  Paid-up Capital Shares    :       1,323,000.00
+  Retained Earnings         :  -1,868,055,422.00
+  Total Equity              :  -1,051,755,422.00
+  Minority Interest         :               0.00
+
+Summary of Income Statement
+  Total Sales               :     615,714,911.00
+  Cost of Good Sold         :     408,698,930.00
+  Gross Profit              :     207,015,981.00
+  Operating Profit          :     108,296,975.00
+  Other Income              :     294,887,269.00
+  Eearning Before Tax       :     403,184,244.00
+  Tax                       :      85,191,321.00
+  Net Income                :     317,992,923.00
+  Closing Price             :             160.00
+
+Per Share Data (Rp)
+  Eps                       :             961.43
+  Book Value                :            -794.98
+
+Financial Ratios
+  Debt Equity Ratio (X)     :              -5.39
+  Roa (%)                   :              27.52
+  Roe (%)                   :            -120.94
+  Npm (%)                   :              51.65
+  Opm (%)                   :              17.59
+
+Cash Flow
+  CF from Operating Activities                        :         957,305.00
+  CF from Investing Activities                        :        -525,000.00
+  CF from Financing Activities                        :     -48,351,937.00
+  Net Increase in Cash & Cash Equivalent              :     -47,919,632.00
+  Cash & Cash Equivalent at The Beginning of The Year :     192,326,120.00
+  Cash & Cash Equivalent at The End of The Year       :     144,406,488.00
+
+ 
+ 
+ 

@@ -1,0 +1,66 @@
+6
+ITTG0206.TXT
+
+ITTG
+Integrasi Teknologi Tbk
+Af          :
+Sector Code : 97
+Sector Name : COMPUTER AND SERVICES
+
+(In thousand rupiah except Par Value, Closing Price and Ratios)
+
+Financial Statement Date    : 30-Jun-2002
+Fiscal Year Ends            : Dec
+Months Covered in Income St : 6
+
+Summary of Balance Sheet
+  Receivables               :       7,061,546.25
+  Inventories               :       2,267,520.49
+  Current Assets            :      14,955,080.09
+  Fixed Assets              :       6,572,364.73
+  Other Asstes              :       1,139,058.03
+  Total Assets              :      23,629,002.85
+  Current Liabilities       :       6,847,675.73
+  Longterm Liabiities       :          67,839.46
+  Total Liabilities         :       6,915,515.19
+  Authorized                :       1,280,000.00
+  Paid-up Capital           :       9,850,000.00
+  Par Value                 :                 25
+  Paid-up Capital Shares    :         394,000.00
+  Retained Earnings         :      -1,394,369.16
+  Total Equity              :      16,008,375.66
+  Minority Interest         :         705,112.00
+
+Summary of Income Statement
+  Total Sales               :      12,918,278.60
+  Cost of Good Sold         :       9,654,019.18
+  Gross Profit              :       3,264,259.43
+  Operating Profit          :      -2,369,472.06
+  Other Income              :        -260,272.53
+  Eearning Before Tax       :      -2,629,744.59
+  Tax                       :          -5,652.25
+  Net Income                :      -2,615,650.93
+  Closing Price             :              95.00
+
+Per Share Data (Rp)
+  Eps                       :             -13.28
+  Book Value                :              40.63
+
+Financial Ratios
+  Debt Equity Ratio (X)     :                .43
+  Roa (%)                   :             -22.14
+  Roe (%)                   :             -32.68
+  Npm (%)                   :             -20.25
+  Opm (%)                   :             -18.34
+
+Cash Flow
+  CF from Operating Activities                        :       2,369,985.01
+  CF from Investing Activities                        :      -3,020,094.67
+  CF from Financing Activities                        :               0.00
+  Net Increase in Cash & Cash Equivalent              :        -650,109.67
+  Cash & Cash Equivalent at The Beginning of The Year :       2,003,495.37
+  Cash & Cash Equivalent at The End of The Year       :       1,353,385.70
+
+ 
+ 
+ 

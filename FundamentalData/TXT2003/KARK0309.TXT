@@ -1,0 +1,66 @@
+6
+KARK0309.TXT
+
+KARK
+Karka Yasa Profilia Tbk
+Af          :
+Sector Code : 61
+Sector Name : PROPERTY AND REAL ESTATE
+
+(In thousand rupiah except Par Value, Closing Price and Ratios)
+
+Financial Statement Date    : 30-Sep-2003
+Fiscal Year Ends            : Dec
+Months Covered in Income St : 9
+
+Summary of Balance Sheet
+  Receivables               :      42,857,001.47
+  Inventories               :       1,253,405.88
+  Current Assets            :               0.00
+  Fixed Assets              :         365,473.14
+  Other Asstes              :         213,145.00
+  Total Assets              :      77,804,935.77
+  Current Liabilities       :               0.00
+  Longterm Liabiities       :               0.00
+  Total Liabilities         :      26,636,136.70
+  Authorized                :       1,200,000.00
+  Paid-up Capital           :      47,000,000.00
+  Par Value                 :                100
+  Paid-up Capital Shares    :         470,000.00
+  Retained Earnings         :       5,448,703.13
+  Total Equity              :      50,893,799.07
+  Minority Interest         :         275,000.00
+
+Summary of Income Statement
+  Total Sales               :      38,750,625.00
+  Cost of Good Sold         :      30,536,493.29
+  Gross Profit              :       8,214,131.71
+  Operating Profit          :       4,803,302.93
+  Other Income              :        -717,113.50
+  Eearning Before Tax       :       4,086,189.42
+  Tax                       :       1,221,003.19
+  Net Income                :       2,865,186.23
+  Closing Price             :              25.00
+
+Per Share Data (Rp)
+  Eps                       :               8.13
+  Book Value                :             108.28
+
+Financial Ratios
+  Debt Equity Ratio (X)     :                .52
+  Roa (%)                   :               4.91
+  Roe (%)                   :               7.51
+  Npm (%)                   :               9.86
+  Opm (%)                   :              16.53
+
+Cash Flow
+  CF from Operating Activities                        :       3,055,777.94
+  CF from Investing Activities                        :        -199,752.50
+  CF from Financing Activities                        :      -3,859,470.50
+  Net Increase in Cash & Cash Equivalent              :      -1,003,445.06
+  Cash & Cash Equivalent at The Beginning of The Year :       1,182,422.22
+  Cash & Cash Equivalent at The End of The Year       :         178,977.16
+
+ 
+ 
+ 

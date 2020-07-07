@@ -1,0 +1,66 @@
+6
+AKPI0312.TXT
+
+AKPI
+Argha Karya Prima Ind. Tbk
+Af          :
+Sector Code : 35
+Sector Name : PLASTICS & PACKAGING
+
+(In thousand rupiah except Par Value, Closing Price and Ratios)
+
+Financial Statement Date    : 31-Dec-2003
+Fiscal Year Ends            : Dec
+Months Covered in Income St : 12
+
+Summary of Balance Sheet
+  Receivables               :     141,222,278.00
+  Inventories               :     167,481,489.00
+  Current Assets            :     455,199,065.00
+  Fixed Assets              :     839,003,721.00
+  Other Asstes              :               0.00
+  Total Assets              :   1,355,389,457.00
+  Current Liabilities       :     224,519,476.00
+  Longterm Liabiities       :     518,896,944.00
+  Total Liabilities         :     743,416,420.00
+  Authorized                :       2,000,000.00
+  Paid-up Capital           :     340,000,000.00
+  Par Value                 :                500
+  Paid-up Capital Shares    :         680,000.00
+  Retained Earnings         :     -51,441,295.00
+  Total Equity              :     563,698,769.00
+  Minority Interest         :      48,274,268.00
+
+Summary of Income Statement
+  Total Sales               :     844,712,486.00
+  Cost of Good Sold         :     650,084,457.00
+  Gross Profit              :     194,628,029.00
+  Operating Profit          :      93,957,870.00
+  Other Income              :     -18,744,305.00
+  Eearning Before Tax       :      75,213,565.00
+  Tax                       :     -46,531,642.00
+  Net Income                :     412,942,722.00
+  Closing Price             :             700.00
+
+Per Share Data (Rp)
+  Eps                       :             607.27
+  Book Value                :             828.97
+
+Financial Ratios
+  Debt Equity Ratio (X)     :               1.32
+  Roa (%)                   :              30.47
+  Roe (%)                   :              73.26
+  Npm (%)                   :              48.89
+  Opm (%)                   :              11.12
+
+Cash Flow
+  CF from Operating Activities                        :     116,578,602.00
+  CF from Investing Activities                        :     162,286,223.00
+  CF from Financing Activities                        :    -224,573,231.00
+  Net Increase in Cash & Cash Equivalent              :      54,291,594.00
+  Cash & Cash Equivalent at The Beginning of The Year :      57,259,932.00
+  Cash & Cash Equivalent at The End of The Year       :     109,385,476.00
+
+ 
+ 
+ 

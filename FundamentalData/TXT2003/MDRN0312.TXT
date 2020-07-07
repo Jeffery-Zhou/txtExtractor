@@ -1,0 +1,66 @@
+6
+MDRN0312.TXT
+
+MDRN
+Modern Photo Tbk
+Af          :
+Sector Code : 91
+Sector Name : WHOLESALE (DURABLE & NON-DURABLE GOODS)
+
+(In thousand rupiah except Par Value, Closing Price and Ratios)
+
+Financial Statement Date    : 31-Dec-2003
+Fiscal Year Ends            : Dec
+Months Covered in Income St : 12
+
+Summary of Balance Sheet
+  Receivables               :     142,808,507.97
+  Inventories               :     344,269,710.10
+  Current Assets            :     556,983,908.66
+  Fixed Assets              :     284,183,749.10
+  Other Asstes              :         601,287.76
+  Total Assets              :   1,038,401,951.18
+  Current Liabilities       :     455,540,019.97
+  Longterm Liabiities       :     350,010,957.86
+  Total Liabilities         :     805,550,977.83
+  Authorized                :         400,000.00
+  Paid-up Capital           :     133,384,950.00
+  Par Value                 :                500
+  Paid-up Capital Shares    :         266,769.90
+  Retained Earnings         :      89,205,638.36
+  Total Equity              :     232,850,973.36
+  Minority Interest         :               0.00
+
+Summary of Income Statement
+  Total Sales               :   1,694,243,122.27
+  Cost of Good Sold         :   1,374,515,677.54
+  Gross Profit              :     319,727,444.72
+  Operating Profit          :      29,730,571.87
+  Other Income              :      -2,865,441.73
+  Eearning Before Tax       :      26,865,130.14
+  Tax                       :      15,811,772.03
+  Net Income                :      11,053,358.12
+  Closing Price             :             625.00
+
+Per Share Data (Rp)
+  Eps                       :              41.43
+  Book Value                :             872.85
+
+Financial Ratios
+  Debt Equity Ratio (X)     :               3.46
+  Roa (%)                   :               1.06
+  Roe (%)                   :               4.75
+  Npm (%)                   :                .65
+  Opm (%)                   :               1.75
+
+Cash Flow
+  CF from Operating Activities                        :     -18,711,007.15
+  CF from Investing Activities                        :     -75,193,701.29
+  CF from Financing Activities                        :      87,058,126.72
+  Net Increase in Cash & Cash Equivalent              :      -6,846,581.72
+  Cash & Cash Equivalent at The Beginning of The Year :      40,475,341.00
+  Cash & Cash Equivalent at The End of The Year       :      33,628,759.28
+
+ 
+ 
+ 

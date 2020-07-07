@@ -1,0 +1,66 @@
+6
+ANTA0309.TXT
+
+ANTA
+Anta Express Tour & Travel Service Tbk
+Af          :
+Sector Code : 94
+Sector Name : RESTAURANT, HOTEL AND TOURISM
+
+(In thousand rupiah except Par Value, Closing Price and Ratios)
+
+Financial Statement Date    : 30-Sep-2003
+Fiscal Year Ends            : Dec
+Months Covered in Income St : 9
+
+Summary of Balance Sheet
+  Receivables               :      67,133,742.00
+  Inventories               :               0.00
+  Current Assets            :     118,622,360.00
+  Fixed Assets              :      25,288,909.00
+  Other Asstes              :               0.00
+  Total Assets              :     173,200,298.00
+  Current Liabilities       :     100,269,422.00
+  Longterm Liabiities       :       3,059,539.00
+  Total Liabilities         :     103,328,961.00
+  Authorized                :       1,900,000.00
+  Paid-up Capital           :      57,000,000.00
+  Par Value                 :                100
+  Paid-up Capital Shares    :         570,000.00
+  Retained Earnings         :       3,930,350.00
+  Total Equity              :      69,257,797.00
+  Minority Interest         :         613,540.00
+
+Summary of Income Statement
+  Total Sales               :     708,518,176.00
+  Cost of Good Sold         :     678,127,839.00
+  Gross Profit              :      30,390,337.00
+  Operating Profit          :      -3,606,515.00
+  Other Income              :       1,748,560.00
+  Eearning Before Tax       :      -1,857,955.00
+  Tax                       :       1,215,836.00
+  Net Income                :      -3,080,102.00
+  Closing Price             :             145.00
+
+Per Share Data (Rp)
+  Eps                       :              -7.20
+  Book Value                :             121.50
+
+Financial Ratios
+  Debt Equity Ratio (X)     :               1.49
+  Roa (%)                   :              -2.37
+  Roe (%)                   :              -5.93
+  Npm (%)                   :               -.58
+  Opm (%)                   :               -.68
+
+Cash Flow
+  CF from Operating Activities                        :       4,789,513.00
+  CF from Investing Activities                        :        -159,522.00
+  CF from Financing Activities                        :        -857,220.00
+  Net Increase in Cash & Cash Equivalent              :       3,772,771.00
+  Cash & Cash Equivalent at The Beginning of The Year :      33,599,113.00
+  Cash & Cash Equivalent at The End of The Year       :      37,371,884.00
+
+ 
+ 
+ 

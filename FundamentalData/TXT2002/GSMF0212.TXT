@@ -1,0 +1,66 @@
+6
+GSMF0212.TXT
+
+GSMF
+Equity Development Investama Tbk
+Af          :
+Sector Code : 89
+Sector Name : OTHERS FINANCE
+
+(In thousand rupiah except Par Value, Closing Price and Ratios)
+
+Financial Statement Date    : 31-Dec-2002
+Fiscal Year Ends            : Dec
+Months Covered in Income St : 12
+
+Summary of Balance Sheet
+  Receivables               :     187,725,366.00
+  Inventories               :               0.00
+  Current Assets            :               0.00
+  Fixed Assets              :      42,303,743.00
+  Other Asstes              :     319,408,309.00
+  Total Assets              :   1,176,303,397.00
+  Current Liabilities       :     914,644,642.00
+  Longterm Liabiities       :       3,588,528.00
+  Total Liabilities         :     918,233,170.00
+  Authorized                :      10,078,560.00
+  Paid-up Capital           :   1,666,944,049.50
+  Par Value                 :          500 & 250
+  Paid-up Capital Shares    :       5,226,336.20
+  Retained Earnings         :  -1,820,241,671.00
+  Total Equity              :     212,687,404.00
+  Minority Interest         :      45,382,823.00
+
+Summary of Income Statement
+  Total Sales               :     433,801,926.00
+  Cost of Good Sold         :     153,296,631.00
+  Gross Profit              :     280,505,295.00
+  Operating Profit          :     280,505,295.00
+  Other Income              :               0.00
+  Eearning Before Tax       :     280,505,295.00
+  Tax                       :     415,961,285.00
+  Net Income                :      50,846,711.00
+  Closing Price             :              20.00
+
+Per Share Data (Rp)
+  Eps                       :               9.73
+  Book Value                :              40.70
+
+Financial Ratios
+  Debt Equity Ratio (X)     :               4.32
+  Roa (%)                   :               4.32
+  Roe (%)                   :              23.91
+  Npm (%)                   :              11.72
+  Opm (%)                   :              64.66
+
+Cash Flow
+  CF from Operating Activities                        :      61,841,078.00
+  CF from Investing Activities                        :    -142,236,104.00
+  CF from Financing Activities                        :       6,312,976.00
+  Net Increase in Cash & Cash Equivalent              :     -89,442,100.00
+  Cash & Cash Equivalent at The Beginning of The Year :     111,328,543.00
+  Cash & Cash Equivalent at The End of The Year       :      21,886,443.00
+
+ 
+ 
+ 

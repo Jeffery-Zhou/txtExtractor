@@ -1,0 +1,66 @@
+6
+SPMA0309.TXT
+
+SPMA
+Suparma Tbk
+Af          :
+Sector Code : 38
+Sector Name : PULP & PAPER
+
+(In thousand rupiah except Par Value, Closing Price and Ratios)
+
+Financial Statement Date    : 30-Sep-2003
+Fiscal Year Ends            : Dec
+Months Covered in Income St : 9
+
+Summary of Balance Sheet
+  Receivables               :     109,576,304.76
+  Inventories               :     115,862,551.58
+  Current Assets            :     245,625,715.80
+  Fixed Assets              :     710,363,807.16
+  Other Asstes              :               0.00
+  Total Assets              :   1,042,836,555.82
+  Current Liabilities       :     287,102,924.08
+  Longterm Liabiities       :     504,661,629.37
+  Total Liabilities         :     791,764,553.45
+  Authorized                :       2,000,000.00
+  Paid-up Capital           :     496,023,329.00
+  Par Value                 :                500
+  Paid-up Capital Shares    :         992,046.66
+  Retained Earnings         :    -246,394,950.01
+  Total Equity              :     251,072,002.37
+  Minority Interest         :               0.00
+
+Summary of Income Statement
+  Total Sales               :     369,298,805.73
+  Cost of Good Sold         :     300,233,355.61
+  Gross Profit              :      69,065,450.12
+  Operating Profit          :      45,167,816.14
+  Other Income              :      13,026,444.67
+  Eearning Before Tax       :      58,194,260.81
+  Tax                       :      17,673,681.76
+  Net Income                :      40,520,579.05
+  Closing Price             :             225.00
+
+Per Share Data (Rp)
+  Eps                       :              54.46
+  Book Value                :             253.08
+
+Financial Ratios
+  Debt Equity Ratio (X)     :               3.15
+  Roa (%)                   :               5.18
+  Roe (%)                   :              21.52
+  Npm (%)                   :              14.63
+  Opm (%)                   :              16.31
+
+Cash Flow
+  CF from Operating Activities                        :     122,193,529.43
+  CF from Investing Activities                        :      -3,340,180.46
+  CF from Financing Activities                        :    -110,832,551.94
+  Net Increase in Cash & Cash Equivalent              :       8,020,797.02
+  Cash & Cash Equivalent at The Beginning of The Year :       2,573,597.52
+  Cash & Cash Equivalent at The End of The Year       :      10,594,394.54
+
+ 
+ 
+ 

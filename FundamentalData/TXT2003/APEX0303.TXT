@@ -1,0 +1,66 @@
+6
+APEX0303.TXT
+
+APEX
+Apexindo Pratama Duta
+Af          : MEDC
+Sector Code : 99
+Sector Name : OTHERS TRADE, SERVICES & INVESTMENT
+
+(In thousand rupiah except Par Value, Closing Price and Ratios)
+
+Financial Statement Date    : 31-Mar-2003
+Fiscal Year Ends            : Dec
+Months Covered in Income St : 3
+
+Summary of Balance Sheet
+  Receivables               :     186,490,717.00
+  Inventories               :      83,089,517.00
+  Current Assets            :     479,768,383.00
+  Fixed Assets              :   1,359,540,646.00
+  Other Asstes              :       1,460,410.00
+  Total Assets              :   1,883,165,533.00
+  Current Liabilities       :     331,417,891.00
+  Longterm Liabiities       :     472,411,049.00
+  Total Liabilities         :     803,828,940.00
+  Authorized                :       6,000,000.00
+  Paid-up Capital           :     872,500,000.00
+  Par Value                 :                500
+  Paid-up Capital Shares    :       1,745,000.00
+  Retained Earnings         :     232,324,658.00
+  Total Equity              :   1,079,333,712.00
+  Minority Interest         :           2,881.00
+
+Summary of Income Statement
+  Total Sales               :     139,060,093.00
+  Cost of Good Sold         :     125,984,243.00
+  Gross Profit              :      13,075,850.00
+  Operating Profit          :      -3,842,356.00
+  Other Income              :      17,993,793.00
+  Eearning Before Tax       :      14,151,437.00
+  Tax                       :       5,196,867.00
+  Net Income                :       8,953,679.00
+  Closing Price             :             335.00
+
+Per Share Data (Rp)
+  Eps                       :              20.52
+  Book Value                :             618.53
+
+Financial Ratios
+  Debt Equity Ratio (X)     :                .74
+  Roa (%)                   :               1.90
+  Roe (%)                   :               3.32
+  Npm (%)                   :              25.75
+  Opm (%)                   :             -11.05
+
+Cash Flow
+  CF from Operating Activities                        :     -58,611,303.00
+  CF from Investing Activities                        :      75,302,642.00
+  CF from Financing Activities                        :      -7,545,311.00
+  Net Increase in Cash & Cash Equivalent              :       9,146,028.00
+  Cash & Cash Equivalent at The Beginning of The Year :      55,810,260.00
+  Cash & Cash Equivalent at The End of The Year       :      64,234,943.00
+
+ 
+ 
+ 

@@ -1,0 +1,66 @@
+6
+MYRX0206.TXT
+
+MYRX
+Hanson Industri Utama Tbk
+Af          :
+Sector Code : 43
+Sector Name : TEXTILE, GARMENT
+
+(In thousand rupiah except Par Value, Closing Price and Ratios)
+
+Financial Statement Date    : 30-Jun-2002
+Fiscal Year Ends            : Dec
+Months Covered in Income St : 6
+
+Summary of Balance Sheet
+  Receivables               :      48,477,863.37
+  Inventories               :      56,916,277.50
+  Current Assets            :     128,629,185.27
+  Fixed Assets              :     454,500,934.80
+  Other Asstes              :               0.00
+  Total Assets              :     629,350,691.83
+  Current Liabilities       :     679,944,491.77
+  Longterm Liabiities       :      44,138,709.96
+  Total Liabilities         :     724,083,201.73
+  Authorized                :         700,700.00
+  Paid-up Capital           :     350,350,000.00
+  Par Value                 :                500
+  Paid-up Capital Shares    :         700,700.00
+  Retained Earnings         :    -654,886,187.27
+  Total Equity              :     -94,732,509.90
+  Minority Interest         :               0.00
+
+Summary of Income Statement
+  Total Sales               :     115,441,994.96
+  Cost of Good Sold         :     136,534,103.31
+  Gross Profit              :     -21,092,108.35
+  Operating Profit          :     -34,867,609.45
+  Other Income              :      10,577,616.14
+  Eearning Before Tax       :     -24,289,993.31
+  Tax                       :               0.00
+  Net Income                :     -24,289,993.31
+  Closing Price             :              30.00
+
+Per Share Data (Rp)
+  Eps                       :             -69.33
+  Book Value                :            -135.20
+
+Financial Ratios
+  Debt Equity Ratio (X)     :              -7.64
+  Roa (%)                   :              -7.72
+  Roe (%)                   :              51.28
+  Npm (%)                   :             -21.04
+  Opm (%)                   :             -30.20
+
+Cash Flow
+  CF from Operating Activities                        :      11,461,551.53
+  CF from Investing Activities                        :      11,125,040.05
+  CF from Financing Activities                        :     -23,757,611.92
+  Net Increase in Cash & Cash Equivalent              :      -1,171,020.35
+  Cash & Cash Equivalent at The Beginning of The Year :       9,721,717.00
+  Cash & Cash Equivalent at The End of The Year       :       8,550,696.65
+
+ 
+ 
+ 

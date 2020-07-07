@@ -1,0 +1,66 @@
+6
+TEJA0209.TXT
+
+TEJA
+Texmaco Jaya Tbk
+Af          : POLY
+Sector Code : 43
+Sector Name : TEXTILE, GARMENT
+
+(In thousand rupiah except Par Value, Closing Price and Ratios)
+
+Financial Statement Date    : 30-Sep-2002
+Fiscal Year Ends            : Dec
+Months Covered in Income St : 9
+
+Summary of Balance Sheet
+  Receivables               :     215,585,416.17
+  Inventories               :     209,225,441.65
+  Current Assets            :     499,227,882.91
+  Fixed Assets              :     521,041,127.68
+  Other Asstes              :           3,000.00
+  Total Assets              :   1,101,040,409.92
+  Current Liabilities       :   1,185,297,669.49
+  Longterm Liabiities       :     641,932,993.92
+  Total Liabilities         :   1,827,230,663.40
+  Authorized                :       1,440,000.00
+  Paid-up Capital           :     180,000,000.00
+  Par Value                 :                500
+  Paid-up Capital Shares    :         360,000.00
+  Retained Earnings         :    -903,821,379.00
+  Total Equity              :    -726,271,398.10
+  Minority Interest         :          81,144.62
+
+Summary of Income Statement
+  Total Sales               :     509,625,522.70
+  Cost of Good Sold         :     550,484,296.97
+  Gross Profit              :     -40,858,774.27
+  Operating Profit          :    -154,451,473.95
+  Other Income              :      56,572,102.60
+  Eearning Before Tax       :     -97,879,371.35
+  Tax                       :       1,777,092.33
+  Net Income                :     -99,662,562.16
+  Closing Price             :           2,950.00
+
+Per Share Data (Rp)
+  Eps                       :            -369.12
+  Book Value                :          -2,017.42
+
+Financial Ratios
+  Debt Equity Ratio (X)     :              -2.52
+  Roa (%)                   :             -12.07
+  Roe (%)                   :              18.30
+  Npm (%)                   :             -26.07
+  Opm (%)                   :             -40.41
+
+Cash Flow
+  CF from Operating Activities                        :    -183,808,776.97
+  CF from Investing Activities                        :        -204,036.53
+  CF from Financing Activities                        :     107,175,722.10
+  Net Increase in Cash & Cash Equivalent              :     -76,837,091.41
+  Cash & Cash Equivalent at The Beginning of The Year :      83,279,336.99
+  Cash & Cash Equivalent at The End of The Year       :       6,442,245.58
+
+ 
+ 
+ 

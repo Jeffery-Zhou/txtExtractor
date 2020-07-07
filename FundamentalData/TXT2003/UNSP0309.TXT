@@ -1,0 +1,66 @@
+6
+UNSP0309.TXT
+
+UNSP
+Bakrie Sumatra Plantation Tbk
+Af          : BNBR
+Sector Code : 12
+Sector Name : PLANTATION
+
+(In thousand rupiah except Par Value, Closing Price and Ratios)
+
+Financial Statement Date    : 30-Sep-2003
+Fiscal Year Ends            : Dec
+Months Covered in Income St : 9
+
+Summary of Balance Sheet
+  Receivables               :      40,156,774.00
+  Inventories               :      31,187,668.00
+  Current Assets            :      84,908,363.00
+  Fixed Assets              :     228,608,792.00
+  Other Asstes              :      17,785,586.00
+  Total Assets              :     838,383,272.00
+  Current Liabilities       :     157,421,546.00
+  Longterm Liabiities       :     596,608,400.00
+  Total Liabilities         :     754,029,946.00
+  Authorized                :         828,800.00
+  Paid-up Capital           :     124,320,000.00
+  Par Value                 :                500
+  Paid-up Capital Shares    :         248,640.00
+  Retained Earnings         :     -84,514,674.00
+  Total Equity              :      84,353,326.00
+  Minority Interest         :               0.00
+
+Summary of Income Statement
+  Total Sales               :     303,766,452.00
+  Cost of Good Sold         :     208,016,743.00
+  Gross Profit              :      95,749,709.00
+  Operating Profit          :      63,186,222.00
+  Other Income              :      26,880,107.00
+  Eearning Before Tax       :      90,066,329.00
+  Tax                       :      24,666,701.00
+  Net Income                :      65,399,628.00
+  Closing Price             :             430.00
+
+Per Share Data (Rp)
+  Eps                       :             350.71
+  Book Value                :             339.26
+
+Financial Ratios
+  Debt Equity Ratio (X)     :               8.94
+  Roa (%)                   :              10.40
+  Roe (%)                   :             103.37
+  Npm (%)                   :              28.71
+  Opm (%)                   :              27.73
+
+Cash Flow
+  CF from Operating Activities                        :      54,931,733.00
+  CF from Investing Activities                        :     -17,457,041.00
+  CF from Financing Activities                        :     -44,183,966.00
+  Net Increase in Cash & Cash Equivalent              :      -6,709,274.00
+  Cash & Cash Equivalent at The Beginning of The Year :      14,620,338.00
+  Cash & Cash Equivalent at The End of The Year       :       7,911,064.00
+
+ 
+ 
+ 

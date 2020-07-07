@@ -1,0 +1,66 @@
+6
+GRIV0206.TXT
+
+GRIV
+Great River International Tbk
+Af          :
+Sector Code : 93
+Sector Name : RETAIL TRADE
+
+(In thousand rupiah except Par Value, Closing Price and Ratios)
+
+Financial Statement Date    : 30-Jun-2002
+Fiscal Year Ends            : Dec
+Months Covered in Income St : 6
+
+Summary of Balance Sheet
+  Receivables               :      57,686,986.99
+  Inventories               :     259,386,769.00
+  Current Assets            :     345,671,932.81
+  Fixed Assets              :     589,320,780.76
+  Other Asstes              :          13,169.16
+  Total Assets              :   1,987,850,364.27
+  Current Liabilities       :     988,461,133.11
+  Longterm Liabiities       :     627,514,056.96
+  Total Liabilities         :   1,615,975,190.06
+  Authorized                :       1,550,000.00
+  Paid-up Capital           :     194,040,000.00
+  Par Value                 :                500
+  Paid-up Capital Shares    :         388,080.00
+  Retained Earnings         :    -101,857,763.64
+  Total Equity              :     370,351,632.80
+  Minority Interest         :       1,523,541.41
+
+Summary of Income Statement
+  Total Sales               :     171,238,369.68
+  Cost of Good Sold         :     142,256,211.26
+  Gross Profit              :      28,982,158.42
+  Operating Profit          :     -36,388,976.01
+  Other Income              :      -4,034,860.24
+  Eearning Before Tax       :     -40,423,836.25
+  Tax                       :     -44,055,925.27
+  Net Income                :       4,071,771.35
+  Closing Price             :             400.00
+
+Per Share Data (Rp)
+  Eps                       :              20.98
+  Book Value                :             954.32
+
+Financial Ratios
+  Debt Equity Ratio (X)     :               4.36
+  Roa (%)                   :                .41
+  Roe (%)                   :               2.20
+  Npm (%)                   :               2.38
+  Opm (%)                   :             -21.25
+
+Cash Flow
+  CF from Operating Activities                        :     -20,751,544.99
+  CF from Investing Activities                        :      -1,165,994.11
+  CF from Financing Activities                        :       9,491,645.91
+  Net Increase in Cash & Cash Equivalent              :     -12,425,893.19
+  Cash & Cash Equivalent at The Beginning of The Year :      19,387,329.13
+  Cash & Cash Equivalent at The End of The Year       :       6,961,435.94
+
+ 
+ 
+ 

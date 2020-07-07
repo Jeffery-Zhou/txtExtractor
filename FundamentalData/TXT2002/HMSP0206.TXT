@@ -1,0 +1,66 @@
+6
+HMSP0206.TXT
+
+HMSP
+HM Sampoerna Tbk
+Af          :
+Sector Code : 52
+Sector Name : TOBACCO MANUFACTURERS
+
+(In thousand rupiah except Par Value, Closing Price and Ratios)
+
+Financial Statement Date    : 30-Jun-2002
+Fiscal Year Ends            : Dec
+Months Covered in Income St : 6
+
+Summary of Balance Sheet
+  Receivables               :     512,142,000.00
+  Inventories               :   5,245,403,000.00
+  Current Assets            :   6,686,066,000.00
+  Fixed Assets              :   1,992,198,000.00
+  Other Asstes              :      64,879,000.00
+  Total Assets              :   9,457,224,000.00
+  Current Liabilities       :   2,149,646,000.00
+  Longterm Liabiities       :   2,305,141,000.00
+  Total Liabilities         :   4,454,787,000.00
+  Authorized                :       6,300,000.00
+  Paid-up Capital           :     450,000,000.00
+  Par Value                 :                100
+  Paid-up Capital Shares    :       4,500,000.00
+  Retained Earnings         :   3,829,663,000.00
+  Total Equity              :   4,768,571,000.00
+  Minority Interest         :     233,866,000.00
+
+Summary of Income Statement
+  Total Sales               :   7,591,326,000.00
+  Cost of Good Sold         :   5,465,298,000.00
+  Gross Profit              :   2,126,028,000.00
+  Operating Profit          :   1,370,851,000.00
+  Other Income              :     -38,058,000.00
+  Eearning Before Tax       :   1,331,465,000.00
+  Tax                       :     432,929,000.00
+  Net Income                :     887,917,000.00
+  Closing Price             :           4,100.00
+
+Per Share Data (Rp)
+  Eps                       :             394.63
+  Book Value                :           1,059.68
+
+Financial Ratios
+  Debt Equity Ratio (X)     :                .93
+  Roa (%)                   :              18.78
+  Roe (%)                   :              37.24
+  Npm (%)                   :              11.70
+  Opm (%)                   :              18.06
+
+Cash Flow
+  CF from Operating Activities                        :     908,335,000.00
+  CF from Investing Activities                        :    -196,831,000.00
+  CF from Financing Activities                        :    -852,454,000.00
+  Net Increase in Cash & Cash Equivalent              :    -140,950,000.00
+  Cash & Cash Equivalent at The Beginning of The Year :     890,963,000.00
+  Cash & Cash Equivalent at The End of The Year       :     750,013,000.00
+
+ 
+ 
+ 

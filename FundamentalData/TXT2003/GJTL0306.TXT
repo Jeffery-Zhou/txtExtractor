@@ -1,0 +1,66 @@
+6
+GJTL0306.TXT
+
+GJTL
+Gajah Tunggal Tbk
+Af          :
+Sector Code : 42
+Sector Name : AUTOMOTIVE AND COMPONENTS
+
+(In thousand rupiah except Par Value, Closing Price and Ratios)
+
+Financial Statement Date    : 30-Jun-2003
+Fiscal Year Ends            : Dec
+Months Covered in Income St : 6
+
+Summary of Balance Sheet
+  Receivables               :   1,083,346,580.00
+  Inventories               :   1,163,796,990.00
+  Current Assets            :   3,215,611,384.00
+  Fixed Assets              :   6,699,549,620.00
+  Other Asstes              :       2,209,434.00
+  Total Assets              :  12,396,514,892.00
+  Current Liabilities       :   1,838,481,516.00
+  Longterm Liabiities       :   9,047,154,070.00
+  Total Liabilities         :  10,885,635,586.00
+  Authorized                :      12,000,000.00
+  Paid-up Capital           :   1,584,000,000.00
+  Par Value                 :                500
+  Paid-up Capital Shares    :       3,168,000.00
+  Retained Earnings         :    -134,407,109.00
+  Total Equity              :   1,541,203,309.00
+  Minority Interest         :     -30,324,003.00
+
+Summary of Income Statement
+  Total Sales               :   2,822,976,455.00
+  Cost of Good Sold         :   2,353,053,870.00
+  Gross Profit              :     469,922,585.00
+  Operating Profit          :     255,839,208.00
+  Other Income              :     500,504,685.00
+  Eearning Before Tax       :     756,343,893.00
+  Tax                       :     372,142,569.00
+  Net Income                :   1,056,231,290.00
+  Closing Price             :             380.00
+
+Per Share Data (Rp)
+  Eps                       :             666.81
+  Book Value                :             486.49
+
+Financial Ratios
+  Debt Equity Ratio (X)     :               7.06
+  Roa (%)                   :              17.04
+  Roe (%)                   :             137.07
+  Npm (%)                   :              74.83
+  Opm (%)                   :              18.13
+
+Cash Flow
+  CF from Operating Activities                        :     149,448,161.00
+  CF from Investing Activities                        :       5,570,524.00
+  CF from Financing Activities                        :    -207,549,114.00
+  Net Increase in Cash & Cash Equivalent              :     -52,530,429.00
+  Cash & Cash Equivalent at The Beginning of The Year :     268,096,740.00
+  Cash & Cash Equivalent at The End of The Year       :     196,398,973.00
+
+ 
+ 
+ 

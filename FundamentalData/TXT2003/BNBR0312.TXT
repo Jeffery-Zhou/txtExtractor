@@ -1,0 +1,66 @@
+6
+BNBR0312.TXT
+
+BNBR
+Bakrie & Brothers Tbk
+Af          :
+Sector Code : 98
+Sector Name : INVESTMENT COMPANY
+
+(In thousand rupiah except Par Value, Closing Price and Ratios)
+
+Financial Statement Date    : 31-Dec-2003
+Fiscal Year Ends            : Dec
+Months Covered in Income St : 12
+
+Summary of Balance Sheet
+  Receivables               :     249,472,876.00
+  Inventories               :     125,098,183.00
+  Current Assets            :     722,761,782.00
+  Fixed Assets              :   2,172,100,867.00
+  Other Asstes              :      69,734,473.00
+  Total Assets              :   5,122,928,889.00
+  Current Liabilities       :     828,501,535.00
+  Longterm Liabiities       :   1,997,095,575.00
+  Total Liabilities         :   2,825,597,110.00
+  Authorized                :      44,562,960.00
+  Paid-up Capital           :   3,545,661,600.00
+  Par Value                 :           500 & 70
+  Paid-up Capital Shares    :      38,750,400.00
+  Retained Earnings         :  -2,342,067,859.00
+  Total Equity              :   2,209,120,853.00
+  Minority Interest         :      88,210,926.00
+
+Summary of Income Statement
+  Total Sales               :   1,041,931,558.00
+  Cost of Good Sold         :     755,384,235.00
+  Gross Profit              :     286,547,323.00
+  Operating Profit          :     -11,293,681.00
+  Other Income              :     118,644,782.00
+  Eearning Before Tax       :     107,351,101.00
+  Tax                       :      92,829,853.00
+  Net Income                :      22,658,258.00
+  Closing Price             :              40.00
+
+Per Share Data (Rp)
+  Eps                       :                .58
+  Book Value                :              57.01
+
+Financial Ratios
+  Debt Equity Ratio (X)     :               1.28
+  Roa (%)                   :                .44
+  Roe (%)                   :               1.03
+  Npm (%)                   :               2.17
+  Opm (%)                   :              -1.08
+
+Cash Flow
+  CF from Operating Activities                        :     -56,825,791.00
+  CF from Investing Activities                        :    -355,011,497.00
+  CF from Financing Activities                        :     348,726,827.00
+  Net Increase in Cash & Cash Equivalent              :     -63,110,461.00
+  Cash & Cash Equivalent at The Beginning of The Year :     127,820,760.00
+  Cash & Cash Equivalent at The End of The Year       :      64,710,299.00
+
+ 
+ 
+ 

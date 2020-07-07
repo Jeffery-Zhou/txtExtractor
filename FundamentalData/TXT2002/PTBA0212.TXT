@@ -1,0 +1,66 @@
+6
+PTBA0212.TXT
+
+PTBA
+Tambang Batubara Bukit Asam Tbk
+Af          :
+Sector Code : 22
+Sector Name : CRUDE PETROLEUM & NATURAL GAS PRODUCTION
+
+(In thousand rupiah except Par Value, Closing Price and Ratios)
+
+Financial Statement Date    : 31-Dec-2002
+Fiscal Year Ends            : Dec
+Months Covered in Income St : 12
+
+Summary of Balance Sheet
+  Receivables               :     455,688,000.00
+  Inventories               :     191,355,000.00
+  Current Assets            :   1,257,369,000.00
+  Fixed Assets              :     549,920,000.00
+  Other Asstes              :       7,992,000.00
+  Total Assets              :   1,985,120,000.00
+  Current Liabilities       :     469,183,000.00
+  Longterm Liabiities       :     152,451,000.00
+  Total Liabilities         :     621,634,000.00
+  Authorized                :       8,000,000.00
+  Paid-up Capital           :   1,065,750,000.00
+  Par Value                 :                500
+  Paid-up Capital Shares    :       2,131,500.00
+  Retained Earnings         :     290,347,000.00
+  Total Equity              :   1,356,372,000.00
+  Minority Interest         :       7,114,000.00
+
+Summary of Income Statement
+  Total Sales               :   2,163,689,000.00
+  Cost of Good Sold         :   1,349,864,000.00
+  Gross Profit              :     813,825,000.00
+  Operating Profit          :     356,170,000.00
+  Other Income              :    -110,321,000.00
+  Eearning Before Tax       :     245,849,000.00
+  Tax                       :      67,442,000.00
+  Net Income                :     177,955,000.00
+  Closing Price             :             600.00
+
+Per Share Data (Rp)
+  Eps                       :              83.49
+  Book Value                :             636.35
+
+Financial Ratios
+  Debt Equity Ratio (X)     :                .46
+  Roa (%)                   :               8.96
+  Roe (%)                   :              13.12
+  Npm (%)                   :               8.22
+  Opm (%)                   :              16.46
+
+Cash Flow
+  CF from Operating Activities                        :     272,907,000.00
+  CF from Investing Activities                        :     -50,842,000.00
+  CF from Financing Activities                        :    -150,102,000.00
+  Net Increase in Cash & Cash Equivalent              :      71,963,000.00
+  Cash & Cash Equivalent at The Beginning of The Year :     523,344,000.00
+  Cash & Cash Equivalent at The End of The Year       :     584,753,000.00
+
+ 
+ 
+ 

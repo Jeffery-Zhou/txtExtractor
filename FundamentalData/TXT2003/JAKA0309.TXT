@@ -1,0 +1,66 @@
+6
+JAKA0309.TXT
+
+JAKA
+Jaka Artha Graha Tbk
+Af          :
+Sector Code : 61
+Sector Name : PROPERTY AND REAL ESTATE
+
+(In thousand rupiah except Par Value, Closing Price and Ratios)
+
+Financial Statement Date    : 30-Sep-2003
+Fiscal Year Ends            : Dec
+Months Covered in Income St : 9
+
+Summary of Balance Sheet
+  Receivables               :       9,357,749.03
+  Inventories               :      59,922,615.74
+  Current Assets            :               0.00
+  Fixed Assets              :       3,471,623.85
+  Other Asstes              :               0.00
+  Total Assets              :     155,742,450.91
+  Current Liabilities       :               0.00
+  Longterm Liabiities       :               0.00
+  Total Liabilities         :      12,947,343.74
+  Authorized                :         720,000.00
+  Paid-up Capital           :     130,000,000.00
+  Par Value                 :                 50
+  Paid-up Capital Shares    :       2,600,000.00
+  Retained Earnings         :       6,257,649.46
+  Total Equity              :     141,995,107.17
+  Minority Interest         :         800,000.00
+
+Summary of Income Statement
+  Total Sales               :       4,258,318.25
+  Cost of Good Sold         :       2,983,039.95
+  Gross Profit              :       1,275,278.30
+  Operating Profit          :         689,926.78
+  Other Income              :         840,245.87
+  Eearning Before Tax       :       1,530,172.65
+  Tax                       :         145,376.07
+  Net Income                :       1,384,796.58
+  Closing Price             :              15.00
+
+Per Share Data (Rp)
+  Eps                       :                .71
+  Book Value                :              54.61
+
+Financial Ratios
+  Debt Equity Ratio (X)     :                .09
+  Roa (%)                   :               1.19
+  Roe (%)                   :               1.30
+  Npm (%)                   :              43.36
+  Opm (%)                   :              21.60
+
+Cash Flow
+  CF from Operating Activities                        :               0.00
+  CF from Investing Activities                        :               0.00
+  CF from Financing Activities                        :               0.00
+  Net Increase in Cash & Cash Equivalent              :               0.00
+  Cash & Cash Equivalent at The Beginning of The Year :               0.00
+  Cash & Cash Equivalent at The End of The Year       :               0.00
+
+ 
+ 
+ 

@@ -1,0 +1,66 @@
+6
+UNTR0303.TXT
+
+UNTR
+United Tractors Tbk
+Af          : ASII
+Sector Code : 91
+Sector Name : WHOLESALE (DURABLE & NON-DURABLE GOODS)
+
+(In thousand rupiah except Par Value, Closing Price and Ratios)
+
+Financial Statement Date    : 31-Mar-2003
+Fiscal Year Ends            : Dec
+Months Covered in Income St : 3
+
+Summary of Balance Sheet
+  Receivables               :   1,552,367,000.00
+  Inventories               :     944,316,000.00
+  Current Assets            :   3,410,745,000.00
+  Fixed Assets              :   1,824,699,000.00
+  Other Asstes              :       2,669,000.00
+  Total Assets              :   6,157,889,000.00
+  Current Liabilities       :   4,312,656,000.00
+  Longterm Liabiities       :     565,790,000.00
+  Total Liabilities         :   4,878,446,000.00
+  Authorized                :       6,000,000.00
+  Paid-up Capital           :     386,400,000.00
+  Par Value                 :                250
+  Paid-up Capital Shares    :       1,545,600.00
+  Retained Earnings         :     497,231,000.00
+  Total Equity              :   1,188,380,000.00
+  Minority Interest         :      91,063,000.00
+
+Summary of Income Statement
+  Total Sales               :   1,587,208,000.00
+  Cost of Good Sold         :   1,330,942,000.00
+  Gross Profit              :     256,266,000.00
+  Operating Profit          :     152,635,000.00
+  Other Income              :     -31,566,000.00
+  Eearning Before Tax       :     121,171,000.00
+  Tax                       :      37,483,000.00
+  Net Income                :      81,345,000.00
+  Closing Price             :             285.00
+
+Per Share Data (Rp)
+  Eps                       :             210.52
+  Book Value                :             768.88
+
+Financial Ratios
+  Debt Equity Ratio (X)     :               4.11
+  Roa (%)                   :               5.28
+  Roe (%)                   :              27.38
+  Npm (%)                   :              20.50
+  Opm (%)                   :              38.47
+
+Cash Flow
+  CF from Operating Activities                        :     185,568,000.00
+  CF from Investing Activities                        :     -88,555,000.00
+  CF from Financing Activities                        :     -74,835,000.00
+  Net Increase in Cash & Cash Equivalent              :      22,178,000.00
+  Cash & Cash Equivalent at The Beginning of The Year :     412,145,000.00
+  Cash & Cash Equivalent at The End of The Year       :     433,192,000.00
+
+ 
+ 
+ 

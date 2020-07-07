@@ -1,0 +1,66 @@
+6
+JKSW0312.TXT
+
+JKSW
+Jakarta Kyoei Steel Works Ltd Tbk
+Af          :
+Sector Code : 33
+Sector Name : METAL AND ALLIED PRODUCTS
+
+(In thousand rupiah except Par Value, Closing Price and Ratios)
+
+Financial Statement Date    : 31-Dec-2003
+Fiscal Year Ends            : Dec
+Months Covered in Income St : 12
+
+Summary of Balance Sheet
+  Receivables               :      92,039,318.18
+  Inventories               :      24,119,523.46
+  Current Assets            :     117,429,883.95
+  Fixed Assets              :      87,935,358.36
+  Other Asstes              :       1,661,825.97
+  Total Assets              :     376,675,936.30
+  Current Liabilities       :     685,230,101.88
+  Longterm Liabiities       :      16,328,299.05
+  Total Liabilities         :     701,558,400.93
+  Authorized                :         600,000.00
+  Paid-up Capital           :      75,000,000.00
+  Par Value                 :                500
+  Paid-up Capital Shares    :         150,000.00
+  Retained Earnings         :    -404,766,560.39
+  Total Equity              :    -324,882,464.63
+  Minority Interest         :               0.00
+
+Summary of Income Statement
+  Total Sales               :     105,893,041.12
+  Cost of Good Sold         :     111,052,846.51
+  Gross Profit              :      -5,159,805.38
+  Operating Profit          :      -9,554,927.49
+  Other Income              :      10,706,067.32
+  Eearning Before Tax       :      54,718,632.73
+  Tax                       :      16,500,040.96
+  Net Income                :      38,218,591.77
+  Closing Price             :              40.00
+
+Per Share Data (Rp)
+  Eps                       :             254.79
+  Book Value                :          -2,165.88
+
+Financial Ratios
+  Debt Equity Ratio (X)     :              -2.16
+  Roa (%)                   :              10.15
+  Roe (%)                   :             -11.76
+  Npm (%)                   :              36.09
+  Opm (%)                   :              -9.02
+
+Cash Flow
+  CF from Operating Activities                        :      -3,263,009.39
+  CF from Investing Activities                        :         133,750.00
+  CF from Financing Activities                        :       3,208,573.37
+  Net Increase in Cash & Cash Equivalent              :          79,313.98
+  Cash & Cash Equivalent at The Beginning of The Year :         649,231.90
+  Cash & Cash Equivalent at The End of The Year       :         728,545.88
+
+ 
+ 
+ 

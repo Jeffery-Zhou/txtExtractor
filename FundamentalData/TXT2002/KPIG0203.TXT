@@ -1,0 +1,66 @@
+6
+KPIG0203.TXT
+
+KPIG
+Kridaperdana Indahgraha Tbk
+Af          :
+Sector Code : 61
+Sector Name : PROPERTY AND REAL ESTATE
+
+(In thousand rupiah except Par Value, Closing Price and Ratios)
+
+Financial Statement Date    : 31-Mar-2002
+Fiscal Year Ends            : Dec
+Months Covered in Income St : 3
+
+Summary of Balance Sheet
+  Receivables               :      11,018,787.67
+  Inventories               :      37,943,094.45
+  Current Assets            :               0.00
+  Fixed Assets              :      42,508,620.79
+  Other Asstes              :         430,105.44
+  Total Assets              :      99,001,752.99
+  Current Liabilities       :               0.00
+  Longterm Liabiities       :               0.00
+  Total Liabilities         :       9,275,125.24
+  Authorized                :         400,000.00
+  Paid-up Capital           :      83,949,750.00
+  Par Value                 :                500
+  Paid-up Capital Shares    :         167,899.50
+  Retained Earnings         :       6,545,191.14
+  Total Equity              :      89,726,627.75
+  Minority Interest         :               0.00
+
+Summary of Income Statement
+  Total Sales               :        -222,000.00
+  Cost of Good Sold         :        -193,463.73
+  Gross Profit              :         -28,536.27
+  Operating Profit          :        -107,331.51
+  Other Income              :         104,537.96
+  Eearning Before Tax       :          -2,793.55
+  Tax                       :          88,893.54
+  Net Income                :         -91,687.08
+  Closing Price             :              90.00
+
+Per Share Data (Rp)
+  Eps                       :              -2.18
+  Book Value                :             534.41
+
+Financial Ratios
+  Debt Equity Ratio (X)     :                .10
+  Roa (%)                   :               -.37
+  Roe (%)                   :               -.41
+  Npm (%)                   :              41.30
+  Opm (%)                   :              48.35
+
+Cash Flow
+  CF from Operating Activities                        :         981,663.51
+  CF from Investing Activities                        :               0.00
+  CF from Financing Activities                        :               0.00
+  Net Increase in Cash & Cash Equivalent              :         981,663.51
+  Cash & Cash Equivalent at The Beginning of The Year :       4,507,389.52
+  Cash & Cash Equivalent at The End of The Year       :       5,489,053.03
+
+ 
+ 
+ 

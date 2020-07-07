@@ -1,0 +1,66 @@
+6
+INTD0312.TXT
+
+INTD
+Inter-Delta Tbk
+Af          :
+Sector Code : 91
+Sector Name : WHOLESALE (DURABLE & NON-DURABLE GOODS)
+
+(In thousand rupiah except Par Value, Closing Price and Ratios)
+
+Financial Statement Date    : 31-Dec-2003
+Fiscal Year Ends            : Dec
+Months Covered in Income St : 12
+
+Summary of Balance Sheet
+  Receivables               :       4,833,175.15
+  Inventories               :      15,972,849.42
+  Current Assets            :      27,569,243.84
+  Fixed Assets              :       3,686,737.57
+  Other Asstes              :         341,215.96
+  Total Assets              :      35,136,275.57
+  Current Liabilities       :      44,553,934.46
+  Longterm Liabiities       :      23,789,378.83
+  Total Liabilities         :      68,343,313.29
+  Authorized                :         120,710.40
+  Paid-up Capital           :      15,088,800.00
+  Par Value                 :                500
+  Paid-up Capital Shares    :          30,177.60
+  Retained Earnings         :     -50,066,160.20
+  Total Equity              :     -33,207,037.73
+  Minority Interest         :               0.00
+
+Summary of Income Statement
+  Total Sales               :      72,257,505.59
+  Cost of Good Sold         :      60,952,561.63
+  Gross Profit              :      11,304,943.96
+  Operating Profit          :      -6,148,554.25
+  Other Income              :       5,926,721.02
+  Eearning Before Tax       :        -221,833.23
+  Tax                       :        -508,234.93
+  Net Income                :      32,958,362.87
+  Closing Price             :             135.00
+
+Per Share Data (Rp)
+  Eps                       :           1,092.15
+  Book Value                :          -1,100.39
+
+Financial Ratios
+  Debt Equity Ratio (X)     :              -2.06
+  Roa (%)                   :              93.80
+  Roe (%)                   :             -99.25
+  Npm (%)                   :              45.61
+  Opm (%)                   :              -8.51
+
+Cash Flow
+  CF from Operating Activities                        :        -165,500.21
+  CF from Investing Activities                        :       4,269,568.07
+  CF from Financing Activities                        :        -158,009.30
+  Net Increase in Cash & Cash Equivalent              :       3,946,058.56
+  Cash & Cash Equivalent at The Beginning of The Year :       2,112,994.42
+  Cash & Cash Equivalent at The End of The Year       :       6,059,052.98
+
+ 
+ 
+ 

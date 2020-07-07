@@ -1,0 +1,66 @@
+6
+KARW0203.TXT
+
+KARW
+Karwell Indonesia Tbk
+Af          :
+Sector Code : 43
+Sector Name : TEXTILE, GARMENT
+
+(In thousand rupiah except Par Value, Closing Price and Ratios)
+
+Financial Statement Date    : 31-Mar-2002
+Fiscal Year Ends            : Dec
+Months Covered in Income St : 3
+
+Summary of Balance Sheet
+  Receivables               :      51,521,252.30
+  Inventories               :     107,833,338.08
+  Current Assets            :     244,431,331.11
+  Fixed Assets              :      50,947,286.90
+  Other Asstes              :      98,295,622.52
+  Total Assets              :     472,239,867.83
+  Current Liabilities       :     393,463,079.94
+  Longterm Liabiities       :       7,553,391.27
+  Total Liabilities         :     401,016,471.21
+  Authorized                :       1,200,000.00
+  Paid-up Capital           :     293,576,350.00
+  Par Value                 :                500
+  Paid-up Capital Shares    :         587,152.70
+  Retained Earnings         :    -230,391,635.61
+  Total Equity              :      67,757,866.74
+  Minority Interest         :       3,465,529.88
+
+Summary of Income Statement
+  Total Sales               :     122,541,678.32
+  Cost of Good Sold         :     117,626,581.93
+  Gross Profit              :       4,915,096.39
+  Operating Profit          :     -12,941,126.61
+  Other Income              :       5,917,204.05
+  Eearning Before Tax       :      -7,023,922.56
+  Tax                       :        -301,874.90
+  Net Income                :      -7,123,571.41
+  Closing Price             :             455.00
+
+Per Share Data (Rp)
+  Eps                       :             -48.53
+  Book Value                :             115.40
+
+Financial Ratios
+  Debt Equity Ratio (X)     :               5.92
+  Roa (%)                   :              -6.03
+  Roe (%)                   :             -42.05
+  Npm (%)                   :              -5.81
+  Opm (%)                   :             -10.56
+
+Cash Flow
+  CF from Operating Activities                        :      17,183,948.58
+  CF from Investing Activities                        :     -50,119,296.97
+  CF from Financing Activities                        :       4,931,934.48
+  Net Increase in Cash & Cash Equivalent              :     -28,003,413.92
+  Cash & Cash Equivalent at The Beginning of The Year :      89,058,717.41
+  Cash & Cash Equivalent at The End of The Year       :      61,055,303.49
+
+ 
+ 
+ 

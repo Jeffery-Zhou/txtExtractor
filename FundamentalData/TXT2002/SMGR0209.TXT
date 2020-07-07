@@ -1,0 +1,66 @@
+6
+SMGR0209.TXT
+
+SMGR
+Semen Gresik (Persero) Tbk
+Af          :
+Sector Code : 31
+Sector Name : CEMENT
+
+(In thousand rupiah except Par Value, Closing Price and Ratios)
+
+Financial Statement Date    : 30-Sep-2002
+Fiscal Year Ends            : Dec
+Months Covered in Income St : 9
+
+Summary of Balance Sheet
+  Receivables               :     924,029,033.00
+  Inventories               :     822,660,692.00
+  Current Assets            :   2,449,005,106.00
+  Fixed Assets              :   4,414,048,845.00
+  Other Asstes              :      22,480,747.00
+  Total Assets              :   7,040,084,346.00
+  Current Liabilities       :   1,476,533,110.00
+  Longterm Liabiities       :   2,218,102,090.00
+  Total Liabilities         :   3,694,635,200.00
+  Authorized                :       2,000,000.00
+  Paid-up Capital           :     593,152,000.00
+  Par Value                 :               1000
+  Paid-up Capital Shares    :         593,152.00
+  Retained Earnings         :   1,454,791,157.00
+  Total Equity              :   3,295,298,597.00
+  Minority Interest         :      50,150,549.00
+
+Summary of Income Statement
+  Total Sales               :   3,840,100,148.00
+  Cost of Good Sold         :   2,531,134,442.00
+  Gross Profit              :   1,308,965,706.00
+  Operating Profit          :     702,616,442.00
+  Other Income              :    -269,160,365.00
+  Eearning Before Tax       :     433,456,077.00
+  Tax                       :     131,226,963.00
+  Net Income                :     294,005,079.00
+  Closing Price             :           8,450.00
+
+Per Share Data (Rp)
+  Eps                       :             660.89
+  Book Value                :           5,555.57
+
+Financial Ratios
+  Debt Equity Ratio (X)     :               1.12
+  Roa (%)                   :               5.57
+  Roe (%)                   :              11.90
+  Npm (%)                   :              10.21
+  Opm (%)                   :              24.40
+
+Cash Flow
+  CF from Operating Activities                        :     507,906,180.00
+  CF from Investing Activities                        :     242,315,546.00
+  CF from Financing Activities                        :  -2,226,856,749.00
+  Net Increase in Cash & Cash Equivalent              :  -1,476,635,023.00
+  Cash & Cash Equivalent at The Beginning of The Year :   2,019,783,365.00
+  Cash & Cash Equivalent at The End of The Year       :     543,148,342.00
+
+ 
+ 
+ 

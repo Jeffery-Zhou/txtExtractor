@@ -1,0 +1,66 @@
+6
+ADFO0206.TXT
+
+ADFO
+Adindo Foresta Indonesia Tbk
+Af          :
+Sector Code : 15
+Sector Name : FORESTRY
+
+(In thousand rupiah except Par Value, Closing Price and Ratios)
+
+Financial Statement Date    : 30-Jun-2002
+Fiscal Year Ends            : Dec
+Months Covered in Income St : 6
+
+Summary of Balance Sheet
+  Receivables               :       1,735,500.00
+  Inventories               :         239,500.00
+  Current Assets            :       2,369,392.95
+  Fixed Assets              :       2,013,728.28
+  Other Asstes              :         120,193.58
+  Total Assets              :     100,603,576.78
+  Current Liabilities       :       8,635,645.87
+  Longterm Liabiities       :      42,220,735.00
+  Total Liabilities         :      50,856,380.87
+  Authorized                :         460,000.00
+  Paid-up Capital           :      95,332,618.28
+  Par Value                 :           500 & 60
+  Paid-up Capital Shares    :         745,543.64
+  Retained Earnings         :     -59,959,743.44
+  Total Equity              :      33,962,736.89
+  Minority Interest         :      15,784,459.02
+
+Summary of Income Statement
+  Total Sales               :               0.00
+  Cost of Good Sold         :               0.00
+  Gross Profit              :               0.00
+  Operating Profit          :      -2,137,438.66
+  Other Income              :         366,572.83
+  Eearning Before Tax       :      -1,770,865.83
+  Tax                       :        -524,617.80
+  Net Income                :        -921,192.52
+  Closing Price             :              45.00
+
+Per Share Data (Rp)
+  Eps                       :              -2.47
+  Book Value                :              45.55
+
+Financial Ratios
+  Debt Equity Ratio (X)     :               1.50
+  Roa (%)                   :              -1.83
+  Roe (%)                   :              -5.42
+  Npm (%)                   :
+  Opm (%)                   :
+
+Cash Flow
+  CF from Operating Activities                        :        -834,599.38
+  CF from Investing Activities                        :         199,500.00
+  CF from Financing Activities                        :          29,000.00
+  Net Increase in Cash & Cash Equivalent              :        -606,099.38
+  Cash & Cash Equivalent at The Beginning of The Year :         817,912.18
+  Cash & Cash Equivalent at The End of The Year       :         211,812.80
+
+ 
+ 
+ 

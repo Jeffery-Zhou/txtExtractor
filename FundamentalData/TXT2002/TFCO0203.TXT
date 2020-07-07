@@ -1,0 +1,66 @@
+6
+TFCO0203.TXT
+
+TFCO
+TIFICO Tbk
+Af          :
+Sector Code : 43
+Sector Name : TEXTILE, GARMENT
+
+(In thousand rupiah except Par Value, Closing Price and Ratios)
+
+Financial Statement Date    : 31-Mar-2002
+Fiscal Year Ends            : Dec
+Months Covered in Income St : 3
+
+Summary of Balance Sheet
+  Receivables               :     375,988,640.28
+  Inventories               :     268,346,136.30
+  Current Assets            :     711,863,207.93
+  Fixed Assets              :   1,627,219,164.07
+  Other Asstes              :      63,656,786.01
+  Total Assets              :   2,402,739,158.01
+  Current Liabilities       :     639,781,932.36
+  Longterm Liabiities       :     790,289,855.71
+  Total Liabilities         :   1,430,071,788.07
+  Authorized                :         930,000.00
+  Paid-up Capital           :     465,000,000.00
+  Par Value                 :                500
+  Paid-up Capital Shares    :         930,000.00
+  Retained Earnings         :     106,089,275.17
+  Total Equity              :     972,667,369.94
+  Minority Interest         :               0.00
+
+Summary of Income Statement
+  Total Sales               :     351,185,061.14
+  Cost of Good Sold         :     347,439,790.09
+  Gross Profit              :       3,745,271.05
+  Operating Profit          :      -4,136,955.09
+  Other Income              :      -2,832,323.22
+  Eearning Before Tax       :      -6,969,278.31
+  Tax                       :      -2,074,318.82
+  Net Income                :      -4,894,959.49
+  Closing Price             :             300.00
+
+Per Share Data (Rp)
+  Eps                       :             -21.05
+  Book Value                :           1,045.88
+
+Financial Ratios
+  Debt Equity Ratio (X)     :               1.47
+  Roa (%)                   :               -.81
+  Roe (%)                   :              -2.01
+  Npm (%)                   :              -1.39
+  Opm (%)                   :              -1.18
+
+Cash Flow
+  CF from Operating Activities                        :      64,070,888.96
+  CF from Investing Activities                        :     -34,099,529.00
+  CF from Financing Activities                        :    -114,998,996.07
+  Net Increase in Cash & Cash Equivalent              :     -85,027,636.11
+  Cash & Cash Equivalent at The Beginning of The Year :     132,139,758.94
+  Cash & Cash Equivalent at The End of The Year       :      47,112,122.84
+
+ 
+ 
+ 

@@ -1,0 +1,66 @@
+6
+HDTX0309.TXT
+
+HDTX
+Panasia Indosyntex Tbk
+Af          :
+Sector Code : 43
+Sector Name : TEXTILE, GARMENT
+
+(In thousand rupiah except Par Value, Closing Price and Ratios)
+
+Financial Statement Date    : 30-Sep-2003
+Fiscal Year Ends            : Dec
+Months Covered in Income St : 9
+
+Summary of Balance Sheet
+  Receivables               :     138,049,998.15
+  Inventories               :     330,298,920.42
+  Current Assets            :     552,522,801.46
+  Fixed Assets              :   1,324,611,257.43
+  Other Asstes              :               0.00
+  Total Assets              :   1,878,292,107.99
+  Current Liabilities       :     387,689,768.89
+  Longterm Liabiities       :     814,325,387.06
+  Total Liabilities         :   1,535,477,905.95
+  Authorized                :       1,500,000.00
+  Paid-up Capital           :     266,000,000.00
+  Par Value                 :                500
+  Paid-up Capital Shares    :         532,000.00
+  Retained Earnings         :    -912,728,010.63
+  Total Equity              :     314,364,401.44
+  Minority Interest         :      28,449,800.60
+
+Summary of Income Statement
+  Total Sales               :     724,405,961.93
+  Cost of Good Sold         :     760,992,384.87
+  Gross Profit              :     -36,586,422.94
+  Operating Profit          :     -98,795,021.92
+  Other Income              :      75,999,147.92
+  Eearning Before Tax       :     -22,795,874.00
+  Tax                       :      -2,174,596.60
+  Net Income                :     -11,046,022.71
+  Closing Price             :             280.00
+
+Per Share Data (Rp)
+  Eps                       :             -27.68
+  Book Value                :             590.91
+
+Financial Ratios
+  Debt Equity Ratio (X)     :               4.88
+  Roa (%)                   :               -.78
+  Roe (%)                   :              -4.69
+  Npm (%)                   :              -2.03
+  Opm (%)                   :             -18.18
+
+Cash Flow
+  CF from Operating Activities                        :       2,742,997.56
+  CF from Investing Activities                        :        -650,617.13
+  CF from Financing Activities                        :     -14,171,056.04
+  Net Increase in Cash & Cash Equivalent              :     -12,078,675.61
+  Cash & Cash Equivalent at The Beginning of The Year :      66,357,003.81
+  Cash & Cash Equivalent at The End of The Year       :      54,672,418.13
+
+ 
+ 
+ 

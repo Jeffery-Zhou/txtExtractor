@@ -1,0 +1,66 @@
+6
+BNPK0309.TXT
+
+BNPK
+Bank Pikko Tbk
+Af          :
+Sector Code : 81
+Sector Name : BANK
+
+(In thousand rupiah except Par Value, Closing Price and Ratios)
+
+Financial Statement Date    : 30-Sep-2003
+Fiscal Year Ends            : Dec
+Months Covered in Income St : 9
+
+Summary of Balance Sheet
+  Receivables               :               0.00
+  Inventories               :               0.00
+  Current Assets            :               0.00
+  Fixed Assets              :      32,283,000.00
+  Other Asstes              :      44,553,000.00
+  Total Assets              :   1,488,145,000.00
+  Current Liabilities       :               0.00
+  Longterm Liabiities       :               0.00
+  Total Liabilities         :   1,395,443,000.00
+  Authorized                :       1,400,000.00
+  Paid-up Capital           :     192,000,000.00
+  Par Value                 :                500
+  Paid-up Capital Shares    :         384,000.00
+  Retained Earnings         :    -122,097,000.00
+  Total Equity              :      92,702,000.00
+  Minority Interest         :               0.00
+
+Summary of Income Statement
+  Total Sales               :     133,214,000.00
+  Cost of Good Sold         :     155,370,000.00
+  Gross Profit              :     -22,156,000.00
+  Operating Profit          :     -22,156,000.00
+  Other Income              :     -18,141,000.00
+  Eearning Before Tax       :     -40,297,000.00
+  Tax                       :               0.00
+  Net Income                :     -40,297,000.00
+  Closing Price             :             185.00
+
+Per Share Data (Rp)
+  Eps                       :            -139.92
+  Book Value                :             241.41
+
+Financial Ratios
+  Debt Equity Ratio (X)     :              15.05
+  Roa (%)                   :              -3.61
+  Roe (%)                   :             -57.96
+  Npm (%)                   :             -40.33
+  Opm (%)                   :             -22.18
+
+Cash Flow
+  CF from Operating Activities                        :     -79,007,000.00
+  CF from Investing Activities                        :      -4,708,000.00
+  CF from Financing Activities                        :        -660,000.00
+  Net Increase in Cash & Cash Equivalent              :     -84,375,000.00
+  Cash & Cash Equivalent at The Beginning of The Year :     171,142,000.00
+  Cash & Cash Equivalent at The End of The Year       :      86,767,000.00
+
+ 
+ 
+ 

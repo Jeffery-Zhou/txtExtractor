@@ -1,0 +1,66 @@
+6
+KAEF0206.TXT
+
+KAEF
+Kimia Farma
+Af          :
+Sector Code : 53
+Sector Name : PHARMACEUTICALS
+
+(In thousand rupiah except Par Value, Closing Price and Ratios)
+
+Financial Statement Date    : 30-Jun-2002
+Fiscal Year Ends            : Dec
+Months Covered in Income St : 6
+
+Summary of Balance Sheet
+  Receivables               :     123,181,785.00
+  Inventories               :     322,698,099.00
+  Current Assets            :     573,318,227.00
+  Fixed Assets              :     345,401,187.00
+  Other Asstes              :      12,244,766.00
+  Total Assets              :     966,839,568.00
+  Current Liabilities       :     262,875,451.00
+  Longterm Liabiities       :      49,561,412.00
+  Total Liabilities         :     312,436,863.00
+  Authorized                :      20,000,000.00
+  Paid-up Capital           :     555,400,000.00
+  Par Value                 :                100
+  Paid-up Capital Shares    :       5,554,000.00
+  Retained Earnings         :      55,206,580.00
+  Total Equity              :     654,402,705.00
+  Minority Interest         :               0.00
+
+Summary of Income Statement
+  Total Sales               :     569,669,389.00
+  Cost of Good Sold         :     397,781,081.00
+  Gross Profit              :     171,888,308.00
+  Operating Profit          :      10,389,411.00
+  Other Income              :       6,200,470.00
+  Eearning Before Tax       :      16,589,881.00
+  Tax                       :       4,076,721.00
+  Net Income                :      12,513,160.00
+  Closing Price             :             290.00
+
+Per Share Data (Rp)
+  Eps                       :               4.51
+  Book Value                :             117.83
+
+Financial Ratios
+  Debt Equity Ratio (X)     :                .48
+  Roa (%)                   :               2.59
+  Roe (%)                   :               3.82
+  Npm (%)                   :               2.20
+  Opm (%)                   :               1.82
+
+Cash Flow
+  CF from Operating Activities                        :    -204,530,487.00
+  CF from Investing Activities                        :     -33,299,574.00
+  CF from Financing Activities                        :     -61,489,055.00
+  Net Increase in Cash & Cash Equivalent              :    -299,319,116.00
+  Cash & Cash Equivalent at The Beginning of The Year :     354,856,255.00
+  Cash & Cash Equivalent at The End of The Year       :      55,537,139.00
+
+ 
+ 
+ 

@@ -1,0 +1,66 @@
+6
+BTON0203.TXT
+
+BTON
+Betonjaya Manunggal Tbk
+Af          :
+Sector Code : 33
+Sector Name : METAL AND ALLIED PRODUCTS
+
+(In thousand rupiah except Par Value, Closing Price and Ratios)
+
+Financial Statement Date    : 31-Mar-2002
+Fiscal Year Ends            : Dec
+Months Covered in Income St : 3
+
+Summary of Balance Sheet
+  Receivables               :       1,187,182.50
+  Inventories               :       3,922,905.80
+  Current Assets            :       9,687,839.24
+  Fixed Assets              :      19,182,490.64
+  Other Asstes              :               0.00
+  Total Assets              :      28,870,329.88
+  Current Liabilities       :       5,723,826.22
+  Longterm Liabiities       :          61,434.66
+  Total Liabilities         :       5,785,260.88
+  Authorized                :         460,000.00
+  Paid-up Capital           :      18,000,000.00
+  Par Value                 :                100
+  Paid-up Capital Shares    :         180,000.00
+  Retained Earnings         :       4,525,043.88
+  Total Equity              :      23,085,069.00
+  Minority Interest         :               0.00
+
+Summary of Income Statement
+  Total Sales               :       5,228,275.91
+  Cost of Good Sold         :       4,868,948.05
+  Gross Profit              :         359,327.86
+  Operating Profit          :          54,355.78
+  Other Income              :       4,432,823.82
+  Eearning Before Tax       :       4,487,179.60
+  Tax                       :       1,265,876.39
+  Net Income                :       3,221,303.22
+  Closing Price             :             140.00
+
+Per Share Data (Rp)
+  Eps                       :              71.58
+  Book Value                :             128.25
+
+Financial Ratios
+  Debt Equity Ratio (X)     :                .25
+  Roa (%)                   :              44.63
+  Roe (%)                   :              55.82
+  Npm (%)                   :              61.61
+  Opm (%)                   :               1.04
+
+Cash Flow
+  CF from Operating Activities                        :      -4,882,808.50
+  CF from Investing Activities                        :        -147,888.44
+  CF from Financing Activities                        :         187,741.71
+  Net Increase in Cash & Cash Equivalent              :      -4,842,955.23
+  Cash & Cash Equivalent at The Beginning of The Year :       9,318,582.69
+  Cash & Cash Equivalent at The End of The Year       :       4,475,627.46
+
+ 
+ 
+ 

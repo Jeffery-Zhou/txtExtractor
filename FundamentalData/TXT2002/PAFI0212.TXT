@@ -1,0 +1,66 @@
+6
+PAFI0212.TXT
+
+PAFI
+Panasia Filament Inti Tbk
+Af          : HDTX
+Sector Code : 43
+Sector Name : TEXTILE, GARMENT
+
+(In thousand rupiah except Par Value, Closing Price and Ratios)
+
+Financial Statement Date    : 31-Dec-2002
+Fiscal Year Ends            : Dec
+Months Covered in Income St : 12
+
+Summary of Balance Sheet
+  Receivables               :      81,591,370.02
+  Inventories               :     201,632,086.84
+  Current Assets            :     305,770,334.48
+  Fixed Assets              :     474,668,079.74
+  Other Asstes              :         233,487.34
+  Total Assets              :     780,671,901.57
+  Current Liabilities       :     185,717,950.27
+  Longterm Liabiities       :     468,665,528.69
+  Total Liabilities         :     654,383,478.95
+  Authorized                :         800,000.00
+  Paid-up Capital           :     125,000,000.00
+  Par Value                 :                500
+  Paid-up Capital Shares    :         250,000.00
+  Retained Earnings         :    -152,632,325.35
+  Total Equity              :     126,288,422.61
+  Minority Interest         :               0.00
+
+Summary of Income Statement
+  Total Sales               :     559,864,924.77
+  Cost of Good Sold         :     547,648,955.61
+  Gross Profit              :      12,215,969.15
+  Operating Profit          :     -41,794,547.53
+  Other Income              :      74,959,916.92
+  Eearning Before Tax       :      33,165,369.39
+  Tax                       :       8,381,613.25
+  Net Income                :      25,732,841.44
+  Closing Price             :             100.00
+
+Per Share Data (Rp)
+  Eps                       :             102.93
+  Book Value                :             505.15
+
+Financial Ratios
+  Debt Equity Ratio (X)     :               5.18
+  Roa (%)                   :               3.30
+  Roe (%)                   :              20.38
+  Npm (%)                   :               4.60
+  Opm (%)                   :              -7.47
+
+Cash Flow
+  CF from Operating Activities                        :      42,595,174.80
+  CF from Investing Activities                        :       9,060,075.92
+  CF from Financing Activities                        :     -51,557,971.82
+  Net Increase in Cash & Cash Equivalent              :          97,278.90
+  Cash & Cash Equivalent at The Beginning of The Year :       6,910,009.41
+  Cash & Cash Equivalent at The End of The Year       :       7,007,288.32
+
+ 
+ 
+ 

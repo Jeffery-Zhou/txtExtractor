@@ -1,0 +1,66 @@
+6
+MYTX0209.TXT
+
+MYTX
+APAC Citra Centertex Tbk
+Af          :
+Sector Code : 43
+Sector Name : TEXTILE, GARMENT
+
+(In thousand rupiah except Par Value, Closing Price and Ratios)
+
+Financial Statement Date    : 30-Sep-2002
+Fiscal Year Ends            : Dec
+Months Covered in Income St : 9
+
+Summary of Balance Sheet
+  Receivables               :     235,935,761.70
+  Inventories               :     226,632,183.87
+  Current Assets            :     669,292,538.38
+  Fixed Assets              :   1,869,966,890.82
+  Other Asstes              :      20,625,439.41
+  Total Assets              :   2,698,294,683.06
+  Current Liabilities       :   2,309,387,060.22
+  Longterm Liabiities       :     500,649,604.77
+  Total Liabilities         :   2,810,036,664.99
+  Authorized                :       2,040,000.00
+  Paid-up Capital           :     534,666,577.00
+  Par Value                 :               1000
+  Paid-up Capital Shares    :         534,666.58
+  Retained Earnings         :    -661,438,069.25
+  Total Equity              :    -110,725,741.07
+  Minority Interest         :      -1,016,240.86
+
+Summary of Income Statement
+  Total Sales               :   1,510,376,789.98
+  Cost of Good Sold         :   1,373,918,881.05
+  Gross Profit              :     136,457,908.93
+  Operating Profit          :       7,351,651.47
+  Other Income              :    -137,010,904.05
+  Eearning Before Tax       :    -129,659,252.58
+  Tax                       :     -38,001,203.84
+  Net Income                :     -86,391,274.33
+  Closing Price             :             180.00
+
+Per Share Data (Rp)
+  Eps                       :            -215.44
+  Book Value                :            -207.09
+
+Financial Ratios
+  Debt Equity Ratio (X)     :             -25.38
+  Roa (%)                   :              -4.27
+  Roe (%)                   :             104.03
+  Npm (%)                   :              -7.63
+  Opm (%)                   :                .65
+
+Cash Flow
+  CF from Operating Activities                        :      70,314,580.76
+  CF from Investing Activities                        :      -4,584,159.31
+  CF from Financing Activities                        :     -54,847,840.97
+  Net Increase in Cash & Cash Equivalent              :      10,882,580.49
+  Cash & Cash Equivalent at The Beginning of The Year :      17,067,933.46
+  Cash & Cash Equivalent at The End of The Year       :      27,950,513.94
+
+ 
+ 
+ 

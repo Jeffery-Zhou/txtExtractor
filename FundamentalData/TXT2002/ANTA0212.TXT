@@ -1,0 +1,66 @@
+6
+ANTA0212.TXT
+
+ANTA
+Anta Express Tour & Travel Service Tbk
+Af          :
+Sector Code : 94
+Sector Name : RESTAURANT, HOTEL AND TOURISM
+
+(In thousand rupiah except Par Value, Closing Price and Ratios)
+
+Financial Statement Date    : 31-Dec-2002
+Fiscal Year Ends            : Dec
+Months Covered in Income St : 12
+
+Summary of Balance Sheet
+  Receivables               :      60,925,584.73
+  Inventories               :               0.00
+  Current Assets            :     116,378,780.27
+  Fixed Assets              :      25,118,003.41
+  Other Asstes              :               0.00
+  Total Assets              :     179,018,021.53
+  Current Liabilities       :     103,260,418.81
+  Longterm Liabiities       :       2,812,475.56
+  Total Liabilities         :     106,072,894.37
+  Authorized                :       1,900,000.00
+  Paid-up Capital           :      57,000,000.00
+  Par Value                 :                100
+  Paid-up Capital Shares    :         570,000.00
+  Retained Earnings         :       7,010,451.43
+  Total Equity              :      72,337,898.98
+  Minority Interest         :         607,228.18
+
+Summary of Income Statement
+  Total Sales               :   1,125,138,066.85
+  Cost of Good Sold         :   1,074,668,075.97
+  Gross Profit              :      50,469,990.88
+  Operating Profit          :         133,188.75
+  Other Income              :       2,539,492.85
+  Eearning Before Tax       :       2,672,681.60
+  Tax                       :         315,081.32
+  Net Income                :       2,275,331.52
+  Closing Price             :             150.00
+
+Per Share Data (Rp)
+  Eps                       :               3.99
+  Book Value                :             126.91
+
+Financial Ratios
+  Debt Equity Ratio (X)     :               1.47
+  Roa (%)                   :               1.27
+  Roe (%)                   :               3.15
+  Npm (%)                   :                .20
+  Opm (%)                   :                .01
+
+Cash Flow
+  CF from Operating Activities                        :     -26,574,184.49
+  CF from Investing Activities                        :      -1,428,468.00
+  CF from Financing Activities                        :         332,591.18
+  Net Increase in Cash & Cash Equivalent              :     -27,670,061.31
+  Cash & Cash Equivalent at The Beginning of The Year :      61,269,174.46
+  Cash & Cash Equivalent at The End of The Year       :      33,599,113.15
+
+ 
+ 
+ 

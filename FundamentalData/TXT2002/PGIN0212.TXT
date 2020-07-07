@@ -1,0 +1,66 @@
+6
+PGIN0212.TXT
+
+PGIN
+Procter & Gamble Ind.
+Af          :
+Sector Code : 54
+Sector Name : COSMETICS AND HOUSEHOLD
+
+(In thousand rupiah except Par Value, Closing Price and Ratios)
+
+Financial Statement Date    : 31-Dec-2002
+Fiscal Year Ends            : Jun
+Months Covered in Income St : 6
+
+Summary of Balance Sheet
+  Receivables               :       7,063,324.44
+  Inventories               :      10,830,663.58
+  Current Assets            :      87,554,560.68
+  Fixed Assets              :      31,160,688.96
+  Other Asstes              :               0.00
+  Total Assets              :     135,271,309.98
+  Current Liabilities       :      56,236,356.42
+  Longterm Liabiities       :       2,315,961.36
+  Total Liabilities         :      58,552,317.78
+  Authorized                :           2,800.00
+  Paid-up Capital           :       2,800,000.00
+  Par Value                 :               1000
+  Paid-up Capital Shares    :           2,800.00
+  Retained Earnings         :      72,968,235.28
+  Total Equity              :      76,718,992.20
+  Minority Interest         :               0.00
+
+Summary of Income Statement
+  Total Sales               :      62,206,294.11
+  Cost of Good Sold         :      31,726,318.80
+  Gross Profit              :      30,479,975.31
+  Operating Profit          :       4,251,234.10
+  Other Income              :      -1,273,746.08
+  Eearning Before Tax       :       2,977,488.02
+  Tax                       :       1,415,955.58
+  Net Income                :       1,561,532.44
+  Closing Price             :          73,000.00
+
+Per Share Data (Rp)
+  Eps                       :           1,115.38
+  Book Value                :          27,399.64
+
+Financial Ratios
+  Debt Equity Ratio (X)     :                .76
+  Roa (%)                   :               2.31
+  Roe (%)                   :               4.07
+  Npm (%)                   :               5.02
+  Opm (%)                   :              13.67
+
+Cash Flow
+  CF from Operating Activities                        :     -36,226,864.13
+  CF from Investing Activities                        :      27,134,776.99
+  CF from Financing Activities                        :      17,856,515.75
+  Net Increase in Cash & Cash Equivalent              :       8,764,428.61
+  Cash & Cash Equivalent at The Beginning of The Year :         653,121.82
+  Cash & Cash Equivalent at The End of The Year       :       9,417,550.43
+
+ 
+ 
+ 

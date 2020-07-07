@@ -1,0 +1,66 @@
+6
+PNBN0203.TXT
+
+PNBN
+Bank Pan Indonesia Tbk
+Af          :
+Sector Code : 81
+Sector Name : BANK
+
+(In thousand rupiah except Par Value, Closing Price and Ratios)
+
+Financial Statement Date    : 31-Mar-2002
+Fiscal Year Ends            : Dec
+Months Covered in Income St : 3
+
+Summary of Balance Sheet
+  Receivables               :               0.00
+  Inventories               :               0.00
+  Current Assets            :               0.00
+  Fixed Assets              :   1,193,385,000.00
+  Other Asstes              :      60,885,000.00
+  Total Assets              :  24,482,204,000.00
+  Current Liabilities       :               0.00
+  Longterm Liabiities       :               0.00
+  Total Liabilities         :  20,987,794,000.00
+  Authorized                :      23,600,000.00
+  Paid-up Capital           :   1,488,918,928.50
+  Par Value                 :                250
+  Paid-up Capital Shares    :       5,955,675.71
+  Retained Earnings         :      63,994,000.00
+  Total Equity              :   3,494,410,000.00
+  Minority Interest         :               0.00
+
+Summary of Income Statement
+  Total Sales               :     958,356,000.00
+  Cost of Good Sold         :     954,499,000.00
+  Gross Profit              :       3,857,000.00
+  Operating Profit          :       3,857,000.00
+  Other Income              :       2,846,000.00
+  Eearning Before Tax       :       6,703,000.00
+  Tax                       :       2,233,000.00
+  Net Income                :       4,470,000.00
+  Closing Price             :             460.00
+
+Per Share Data (Rp)
+  Eps                       :               3.00
+  Book Value                :             586.74
+
+Financial Ratios
+  Debt Equity Ratio (X)     :               6.01
+  Roa (%)                   :                .07
+  Roe (%)                   :                .51
+  Npm (%)                   :                .47
+  Opm (%)                   :                .40
+
+Cash Flow
+  CF from Operating Activities                        :   1,196,735,000.00
+  CF from Investing Activities                        :      -1,151,000.00
+  CF from Financing Activities                        :    -154,345,000.00
+  Net Increase in Cash & Cash Equivalent              :   1,041,239,000.00
+  Cash & Cash Equivalent at The Beginning of The Year :               0.00
+  Cash & Cash Equivalent at The End of The Year       :   1,041,239,000.00
+
+ 
+ 
+ 

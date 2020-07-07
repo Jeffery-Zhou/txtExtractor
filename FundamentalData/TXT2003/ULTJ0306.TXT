@@ -1,0 +1,66 @@
+6
+ULTJ0306.TXT
+
+ULTJ
+Ultra Jaya Milk Ind. Tbk
+Af          :
+Sector Code : 51
+Sector Name : FOOD AND BEVERAGES
+
+(In thousand rupiah except Par Value, Closing Price and Ratios)
+
+Financial Statement Date    : 30-Jun-2003
+Fiscal Year Ends            : Dec
+Months Covered in Income St : 6
+
+Summary of Balance Sheet
+  Receivables               :      44,979,735.63
+  Inventories               :     126,171,102.07
+  Current Assets            :     221,337,714.75
+  Fixed Assets              :     754,727,599.99
+  Other Asstes              :      48,925,123.73
+  Total Assets              :   1,056,600,260.05
+  Current Liabilities       :     211,367,015.71
+  Longterm Liabiities       :     316,306,125.79
+  Total Liabilities         :     527,982,669.86
+  Authorized                :       7,500,000.00
+  Paid-up Capital           :     385,117,600.00
+  Par Value                 :                200
+  Paid-up Capital Shares    :       1,925,588.00
+  Retained Earnings         :     144,629,133.57
+  Total Equity              :     528,617,590.18
+  Minority Interest         :               0.00
+
+Summary of Income Statement
+  Total Sales               :     225,108,695.81
+  Cost of Good Sold         :     155,087,771.84
+  Gross Profit              :      70,020,923.96
+  Operating Profit          :      35,483,053.84
+  Other Income              :     -33,063,782.55
+  Eearning Before Tax       :       2,419,271.29
+  Tax                       :        -463,414.39
+  Net Income                :       2,882,685.68
+  Closing Price             :             550.00
+
+Per Share Data (Rp)
+  Eps                       :               2.99
+  Book Value                :             274.52
+
+Financial Ratios
+  Debt Equity Ratio (X)     :               1.00
+  Roa (%)                   :                .55
+  Roe (%)                   :               1.09
+  Npm (%)                   :               2.56
+  Opm (%)                   :              31.53
+
+Cash Flow
+  CF from Operating Activities                        :     -12,279,316.82
+  CF from Investing Activities                        :     -20,002,807.01
+  CF from Financing Activities                        :      41,608,476.89
+  Net Increase in Cash & Cash Equivalent              :       9,326,353.06
+  Cash & Cash Equivalent at The Beginning of The Year :      12,833,491.23
+  Cash & Cash Equivalent at The End of The Year       :      22,159,844.29
+
+ 
+ 
+ 

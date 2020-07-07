@@ -1,0 +1,66 @@
+6
+SKLT0309.TXT
+
+SKLT
+Sekar Laut Tbk
+Af          :
+Sector Code : 51
+Sector Name : FOOD AND BEVERAGES
+
+(In thousand rupiah except Par Value, Closing Price and Ratios)
+
+Financial Statement Date    : 30-Sep-2003
+Fiscal Year Ends            : Dec
+Months Covered in Income St : 9
+
+Summary of Balance Sheet
+  Receivables               :      21,056,359.33
+  Inventories               :      18,553,668.11
+  Current Assets            :      48,674,095.78
+  Fixed Assets              :      39,564,516.20
+  Other Asstes              :       2,152,335.29
+  Total Assets              :     114,545,619.81
+  Current Liabilities       :     186,608,732.02
+  Longterm Liabiities       :     248,900,182.27
+  Total Liabilities         :     435,508,914.29
+  Authorized                :         300,000.00
+  Paid-up Capital           :      37,800,000.00
+  Par Value                 :                500
+  Paid-up Capital Shares    :          75,600.00
+  Retained Earnings         :    -361,268,885.26
+  Total Equity              :    -321,539,523.27
+  Minority Interest         :         576,228.79
+
+Summary of Income Statement
+  Total Sales               :     120,425,098.29
+  Cost of Good Sold         :     103,398,926.23
+  Gross Profit              :      17,026,172.06
+  Operating Profit          :      -5,867,099.10
+  Other Income              :      30,870,940.68
+  Eearning Before Tax       :      25,003,841.58
+  Tax                       :               0.00
+  Net Income                :      25,062,928.21
+  Closing Price             :             190.00
+
+Per Share Data (Rp)
+  Eps                       :             442.03
+  Book Value                :          -4,253.17
+
+Financial Ratios
+  Debt Equity Ratio (X)     :              -1.35
+  Roa (%)                   :              29.17
+  Roe (%)                   :             -10.39
+  Npm (%)                   :              27.75
+  Opm (%)                   :              -6.50
+
+Cash Flow
+  CF from Operating Activities                        :           9,044.91
+  CF from Investing Activities                        :          77,022.21
+  CF from Financing Activities                        :         585,575.41
+  Net Increase in Cash & Cash Equivalent              :         671,642.52
+  Cash & Cash Equivalent at The Beginning of The Year :       5,850,195.48
+  Cash & Cash Equivalent at The End of The Year       :       6,521,838.00
+
+ 
+ 
+ 

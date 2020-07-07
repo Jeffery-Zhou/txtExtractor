@@ -1,0 +1,66 @@
+6
+ELTY0306.TXT
+
+ELTY
+Bakrieland Development Tbk
+Af          :
+Sector Code : 94
+Sector Name : RESTAURANT, HOTEL AND TOURISM
+
+(In thousand rupiah except Par Value, Closing Price and Ratios)
+
+Financial Statement Date    : 30-Jun-2003
+Fiscal Year Ends            : Dec
+Months Covered in Income St : 6
+
+Summary of Balance Sheet
+  Receivables               :       9,460,276.09
+  Inventories               :      69,705,487.00
+  Current Assets            :     166,362,083.76
+  Fixed Assets              :     183,066,620.03
+  Other Asstes              :               0.00
+  Total Assets              :     704,965,185.52
+  Current Liabilities       :     429,031,481.52
+  Longterm Liabiities       :      80,023,075.43
+  Total Liabilities         :     509,054,556.95
+  Authorized                :       1,400,000.00
+  Paid-up Capital           :     700,000,000.00
+  Par Value                 :                500
+  Paid-up Capital Shares    :       1,400,000.00
+  Retained Earnings         :    -425,887,827.75
+  Total Equity              :     195,910,628.57
+  Minority Interest         :               0.00
+
+Summary of Income Statement
+  Total Sales               :       9,315,456.30
+  Cost of Good Sold         :       5,337,357.67
+  Gross Profit              :       3,978,098.63
+  Operating Profit          :      -3,300,086.23
+  Other Income              :     -14,016,373.01
+  Eearning Before Tax       :     -17,316,459.23
+  Tax                       :      -5,124,909.95
+  Net Income                :     -12,191,549.28
+  Closing Price             :              20.00
+
+Per Share Data (Rp)
+  Eps                       :             -17.42
+  Book Value                :             139.94
+
+Financial Ratios
+  Debt Equity Ratio (X)     :               2.60
+  Roa (%)                   :              -3.46
+  Roe (%)                   :             -12.45
+  Npm (%)                   :            -261.75
+  Opm (%)                   :             -70.85
+
+Cash Flow
+  CF from Operating Activities                        :         299,572.63
+  CF from Investing Activities                        :       4,430,292.08
+  CF from Financing Activities                        :      -2,273,272.11
+  Net Increase in Cash & Cash Equivalent              :       2,456,592.60
+  Cash & Cash Equivalent at The Beginning of The Year :       1,226,861.87
+  Cash & Cash Equivalent at The End of The Year       :       3,683,454.48
+
+ 
+ 
+ 

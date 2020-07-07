@@ -1,0 +1,66 @@
+6
+PSDN0212.TXT
+
+PSDN
+Prasidha Aneka Niaga Tbk
+Af          :
+Sector Code : 51
+Sector Name : FOOD AND BEVERAGES
+
+(In thousand rupiah except Par Value, Closing Price and Ratios)
+
+Financial Statement Date    : 31-Dec-2002
+Fiscal Year Ends            : Dec
+Months Covered in Income St : 12
+
+Summary of Balance Sheet
+  Receivables               :      25,240,212.92
+  Inventories               :     110,680,415.85
+  Current Assets            :     185,854,060.39
+  Fixed Assets              :     135,916,390.50
+  Other Asstes              :               0.00
+  Total Assets              :     353,557,362.70
+  Current Liabilities       :   1,788,088,730.18
+  Longterm Liabiities       :       5,341,725.21
+  Total Liabilities         :   1,795,968,634.53
+  Authorized                :       1,440,000.00
+  Paid-up Capital           :     180,000,000.00
+  Par Value                 :                500
+  Paid-up Capital Shares    :         360,000.00
+  Retained Earnings         :  -1,640,066,834.99
+  Total Equity              :  -1,451,870,068.97
+  Minority Interest         :       9,458,797.13
+
+Summary of Income Statement
+  Total Sales               :     384,708,928.44
+  Cost of Good Sold         :     363,787,049.06
+  Gross Profit              :      20,921,879.39
+  Operating Profit          :     -11,552,548.00
+  Other Income              :    -355,546,582.79
+  Eearning Before Tax       :    -367,099,130.79
+  Tax                       :      16,830,694.30
+  Net Income                :    -387,537,655.89
+  Closing Price             :             125.00
+
+Per Share Data (Rp)
+  Eps                       :          -1,076.49
+  Book Value                :          -4,032.97
+
+Financial Ratios
+  Debt Equity Ratio (X)     :              -1.24
+  Roa (%)                   :            -109.61
+  Roe (%)                   :              26.69
+  Npm (%)                   :            -100.74
+  Opm (%)                   :              -3.00
+
+Cash Flow
+  CF from Operating Activities                        :     -30,677,828.77
+  CF from Investing Activities                        :      73,304,084.45
+  CF from Financing Activities                        :     -14,855,653.07
+  Net Increase in Cash & Cash Equivalent              :      27,770,602.61
+  Cash & Cash Equivalent at The Beginning of The Year :      20,227,547.90
+  Cash & Cash Equivalent at The End of The Year       :      47,998,150.51
+
+ 
+ 
+ 

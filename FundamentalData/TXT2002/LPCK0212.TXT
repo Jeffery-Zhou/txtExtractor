@@ -1,0 +1,66 @@
+6
+LPCK0212.TXT
+
+LPCK
+Lippo Cikarang Tbk
+Af          :
+Sector Code : 61
+Sector Name : PROPERTY AND REAL ESTATE
+
+(In thousand rupiah except Par Value, Closing Price and Ratios)
+
+Financial Statement Date    : 31-Dec-2002
+Fiscal Year Ends            : Dec
+Months Covered in Income St : 12
+
+Summary of Balance Sheet
+  Receivables               :      24,918,407.76
+  Inventories               :     271,878,348.31
+  Current Assets            :               0.00
+  Fixed Assets              :      21,194,579.70
+  Other Asstes              :       5,287,111.27
+  Total Assets              :   1,077,182,089.49
+  Current Liabilities       :               0.00
+  Longterm Liabiities       :               0.00
+  Total Liabilities         :     670,900,486.73
+  Authorized                :       2,700,000.00
+  Paid-up Capital           :     348,000,000.00
+  Par Value                 :                500
+  Paid-up Capital Shares    :         696,000.00
+  Retained Earnings         :      18,844,141.68
+  Total Equity              :     406,281,602.76
+  Minority Interest         :               0.00
+
+Summary of Income Statement
+  Total Sales               :     127,051,938.50
+  Cost of Good Sold         :      76,507,016.87
+  Gross Profit              :      50,544,921.63
+  Operating Profit          :      -3,795,508.00
+  Other Income              :      -2,474,953.34
+  Eearning Before Tax       :      -2,932,848.70
+  Tax                       :      -4,671,944.52
+  Net Income                :       1,739,095.83
+  Closing Price             :              90.00
+
+Per Share Data (Rp)
+  Eps                       :               2.50
+  Book Value                :             583.74
+
+Financial Ratios
+  Debt Equity Ratio (X)     :               1.65
+  Roa (%)                   :                .16
+  Roe (%)                   :                .43
+  Npm (%)                   :               1.37
+  Opm (%)                   :              -2.99
+
+Cash Flow
+  CF from Operating Activities                        :     226,539,799.59
+  CF from Investing Activities                        :       6,612,772.21
+  CF from Financing Activities                        :     -91,166,486.75
+  Net Increase in Cash & Cash Equivalent              :     141,986,085.05
+  Cash & Cash Equivalent at The Beginning of The Year :      22,914,606.45
+  Cash & Cash Equivalent at The End of The Year       :     164,900,691.50
+
+ 
+ 
+ 

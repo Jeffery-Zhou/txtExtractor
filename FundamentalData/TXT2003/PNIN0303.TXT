@@ -1,0 +1,66 @@
+6
+PNIN0303.TXT
+
+PNIN
+Panin Insurance Tbk
+Af          :
+Sector Code : 84
+Sector Name : INSURANCE
+
+(In thousand rupiah except Par Value, Closing Price and Ratios)
+
+Financial Statement Date    : 31-Mar-2003
+Fiscal Year Ends            : Dec
+Months Covered in Income St : 3
+
+Summary of Balance Sheet
+  Receivables               :       7,970,000.00
+  Inventories               :               0.00
+  Current Assets            :               0.00
+  Fixed Assets              :       1,644,000.00
+  Other Asstes              :          11,000.00
+  Total Assets              :   1,708,424,000.00
+  Current Liabilities       :               0.00
+  Longterm Liabiities       :               0.00
+  Total Liabilities         :      68,600,000.00
+  Authorized                :       4,746,000.00
+  Paid-up Capital           :     592,585,455.50
+  Par Value                 :                500
+  Paid-up Capital Shares    :       1,185,170.91
+  Retained Earnings         :     319,796,000.00
+  Total Equity              :   1,639,824,000.00
+  Minority Interest         :               0.00
+
+Summary of Income Statement
+  Total Sales               :      48,237,000.00
+  Cost of Good Sold         :       8,316,000.00
+  Gross Profit              :      39,921,000.00
+  Operating Profit          :      39,921,000.00
+  Other Income              :         157,000.00
+  Eearning Before Tax       :      40,078,000.00
+  Tax                       :       1,293,000.00
+  Net Income                :      38,785,000.00
+  Closing Price             :             135.00
+
+Per Share Data (Rp)
+  Eps                       :             130.90
+  Book Value                :           1,383.62
+
+Financial Ratios
+  Debt Equity Ratio (X)     :                .04
+  Roa (%)                   :               9.08
+  Roe (%)                   :               9.46
+  Npm (%)                   :             321.62
+  Opm (%)                   :             331.04
+
+Cash Flow
+  CF from Operating Activities                        :       2,597,000.00
+  CF from Investing Activities                        :      -3,022,000.00
+  CF from Financing Activities                        :               0.00
+  Net Increase in Cash & Cash Equivalent              :        -425,000.00
+  Cash & Cash Equivalent at The Beginning of The Year :       2,712,000.00
+  Cash & Cash Equivalent at The End of The Year       :       2,287,000.00
+
+ 
+ 
+ 

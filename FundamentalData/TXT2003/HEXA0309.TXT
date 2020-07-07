@@ -1,0 +1,66 @@
+6
+HEXA0309.TXT
+
+HEXA
+Hexindo Adiperkasa Tbk
+Af          :
+Sector Code : 91
+Sector Name : WHOLESALE (DURABLE & NON-DURABLE GOODS)
+
+(In thousand rupiah except Par Value, Closing Price and Ratios)
+
+Financial Statement Date    : 30-Sep-2003
+Fiscal Year Ends            : Dec
+Months Covered in Income St : 9
+
+Summary of Balance Sheet
+  Receivables               :     195,548,599.29
+  Inventories               :     201,639,632.11
+  Current Assets            :     515,652,969.70
+  Fixed Assets              :     127,350,476.10
+  Other Asstes              :               0.00
+  Total Assets              :     664,112,614.03
+  Current Liabilities       :     264,951,538.41
+  Longterm Liabiities       :     201,935,841.34
+  Total Liabilities         :     466,887,379.74
+  Authorized                :         336,000.00
+  Paid-up Capital           :      84,000,000.00
+  Par Value                 :                500
+  Paid-up Capital Shares    :         168,000.00
+  Retained Earnings         :      96,513,478.91
+  Total Equity              :     197,225,234.29
+  Minority Interest         :               0.00
+
+Summary of Income Statement
+  Total Sales               :     490,594,156.88
+  Cost of Good Sold         :     383,908,475.89
+  Gross Profit              :     106,685,680.99
+  Operating Profit          :      33,175,333.15
+  Other Income              :      13,891,937.48
+  Eearning Before Tax       :      47,067,270.63
+  Tax                       :      14,139,757.95
+  Net Income                :      32,927,512.68
+  Closing Price             :             725.00
+
+Per Share Data (Rp)
+  Eps                       :             261.33
+  Book Value                :           1,173.96
+
+Financial Ratios
+  Debt Equity Ratio (X)     :               2.37
+  Roa (%)                   :               6.61
+  Roe (%)                   :              22.26
+  Npm (%)                   :               8.95
+  Opm (%)                   :               9.02
+
+Cash Flow
+  CF from Operating Activities                        :      71,436,748.98
+  CF from Investing Activities                        :      -6,436,303.99
+  CF from Financing Activities                        :         895,016.37
+  Net Increase in Cash & Cash Equivalent              :      65,895,461.36
+  Cash & Cash Equivalent at The Beginning of The Year :      32,682,863.58
+  Cash & Cash Equivalent at The End of The Year       :      98,578,324.94
+
+ 
+ 
+ 

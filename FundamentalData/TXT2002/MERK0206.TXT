@@ -1,0 +1,66 @@
+6
+MERK0206.TXT
+
+MERK
+Merck Indonesia Tbk
+Af          :
+Sector Code : 53
+Sector Name : PHARMACEUTICALS
+
+(In thousand rupiah except Par Value, Closing Price and Ratios)
+
+Financial Statement Date    : 30-Jun-2002
+Fiscal Year Ends            : Dec
+Months Covered in Income St : 6
+
+Summary of Balance Sheet
+  Receivables               :      54,252,613.00
+  Inventories               :      42,732,842.00
+  Current Assets            :     134,118,774.00
+  Fixed Assets              :      14,126,110.00
+  Other Asstes              :       7,979,594.00
+  Total Assets              :     166,740,376.00
+  Current Liabilities       :      25,458,738.00
+  Longterm Liabiities       :               0.00
+  Total Liabilities         :      25,458,738.00
+  Authorized                :          22,400.00
+  Paid-up Capital           :      22,400,000.00
+  Par Value                 :               1000
+  Paid-up Capital Shares    :          22,400.00
+  Retained Earnings         :     100,017,386.00
+  Total Equity              :     141,281,638.00
+  Minority Interest         :               0.00
+
+Summary of Income Statement
+  Total Sales               :     116,184,079.00
+  Cost of Good Sold         :      47,007,391.00
+  Gross Profit              :      69,176,688.00
+  Operating Profit          :      32,216,195.00
+  Other Income              :         318,883.00
+  Eearning Before Tax       :      32,535,078.00
+  Tax                       :       9,787,449.00
+  Net Income                :      22,747,629.00
+  Closing Price             :          15,000.00
+
+Per Share Data (Rp)
+  Eps                       :           2,031.04
+  Book Value                :           6,307.22
+
+Financial Ratios
+  Debt Equity Ratio (X)     :                .18
+  Roa (%)                   :              27.29
+  Roe (%)                   :              32.20
+  Npm (%)                   :              19.58
+  Opm (%)                   :              27.73
+
+Cash Flow
+  CF from Operating Activities                        :      -3,430,268.00
+  CF from Investing Activities                        :      -1,286,885.00
+  CF from Financing Activities                        :               0.00
+  Net Increase in Cash & Cash Equivalent              :      -4,717,153.00
+  Cash & Cash Equivalent at The Beginning of The Year :      34,013,078.00
+  Cash & Cash Equivalent at The End of The Year       :      29,295,925.00
+
+ 
+ 
+ 

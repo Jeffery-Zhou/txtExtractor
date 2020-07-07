@@ -1,0 +1,66 @@
+6
+JSPT0306.TXT
+
+JSPT
+Jakarta Setiabudi Internasional Tbk
+Af          :
+Sector Code : 94
+Sector Name : RESTAURANT, HOTEL AND TOURISM
+
+(In thousand rupiah except Par Value, Closing Price and Ratios)
+
+Financial Statement Date    : 30-Jun-2003
+Fiscal Year Ends            : Dec
+Months Covered in Income St : 6
+
+Summary of Balance Sheet
+  Receivables               :      89,932,267.28
+  Inventories               :      24,009,289.67
+  Current Assets            :     225,206,320.44
+  Fixed Assets              :   1,422,189,825.90
+  Other Asstes              :       2,800,020.11
+  Total Assets              :   2,211,912,559.95
+  Current Liabilities       :     409,822,153.61
+  Longterm Liabiities       :     482,112,696.83
+  Total Liabilities         :     891,934,850.44
+  Authorized                :       3,430,400.00
+  Paid-up Capital           :   1,159,368,000.00
+  Par Value                 :                500
+  Paid-up Capital Shares    :       2,318,736.00
+  Retained Earnings         :    -318,440,796.02
+  Total Equity              :   1,103,864,027.52
+  Minority Interest         :     216,113,681.98
+
+Summary of Income Statement
+  Total Sales               :     186,246,945.12
+  Cost of Good Sold         :      92,149,620.21
+  Gross Profit              :      94,097,324.91
+  Operating Profit          :     -23,387,029.96
+  Other Income              :      27,564,951.55
+  Eearning Before Tax       :       4,177,921.60
+  Tax                       :       9,256,622.15
+  Net Income                :      20,058,023.30
+  Closing Price             :             700.00
+
+Per Share Data (Rp)
+  Eps                       :              17.30
+  Book Value                :             476.06
+
+Financial Ratios
+  Debt Equity Ratio (X)     :                .81
+  Roa (%)                   :               1.81
+  Roe (%)                   :               3.63
+  Npm (%)                   :              21.54
+  Opm (%)                   :             -25.11
+
+Cash Flow
+  CF from Operating Activities                        :       6,359,518.17
+  CF from Investing Activities                        :      21,195,345.04
+  CF from Financing Activities                        :     -14,204,895.09
+  Net Increase in Cash & Cash Equivalent              :      13,349,968.12
+  Cash & Cash Equivalent at The Beginning of The Year :      87,277,558.09
+  Cash & Cash Equivalent at The End of The Year       :      99,711,346.44
+
+ 
+ 
+ 

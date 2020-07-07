@@ -1,0 +1,66 @@
+6
+BASS0206.TXT
+
+BASS
+Bahtera Adimina Samudra Tbk
+Af          :
+Sector Code : 14
+Sector Name : FISHERY
+
+(In thousand rupiah except Par Value, Closing Price and Ratios)
+
+Financial Statement Date    : 30-Jun-2002
+Fiscal Year Ends            : Dec
+Months Covered in Income St : 6
+
+Summary of Balance Sheet
+  Receivables               :      60,987,570.00
+  Inventories               :               0.00
+  Current Assets            :      63,284,819.00
+  Fixed Assets              :     391,226,580.00
+  Other Asstes              :      17,278,986.00
+  Total Assets              :     471,790,385.00
+  Current Liabilities       :      82,752,600.00
+  Longterm Liabiities       :     113,650,891.00
+  Total Liabilities         :     196,403,491.00
+  Authorized                :       2,500,000.00
+  Paid-up Capital           :     165,397,100.00
+  Par Value                 :                100
+  Paid-up Capital Shares    :       1,653,971.00
+  Retained Earnings         :      99,045,882.00
+  Total Equity              :     275,386,894.00
+  Minority Interest         :               0.00
+
+Summary of Income Statement
+  Total Sales               :      96,324,726.00
+  Cost of Good Sold         :      50,229,472.00
+  Gross Profit              :      46,095,254.00
+  Operating Profit          :      40,537,032.00
+  Other Income              :     -17,446,352.00
+  Eearning Before Tax       :      23,090,680.00
+  Tax                       :       6,788,692.00
+  Net Income                :      16,301,988.00
+  Closing Price             :             265.00
+
+Per Share Data (Rp)
+  Eps                       :              19.71
+  Book Value                :             166.50
+
+Financial Ratios
+  Debt Equity Ratio (X)     :                .71
+  Roa (%)                   :               6.91
+  Roe (%)                   :              11.84
+  Npm (%)                   :              16.92
+  Opm (%)                   :              42.08
+
+Cash Flow
+  CF from Operating Activities                        :      41,845,852.00
+  CF from Investing Activities                        :      -1,434,272.00
+  CF from Financing Activities                        :     -67,257,707.00
+  Net Increase in Cash & Cash Equivalent              :     -26,846,127.00
+  Cash & Cash Equivalent at The Beginning of The Year :      27,106,348.00
+  Cash & Cash Equivalent at The End of The Year       :         260,221.00
+
+ 
+ 
+ 

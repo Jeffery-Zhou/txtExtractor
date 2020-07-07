@@ -1,0 +1,66 @@
+6
+TKGA0206.TXT
+
+TKGA
+Toko Gunung Agung Tbk
+Af          :
+Sector Code : 93
+Sector Name : RETAIL TRADE
+
+(In thousand rupiah except Par Value, Closing Price and Ratios)
+
+Financial Statement Date    : 30-Jun-2002
+Fiscal Year Ends            : Dec
+Months Covered in Income St : 6
+
+Summary of Balance Sheet
+  Receivables               :       4,489,498.62
+  Inventories               :      47,460,919.57
+  Current Assets            :      63,177,551.67
+  Fixed Assets              :      36,549,334.94
+  Other Asstes              :               0.00
+  Total Assets              :     145,266,328.05
+  Current Liabilities       :      72,009,148.87
+  Longterm Liabiities       :      57,358,383.62
+  Total Liabilities         :     129,367,532.49
+  Authorized                :         104,000.00
+  Paid-up Capital           :      26,000,000.00
+  Par Value                 :                500
+  Paid-up Capital Shares    :          52,000.00
+  Retained Earnings         :     -14,101,204.44
+  Total Equity              :      15,898,795.56
+  Minority Interest         :               0.00
+
+Summary of Income Statement
+  Total Sales               :     356,290,037.88
+  Cost of Good Sold         :     318,781,749.96
+  Gross Profit              :      37,508,287.91
+  Operating Profit          :      -2,616,243.63
+  Other Income              :        -766,600.26
+  Eearning Before Tax       :      -3,382,843.89
+  Tax                       :               0.00
+  Net Income                :      -3,382,843.89
+  Closing Price             :             400.00
+
+Per Share Data (Rp)
+  Eps                       :            -130.11
+  Book Value                :             305.75
+
+Financial Ratios
+  Debt Equity Ratio (X)     :               8.14
+  Roa (%)                   :              -4.66
+  Roe (%)                   :             -42.55
+  Npm (%)                   :               -.95
+  Opm (%)                   :               -.73
+
+Cash Flow
+  CF from Operating Activities                        :      -2,168,836.96
+  CF from Investing Activities                        :      -4,381,626.03
+  CF from Financing Activities                        :       3,852,069.65
+  Net Increase in Cash & Cash Equivalent              :      -2,698,393.35
+  Cash & Cash Equivalent at The Beginning of The Year :       7,551,897.41
+  Cash & Cash Equivalent at The End of The Year       :       4,865,978.85
+
+ 
+ 
+ 

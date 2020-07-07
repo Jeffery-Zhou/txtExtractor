@@ -1,0 +1,66 @@
+6
+HPSB0209.TXT
+
+HPSB
+Aryaduta Hotels Tbk
+Af          :
+Sector Code : 94
+Sector Name : RESTAURANT, HOTEL AND TOURISM
+
+(In thousand rupiah except Par Value, Closing Price and Ratios)
+
+Financial Statement Date    : 30-Sep-2002
+Fiscal Year Ends            : Dec
+Months Covered in Income St : 9
+
+Summary of Balance Sheet
+  Receivables               :       7,312,539.00
+  Inventories               :       1,518,146.00
+  Current Assets            :      27,306,368.00
+  Fixed Assets              :     232,244,821.00
+  Other Asstes              :         231,433.00
+  Total Assets              :     277,511,579.00
+  Current Liabilities       :     170,189,366.00
+  Longterm Liabiities       :      27,827,825.00
+  Total Liabilities         :     198,017,191.00
+  Authorized                :         792,753.00
+  Paid-up Capital           :     198,188,452.00
+  Par Value                 :                500
+  Paid-up Capital Shares    :         396,376.90
+  Retained Earnings         :    -118,694,064.00
+  Total Equity              :      79,494,388.00
+  Minority Interest         :               0.00
+
+Summary of Income Statement
+  Total Sales               :      87,642,693.00
+  Cost of Good Sold         :      62,750,664.00
+  Gross Profit              :      24,892,029.00
+  Operating Profit          :       4,808,408.00
+  Other Income              :       8,849,315.00
+  Eearning Before Tax       :      13,657,723.00
+  Tax                       :         285,696.00
+  Net Income                :      13,372,027.00
+  Closing Price             :             125.00
+
+Per Share Data (Rp)
+  Eps                       :              44.98
+  Book Value                :             200.55
+
+Financial Ratios
+  Debt Equity Ratio (X)     :               2.49
+  Roa (%)                   :               6.42
+  Roe (%)                   :              22.43
+  Npm (%)                   :              20.34
+  Opm (%)                   :               7.32
+
+Cash Flow
+  CF from Operating Activities                        :       8,834,686.00
+  CF from Investing Activities                        :     -14,528,916.00
+  CF from Financing Activities                        :      10,763,640.00
+  Net Increase in Cash & Cash Equivalent              :       5,069,410.00
+  Cash & Cash Equivalent at The Beginning of The Year :       9,938,028.00
+  Cash & Cash Equivalent at The End of The Year       :      15,007,438.00
+
+ 
+ 
+ 

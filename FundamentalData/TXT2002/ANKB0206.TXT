@@ -1,0 +1,66 @@
+6
+ANKB0206.TXT
+
+ANKB
+Bank Arta Niaga Kencana Tbk
+Af          :
+Sector Code : 81
+Sector Name : BANK
+
+(In thousand rupiah except Par Value, Closing Price and Ratios)
+
+Financial Statement Date    : 30-Jun-2002
+Fiscal Year Ends            : Dec
+Months Covered in Income St : 6
+
+Summary of Balance Sheet
+  Receivables               :               0.00
+  Inventories               :               0.00
+  Current Assets            :               0.00
+  Fixed Assets              :      42,693,304.24
+  Other Asstes              :      12,877,755.80
+  Total Assets              :     779,361,813.55
+  Current Liabilities       :               0.00
+  Longterm Liabiities       :               0.00
+  Total Liabilities         :     672,372,458.03
+  Authorized                :         400,000.00
+  Paid-up Capital           :      95,000,000.00
+  Par Value                 :                500
+  Paid-up Capital Shares    :         190,000.00
+  Retained Earnings         :      13,207,534.52
+  Total Equity              :     106,989,355.53
+  Minority Interest         :               0.00
+
+Summary of Income Statement
+  Total Sales               :      55,597,013.88
+  Cost of Good Sold         :      50,942,749.02
+  Gross Profit              :       4,654,264.86
+  Operating Profit          :       4,654,264.86
+  Other Income              :         449,408.37
+  Eearning Before Tax       :       5,103,673.23
+  Tax                       :       1,513,601.90
+  Net Income                :       3,590,071.33
+  Closing Price             :             700.00
+
+Per Share Data (Rp)
+  Eps                       :              37.79
+  Book Value                :             563.10
+
+Financial Ratios
+  Debt Equity Ratio (X)     :               6.28
+  Roa (%)                   :                .92
+  Roe (%)                   :               6.71
+  Npm (%)                   :               6.46
+  Opm (%)                   :               8.37
+
+Cash Flow
+  CF from Operating Activities                        :      -3,223,331.53
+  CF from Investing Activities                        :        -113,333.05
+  CF from Financing Activities                        :               0.00
+  Net Increase in Cash & Cash Equivalent              :      -3,336,664.58
+  Cash & Cash Equivalent at The Beginning of The Year :      49,096,514.02
+  Cash & Cash Equivalent at The End of The Year       :      45,759,849.44
+
+ 
+ 
+ 

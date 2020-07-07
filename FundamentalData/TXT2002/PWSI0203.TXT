@@ -1,0 +1,66 @@
+6
+PWSI0203.TXT
+
+PWSI
+Panca Wiratama Sakti Tbk
+Af          :
+Sector Code : 61
+Sector Name : PROPERTY AND REAL ESTATE
+
+(In thousand rupiah except Par Value, Closing Price and Ratios)
+
+Financial Statement Date    : 31-Mar-2002
+Fiscal Year Ends            : Dec
+Months Covered in Income St : 3
+
+Summary of Balance Sheet
+  Receivables               :       6,674,580.88
+  Inventories               :     273,427,464.06
+  Current Assets            :               0.00
+  Fixed Assets              :       8,238,041.35
+  Other Asstes              :               0.00
+  Total Assets              :     318,290,397.70
+  Current Liabilities       :               0.00
+  Longterm Liabiities       :               0.00
+  Total Liabilities         :     443,074,026.77
+  Authorized                :         330,000.00
+  Paid-up Capital           :      41,250,000.00
+  Par Value                 :                500
+  Paid-up Capital Shares    :          82,500.00
+  Retained Earnings         :    -206,083,629.08
+  Total Equity              :    -124,783,629.08
+  Minority Interest         :               0.00
+
+Summary of Income Statement
+  Total Sales               :               0.00
+  Cost of Good Sold         :               0.00
+  Gross Profit              :               0.00
+  Operating Profit          :        -678,370.74
+  Other Income              :      -6,551,613.53
+  Eearning Before Tax       :      -7,229,984.27
+  Tax                       :               0.00
+  Net Income                :      -7,229,984.27
+  Closing Price             :              45.00
+
+Per Share Data (Rp)
+  Eps                       :            -350.54
+  Book Value                :          -1,512.53
+
+Financial Ratios
+  Debt Equity Ratio (X)     :              -3.55
+  Roa (%)                   :              -9.09
+  Roe (%)                   :              23.18
+  Npm (%)                   :               0.00
+  Opm (%)                   :               0.00
+
+Cash Flow
+  CF from Operating Activities                        :        -612,407.60
+  CF from Investing Activities                        :        -273,736.00
+  CF from Financing Activities                        :         600,000.00
+  Net Increase in Cash & Cash Equivalent              :        -286,143.60
+  Cash & Cash Equivalent at The Beginning of The Year :         418,637.96
+  Cash & Cash Equivalent at The End of The Year       :         132,494.36
+
+ 
+ 
+ 

@@ -1,0 +1,66 @@
+6
+BVIC0306.TXT
+
+BVIC
+Bank Victoria International Tbk
+Af          :
+Sector Code : 81
+Sector Name : BANK
+
+(In thousand rupiah except Par Value, Closing Price and Ratios)
+
+Financial Statement Date    : 30-Jun-2003
+Fiscal Year Ends            : Dec
+Months Covered in Income St : 6
+
+Summary of Balance Sheet
+  Receivables               :               0.00
+  Inventories               :               0.00
+  Current Assets            :               0.00
+  Fixed Assets              :      31,615,000.00
+  Other Asstes              :      22,015,000.00
+  Total Assets              :   1,493,906,000.00
+  Current Liabilities       :               0.00
+  Longterm Liabiities       :               0.00
+  Total Liabilities         :   1,368,816,000.00
+  Authorized                :       2,136,000.00
+  Paid-up Capital           :     110,080,000.00
+  Par Value                 :                100
+  Paid-up Capital Shares    :       1,100,800.00
+  Retained Earnings         :      14,872,000.00
+  Total Equity              :     125,090,000.00
+  Minority Interest         :               0.00
+
+Summary of Income Statement
+  Total Sales               :     108,470,000.00
+  Cost of Good Sold         :     105,978,000.00
+  Gross Profit              :       2,492,000.00
+  Operating Profit          :       2,492,000.00
+  Other Income              :          73,000.00
+  Eearning Before Tax       :       2,565,000.00
+  Tax                       :               0.00
+  Net Income                :       2,565,000.00
+  Closing Price             :              45.00
+
+Per Share Data (Rp)
+  Eps                       :               4.66
+  Book Value                :             113.64
+
+Financial Ratios
+  Debt Equity Ratio (X)     :              10.94
+  Roa (%)                   :                .34
+  Roe (%)                   :               4.10
+  Npm (%)                   :               4.73
+  Opm (%)                   :               4.59
+
+Cash Flow
+  CF from Operating Activities                        :     243,389,000.00
+  CF from Investing Activities                        :     -46,018,000.00
+  CF from Financing Activities                        :               0.00
+  Net Increase in Cash & Cash Equivalent              :     197,371,000.00
+  Cash & Cash Equivalent at The Beginning of The Year :      56,581,000.00
+  Cash & Cash Equivalent at The End of The Year       :     253,952,000.00
+
+ 
+ 
+ 

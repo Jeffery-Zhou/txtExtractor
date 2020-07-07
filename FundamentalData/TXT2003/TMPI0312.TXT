@@ -1,0 +1,66 @@
+6
+TMPI0312.TXT
+
+TMPI
+AGIS Tbk
+Af          :
+Sector Code : 91
+Sector Name : WHOLESALE (DURABLE & NON-DURABLE GOODS)
+
+(In thousand rupiah except Par Value, Closing Price and Ratios)
+
+Financial Statement Date    : 31-Dec-2003
+Fiscal Year Ends            : Dec
+Months Covered in Income St : 12
+
+Summary of Balance Sheet
+  Receivables               :     139,951,292.59
+  Inventories               :      59,947,848.82
+  Current Assets            :     253,771,813.67
+  Fixed Assets              :      22,316,620.94
+  Other Asstes              :       9,567,803.21
+  Total Assets              :     477,875,260.26
+  Current Liabilities       :     126,663,120.98
+  Longterm Liabiities       :       5,216,396.78
+  Total Liabilities         :     131,879,517.76
+  Authorized                :       6,711,459.12
+  Paid-up Capital           :     335,572,956.00
+  Par Value                 :                200
+  Paid-up Capital Shares    :       1,677,864.78
+  Retained Earnings         :       1,797,367.25
+  Total Equity              :     331,996,141.54
+  Minority Interest         :      13,999,600.96
+
+Summary of Income Statement
+  Total Sales               :     364,563,669.41
+  Cost of Good Sold         :     325,045,039.59
+  Gross Profit              :      39,518,629.82
+  Operating Profit          :     -19,377,726.80
+  Other Income              :      26,313,812.68
+  Eearning Before Tax       :       6,936,085.88
+  Tax                       :      -3,580,011.82
+  Net Income                :      11,435,083.94
+  Closing Price             :              80.00
+
+Per Share Data (Rp)
+  Eps                       :               6.82
+  Book Value                :             197.87
+
+Financial Ratios
+  Debt Equity Ratio (X)     :                .40
+  Roa (%)                   :               2.39
+  Roe (%)                   :               3.44
+  Npm (%)                   :               3.14
+  Opm (%)                   :              -5.32
+
+Cash Flow
+  CF from Operating Activities                        :     -14,816,439.25
+  CF from Investing Activities                        :       8,984,680.02
+  CF from Financing Activities                        :       6,877,353.34
+  Net Increase in Cash & Cash Equivalent              :       1,045,594.11
+  Cash & Cash Equivalent at The Beginning of The Year :      17,882,772.00
+  Cash & Cash Equivalent at The End of The Year       :      18,928,366.11
+
+ 
+ 
+ 

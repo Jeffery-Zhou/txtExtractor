@@ -1,0 +1,66 @@
+6
+JECC0312.TXT
+
+JECC
+Jembo Cable Company Tbk
+Af          :
+Sector Code : 45
+Sector Name : CABLE
+
+(In thousand rupiah except Par Value, Closing Price and Ratios)
+
+Financial Statement Date    : 31-Dec-2003
+Fiscal Year Ends            : Dec
+Months Covered in Income St : 12
+
+Summary of Balance Sheet
+  Receivables               :      69,238,207.00
+  Inventories               :      87,557,360.00
+  Current Assets            :     180,059,071.00
+  Fixed Assets              :      90,548,216.00
+  Other Asstes              :               0.00
+  Total Assets              :     277,187,686.00
+  Current Liabilities       :     174,193,209.00
+  Longterm Liabiities       :      37,450,889.00
+  Total Liabilities         :     211,644,098.00
+  Authorized                :         600,000.00
+  Paid-up Capital           :      75,600,000.00
+  Par Value                 :                500
+  Paid-up Capital Shares    :         151,200.00
+  Retained Earnings         :     -47,898,306.00
+  Total Equity              :      65,537,875.00
+  Minority Interest         :           5,713.00
+
+Summary of Income Statement
+  Total Sales               :     282,031,428.00
+  Cost of Good Sold         :     253,513,522.00
+  Gross Profit              :      28,517,906.00
+  Operating Profit          :       1,255,924.00
+  Other Income              :      -9,647,406.00
+  Eearning Before Tax       :      -8,391,482.00
+  Tax                       :         198,510.00
+  Net Income                :         343,171.00
+  Closing Price             :             350.00
+
+Per Share Data (Rp)
+  Eps                       :               2.27
+  Book Value                :             433.45
+
+Financial Ratios
+  Debt Equity Ratio (X)     :               3.23
+  Roa (%)                   :                .12
+  Roe (%)                   :                .52
+  Npm (%)                   :                .12
+  Opm (%)                   :                .45
+
+Cash Flow
+  CF from Operating Activities                        :      22,866,149.00
+  CF from Investing Activities                        :     -11,974,053.00
+  CF from Financing Activities                        :     -10,884,567.00
+  Net Increase in Cash & Cash Equivalent              :           7,529.00
+  Cash & Cash Equivalent at The Beginning of The Year :       5,040,625.00
+  Cash & Cash Equivalent at The End of The Year       :       5,048,154.00
+
+ 
+ 
+ 

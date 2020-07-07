@@ -1,0 +1,66 @@
+6
+TPEN0212.TXT
+
+TPEN
+Texmaco Perkasa Engineering Tbk
+Af          :
+Sector Code : 41
+Sector Name : MACHINERY AND HEAVY EQUIPMENT
+
+(In thousand rupiah except Par Value, Closing Price and Ratios)
+
+Financial Statement Date    : 31-Dec-2002
+Fiscal Year Ends            : Dec
+Months Covered in Income St : 12
+
+Summary of Balance Sheet
+  Receivables               :      16,076,426.82
+  Inventories               :      98,868,960.13
+  Current Assets            :     128,993,381.53
+  Fixed Assets              :     562,410,067.84
+  Other Asstes              :               0.00
+  Total Assets              :   2,645,401,845.45
+  Current Liabilities       :     199,608,423.92
+  Longterm Liabiities       :   1,965,937,334.19
+  Total Liabilities         :   2,165,545,758.11
+  Authorized                :       4,900,000.00
+  Paid-up Capital           :   1,023,120,000.00
+  Par Value                 :                500
+  Paid-up Capital Shares    :       2,046,240.00
+  Retained Earnings         :  -2,524,582,025.26
+  Total Equity              :     479,856,087.34
+  Minority Interest         :               0.00
+
+Summary of Income Statement
+  Total Sales               :      59,901,247.33
+  Cost of Good Sold         :     121,240,707.94
+  Gross Profit              :     -61,339,460.61
+  Operating Profit          :    -109,166,299.68
+  Other Income              :     -65,659,015.63
+  Eearning Before Tax       :    -174,825,315.31
+  Tax                       :      11,212,736.91
+  Net Income                :    -471,071,377.91
+  Closing Price             :           3,000.00
+
+Per Share Data (Rp)
+  Eps                       :            -230.21
+  Book Value                :             234.51
+
+Financial Ratios
+  Debt Equity Ratio (X)     :               4.51
+  Roa (%)                   :             -17.81
+  Roe (%)                   :             -98.17
+  Npm (%)                   :            -786.41
+  Opm (%)                   :            -182.24
+
+Cash Flow
+  CF from Operating Activities                        :     -66,225,012.03
+  CF from Investing Activities                        :        -753,244.44
+  CF from Financing Activities                        :      67,029,560.93
+  Net Increase in Cash & Cash Equivalent              :          51,304.45
+  Cash & Cash Equivalent at The Beginning of The Year :       4,166,180.35
+  Cash & Cash Equivalent at The End of The Year       :       4,217,484.80
+
+ 
+ 
+ 

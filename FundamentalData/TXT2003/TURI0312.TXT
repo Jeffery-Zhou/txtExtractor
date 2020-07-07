@@ -1,0 +1,66 @@
+6
+TURI0312.TXT
+
+TURI
+Tunas Ridean Tbk
+Af          :
+Sector Code : 91
+Sector Name : WHOLESALE (DURABLE & NON-DURABLE GOODS)
+
+(In thousand rupiah except Par Value, Closing Price and Ratios)
+
+Financial Statement Date    : 31-Dec-2003
+Fiscal Year Ends            : Dec
+Months Covered in Income St : 12
+
+Summary of Balance Sheet
+  Receivables               :     591,898,000.00
+  Inventories               :      77,112,000.00
+  Current Assets            :     780,757,000.00
+  Fixed Assets              :     266,126,000.00
+  Other Asstes              :       3,259,000.00
+  Total Assets              :   1,487,299,000.00
+  Current Liabilities       :     329,476,000.00
+  Longterm Liabiities       :     687,336,000.00
+  Total Liabilities         :   1,016,812,000.00
+  Authorized                :       2,500,000.00
+  Paid-up Capital           :     139,500,000.00
+  Par Value                 :                100
+  Paid-up Capital Shares    :       1,395,000.00
+  Retained Earnings         :     329,887,000.00
+  Total Equity              :     470,487,000.00
+  Minority Interest         :               0.00
+
+Summary of Income Statement
+  Total Sales               :   2,700,370,000.00
+  Cost of Good Sold         :   2,472,910,000.00
+  Gross Profit              :     227,460,000.00
+  Operating Profit          :     117,238,000.00
+  Other Income              :       3,668,000.00
+  Eearning Before Tax       :     120,021,000.00
+  Tax                       :      37,879,000.00
+  Net Income                :      82,142,000.00
+  Closing Price             :             300.00
+
+Per Share Data (Rp)
+  Eps                       :              58.88
+  Book Value                :             337.27
+
+Financial Ratios
+  Debt Equity Ratio (X)     :               2.16
+  Roa (%)                   :               5.52
+  Roe (%)                   :              17.46
+  Npm (%)                   :               3.04
+  Opm (%)                   :               4.34
+
+Cash Flow
+  CF from Operating Activities                        :    -164,423,000.00
+  CF from Investing Activities                        :     -70,503,000.00
+  CF from Financing Activities                        :     252,723,000.00
+  Net Increase in Cash & Cash Equivalent              :      17,797,000.00
+  Cash & Cash Equivalent at The Beginning of The Year :      29,602,000.00
+  Cash & Cash Equivalent at The End of The Year       :      47,399,000.00
+
+ 
+ 
+ 

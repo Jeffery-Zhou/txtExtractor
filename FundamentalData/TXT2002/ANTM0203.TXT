@@ -1,0 +1,66 @@
+6
+ANTM0203.TXT
+
+ANTM
+Aneka Tambang Tbk
+Af          :
+Sector Code : 23
+Sector Name : METAL AND MINERAL MINING
+
+(In thousand rupiah except Par Value, Closing Price and Ratios)
+
+Financial Statement Date    : 31-Mar-2002
+Fiscal Year Ends            : Dec
+Months Covered in Income St : 3
+
+Summary of Balance Sheet
+  Receivables               :     155,102,903.00
+  Inventories               :     289,854,679.00
+  Current Assets            :   1,346,755,667.00
+  Fixed Assets              :   1,036,890,555.00
+  Other Asstes              :       6,439,763.00
+  Total Assets              :   2,553,823,708.00
+  Current Liabilities       :     394,535,350.00
+  Longterm Liabiities       :     194,161,259.00
+  Total Liabilities         :     588,696,609.00
+  Authorized                :       3,200,000.00
+  Paid-up Capital           :     615,384,500.00
+  Par Value                 :                500
+  Paid-up Capital Shares    :       1,230,769.00
+  Retained Earnings         :     969,620,521.00
+  Total Equity              :   1,959,555,212.00
+  Minority Interest         :       5,571,887.00
+
+Summary of Income Statement
+  Total Sales               :     342,958,828.00
+  Cost of Good Sold         :     257,421,852.00
+  Gross Profit              :      85,536,976.00
+  Operating Profit          :      56,985,874.00
+  Other Income              :      -4,090,558.00
+  Eearning Before Tax       :      52,895,316.00
+  Tax                       :      11,466,268.00
+  Net Income                :      41,685,158.00
+  Closing Price             :           1,075.00
+
+Per Share Data (Rp)
+  Eps                       :             135.48
+  Book Value                :           1,592.14
+
+Financial Ratios
+  Debt Equity Ratio (X)     :                .30
+  Roa (%)                   :               6.53
+  Roe (%)                   :               8.51
+  Npm (%)                   :              12.15
+  Opm (%)                   :              16.62
+
+Cash Flow
+  CF from Operating Activities                        :     -32,098,998.00
+  CF from Investing Activities                        :     -23,214,560.00
+  CF from Financing Activities                        :      28,038,632.00
+  Net Increase in Cash & Cash Equivalent              :     -27,274,926.00
+  Cash & Cash Equivalent at The Beginning of The Year :     801,746,726.00
+  Cash & Cash Equivalent at The End of The Year       :     774,471,800.00
+
+ 
+ 
+ 

@@ -1,0 +1,66 @@
+6
+MDLN0206.TXT
+
+MDLN
+Modernland Realty Ltd.
+Af          :
+Sector Code : 61
+Sector Name : PROPERTY AND REAL ESTATE
+
+(In thousand rupiah except Par Value, Closing Price and Ratios)
+
+Financial Statement Date    : 30-Jun-2002
+Fiscal Year Ends            : Dec
+Months Covered in Income St : 6
+
+Summary of Balance Sheet
+  Receivables               :       6,083,931.58
+  Inventories               :     254,309,233.88
+  Current Assets            :               0.00
+  Fixed Assets              :     116,587,338.55
+  Other Asstes              :      75,655,563.07
+  Total Assets              :   1,330,047,335.04
+  Current Liabilities       :               0.00
+  Longterm Liabiities       :               0.00
+  Total Liabilities         :   1,444,355,746.01
+  Authorized                :       1,000,000.00
+  Paid-up Capital           :     412,458,830.00
+  Par Value                 :                500
+  Paid-up Capital Shares    :         824,917.66
+  Retained Earnings         :    -530,232,335.96
+  Total Equity              :    -114,308,410.96
+  Minority Interest         :               0.00
+
+Summary of Income Statement
+  Total Sales               :      19,763,480.15
+  Cost of Good Sold         :      12,231,352.97
+  Gross Profit              :       7,532,127.18
+  Operating Profit          :      -2,859,494.18
+  Other Income              :      25,165,887.18
+  Eearning Before Tax       :      22,306,393.00
+  Tax                       :               0.00
+  Net Income                :      22,306,393.00
+  Closing Price             :              55.00
+
+Per Share Data (Rp)
+  Eps                       :              54.08
+  Book Value                :            -138.57
+
+Financial Ratios
+  Debt Equity Ratio (X)     :             -12.64
+  Roa (%)                   :               3.35
+  Roe (%)                   :             -39.03
+  Npm (%)                   :             112.87
+  Opm (%)                   :             -14.47
+
+Cash Flow
+  CF from Operating Activities                        :        -282,732.01
+  CF from Investing Activities                        :        -211,354.00
+  CF from Financing Activities                        :         499,000.00
+  Net Increase in Cash & Cash Equivalent              :           4,914.00
+  Cash & Cash Equivalent at The Beginning of The Year :       1,219,733.83
+  Cash & Cash Equivalent at The End of The Year       :       1,224,647.82
+
+ 
+ 
+ 

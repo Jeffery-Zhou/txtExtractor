@@ -1,0 +1,66 @@
+6
+DOID0303.TXT
+
+DOID
+Daeyu Orchid Indonesia Tbk
+Af          :
+Sector Code : 43
+Sector Name : TEXTILE, GARMENT
+
+(In thousand rupiah except Par Value, Closing Price and Ratios)
+
+Financial Statement Date    : 31-Mar-2003
+Fiscal Year Ends            : Dec
+Months Covered in Income St : 3
+
+Summary of Balance Sheet
+  Receivables               :      10,829,839.13
+  Inventories               :       9,782,692.80
+  Current Assets            :      32,980,846.93
+  Fixed Assets              :       8,177,898.56
+  Other Asstes              :         175,000.00
+  Total Assets              :      42,202,604.17
+  Current Liabilities       :      14,439,530.19
+  Longterm Liabiities       :       1,452,446.96
+  Total Liabilities         :      15,891,977.15
+  Authorized                :         412,060.00
+  Paid-up Capital           :      20,577,093.00
+  Par Value                 :                100
+  Paid-up Capital Shares    :         205,770.93
+  Retained Earnings         :       3,800,276.42
+  Total Equity              :      26,306,381.24
+  Minority Interest         :           4,245.78
+
+Summary of Income Statement
+  Total Sales               :      12,406,481.22
+  Cost of Good Sold         :       9,411,479.45
+  Gross Profit              :       2,995,001.78
+  Operating Profit          :         612,870.54
+  Other Income              :        -254,267.84
+  Eearning Before Tax       :         358,602.70
+  Tax                       :          98,776.11
+  Net Income                :         258,844.37
+  Closing Price             :              60.00
+
+Per Share Data (Rp)
+  Eps                       :               5.03
+  Book Value                :             127.84
+
+Financial Ratios
+  Debt Equity Ratio (X)     :                .60
+  Roa (%)                   :               2.45
+  Roe (%)                   :               3.94
+  Npm (%)                   :               8.35
+  Opm (%)                   :              19.76
+
+Cash Flow
+  CF from Operating Activities                        :        -991,140.66
+  CF from Investing Activities                        :         -34,539.30
+  CF from Financing Activities                        :      -3,815,254.25
+  Net Increase in Cash & Cash Equivalent              :      -4,840,934.21
+  Cash & Cash Equivalent at The Beginning of The Year :      12,296,603.65
+  Cash & Cash Equivalent at The End of The Year       :       7,455,669.43
+
+ 
+ 
+ 

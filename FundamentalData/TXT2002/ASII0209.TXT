@@ -1,0 +1,66 @@
+6
+ASII0209.TXT
+
+ASII
+Astra Int'l Tbk
+Af          :
+Sector Code : 42
+Sector Name : AUTOMOTIVE AND COMPONENTS
+
+(In thousand rupiah except Par Value, Closing Price and Ratios)
+
+Financial Statement Date    : 30-Sep-2002
+Fiscal Year Ends            : Dec
+Months Covered in Income St : 9
+
+Summary of Balance Sheet
+  Receivables               :   2,205,998,000.00
+  Inventories               :   2,616,420,000.00
+  Current Assets            :  11,805,666,000.00
+  Fixed Assets              :   6,246,028,000.00
+  Other Asstes              :      78,356,000.00
+  Total Assets              :  27,569,222,000.00
+  Current Liabilities       :  10,476,786,000.00
+  Longterm Liabiities       :   9,044,759,000.00
+  Total Liabilities         :  19,521,545,000.00
+  Authorized                :       6,000,000.00
+  Paid-up Capital           :   1,303,779,252.00
+  Par Value                 :                500
+  Paid-up Capital Shares    :       2,607,558.50
+  Retained Earnings         :   2,378,579,000.00
+  Total Equity              :   5,731,070,000.00
+  Minority Interest         :   2,316,607,000.00
+
+Summary of Income Statement
+  Total Sales               :  23,107,926,000.00
+  Cost of Good Sold         :  18,260,246,000.00
+  Gross Profit              :   4,847,680,000.00
+  Operating Profit          :   2,071,004,000.00
+  Other Income              :   1,293,515,000.00
+  Eearning Before Tax       :   4,599,176,000.00
+  Tax                       :   1,243,138,000.00
+  Net Income                :   3,314,882,000.00
+  Closing Price             :           2,675.00
+
+Per Share Data (Rp)
+  Eps                       :           1,695.01
+  Book Value                :           2,197.87
+
+Financial Ratios
+  Debt Equity Ratio (X)     :               3.41
+  Roa (%)                   :              16.03
+  Roe (%)                   :              77.12
+  Npm (%)                   :              19.13
+  Opm (%)                   :              11.95
+
+Cash Flow
+  CF from Operating Activities                        :   3,552,061,000.00
+  CF from Investing Activities                        :    -221,609,000.00
+  CF from Financing Activities                        :  -1,040,045,000.00
+  Net Increase in Cash & Cash Equivalent              :   2,290,407,000.00
+  Cash & Cash Equivalent at The Beginning of The Year :   3,374,578,000.00
+  Cash & Cash Equivalent at The End of The Year       :   5,664,985,000.00
+
+ 
+ 
+ 

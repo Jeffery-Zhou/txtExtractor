@@ -1,0 +1,66 @@
+6
+VOKS0206.TXT
+
+VOKS
+Voksel Electric Tbk
+Af          :
+Sector Code : 45
+Sector Name : CABLE
+
+(In thousand rupiah except Par Value, Closing Price and Ratios)
+
+Financial Statement Date    : 30-Jun-2002
+Fiscal Year Ends            : Dec
+Months Covered in Income St : 6
+
+Summary of Balance Sheet
+  Receivables               :      82,589,981.93
+  Inventories               :      87,249,130.54
+  Current Assets            :     228,089,637.40
+  Fixed Assets              :     176,906,713.53
+  Other Asstes              :         550,232.48
+  Total Assets              :     428,099,254.78
+  Current Liabilities       :      84,964,497.65
+  Longterm Liabiities       :     393,445,106.61
+  Total Liabilities         :     478,409,604.26
+  Authorized                :         500,000.00
+  Paid-up Capital           :      63,000,000.00
+  Par Value                 :                500
+  Paid-up Capital Shares    :         126,000.00
+  Retained Earnings         :    -162,236,754.48
+  Total Equity              :     -50,310,349.48
+  Minority Interest         :               0.00
+
+Summary of Income Statement
+  Total Sales               :     246,439,160.47
+  Cost of Good Sold         :     229,380,922.37
+  Gross Profit              :      17,058,238.10
+  Operating Profit          :        -888,279.34
+  Other Income              :      49,273,302.69
+  Eearning Before Tax       :      48,385,023.36
+  Tax                       :      11,171,156.76
+  Net Income                :      44,481,245.46
+  Closing Price             :             130.00
+
+Per Share Data (Rp)
+  Eps                       :             706.05
+  Book Value                :            -399.29
+
+Financial Ratios
+  Debt Equity Ratio (X)     :              -9.51
+  Roa (%)                   :              20.78
+  Roe (%)                   :            -176.83
+  Npm (%)                   :              18.05
+  Opm (%)                   :               -.36
+
+Cash Flow
+  CF from Operating Activities                        :       9,115,032.64
+  CF from Investing Activities                        :      -2,898,189.68
+  CF from Financing Activities                        :      -4,309,335.69
+  Net Increase in Cash & Cash Equivalent              :         963,121.66
+  Cash & Cash Equivalent at The Beginning of The Year :      21,469,716.20
+  Cash & Cash Equivalent at The End of The Year       :      22,432,837.85
+
+ 
+ 
+ 

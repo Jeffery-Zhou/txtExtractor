@@ -1,0 +1,66 @@
+6
+MLND0312.TXT
+
+MLND
+Mulialand Tbk
+Af          :
+Sector Code : 61
+Sector Name : PROPERTY AND REAL ESTATE
+
+(In thousand rupiah except Par Value, Closing Price and Ratios)
+
+Financial Statement Date    : 31-Dec-2003
+Fiscal Year Ends            : Dec
+Months Covered in Income St : 12
+
+Summary of Balance Sheet
+  Receivables               :      31,607,732.60
+  Inventories               :       3,808,918.46
+  Current Assets            :     233,003,773.12
+  Fixed Assets              :     271,874,797.21
+  Other Asstes              :               0.00
+  Total Assets              :   1,351,350,167.30
+  Current Liabilities       :   1,419,801,661.32
+  Longterm Liabiities       :      92,481,994.04
+  Total Liabilities         :   1,512,283,655.36
+  Authorized                :       3,000,000.00
+  Paid-up Capital           :     491,400,000.00
+  Par Value                 :                500
+  Paid-up Capital Shares    :         982,800.00
+  Retained Earnings         :    -748,222,789.95
+  Total Equity              :    -166,945,564.11
+  Minority Interest         :       6,012,076.05
+
+Summary of Income Statement
+  Total Sales               :     555,689,830.66
+  Cost of Good Sold         :     392,697,608.27
+  Gross Profit              :     162,992,222.39
+  Operating Profit          :      51,649,038.98
+  Other Income              :    -358,648,567.81
+  Eearning Before Tax       :    -306,999,528.83
+  Tax                       :      45,896,993.26
+  Net Income                :    -370,011,722.50
+  Closing Price             :             700.00
+
+Per Share Data (Rp)
+  Eps                       :            -376.49
+  Book Value                :            -169.87
+
+Financial Ratios
+  Debt Equity Ratio (X)     :              -9.06
+  Roa (%)                   :             -27.38
+  Roe (%)                   :             221.64
+  Npm (%)                   :             -66.59
+  Opm (%)                   :               9.29
+
+Cash Flow
+  CF from Operating Activities                        :     136,817,047.92
+  CF from Investing Activities                        :    -120,488,867.73
+  CF from Financing Activities                        :               0.00
+  Net Increase in Cash & Cash Equivalent              :      16,328,180.19
+  Cash & Cash Equivalent at The Beginning of The Year :     151,441,737.13
+  Cash & Cash Equivalent at The End of The Year       :     167,769,917.32
+
+ 
+ 
+ 

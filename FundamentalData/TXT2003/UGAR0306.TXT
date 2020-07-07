@@ -1,0 +1,66 @@
+6
+UGAR0306.TXT
+
+UGAR
+Wahana Jaya Perkasa Tbk
+Af          :
+Sector Code : 35
+Sector Name : PLASTICS & PACKAGING
+
+(In thousand rupiah except Par Value, Closing Price and Ratios)
+
+Financial Statement Date    : 30-Jun-2003
+Fiscal Year Ends            : Dec
+Months Covered in Income St : 6
+
+Summary of Balance Sheet
+  Receivables               :      32,324,161.00
+  Inventories               :      20,587,974.00
+  Current Assets            :      68,796,286.00
+  Fixed Assets              :   1,196,487,514.00
+  Other Asstes              :               0.00
+  Total Assets              :   1,478,947,634.00
+  Current Liabilities       :     255,509,121.00
+  Longterm Liabiities       :     335,861,437.00
+  Total Liabilities         :     591,370,558.00
+  Authorized                :       5,069,042.60
+  Paid-up Capital           :     483,840,000.00
+  Par Value                 :                500
+  Paid-up Capital Shares    :         967,680.00
+  Retained Earnings         :    -476,972,556.00
+  Total Equity              :     551,499,058.00
+  Minority Interest         :     336,078,018.00
+
+Summary of Income Statement
+  Total Sales               :      71,002,522.00
+  Cost of Good Sold         :      90,034,129.00
+  Gross Profit              :     -19,031,607.00
+  Operating Profit          :     -24,486,233.00
+  Other Income              :       7,688,637.00
+  Eearning Before Tax       :     -16,797,596.00
+  Tax                       :       3,784,963.00
+  Net Income                :     -12,765,484.00
+  Closing Price             :             230.00
+
+Per Share Data (Rp)
+  Eps                       :             -26.38
+  Book Value                :             569.92
+
+Financial Ratios
+  Debt Equity Ratio (X)     :               1.07
+  Roa (%)                   :              -1.73
+  Roe (%)                   :              -4.63
+  Npm (%)                   :             -35.96
+  Opm (%)                   :             -68.97
+
+Cash Flow
+  CF from Operating Activities                        :       8,162,036.00
+  CF from Investing Activities                        :        -169,774.00
+  CF from Financing Activities                        :     -10,443,888.00
+  Net Increase in Cash & Cash Equivalent              :      -2,451,626.00
+  Cash & Cash Equivalent at The Beginning of The Year :       2,719,168.00
+  Cash & Cash Equivalent at The End of The Year       :         440,516.00
+
+ 
+ 
+ 

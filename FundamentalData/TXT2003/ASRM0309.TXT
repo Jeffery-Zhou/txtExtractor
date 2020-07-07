@@ -1,0 +1,66 @@
+6
+ASRM0309.TXT
+
+ASRM
+Asuransi Ramayana Tbk
+Af          :
+Sector Code : 84
+Sector Name : INSURANCE
+
+(In thousand rupiah except Par Value, Closing Price and Ratios)
+
+Financial Statement Date    : 30-Sep-2003
+Fiscal Year Ends            : Dec
+Months Covered in Income St : 9
+
+Summary of Balance Sheet
+  Receivables               :      75,788,426.29
+  Inventories               :               0.00
+  Current Assets            :               0.00
+  Fixed Assets              :      17,612,858.99
+  Other Asstes              :       4,898,969.70
+  Total Assets              :     171,004,039.38
+  Current Liabilities       :               0.00
+  Longterm Liabiities       :               0.00
+  Total Liabilities         :     102,304,076.43
+  Authorized                :         220,000.00
+  Paid-up Capital           :      28,499,991.00
+  Par Value                 :                500
+  Paid-up Capital Shares    :          56,999.98
+  Retained Earnings         :      28,713,217.72
+  Total Equity              :      68,688,196.57
+  Minority Interest         :          11,766.38
+
+Summary of Income Statement
+  Total Sales               :      75,063,885.00
+  Cost of Good Sold         :      59,515,396.82
+  Gross Profit              :      15,548,488.17
+  Operating Profit          :      15,548,488.17
+  Other Income              :         838,337.42
+  Eearning Before Tax       :      16,386,825.59
+  Tax                       :       3,048,110.00
+  Net Income                :      13,338,370.58
+  Closing Price             :             800.00
+
+Per Share Data (Rp)
+  Eps                       :             312.01
+  Book Value                :           1,205.06
+
+Financial Ratios
+  Debt Equity Ratio (X)     :               1.49
+  Roa (%)                   :              10.40
+  Roe (%)                   :              25.89
+  Npm (%)                   :              23.69
+  Opm (%)                   :              27.62
+
+Cash Flow
+  CF from Operating Activities                        :      20,990,405.21
+  CF from Investing Activities                        :     -16,870,177.88
+  CF from Financing Activities                        :      -3,290,973.02
+  Net Increase in Cash & Cash Equivalent              :         829,254.31
+  Cash & Cash Equivalent at The Beginning of The Year :       8,178,541.28
+  Cash & Cash Equivalent at The End of The Year       :       9,007,795.60
+
+ 
+ 
+ 

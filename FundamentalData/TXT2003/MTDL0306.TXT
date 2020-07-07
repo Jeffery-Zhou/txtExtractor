@@ -1,0 +1,66 @@
+6
+MTDL0306.TXT
+
+MTDL
+Metrodata Electronics Tbk
+Af          :
+Sector Code : 97
+Sector Name : COMPUTER AND SERVICES
+
+(In thousand rupiah except Par Value, Closing Price and Ratios)
+
+Financial Statement Date    : 30-Jun-2003
+Fiscal Year Ends            : Dec
+Months Covered in Income St : 6
+
+Summary of Balance Sheet
+  Receivables               :     179,555,998.44
+  Inventories               :      67,844,633.87
+  Current Assets            :     344,768,337.70
+  Fixed Assets              :      71,203,057.28
+  Other Asstes              :               0.00
+  Total Assets              :     480,991,732.53
+  Current Liabilities       :     160,556,538.94
+  Longterm Liabiities       :      74,391,883.08
+  Total Liabilities         :     234,948,422.02
+  Authorized                :       2,650,000.00
+  Paid-up Capital           :     101,034,458.65
+  Par Value                 :                 50
+  Paid-up Capital Shares    :       2,020,689.17
+  Retained Earnings         :      82,136,060.07
+  Total Equity              :     215,054,692.16
+  Minority Interest         :      30,988,618.35
+
+Summary of Income Statement
+  Total Sales               :     455,849,802.28
+  Cost of Good Sold         :     397,136,965.16
+  Gross Profit              :      58,712,837.12
+  Operating Profit          :      11,980,969.01
+  Other Income              :      -7,453,544.51
+  Eearning Before Tax       :       5,022,996.36
+  Tax                       :       3,561,971.26
+  Net Income                :        -634,044.82
+  Closing Price             :             110.00
+
+Per Share Data (Rp)
+  Eps                       :               -.63
+  Book Value                :             106.43
+
+Financial Ratios
+  Debt Equity Ratio (X)     :               1.09
+  Roa (%)                   :               -.26
+  Roe (%)                   :               -.59
+  Npm (%)                   :               -.28
+  Opm (%)                   :               5.26
+
+Cash Flow
+  CF from Operating Activities                        :      -2,721,531.05
+  CF from Investing Activities                        :     -17,248,105.15
+  CF from Financing Activities                        :      17,270,024.27
+  Net Increase in Cash & Cash Equivalent              :      -2,699,611.94
+  Cash & Cash Equivalent at The Beginning of The Year :      42,015,290.44
+  Cash & Cash Equivalent at The End of The Year       :      39,315,678.50
+
+ 
+ 
+ 

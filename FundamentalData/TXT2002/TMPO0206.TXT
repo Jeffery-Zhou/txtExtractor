@@ -1,0 +1,66 @@
+6
+TMPO0206.TXT
+
+TMPO
+Tempo Inti Media Tbk
+Af          :
+Sector Code : 99
+Sector Name : OTHERS TRADE, SERVICES & INVESTMENT
+
+(In thousand rupiah except Par Value, Closing Price and Ratios)
+
+Financial Statement Date    : 30-Jun-2002
+Fiscal Year Ends            : Dec
+Months Covered in Income St : 6
+
+Summary of Balance Sheet
+  Receivables               :      19,727,465.00
+  Inventories               :       3,103,028.00
+  Current Assets            :      28,352,797.00
+  Fixed Assets              :      52,196,134.00
+  Other Asstes              :          86,885.00
+  Total Assets              :     112,376,467.00
+  Current Liabilities       :      10,659,202.00
+  Longterm Liabiities       :       3,934,333.00
+  Total Liabilities         :      14,593,535.00
+  Authorized                :       2,400,000.00
+  Paid-up Capital           :      72,500,000.00
+  Par Value                 :                100
+  Paid-up Capital Shares    :         725,000.00
+  Retained Earnings         :       3,193,634.00
+  Total Equity              :      97,782,932.00
+  Minority Interest         :               0.00
+
+Summary of Income Statement
+  Total Sales               :      38,961,327.00
+  Cost of Good Sold         :      27,530,632.00
+  Gross Profit              :      11,430,695.00
+  Operating Profit          :      -6,297,512.00
+  Other Income              :       1,318,257.00
+  Eearning Before Tax       :      -4,979,255.00
+  Tax                       :               0.00
+  Net Income                :      -4,979,255.00
+  Closing Price             :             235.00
+
+Per Share Data (Rp)
+  Eps                       :             -13.74
+  Book Value                :             134.87
+
+Financial Ratios
+  Debt Equity Ratio (X)     :                .15
+  Roa (%)                   :              -8.86
+  Roe (%)                   :             -10.18
+  Npm (%)                   :             -12.78
+  Opm (%)                   :             -16.16
+
+Cash Flow
+  CF from Operating Activities                        :      -7,080,822.00
+  CF from Investing Activities                        :       2,287,049.00
+  CF from Financing Activities                        :       3,291,637.00
+  Net Increase in Cash & Cash Equivalent              :      -1,502,136.00
+  Cash & Cash Equivalent at The Beginning of The Year :       3,027,119.00
+  Cash & Cash Equivalent at The End of The Year       :       1,524,983.00
+
+ 
+ 
+ 

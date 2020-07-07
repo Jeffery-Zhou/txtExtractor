@@ -1,0 +1,66 @@
+6
+RDTX0312.TXT
+
+RDTX
+Roda Vivatex Tbk
+Af          :
+Sector Code : 43
+Sector Name : TEXTILE, GARMENT
+
+(In thousand rupiah except Par Value, Closing Price and Ratios)
+
+Financial Statement Date    : 31-Dec-2003
+Fiscal Year Ends            : Dec
+Months Covered in Income St : 12
+
+Summary of Balance Sheet
+  Receivables               :      26,197,143.00
+  Inventories               :      35,258,806.78
+  Current Assets            :     122,841,295.59
+  Fixed Assets              :     181,808,294.86
+  Other Asstes              :               0.00
+  Total Assets              :     309,646,134.55
+  Current Liabilities       :      32,447,093.53
+  Longterm Liabiities       :      18,186,863.91
+  Total Liabilities         :      50,633,957.44
+  Authorized                :         560,000.00
+  Paid-up Capital           :     134,400,000.00
+  Par Value                 :                500
+  Paid-up Capital Shares    :         268,800.00
+  Retained Earnings         :     129,538,558.91
+  Total Equity              :     259,012,177.11
+  Minority Interest         :               0.00
+
+Summary of Income Statement
+  Total Sales               :     178,585,875.99
+  Cost of Good Sold         :     156,836,087.87
+  Gross Profit              :      21,749,788.12
+  Operating Profit          :       3,272,359.79
+  Other Income              :       5,155,750.25
+  Eearning Before Tax       :       8,428,110.04
+  Tax                       :       1,748,666.37
+  Net Income                :       6,679,443.67
+  Closing Price             :             900.00
+
+Per Share Data (Rp)
+  Eps                       :              24.85
+  Book Value                :             963.59
+
+Financial Ratios
+  Debt Equity Ratio (X)     :                .20
+  Roa (%)                   :               2.16
+  Roe (%)                   :               2.58
+  Npm (%)                   :               3.74
+  Opm (%)                   :               1.83
+
+Cash Flow
+  CF from Operating Activities                        :      39,840,499.86
+  CF from Investing Activities                        :      -6,906,256.36
+  CF from Financing Activities                        :               0.00
+  Net Increase in Cash & Cash Equivalent              :      32,934,243.50
+  Cash & Cash Equivalent at The Beginning of The Year :      18,121,981.79
+  Cash & Cash Equivalent at The End of The Year       :      51,056,225.28
+
+ 
+ 
+ 

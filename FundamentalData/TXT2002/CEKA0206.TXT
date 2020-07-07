@@ -1,0 +1,66 @@
+6
+CEKA0206.TXT
+
+CEKA
+Cahaya Kalbar Tbk
+Af          :
+Sector Code : 51
+Sector Name : FOOD AND BEVERAGES
+
+(In thousand rupiah except Par Value, Closing Price and Ratios)
+
+Financial Statement Date    : 30-Jun-2002
+Fiscal Year Ends            : Dec
+Months Covered in Income St : 6
+
+Summary of Balance Sheet
+  Receivables               :      22,043,573.03
+  Inventories               :     110,829,588.06
+  Current Assets            :     143,818,119.77
+  Fixed Assets              :     179,728,659.03
+  Other Asstes              :               0.00
+  Total Assets              :     327,578,221.27
+  Current Liabilities       :      84,151,628.51
+  Longterm Liabiities       :      13,488,079.54
+  Total Liabilities         :      97,639,708.05
+  Authorized                :         476,000.00
+  Paid-up Capital           :     148,750,000.00
+  Par Value                 :                500
+  Paid-up Capital Shares    :         297,500.00
+  Retained Earnings         :     -23,659,816.10
+  Total Equity              :     229,938,009.21
+  Minority Interest         :             504.01
+
+Summary of Income Statement
+  Total Sales               :      86,683,209.57
+  Cost of Good Sold         :      75,703,581.12
+  Gross Profit              :      10,979,628.45
+  Operating Profit          :       6,955,892.40
+  Other Income              :       8,902,688.44
+  Eearning Before Tax       :      15,858,580.83
+  Tax                       :       3,181,857.76
+  Net Income                :      12,676,719.06
+  Closing Price             :             200.00
+
+Per Share Data (Rp)
+  Eps                       :              85.22
+  Book Value                :             772.90
+
+Financial Ratios
+  Debt Equity Ratio (X)     :                .42
+  Roa (%)                   :               7.74
+  Roe (%)                   :              11.03
+  Npm (%)                   :              14.62
+  Opm (%)                   :               8.02
+
+Cash Flow
+  CF from Operating Activities                        :     -13,937,185.58
+  CF from Investing Activities                        :     -10,158,915.82
+  CF from Financing Activities                        :       9,654,727.49
+  Net Increase in Cash & Cash Equivalent              :     -14,441,373.92
+  Cash & Cash Equivalent at The Beginning of The Year :      19,940,906.32
+  Cash & Cash Equivalent at The End of The Year       :       5,499,532.40
+
+ 
+ 
+ 

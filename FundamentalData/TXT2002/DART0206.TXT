@@ -1,0 +1,66 @@
+6
+DART0206.TXT
+
+DART
+Duta Anggada Realty Tbk
+Af          :
+Sector Code : 61
+Sector Name : PROPERTY AND REAL ESTATE
+
+(In thousand rupiah except Par Value, Closing Price and Ratios)
+
+Financial Statement Date    : 30-Jun-2002
+Fiscal Year Ends            : Dec
+Months Covered in Income St : 6
+
+Summary of Balance Sheet
+  Receivables               :      89,714,846.68
+  Inventories               :     141,630,828.20
+  Current Assets            :               0.00
+  Fixed Assets              :   1,344,973,463.87
+  Other Asstes              :      50,454,495.49
+  Total Assets              :   1,890,409,808.65
+  Current Liabilities       :               0.00
+  Longterm Liabiities       :               0.00
+  Total Liabilities         :   3,227,693,288.47
+  Authorized                :       2,000,000.00
+  Paid-up Capital           :     275,000,000.00
+  Par Value                 :                500
+  Paid-up Capital Shares    :         550,000.00
+  Retained Earnings         :  -1,611,726,699.58
+  Total Equity              :  -1,337,283,479.82
+  Minority Interest         :               0.00
+
+Summary of Income Statement
+  Total Sales               :     107,022,856.55
+  Cost of Good Sold         :      57,320,492.24
+  Gross Profit              :      49,702,364.31
+  Operating Profit          :      49,702,364.31
+  Other Income              :     224,391,427.43
+  Eearning Before Tax       :     274,093,791.73
+  Tax                       :       5,370,892.54
+  Net Income                :     268,722,899.19
+  Closing Price             :             120.00
+
+Per Share Data (Rp)
+  Eps                       :             977.17
+  Book Value                :          -2,431.42
+
+Financial Ratios
+  Debt Equity Ratio (X)     :              -2.41
+  Roa (%)                   :              28.43
+  Roe (%)                   :             -40.19
+  Npm (%)                   :             251.09
+  Opm (%)                   :              46.44
+
+Cash Flow
+  CF from Operating Activities                        :      52,410,224.94
+  CF from Investing Activities                        :      -3,239,500.95
+  CF from Financing Activities                        :      -9,570,770.57
+  Net Increase in Cash & Cash Equivalent              :      33,399,475.10
+  Cash & Cash Equivalent at The Beginning of The Year :      26,591,522.35
+  Cash & Cash Equivalent at The End of The Year       :      59,990,997.45
+
+ 
+ 
+ 

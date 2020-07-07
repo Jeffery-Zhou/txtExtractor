@@ -1,0 +1,66 @@
+6
+BATA0206.TXT
+
+BATA
+Sepatu Bata Tbk
+Af          :
+Sector Code : 44
+Sector Name : FOOTWEAR
+
+(In thousand rupiah except Par Value, Closing Price and Ratios)
+
+Financial Statement Date    : 30-Jun-2002
+Fiscal Year Ends            : Dec
+Months Covered in Income St : 6
+
+Summary of Balance Sheet
+  Receivables               :      21,166,115.00
+  Inventories               :     119,457,753.00
+  Current Assets            :     182,252,514.00
+  Fixed Assets              :      55,099,706.00
+  Other Asstes              :      15,940,569.00
+  Total Assets              :     253,292,789.00
+  Current Liabilities       :     111,062,839.00
+  Longterm Liabiities       :       4,879,378.00
+  Total Liabilities         :     115,942,217.00
+  Authorized                :          20,000.00
+  Paid-up Capital           :      13,000,000.00
+  Par Value                 :               1000
+  Paid-up Capital Shares    :          13,000.00
+  Retained Earnings         :     122,090,637.00
+  Total Equity              :     137,350,572.00
+  Minority Interest         :               0.00
+
+Summary of Income Statement
+  Total Sales               :     170,001,902.00
+  Cost of Good Sold         :      94,648,421.00
+  Gross Profit              :      75,353,481.00
+  Operating Profit          :      25,690,102.00
+  Other Income              :      -2,887,470.00
+  Eearning Before Tax       :      22,802,632.00
+  Tax                       :       7,690,576.00
+  Net Income                :      15,112,056.00
+  Closing Price             :          26,000.00
+
+Per Share Data (Rp)
+  Eps                       :           2,324.93
+  Book Value                :          10,565.43
+
+Financial Ratios
+  Debt Equity Ratio (X)     :                .84
+  Roa (%)                   :              11.93
+  Roe (%)                   :              22.01
+  Npm (%)                   :               8.89
+  Opm (%)                   :              15.11
+
+Cash Flow
+  CF from Operating Activities                        :     -18,482,614.00
+  CF from Investing Activities                        :     -15,985,410.00
+  CF from Financing Activities                        :      21,926,101.00
+  Net Increase in Cash & Cash Equivalent              :     -12,541,923.00
+  Cash & Cash Equivalent at The Beginning of The Year :      17,527,926.00
+  Cash & Cash Equivalent at The End of The Year       :       4,986,003.00
+
+ 
+ 
+ 

@@ -1,0 +1,66 @@
+6
+BNLI0203.TXT
+
+BNLI
+Bank Bali Tbk
+Af          :
+Sector Code : 81
+Sector Name : BANK
+
+(In thousand rupiah except Par Value, Closing Price and Ratios)
+
+Financial Statement Date    : 31-Mar-2002
+Fiscal Year Ends            : Dec
+Months Covered in Income St : 3
+
+Summary of Balance Sheet
+  Receivables               :               0.00
+  Inventories               :               0.00
+  Current Assets            :               0.00
+  Fixed Assets              :     528,370,508.84
+  Other Asstes              :     873,623,999.25
+  Total Assets              :  13,472,753,616.60
+  Current Liabilities       :               0.00
+  Longterm Liabiities       :               0.00
+  Total Liabilities         :  12,917,629,993.40
+  Authorized                :      93,471,422.53
+  Paid-up Capital           :     668,645,803.84
+  Par Value                 :            500 & 5
+  Paid-up Capital Shares    :      67,200,583.30
+  Retained Earnings         :  -5,200,474,521.80
+  Total Equity              :     516,736,798.42
+  Minority Interest         :      38,386,824.79
+
+Summary of Income Statement
+  Total Sales               :     444,795,173.97
+  Cost of Good Sold         :     438,937,566.44
+  Gross Profit              :       5,857,607.54
+  Operating Profit          :       5,857,607.54
+  Other Income              :       1,987,665.41
+  Eearning Before Tax       :       7,845,272.94
+  Tax                       :         861,257.10
+  Net Income                :       3,577,656.66
+  Closing Price             :              85.00
+
+Per Share Data (Rp)
+  Eps                       :                .21
+  Book Value                :               7.69
+
+Financial Ratios
+  Debt Equity Ratio (X)     :              25.00
+  Roa (%)                   :                .11
+  Roe (%)                   :               2.77
+  Npm (%)                   :                .80
+  Opm (%)                   :               1.32
+
+Cash Flow
+  CF from Operating Activities                        :     846,340,926.07
+  CF from Investing Activities                        :    -687,718,593.50
+  CF from Financing Activities                        :    -114,039,037.77
+  Net Increase in Cash & Cash Equivalent              :      44,583,294.80
+  Cash & Cash Equivalent at The Beginning of The Year :     790,484,058.52
+  Cash & Cash Equivalent at The End of The Year       :     835,067,353.32
+
+ 
+ 
+ 

@@ -1,0 +1,66 @@
+6
+CLPI0203.TXT
+
+CLPI
+Colorpak Indonesia Tbk
+Af          :
+Sector Code : 34
+Sector Name : CHEMICALS
+
+(In thousand rupiah except Par Value, Closing Price and Ratios)
+
+Financial Statement Date    : 31-Mar-2002
+Fiscal Year Ends            : Dec
+Months Covered in Income St : 3
+
+Summary of Balance Sheet
+  Receivables               :      11,567,126.50
+  Inventories               :       4,715,127.58
+  Current Assets            :      36,925,734.77
+  Fixed Assets              :      11,780,345.56
+  Other Asstes              :       3,435,000.00
+  Total Assets              :      52,141,080.33
+  Current Liabilities       :      10,154,681.12
+  Longterm Liabiities       :          91,509.19
+  Total Liabilities         :      10,246,190.31
+  Authorized                :         304,700.00
+  Paid-up Capital           :      30,470,000.00
+  Par Value                 :                100
+  Paid-up Capital Shares    :         304,700.00
+  Retained Earnings         :       7,786,747.20
+  Total Equity              :      41,894,890.02
+  Minority Interest         :               0.00
+
+Summary of Income Statement
+  Total Sales               :      14,463,846.36
+  Cost of Good Sold         :       9,683,507.16
+  Gross Profit              :       4,780,339.21
+  Operating Profit          :       3,511,976.39
+  Other Income              :         110,320.08
+  Eearning Before Tax       :       3,622,296.46
+  Tax                       :         958,902.64
+  Net Income                :       2,663,393.82
+  Closing Price             :             455.00
+
+Per Share Data (Rp)
+  Eps                       :              34.96
+  Book Value                :             137.50
+
+Financial Ratios
+  Debt Equity Ratio (X)     :                .24
+  Roa (%)                   :              20.43
+  Roe (%)                   :              25.43
+  Npm (%)                   :              18.41
+  Opm (%)                   :              24.28
+
+Cash Flow
+  CF from Operating Activities                        :       2,340,252.73
+  CF from Investing Activities                        :        -385,997.08
+  CF from Financing Activities                        :               0.00
+  Net Increase in Cash & Cash Equivalent              :       1,954,255.65
+  Cash & Cash Equivalent at The Beginning of The Year :      18,333,636.46
+  Cash & Cash Equivalent at The End of The Year       :      20,287,892.11
+
+ 
+ 
+ 

@@ -1,0 +1,66 @@
+6
+TGKA0206.TXT
+
+TGKA
+Tigaraksa Satria Tbk
+Af          :
+Sector Code : 91
+Sector Name : WHOLESALE (DURABLE & NON-DURABLE GOODS)
+
+(In thousand rupiah except Par Value, Closing Price and Ratios)
+
+Financial Statement Date    : 30-Jun-2002
+Fiscal Year Ends            : Dec
+Months Covered in Income St : 6
+
+Summary of Balance Sheet
+  Receivables               :     158,216,574.04
+  Inventories               :     162,746,563.40
+  Current Assets            :     378,511,084.16
+  Fixed Assets              :     107,429,269.42
+  Other Asstes              :       2,843,321.15
+  Total Assets              :     621,913,930.79
+  Current Liabilities       :     227,986,726.67
+  Longterm Liabiities       :      61,299,796.81
+  Total Liabilities         :     289,286,523.49
+  Authorized                :       1,000,000.00
+  Paid-up Capital           :      87,475,500.00
+  Par Value                 :               1000
+  Paid-up Capital Shares    :          87,475.50
+  Retained Earnings         :     145,843,566.52
+  Total Equity              :     317,782,834.49
+  Minority Interest         :      14,844,572.82
+
+Summary of Income Statement
+  Total Sales               :     737,333,101.78
+  Cost of Good Sold         :     643,150,593.19
+  Gross Profit              :      94,182,508.60
+  Operating Profit          :       6,119,289.12
+  Other Income              :      16,033,789.91
+  Eearning Before Tax       :      22,505,869.99
+  Tax                       :       7,247,174.82
+  Net Income                :      13,801,194.06
+  Closing Price             :           4,000.00
+
+Per Share Data (Rp)
+  Eps                       :             315.54
+  Book Value                :           3,632.82
+
+Financial Ratios
+  Debt Equity Ratio (X)     :                .91
+  Roa (%)                   :               4.44
+  Roe (%)                   :               8.69
+  Npm (%)                   :               1.87
+  Opm (%)                   :                .83
+
+Cash Flow
+  CF from Operating Activities                        :     -23,652,950.51
+  CF from Investing Activities                        :     -12,454,121.72
+  CF from Financing Activities                        :     -10,358,524.01
+  Net Increase in Cash & Cash Equivalent              :     -46,465,596.24
+  Cash & Cash Equivalent at The Beginning of The Year :      78,380,041.83
+  Cash & Cash Equivalent at The End of The Year       :      31,914,445.59
+
+ 
+ 
+ 

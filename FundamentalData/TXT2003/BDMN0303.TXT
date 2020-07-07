@@ -1,0 +1,66 @@
+6
+BDMN0303.TXT
+
+BDMN
+Bank Danamon Indonesia Tbk
+Af          :
+Sector Code : 81
+Sector Name : BANK
+
+(In thousand rupiah except Par Value, Closing Price and Ratios)
+
+Financial Statement Date    : 31-Mar-2003
+Fiscal Year Ends            : Dec
+Months Covered in Income St : 3
+
+Summary of Balance Sheet
+  Receivables               :               0.00
+  Inventories               :               0.00
+  Current Assets            :               0.00
+  Fixed Assets              :     533,564,000.00
+  Other Asstes              :   1,978,217,000.00
+  Total Assets              :  47,245,911,000.00
+  Current Liabilities       :               0.00
+  Longterm Liabiities       :               0.00
+  Total Liabilities         :  42,321,534,000.00
+  Authorized                :      88,912,000.00
+  Paid-up Capital           :   3,562,261,000.00
+  Par Value                 :          10000&100
+  Paid-up Capital Shares    :      24,534,610.00
+  Retained Earnings         :   1,331,856,000.00
+  Total Equity              :   4,922,622,000.00
+  Minority Interest         :       1,755,000.00
+
+Summary of Income Statement
+  Total Sales               :   1,913,260,000.00
+  Cost of Good Sold         :   1,641,312,000.00
+  Gross Profit              :     271,948,000.00
+  Operating Profit          :     271,948,000.00
+  Other Income              :      24,481,000.00
+  Eearning Before Tax       :     296,429,000.00
+  Tax                       :      26,637,000.00
+  Net Income                :     269,829,000.00
+  Closing Price             :           1,350.00
+
+Per Share Data (Rp)
+  Eps                       :              43.99
+  Book Value                :             200.64
+
+Financial Ratios
+  Debt Equity Ratio (X)     :               8.60
+  Roa (%)                   :               2.28
+  Roe (%)                   :              21.93
+  Npm (%)                   :              56.41
+  Opm (%)                   :              56.86
+
+Cash Flow
+  CF from Operating Activities                        :  -2,001,356,000.00
+  CF from Investing Activities                        :     -62,726,000.00
+  CF from Financing Activities                        :   1,105,211,000.00
+  Net Increase in Cash & Cash Equivalent              :    -958,871,000.00
+  Cash & Cash Equivalent at The Beginning of The Year :   3,790,085,000.00
+  Cash & Cash Equivalent at The End of The Year       :   2,831,214,000.00
+
+ 
+ 
+ 

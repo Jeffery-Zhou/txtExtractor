@@ -1,0 +1,66 @@
+6
+ALKA0203.TXT
+
+ALKA
+Alakasa Industrindo Tbk
+Af          :
+Sector Code : 33
+Sector Name : METAL AND ALLIED PRODUCTS
+
+(In thousand rupiah except Par Value, Closing Price and Ratios)
+
+Financial Statement Date    : 31-Mar-2002
+Fiscal Year Ends            : Dec
+Months Covered in Income St : 3
+
+Summary of Balance Sheet
+  Receivables               :      10,344,473.00
+  Inventories               :       9,302,372.00
+  Current Assets            :      31,189,957.00
+  Fixed Assets              :      49,416,603.00
+  Other Asstes              :               0.00
+  Total Assets              :      88,413,986.00
+  Current Liabilities       :     235,986,764.00
+  Longterm Liabiities       :       2,514,767.00
+  Total Liabilities         :     238,501,531.00
+  Authorized                :          90,000.00
+  Paid-up Capital           :      21,450,000.00
+  Par Value                 :               1000
+  Paid-up Capital Shares    :          21,450.00
+  Retained Earnings         :    -149,772,405.00
+  Total Equity              :    -150,087,545.00
+  Minority Interest         :               0.00
+
+Summary of Income Statement
+  Total Sales               :      50,866,895.00
+  Cost of Good Sold         :      47,679,119.00
+  Gross Profit              :       3,187,776.00
+  Operating Profit          :       1,706,972.00
+  Other Income              :      15,663,595.00
+  Eearning Before Tax       :      17,370,567.00
+  Tax                       :       6,893,296.00
+  Net Income                :       8,305,811.00
+  Closing Price             :             175.00
+
+Per Share Data (Rp)
+  Eps                       :           1,548.87
+  Book Value                :          -6,997.09
+
+Financial Ratios
+  Debt Equity Ratio (X)     :              -1.59
+  Roa (%)                   :              37.58
+  Roe (%)                   :             -22.14
+  Npm (%)                   :              16.33
+  Opm (%)                   :               3.36
+
+Cash Flow
+  CF from Operating Activities                        :       2,116,648.00
+  CF from Investing Activities                        :          20,859.00
+  CF from Financing Activities                        :               0.00
+  Net Increase in Cash & Cash Equivalent              :       2,137,507.00
+  Cash & Cash Equivalent at The Beginning of The Year :       7,722,938.00
+  Cash & Cash Equivalent at The End of The Year       :       9,671,080.00
+
+ 
+ 
+ 

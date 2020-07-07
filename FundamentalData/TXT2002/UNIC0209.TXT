@@ -1,0 +1,66 @@
+6
+UNIC0209.TXT
+
+UNIC
+Unggul Indah Cahaya Tbk
+Af          :
+Sector Code : 34
+Sector Name : CHEMICALS
+
+(In thousand rupiah except Par Value, Closing Price and Ratios)
+
+Financial Statement Date    : 30-Sep-2002
+Fiscal Year Ends            : Dec
+Months Covered in Income St : 9
+
+Summary of Balance Sheet
+  Receivables               :     187,775,265.05
+  Inventories               :     470,517,614.21
+  Current Assets            :     771,736,782.83
+  Fixed Assets              :     774,027,088.65
+  Other Asstes              :      72,234,193.01
+  Total Assets              :   1,870,800,661.08
+  Current Liabilities       :     253,981,037.40
+  Longterm Liabiities       :     789,701,333.93
+  Total Liabilities         :   1,043,682,371.33
+  Authorized                :       1,160,000.00
+  Paid-up Capital           :     191,665,681.50
+  Par Value                 :                500
+  Paid-up Capital Shares    :         383,331.36
+  Retained Earnings         :     240,073,885.38
+  Total Equity              :     789,135,092.76
+  Minority Interest         :      37,983,197.00
+
+Summary of Income Statement
+  Total Sales               :   1,188,975,909.30
+  Cost of Good Sold         :     931,472,954.81
+  Gross Profit              :     257,502,954.50
+  Operating Profit          :     199,903,703.48
+  Other Income              :     -39,373,688.62
+  Eearning Before Tax       :     160,530,014.85
+  Tax                       :      77,228,674.29
+  Net Income                :      85,309,314.62
+  Closing Price             :           1,150.00
+
+Per Share Data (Rp)
+  Eps                       :             296.73
+  Book Value                :           2,058.62
+
+Financial Ratios
+  Debt Equity Ratio (X)     :               1.32
+  Roa (%)                   :               6.08
+  Roe (%)                   :              14.41
+  Npm (%)                   :               9.57
+  Opm (%)                   :              22.42
+
+Cash Flow
+  CF from Operating Activities                        :     126,113,683.74
+  CF from Investing Activities                        :     -41,948,751.26
+  CF from Financing Activities                        :     -71,162,507.84
+  Net Increase in Cash & Cash Equivalent              :      13,407,558.75
+  Cash & Cash Equivalent at The Beginning of The Year :      66,730,968.23
+  Cash & Cash Equivalent at The End of The Year       :      80,138,526.98
+
+ 
+ 
+ 

@@ -1,0 +1,66 @@
+6
+MKDO0306.TXT
+
+MKDO
+Makindo Tbk
+Af          :
+Sector Code : 89
+Sector Name : OTHERS FINANCE
+
+(In thousand rupiah except Par Value, Closing Price and Ratios)
+
+Financial Statement Date    : 30-Jun-2003
+Fiscal Year Ends            : Dec
+Months Covered in Income St : 6
+
+Summary of Balance Sheet
+  Receivables               :       8,686,187.72
+  Inventories               :               0.00
+  Current Assets            :               0.00
+  Fixed Assets              :      13,063,825.38
+  Other Asstes              :       3,555,050.48
+  Total Assets              :     952,633,636.38
+  Current Liabilities       :               0.00
+  Longterm Liabiities       :               0.00
+  Total Liabilities         :     132,835,819.11
+  Authorized                :       2,000,000.00
+  Paid-up Capital           :     438,945,500.00
+  Par Value                 :                500
+  Paid-up Capital Shares    :         877,891.00
+  Retained Earnings         :     380,104,235.55
+  Total Equity              :     819,384,603.99
+  Minority Interest         :         413,213.29
+
+Summary of Income Statement
+  Total Sales               :       4,977,799.06
+  Cost of Good Sold         :       7,635,084.80
+  Gross Profit              :      -2,657,285.74
+  Operating Profit          :      -2,657,285.74
+  Other Income              :       7,490,708.85
+  Eearning Before Tax       :       4,833,423.11
+  Tax                       :       3,083,953.43
+  Net Income                :       1,737,166.63
+  Closing Price             :             850.00
+
+Per Share Data (Rp)
+  Eps                       :               3.96
+  Book Value                :             933.36
+
+Financial Ratios
+  Debt Equity Ratio (X)     :                .16
+  Roa (%)                   :                .36
+  Roe (%)                   :                .42
+  Npm (%)                   :              69.80
+  Opm (%)                   :            -106.77
+
+Cash Flow
+  CF from Operating Activities                        :        -613,884.51
+  CF from Investing Activities                        :         339,945.60
+  CF from Financing Activities                        :         300,612.26
+  Net Increase in Cash & Cash Equivalent              :          26,673.35
+  Cash & Cash Equivalent at The Beginning of The Year :     162,678,936.22
+  Cash & Cash Equivalent at The End of The Year       :     162,705,609.57
+
+ 
+ 
+ 

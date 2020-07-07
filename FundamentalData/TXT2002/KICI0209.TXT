@@ -1,0 +1,66 @@
+6
+KICI0209.TXT
+
+KICI
+Kedaung Indah Can Tbk
+Af          :
+Sector Code : 55
+Sector Name : HOUSEWARE
+
+(In thousand rupiah except Par Value, Closing Price and Ratios)
+
+Financial Statement Date    : 30-Sep-2002
+Fiscal Year Ends            : Dec
+Months Covered in Income St : 9
+
+Summary of Balance Sheet
+  Receivables               :      14,716,349.50
+  Inventories               :      53,359,516.14
+  Current Assets            :      73,146,295.39
+  Fixed Assets              :      58,753,194.48
+  Other Asstes              :               0.00
+  Total Assets              :     196,853,655.76
+  Current Liabilities       :      31,876,019.30
+  Longterm Liabiities       :      40,780,298.43
+  Total Liabilities         :      72,656,317.72
+  Authorized                :         200,000.00
+  Paid-up Capital           :      69,000,000.00
+  Par Value                 :                500
+  Paid-up Capital Shares    :         138,000.00
+  Retained Earnings         :      38,336,909.14
+  Total Equity              :     124,197,338.04
+  Minority Interest         :               0.00
+
+Summary of Income Statement
+  Total Sales               :      86,270,830.55
+  Cost of Good Sold         :      68,694,201.79
+  Gross Profit              :      17,576,628.76
+  Operating Profit          :       8,005,801.07
+  Other Income              :      -4,589,012.00
+  Eearning Before Tax       :       3,416,789.08
+  Tax                       :       2,664,083.85
+  Net Income                :         925,108.72
+  Closing Price             :             325.00
+
+Per Share Data (Rp)
+  Eps                       :               8.94
+  Book Value                :             899.98
+
+Financial Ratios
+  Debt Equity Ratio (X)     :                .59
+  Roa (%)                   :                .63
+  Roe (%)                   :                .99
+  Npm (%)                   :               1.43
+  Opm (%)                   :              12.37
+
+Cash Flow
+  CF from Operating Activities                        :     -17,511,304.98
+  CF from Investing Activities                        :      15,054,012.57
+  CF from Financing Activities                        :      -2,517,390.09
+  Net Increase in Cash & Cash Equivalent              :      -4,974,682.49
+  Cash & Cash Equivalent at The Beginning of The Year :      10,762,817.78
+  Cash & Cash Equivalent at The End of The Year       :       3,839,538.55
+
+ 
+ 
+ 

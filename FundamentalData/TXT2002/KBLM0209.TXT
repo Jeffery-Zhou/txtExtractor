@@ -1,0 +1,66 @@
+6
+KBLM0209.TXT
+
+KBLM
+Kabelindo Murni Tbk
+Af          :
+Sector Code : 45
+Sector Name : CABLE
+
+(In thousand rupiah except Par Value, Closing Price and Ratios)
+
+Financial Statement Date    : 30-Sep-2002
+Fiscal Year Ends            : Dec
+Months Covered in Income St : 9
+
+Summary of Balance Sheet
+  Receivables               :      22,212,500.65
+  Inventories               :      18,878,467.86
+  Current Assets            :      46,482,266.04
+  Fixed Assets              :     172,240,634.85
+  Other Asstes              :         220,909.00
+  Total Assets              :     260,619,039.50
+  Current Liabilities       :      21,507,561.20
+  Longterm Liabiities       :      23,514,181.88
+  Total Liabilities         :      45,021,743.08
+  Authorized                :       1,374,918.82
+  Paid-up Capital           :     252,840,000.00
+  Par Value                 :         1000 & 185
+  Paid-up Capital Shares    :       1,120,000.00
+  Retained Earnings         :    -253,874,795.71
+  Total Equity              :     215,597,296.42
+  Minority Interest         :               0.00
+
+Summary of Income Statement
+  Total Sales               :      66,697,390.67
+  Cost of Good Sold         :      71,634,364.25
+  Gross Profit              :      -4,936,973.58
+  Operating Profit          :     -11,745,112.77
+  Other Income              :      -1,169,892.26
+  Eearning Before Tax       :     -12,915,005.03
+  Tax                       :      -3,731,226.73
+  Net Income                :      -9,183,778.30
+  Closing Price             :             120.00
+
+Per Share Data (Rp)
+  Eps                       :             -10.93
+  Book Value                :             192.50
+
+Financial Ratios
+  Debt Equity Ratio (X)     :                .21
+  Roa (%)                   :              -4.70
+  Roe (%)                   :              -5.68
+  Npm (%)                   :             -18.36
+  Opm (%)                   :             -23.48
+
+Cash Flow
+  CF from Operating Activities                        :      -2,111,841.45
+  CF from Investing Activities                        :        -783,819.61
+  CF from Financing Activities                        :       2,691,272.68
+  Net Increase in Cash & Cash Equivalent              :        -204,388.38
+  Cash & Cash Equivalent at The Beginning of The Year :       2,754,679.22
+  Cash & Cash Equivalent at The End of The Year       :       2,550,290.84
+
+ 
+ 
+ 

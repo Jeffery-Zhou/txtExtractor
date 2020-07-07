@@ -1,0 +1,66 @@
+6
+ISAT0212.TXT
+
+ISAT
+INDOSAT
+Af          :
+Sector Code : 73
+Sector Name : TELECOMMUNICATION
+
+(In thousand rupiah except Par Value, Closing Price and Ratios)
+
+Financial Statement Date    : 31-Dec-2002
+Fiscal Year Ends            : Dec
+Months Covered in Income St : 12
+
+Summary of Balance Sheet
+  Receivables               :   1,330,428,000.00
+  Inventories               :      72,275,000.00
+  Current Assets            :   5,140,140,000.00
+  Fixed Assets              :  11,759,256,000.00
+  Other Asstes              :     293,863,000.00
+  Total Assets              :  22,002,465,000.00
+  Current Liabilities       :   3,182,452,000.00
+  Longterm Liabiities       :   8,079,169,000.00
+  Total Liabilities         :  11,261,621,000.00
+  Authorized                :       4,000,000.00
+  Paid-up Capital           :     517,750,000.00
+  Par Value                 :                500
+  Paid-up Capital Shares    :       1,035,500.00
+  Retained Earnings         :   4,660,552,000.00
+  Total Equity              :  10,603,402,000.00
+  Minority Interest         :     137,442,000.00
+
+Summary of Income Statement
+  Total Sales               :   6,766,982,000.00
+  Cost of Good Sold         :   4,855,145,000.00
+  Gross Profit              :   1,911,837,000.00
+  Operating Profit          :   1,911,837,000.00
+  Other Income              :    -640,584,000.00
+  Eearning Before Tax       :   1,343,541,000.00
+  Tax                       :     774,361,000.00
+  Net Income                :     336,252,000.00
+  Closing Price             :           9,250.00
+
+Per Share Data (Rp)
+  Eps                       :             324.72
+  Book Value                :          10,239.89
+
+Financial Ratios
+  Debt Equity Ratio (X)     :               1.06
+  Roa (%)                   :               1.53
+  Roe (%)                   :               3.17
+  Npm (%)                   :               4.97
+  Opm (%)                   :              28.25
+
+Cash Flow
+  CF from Operating Activities                        :     344,484,000.00
+  CF from Investing Activities                        :  -4,172,128,000.00
+  CF from Financing Activities                        :   2,019,758,000.00
+  Net Increase in Cash & Cash Equivalent              :  -1,807,886,000.00
+  Cash & Cash Equivalent at The Beginning of The Year :   4,637,796,000.00
+  Cash & Cash Equivalent at The End of The Year       :   2,831,760,000.00
+
+ 
+ 
+ 

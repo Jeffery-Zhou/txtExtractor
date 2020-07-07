@@ -1,0 +1,66 @@
+6
+TRST0312.TXT
+
+TRST
+Trias Sentosa
+Af          :
+Sector Code : 35
+Sector Name : PLASTICS & PACKAGING
+
+(In thousand rupiah except Par Value, Closing Price and Ratios)
+
+Financial Statement Date    : 31-Dec-2003
+Fiscal Year Ends            : Dec
+Months Covered in Income St : 12
+
+Summary of Balance Sheet
+  Receivables               :     170,568,442.30
+  Inventories               :     187,904,508.34
+  Current Assets            :     548,433,288.15
+  Fixed Assets              :   1,051,287,489.25
+  Other Asstes              :       1,587,529.97
+  Total Assets              :   1,695,869,543.38
+  Current Liabilities       :     538,397,615.32
+  Longterm Liabiities       :     202,777,416.21
+  Total Liabilities         :     741,175,031.54
+  Authorized                :       3,000,000.00
+  Paid-up Capital           :     280,800,000.00
+  Par Value                 :                100
+  Paid-up Capital Shares    :       2,808,000.00
+  Retained Earnings         :     594,012,601.63
+  Total Equity              :     954,694,511.84
+  Minority Interest         :               0.00
+
+Summary of Income Statement
+  Total Sales               :     793,395,269.26
+  Cost of Good Sold         :     618,248,367.94
+  Gross Profit              :     175,146,901.32
+  Operating Profit          :     117,545,529.65
+  Other Income              :      15,747,620.96
+  Eearning Before Tax       :     133,293,150.61
+  Tax                       :     -19,192,023.12
+  Net Income                :     169,993,698.02
+  Closing Price             :             280.00
+
+Per Share Data (Rp)
+  Eps                       :              60.54
+  Book Value                :             339.99
+
+Financial Ratios
+  Debt Equity Ratio (X)     :                .78
+  Roa (%)                   :              10.02
+  Roe (%)                   :              17.81
+  Npm (%)                   :              21.43
+  Opm (%)                   :              14.82
+
+Cash Flow
+  CF from Operating Activities                        :     135,976,435.04
+  CF from Investing Activities                        :    -204,648,821.03
+  CF from Financing Activities                        :      47,026,421.82
+  Net Increase in Cash & Cash Equivalent              :     -21,645,964.17
+  Cash & Cash Equivalent at The Beginning of The Year :     177,585,801.32
+  Cash & Cash Equivalent at The End of The Year       :     155,938,397.40
+
+ 
+ 
+ 

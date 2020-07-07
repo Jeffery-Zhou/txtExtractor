@@ -1,0 +1,66 @@
+6
+INPC0206.TXT
+
+INPC
+Inter-Pacific Bank Tbk
+Af          :
+Sector Code : 81
+Sector Name : BANK
+
+(In thousand rupiah except Par Value, Closing Price and Ratios)
+
+Financial Statement Date    : 30-Jun-2002
+Fiscal Year Ends            : Dec
+Months Covered in Income St : 6
+
+Summary of Balance Sheet
+  Receivables               :               0.00
+  Inventories               :               0.00
+  Current Assets            :               0.00
+  Fixed Assets              :         587,000.00
+  Other Asstes              :       5,350,000.00
+  Total Assets              :     552,050,000.00
+  Current Liabilities       :               0.00
+  Longterm Liabiities       :               0.00
+  Total Liabilities         :     469,402,000.00
+  Authorized                :       9,687,500.00
+  Paid-up Capital           :     206,875,000.00
+  Par Value                 :          1000 & 15
+  Paid-up Capital Shares    :       9,687,500.00
+  Retained Earnings         :    -948,761,000.00
+  Total Equity              :      82,489,000.00
+  Minority Interest         :         159,000.00
+
+Summary of Income Statement
+  Total Sales               :      35,663,000.00
+  Cost of Good Sold         :      22,034,000.00
+  Gross Profit              :      13,629,000.00
+  Operating Profit          :      13,629,000.00
+  Other Income              :               0.00
+  Eearning Before Tax       :      13,629,000.00
+  Tax                       :               0.00
+  Net Income                :      13,628,000.00
+  Closing Price             :              30.00
+
+Per Share Data (Rp)
+  Eps                       :               2.81
+  Book Value                :               8.51
+
+Financial Ratios
+  Debt Equity Ratio (X)     :               5.69
+  Roa (%)                   :               4.94
+  Roe (%)                   :              33.04
+  Npm (%)                   :              38.21
+  Opm (%)                   :              38.22
+
+Cash Flow
+  CF from Operating Activities                        :     111,751,000.00
+  CF from Investing Activities                        :               0.00
+  CF from Financing Activities                        :    -145,711,000.00
+  Net Increase in Cash & Cash Equivalent              :     -33,960,000.00
+  Cash & Cash Equivalent at The Beginning of The Year :      59,354,000.00
+  Cash & Cash Equivalent at The End of The Year       :      25,394,000.00
+
+ 
+ 
+ 

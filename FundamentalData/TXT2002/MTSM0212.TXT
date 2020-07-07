@@ -1,0 +1,66 @@
+6
+MTSM0212.TXT
+
+MTSM
+Metro Supermarket Realty Tbk
+Af          :
+Sector Code : 93
+Sector Name : RETAIL TRADE
+
+(In thousand rupiah except Par Value, Closing Price and Ratios)
+
+Financial Statement Date    : 31-Dec-2002
+Fiscal Year Ends            : Dec
+Months Covered in Income St : 12
+
+Summary of Balance Sheet
+  Receivables               :       3,136,007.94
+  Inventories               :       3,343,375.45
+  Current Assets            :      11,337,086.85
+  Fixed Assets              :      23,933,067.38
+  Other Asstes              :      78,922,801.19
+  Total Assets              :     125,094,224.99
+  Current Liabilities       :      61,502,431.50
+  Longterm Liabiities       :       9,230,689.10
+  Total Liabilities         :      70,733,120.60
+  Authorized                :         132,000.00
+  Paid-up Capital           :      58,212,000.00
+  Par Value                 :               1000
+  Paid-up Capital Shares    :          58,212.00
+  Retained Earnings         :      -6,718,895.61
+  Total Equity              :      54,361,104.39
+  Minority Interest         :               0.00
+
+Summary of Income Statement
+  Total Sales               :      45,946,878.65
+  Cost of Good Sold         :      36,328,084.65
+  Gross Profit              :       9,618,794.00
+  Operating Profit          :       2,559,869.94
+  Other Income              :       8,188,300.07
+  Eearning Before Tax       :      10,748,170.01
+  Tax                       :       5,407,960.98
+  Net Income                :       5,340,209.02
+  Closing Price             :             925.00
+
+Per Share Data (Rp)
+  Eps                       :              91.74
+  Book Value                :             933.85
+
+Financial Ratios
+  Debt Equity Ratio (X)     :               1.30
+  Roa (%)                   :               4.27
+  Roe (%)                   :               9.82
+  Npm (%)                   :              11.62
+  Opm (%)                   :               5.57
+
+Cash Flow
+  CF from Operating Activities                        :        -245,519.95
+  CF from Investing Activities                        :        -729,182.08
+  CF from Financing Activities                        :       1,031,297.84
+  Net Increase in Cash & Cash Equivalent              :          56,595.81
+  Cash & Cash Equivalent at The Beginning of The Year :       2,225,517.62
+  Cash & Cash Equivalent at The End of The Year       :       2,258,039.98
+
+ 
+ 
+ 

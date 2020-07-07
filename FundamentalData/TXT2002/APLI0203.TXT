@@ -1,0 +1,66 @@
+6
+APLI0203.TXT
+
+APLI
+Asiaplast Industries Tbk
+Af          :
+Sector Code : 35
+Sector Name : PLASTICS & PACKAGING
+
+(In thousand rupiah except Par Value, Closing Price and Ratios)
+
+Financial Statement Date    : 31-Mar-2002
+Fiscal Year Ends            : Dec
+Months Covered in Income St : 3
+
+Summary of Balance Sheet
+  Receivables               :      20,340,982.79
+  Inventories               :      31,445,050.35
+  Current Assets            :      53,803,038.38
+  Fixed Assets              :     233,941,953.53
+  Other Asstes              :               0.00
+  Total Assets              :     289,080,077.12
+  Current Liabilities       :      53,678,342.86
+  Longterm Liabiities       :      76,259,564.84
+  Total Liabilities         :     129,937,907.70
+  Authorized                :       4,000,000.00
+  Paid-up Capital           :     130,000,000.00
+  Par Value                 :                100
+  Paid-up Capital Shares    :       1,300,000.00
+  Retained Earnings         :      24,774,245.46
+  Total Equity              :     159,142,169.42
+  Minority Interest         :               0.00
+
+Summary of Income Statement
+  Total Sales               :      44,675,444.35
+  Cost of Good Sold         :      41,107,613.20
+  Gross Profit              :       3,567,831.16
+  Operating Profit          :       1,013,108.55
+  Other Income              :         701,032.30
+  Eearning Before Tax       :       1,714,140.85
+  Tax                       :         610,805.89
+  Net Income                :       1,103,334.96
+  Closing Price             :              45.00
+
+Per Share Data (Rp)
+  Eps                       :               3.39
+  Book Value                :             122.42
+
+Financial Ratios
+  Debt Equity Ratio (X)     :                .82
+  Roa (%)                   :               1.53
+  Roe (%)                   :               2.77
+  Npm (%)                   :               2.47
+  Opm (%)                   :               2.27
+
+Cash Flow
+  CF from Operating Activities                        :         682,760.75
+  CF from Investing Activities                        :     -50,954,486.31
+  CF from Financing Activities                        :      50,364,366.98
+  Net Increase in Cash & Cash Equivalent              :          92,641.42
+  Cash & Cash Equivalent at The Beginning of The Year :         840,292.56
+  Cash & Cash Equivalent at The End of The Year       :         932,933.98
+
+ 
+ 
+ 

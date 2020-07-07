@@ -1,0 +1,66 @@
+6
+SMAR0209.TXT
+
+SMAR
+SMART  Tbk
+Af          :
+Sector Code : 51
+Sector Name : FOOD AND BEVERAGES
+
+(In thousand rupiah except Par Value, Closing Price and Ratios)
+
+Financial Statement Date    : 30-Sep-2002
+Fiscal Year Ends            : Dec
+Months Covered in Income St : 9
+
+Summary of Balance Sheet
+  Receivables               :     231,193,039.80
+  Inventories               :     378,308,329.80
+  Current Assets            :     901,065,623.47
+  Fixed Assets              :   1,679,204,257.79
+  Other Asstes              :     553,169,988.69
+  Total Assets              :   3,808,185,875.23
+  Current Liabilities       :   1,600,334,874.50
+  Longterm Liabiities       :   2,402,674,581.00
+  Total Liabilities         :   4,039,519,843.17
+  Authorized                :       1,000,000.00
+  Paid-up Capital           :     297,360,000.00
+  Par Value                 :               1000
+  Paid-up Capital Shares    :         297,360.00
+  Retained Earnings         :    -629,863,853.75
+  Total Equity              :    -231,385,237.58
+  Minority Interest         :          51,269.65
+
+Summary of Income Statement
+  Total Sales               :   2,121,646,564.01
+  Cost of Good Sold         :   1,717,698,111.34
+  Gross Profit              :     403,948,452.67
+  Operating Profit          :     232,005,372.96
+  Other Income              :     173,659,995.13
+  Eearning Before Tax       :     405,665,368.09
+  Tax                       :      23,974,009.15
+  Net Income                :     381,712,839.46
+  Closing Price             :             650.00
+
+Per Share Data (Rp)
+  Eps                       :           1,711.56
+  Book Value                :            -778.13
+
+Financial Ratios
+  Debt Equity Ratio (X)     :             -17.46
+  Roa (%)                   :              13.36
+  Roe (%)                   :            -219.96
+  Npm (%)                   :              23.99
+  Opm (%)                   :              14.58
+
+Cash Flow
+  CF from Operating Activities                        :      33,085,994.74
+  CF from Investing Activities                        :     -34,136,627.23
+  CF from Financing Activities                        :      79,252,413.05
+  Net Increase in Cash & Cash Equivalent              :      78,201,780.56
+  Cash & Cash Equivalent at The Beginning of The Year :      98,851,398.68
+  Cash & Cash Equivalent at The End of The Year       :     177,053,179.24
+
+ 
+ 
+ 

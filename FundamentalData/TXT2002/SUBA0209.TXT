@@ -1,0 +1,66 @@
+6
+SUBA0209.TXT
+
+SUBA
+Suba Indah Tbk
+Af          :
+Sector Code : 51
+Sector Name : FOOD AND BEVERAGES
+
+(In thousand rupiah except Par Value, Closing Price and Ratios)
+
+Financial Statement Date    : 30-Sep-2002
+Fiscal Year Ends            : Dec
+Months Covered in Income St : 9
+
+Summary of Balance Sheet
+  Receivables               :      20,387,422.96
+  Inventories               :       9,325,575.48
+  Current Assets            :      40,605,976.24
+  Fixed Assets              :     795,369,438.46
+  Other Asstes              :         862,731.50
+  Total Assets              :     847,305,645.38
+  Current Liabilities       :      57,090,064.99
+  Longterm Liabiities       :     253,951,470.62
+  Total Liabilities         :     311,041,535.61
+  Authorized                :       5,760,000.00
+  Paid-up Capital           :     540,000,000.00
+  Par Value                 :                250
+  Paid-up Capital Shares    :       2,160,000.00
+  Retained Earnings         :     -16,559,662.14
+  Total Equity              :     522,988,744.97
+  Minority Interest         :      13,275,364.80
+
+Summary of Income Statement
+  Total Sales               :      78,779,176.67
+  Cost of Good Sold         :      56,648,141.05
+  Gross Profit              :      22,131,035.62
+  Operating Profit          :       1,684,224.97
+  Other Income              :      -1,558,293.82
+  Eearning Before Tax       :         125,931.15
+  Tax                       :          42,981.54
+  Net Income                :      -2,706,228.87
+  Closing Price             :              35.00
+
+Per Share Data (Rp)
+  Eps                       :              -1.67
+  Book Value                :             242.12
+
+Financial Ratios
+  Debt Equity Ratio (X)     :                .59
+  Roa (%)                   :               -.43
+  Roe (%)                   :               -.69
+  Npm (%)                   :              -4.58
+  Opm (%)                   :               2.85
+
+Cash Flow
+  CF from Operating Activities                        :      10,920,341.25
+  CF from Investing Activities                        :    -124,651,884.14
+  CF from Financing Activities                        :     112,150,749.47
+  Net Increase in Cash & Cash Equivalent              :      -1,580,793.42
+  Cash & Cash Equivalent at The Beginning of The Year :       6,225,864.57
+  Cash & Cash Equivalent at The End of The Year       :       3,702,476.93
+
+ 
+ 
+ 

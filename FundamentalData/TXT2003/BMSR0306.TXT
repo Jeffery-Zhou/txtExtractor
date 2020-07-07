@@ -1,0 +1,66 @@
+6
+BMSR0306.TXT
+
+BMSR
+Bintang Mitra Semestaraya Tbk
+Af          :
+Sector Code : 61
+Sector Name : PROPERTY AND REAL ESTATE
+
+(In thousand rupiah except Par Value, Closing Price and Ratios)
+
+Financial Statement Date    : 30-Jun-2003
+Fiscal Year Ends            : Dec
+Months Covered in Income St : 6
+
+Summary of Balance Sheet
+  Receivables               :       1,100,613.35
+  Inventories               :       1,925,601.29
+  Current Assets            :               0.00
+  Fixed Assets              :         580,838.32
+  Other Asstes              :         152,727.81
+  Total Assets              :     212,385,509.93
+  Current Liabilities       :               0.00
+  Longterm Liabiities       :               0.00
+  Total Liabilities         :      20,838,895.01
+  Authorized                :         796,000.00
+  Paid-up Capital           :     168,000,000.00
+  Par Value                 :                500
+  Paid-up Capital Shares    :         336,000.00
+  Retained Earnings         :      14,161,994.76
+  Total Equity              :     178,082,769.15
+  Minority Interest         :      13,463,845.76
+
+Summary of Income Statement
+  Total Sales               :         983,308.75
+  Cost of Good Sold         :         666,412.05
+  Gross Profit              :         316,896.71
+  Operating Profit          :        -254,814.47
+  Other Income              :         307,397.30
+  Eearning Before Tax       :          52,582.83
+  Tax                       :        -396,974.89
+  Net Income                :         452,543.16
+  Closing Price             :              60.00
+
+Per Share Data (Rp)
+  Eps                       :               2.69
+  Book Value                :             530.01
+
+Financial Ratios
+  Debt Equity Ratio (X)     :                .12
+  Roa (%)                   :                .43
+  Roe (%)                   :                .51
+  Npm (%)                   :              92.04
+  Opm (%)                   :             -51.83
+
+Cash Flow
+  CF from Operating Activities                        :      -6,781,981.65
+  CF from Investing Activities                        :         -51,737.80
+  CF from Financing Activities                        :         655,236.50
+  Net Increase in Cash & Cash Equivalent              :      -6,178,482.95
+  Cash & Cash Equivalent at The Beginning of The Year :       8,265,256.17
+  Cash & Cash Equivalent at The End of The Year       :       2,086,773.23
+
+ 
+ 
+ 

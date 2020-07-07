@@ -1,0 +1,66 @@
+6
+BBRI0309.TXT
+
+BBRI
+Bank Rakyat Indonesia (Persero) Tbk
+Af          :
+Sector Code : 81
+Sector Name : BANK
+
+(In thousand rupiah except Par Value, Closing Price and Ratios)
+
+Financial Statement Date    : 30-Sep-2003
+Fiscal Year Ends            : Dec
+Months Covered in Income St : 9
+
+Summary of Balance Sheet
+  Receivables               :               0.00
+  Inventories               :               0.00
+  Current Assets            :               0.00
+  Fixed Assets              :   1,272,337,000.00
+  Other Asstes              :   1,604,231,000.00
+  Total Assets              :  92,866,597,000.00
+  Current Liabilities       :               0.00
+  Longterm Liabiities       :               0.00
+  Total Liabilities         :  86,028,653,000.00
+  Authorized                :           5,000.00
+  Paid-up Capital           :   5,000,000,000.00
+  Par Value                 : 1000000.0000000000
+  Paid-up Capital Shares    :           5,000.00
+  Retained Earnings         :     640,199,000.00
+  Total Equity              :   6,837,944,000.00
+  Minority Interest         :               0.00
+
+Summary of Income Statement
+  Total Sales               :  11,835,126,000.00
+  Cost of Good Sold         :   9,510,156,000.00
+  Gross Profit              :   2,324,970,000.00
+  Operating Profit          :   2,324,970,000.00
+  Other Income              :     375,193,000.00
+  Eearning Before Tax       :   2,700,163,000.00
+  Tax                       :     878,055,000.00
+  Net Income                :   1,822,108,000.00
+  Closing Price             :
+
+Per Share Data (Rp)
+  Eps                       :         485,895.47
+  Book Value                :       1,367,588.80
+
+Financial Ratios
+  Debt Equity Ratio (X)     :              12.58
+  Roa (%)                   :               2.62
+  Roe (%)                   :              35.53
+  Npm (%)                   :              20.53
+  Opm (%)                   :              26.19
+
+Cash Flow
+  CF from Operating Activities                        :   4,726,217,000.00
+  CF from Investing Activities                        :  -3,232,022,000.00
+  CF from Financing Activities                        :    -321,408,000.00
+  Net Increase in Cash & Cash Equivalent              :   1,173,487,000.00
+  Cash & Cash Equivalent at The Beginning of The Year :   6,735,793,000.00
+  Cash & Cash Equivalent at The End of The Year       :   7,909,280,000.00
+
+ 
+ 
+ 

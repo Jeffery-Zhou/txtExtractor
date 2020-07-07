@@ -1,0 +1,132 @@
+6
+AALI0309.TXT
+
+AALI
+Astra Agro Lestari Tbk
+Af          : ASII
+Sector Code : 12
+Sector Name : PLANTATION
+
+(In thousand rupiah except Par Value, Closing Price and Ratios)
+
+Financial Statement Date    : 30-Sep-2002
+Fiscal Year Ends            : Dec
+Months Covered in Income St : 9
+
+Summary of Balance Sheet
+  Receivables               :      40,360,263.51
+  Inventories               :     193,466,347.00
+  Current Assets            :     492,439,845.83
+  Fixed Assets              :     906,796,757.26
+  Other Asstes              :      23,163,550.09
+  Total Assets              :   2,640,935,760.78
+  Current Liabilities       :     425,689,654.04
+  Longterm Liabiities       :     750,680,743.07
+  Total Liabilities         :   1,176,370,397.10
+  Authorized                :       4,000,000.00
+  Paid-up Capital           :     769,982,000.00
+  Par Value                 :              500&1
+  Paid-up Capital Shares    :       1,539,964.00
+  Retained Earnings         :     603,134,473.99
+  Total Equity              :   1,420,248,636.65
+  Minority Interest         :      44,316,727.02
+
+Summary of Income Statement
+  Total Sales               :   1,736,898,764.33
+  Cost of Good Sold         :   1,081,669,796.85
+  Gross Profit              :     655,228,967.47
+  Operating Profit          :     485,039,427.37
+  Other Income              :    -120,479,827.35
+  Eearning Before Tax       :     364,559,600.02
+  Tax                       :     168,224,604.99
+  Net Income                :     188,798,339.69
+  Closing Price             :           1,575.00
+
+Per Share Data (Rp)
+  Eps                       :             163.47
+  Book Value                :             922.26
+
+Financial Ratios
+  Debt Equity Ratio (X)     :                .83
+  Roa (%)                   :               9.53
+  Roe (%)                   :              17.72
+  Npm (%)                   :              14.49
+  Opm (%)                   :              37.23
+
+Cash Flow
+  CF from Operating Activities                        :     332,933,195.72
+  CF from Investing Activities                        :    -122,354,862.62
+  CF from Financing Activities                        :    -217,243,133.09
+  Net Increase in Cash & Cash Equivalent              :      -6,664,799.99
+  Cash & Cash Equivalent at The Beginning of The Year :     221,780,299.20
+  Cash & Cash Equivalent at The End of The Year       :     203,289,842.69
+
+ 
+ 
+ 
+
+AALI0309.TXT
+
+AALI
+Astra Agro Lestari Tbk
+Af          : ASII
+Sector Code : 12
+Sector Name : PLANTATION
+
+(In thousand rupiah except Par Value, Closing Price and Ratios)
+
+Financial Statement Date    : 30-Sep-2003
+Fiscal Year Ends            : Dec
+Months Covered in Income St : 9
+
+Summary of Balance Sheet
+  Receivables               :      40,360,263.51
+  Inventories               :     193,466,347.00
+  Current Assets            :     492,439,845.83
+  Fixed Assets              :     906,796,757.26
+  Other Asstes              :      23,163,550.09
+  Total Assets              :   2,640,935,760.78
+  Current Liabilities       :     425,689,654.04
+  Longterm Liabiities       :     750,680,743.07
+  Total Liabilities         :   1,176,370,397.10
+  Authorized                :       4,000,000.00
+  Paid-up Capital           :     769,982,000.00
+  Par Value                 :                500
+  Paid-up Capital Shares    :       1,539,964.00
+  Retained Earnings         :     603,134,473.99
+  Total Equity              :   1,420,248,636.65
+  Minority Interest         :      44,316,727.02
+
+Summary of Income Statement
+  Total Sales               :   1,736,898,764.33
+  Cost of Good Sold         :   1,081,669,796.85
+  Gross Profit              :     655,228,967.47
+  Operating Profit          :     485,039,427.37
+  Other Income              :    -120,479,827.35
+  Eearning Before Tax       :     364,559,600.02
+  Tax                       :     168,224,604.99
+  Net Income                :     188,798,339.69
+  Closing Price             :           1,575.00
+
+Per Share Data (Rp)
+  Eps                       :             163.47
+  Book Value                :             922.26
+
+Financial Ratios
+  Debt Equity Ratio (X)     :                .83
+  Roa (%)                   :               9.53
+  Roe (%)                   :              17.72
+  Npm (%)                   :              14.49
+  Opm (%)                   :              37.23
+
+Cash Flow
+  CF from Operating Activities                        :     332,933,195.72
+  CF from Investing Activities                        :    -122,354,862.62
+  CF from Financing Activities                        :    -217,243,133.09
+  Net Increase in Cash & Cash Equivalent              :      -6,664,799.99
+  Cash & Cash Equivalent at The Beginning of The Year :     221,780,299.20
+  Cash & Cash Equivalent at The End of The Year       :     203,289,842.69
+
+ 
+ 
+ 

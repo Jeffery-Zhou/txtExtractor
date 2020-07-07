@@ -1,0 +1,66 @@
+6
+LAMI0206.TXT
+
+LAMI
+Lamicitra Nusantara Tbk
+Af          :
+Sector Code : 61
+Sector Name : PROPERTY AND REAL ESTATE
+
+(In thousand rupiah except Par Value, Closing Price and Ratios)
+
+Financial Statement Date    : 30-Jun-2002
+Fiscal Year Ends            : Dec
+Months Covered in Income St : 6
+
+Summary of Balance Sheet
+  Receivables               :       2,063,404.00
+  Inventories               :         205,508.00
+  Current Assets            :               0.00
+  Fixed Assets              :      84,671,606.00
+  Other Asstes              :          56,117.00
+  Total Assets              :     201,028,687.00
+  Current Liabilities       :      19,992,209.00
+  Longterm Liabiities       :      22,632,383.00
+  Total Liabilities         :      42,624,592.00
+  Authorized                :       4,000,000.00
+  Paid-up Capital           :     143,552,250.00
+  Par Value                 :                125
+  Paid-up Capital Shares    :       1,148,418.00
+  Retained Earnings         :      14,156,751.00
+  Total Equity              :     157,884,153.00
+  Minority Interest         :         519,942.00
+
+Summary of Income Statement
+  Total Sales               :      15,668,485.00
+  Cost of Good Sold         :       7,680,837.00
+  Gross Profit              :       7,987,648.00
+  Operating Profit          :       2,060,803.00
+  Other Income              :        -819,663.00
+  Eearning Before Tax       :       1,241,140.00
+  Tax                       :         691,118.00
+  Net Income                :         537,147.00
+  Closing Price             :             120.00
+
+Per Share Data (Rp)
+  Eps                       :                .94
+  Book Value                :             137.48
+
+Financial Ratios
+  Debt Equity Ratio (X)     :                .27
+  Roa (%)                   :                .53
+  Roe (%)                   :                .68
+  Npm (%)                   :               3.43
+  Opm (%)                   :              13.15
+
+Cash Flow
+  CF from Operating Activities                        :       1,785,095.00
+  CF from Investing Activities                        :         214,372.00
+  CF from Financing Activities                        :      -2,285,829.00
+  Net Increase in Cash & Cash Equivalent              :        -286,362.00
+  Cash & Cash Equivalent at The Beginning of The Year :       6,136,251.00
+  Cash & Cash Equivalent at The End of The Year       :       5,849,889.00
+
+ 
+ 
+ 

@@ -1,0 +1,66 @@
+6
+UNVR0303.TXT
+
+UNVR
+Unilever Indonesia Tbk
+Af          :
+Sector Code : 54
+Sector Name : COSMETICS AND HOUSEHOLD
+
+(In thousand rupiah except Par Value, Closing Price and Ratios)
+
+Financial Statement Date    : 31-Mar-2003
+Fiscal Year Ends            : Dec
+Months Covered in Income St : 3
+
+Summary of Balance Sheet
+  Receivables               :     504,451,000.00
+  Inventories               :     321,114,000.00
+  Current Assets            :   2,393,370,000.00
+  Fixed Assets              :     747,596,000.00
+  Other Asstes              :      36,396,000.00
+  Total Assets              :   3,344,332,000.00
+  Current Liabilities       :   1,139,984,000.00
+  Longterm Liabiities       :     115,755,000.00
+  Total Liabilities         :   1,255,739,000.00
+  Authorized                :         763,000.00
+  Paid-up Capital           :      76,300,000.00
+  Par Value                 :                100
+  Paid-up Capital Shares    :         763,000.00
+  Retained Earnings         :   1,981,091,000.00
+  Total Equity              :   2,072,772,000.00
+  Minority Interest         :      15,821,000.00
+
+Summary of Income Statement
+  Total Sales               :   2,078,761,000.00
+  Cost of Good Sold         :   1,051,421,000.00
+  Gross Profit              :   1,027,340,000.00
+  Operating Profit          :     486,136,000.00
+  Other Income              :      18,828,000.00
+  Eearning Before Tax       :     504,964,000.00
+  Tax                       :     150,621,000.00
+  Net Income                :     358,224,000.00
+  Closing Price             :          18,000.00
+
+Per Share Data (Rp)
+  Eps                       :           1,877.98
+  Book Value                :           2,716.61
+
+Financial Ratios
+  Debt Equity Ratio (X)     :                .61
+  Roa (%)                   :              42.85
+  Roe (%)                   :              69.13
+  Npm (%)                   :              68.93
+  Opm (%)                   :              93.54
+
+Cash Flow
+  CF from Operating Activities                        :     532,291,000.00
+  CF from Investing Activities                        :     -40,063,000.00
+  CF from Financing Activities                        :    -305,200,000.00
+  Net Increase in Cash & Cash Equivalent              :     187,028,000.00
+  Cash & Cash Equivalent at The Beginning of The Year :   1,388,225,000.00
+  Cash & Cash Equivalent at The End of The Year       :   1,525,406,000.00
+
+ 
+ 
+ 

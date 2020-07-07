@@ -1,0 +1,66 @@
+6
+SIIP0206.TXT
+
+SIIP
+Suryainti Permata Tbk
+Af          :
+Sector Code : 61
+Sector Name : PROPERTY AND REAL ESTATE
+
+(In thousand rupiah except Par Value, Closing Price and Ratios)
+
+Financial Statement Date    : 30-Jun-2002
+Fiscal Year Ends            : Dec
+Months Covered in Income St : 6
+
+Summary of Balance Sheet
+  Receivables               :      15,869,922.86
+  Inventories               :       1,442,769.17
+  Current Assets            :               0.00
+  Fixed Assets              :       1,776,298.30
+  Other Asstes              :               0.00
+  Total Assets              :     438,990,681.37
+  Current Liabilities       :               0.00
+  Longterm Liabiities       :               0.00
+  Total Liabilities         :     102,711,177.92
+  Authorized                :       2,000,000.00
+  Paid-up Capital           :     300,000,000.00
+  Par Value                 :                500
+  Paid-up Capital Shares    :         600,000.00
+  Retained Earnings         :      24,662,126.61
+  Total Equity              :     330,144,723.07
+  Minority Interest         :       6,134,780.38
+
+Summary of Income Statement
+  Total Sales               :      14,752,862.19
+  Cost of Good Sold         :      12,196,498.65
+  Gross Profit              :       2,556,363.54
+  Operating Profit          :      -1,211,621.29
+  Other Income              :       2,994,520.26
+  Eearning Before Tax       :       1,782,898.97
+  Tax                       :          29,271.60
+  Net Income                :       1,777,800.15
+  Closing Price             :             110.00
+
+Per Share Data (Rp)
+  Eps                       :               5.93
+  Book Value                :             550.24
+
+Financial Ratios
+  Debt Equity Ratio (X)     :                .31
+  Roa (%)                   :                .81
+  Roe (%)                   :               1.08
+  Npm (%)                   :              12.05
+  Opm (%)                   :              -8.21
+
+Cash Flow
+  CF from Operating Activities                        :      -2,398,521.06
+  CF from Investing Activities                        :          -3,155.00
+  CF from Financing Activities                        :       2,250,709.55
+  Net Increase in Cash & Cash Equivalent              :        -150,966.52
+  Cash & Cash Equivalent at The Beginning of The Year :         576,845.35
+  Cash & Cash Equivalent at The End of The Year       :         425,878.83
+
+ 
+ 
+ 

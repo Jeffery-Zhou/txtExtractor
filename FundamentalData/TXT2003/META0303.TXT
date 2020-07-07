@@ -1,0 +1,66 @@
+6
+META0303.TXT
+
+META
+Metamedia Technologies Tbk
+Af          :
+Sector Code : 91
+Sector Name : WHOLESALE (DURABLE & NON-DURABLE GOODS)
+
+(In thousand rupiah except Par Value, Closing Price and Ratios)
+
+Financial Statement Date    : 31-Mar-2003
+Fiscal Year Ends            : Dec
+Months Covered in Income St : 3
+
+Summary of Balance Sheet
+  Receivables               :         191,095.08
+  Inventories               :         352,888.51
+  Current Assets            :       4,656,424.11
+  Fixed Assets              :         529,491.66
+  Other Asstes              :         120,345.00
+  Total Assets              :      11,242,307.02
+  Current Liabilities       :         269,452.61
+  Longterm Liabiities       :               0.00
+  Total Liabilities         :         269,452.61
+  Authorized                :       1,500,000.00
+  Paid-up Capital           :      43,500,000.00
+  Par Value                 :                100
+  Paid-up Capital Shares    :         435,000.00
+  Retained Earnings         :     -38,137,337.08
+  Total Equity              :      10,972,853.76
+  Minority Interest         :                .66
+
+Summary of Income Statement
+  Total Sales               :         936,542.05
+  Cost of Good Sold         :         839,963.24
+  Gross Profit              :          96,578.81
+  Operating Profit          :        -633,760.10
+  Other Income              :          -1,062.42
+  Eearning Before Tax       :        -634,822.52
+  Tax                       :               0.00
+  Net Income                :        -634,822.47
+  Closing Price             :              25.00
+
+Per Share Data (Rp)
+  Eps                       :              -5.84
+  Book Value                :              25.22
+
+Financial Ratios
+  Debt Equity Ratio (X)     :                .02
+  Roa (%)                   :             -22.59
+  Roe (%)                   :             -23.14
+  Npm (%)                   :            -271.13
+  Opm (%)                   :            -270.68
+
+Cash Flow
+  CF from Operating Activities                        :         717,938.62
+  CF from Investing Activities                        :       1,791,291.83
+  CF from Financing Activities                        :               0.00
+  Net Increase in Cash & Cash Equivalent              :       2,509,230.45
+  Cash & Cash Equivalent at The Beginning of The Year :         198,925.76
+  Cash & Cash Equivalent at The End of The Year       :       2,708,156.20
+
+ 
+ 
+ 

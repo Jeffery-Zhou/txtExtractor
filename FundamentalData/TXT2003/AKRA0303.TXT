@@ -1,0 +1,66 @@
+6
+AKRA0303.TXT
+
+AKRA
+Aneka Kimia Raya Tbk
+Af          :
+Sector Code : 91
+Sector Name : WHOLESALE (DURABLE & NON-DURABLE GOODS)
+
+(In thousand rupiah except Par Value, Closing Price and Ratios)
+
+Financial Statement Date    : 31-Mar-2003
+Fiscal Year Ends            : Dec
+Months Covered in Income St : 3
+
+Summary of Balance Sheet
+  Receivables               :     227,496,721.05
+  Inventories               :      55,238,495.14
+  Current Assets            :     444,114,093.54
+  Fixed Assets              :     157,183,100.65
+  Other Asstes              :      11,983,310.59
+  Total Assets              :     680,782,697.74
+  Current Liabilities       :     195,342,404.96
+  Longterm Liabiities       :      34,374,027.96
+  Total Liabilities         :     229,716,432.92
+  Authorized                :         832,000.00
+  Paid-up Capital           :     104,000,000.00
+  Par Value                 :                500
+  Paid-up Capital Shares    :         208,000.00
+  Retained Earnings         :     318,629,924.55
+  Total Equity              :     440,135,157.67
+  Minority Interest         :      10,931,107.14
+
+Summary of Income Statement
+  Total Sales               :     379,652,383.15
+  Cost of Good Sold         :     349,458,834.73
+  Gross Profit              :      30,193,548.42
+  Operating Profit          :      15,081,953.01
+  Other Income              :       3,471,110.83
+  Eearning Before Tax       :      19,124,365.63
+  Tax                       :       3,227,160.79
+  Net Income                :      15,681,987.43
+  Closing Price             :             390.00
+
+Per Share Data (Rp)
+  Eps                       :             301.58
+  Book Value                :           2,116.03
+
+Financial Ratios
+  Debt Equity Ratio (X)     :                .52
+  Roa (%)                   :               9.21
+  Roe (%)                   :              14.25
+  Npm (%)                   :              16.52
+  Opm (%)                   :              15.89
+
+Cash Flow
+  CF from Operating Activities                        :       8,619,441.19
+  CF from Investing Activities                        :      -1,694,198.16
+  CF from Financing Activities                        :      -9,568,064.73
+  Net Increase in Cash & Cash Equivalent              :      -2,642,821.70
+  Cash & Cash Equivalent at The Beginning of The Year :     123,364,732.02
+  Cash & Cash Equivalent at The End of The Year       :     120,721,910.32
+
+ 
+ 
+ 

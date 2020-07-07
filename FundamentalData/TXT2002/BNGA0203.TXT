@@ -1,0 +1,66 @@
+6
+BNGA0203.TXT
+
+BNGA
+Bank Niaga Tbk
+Af          :
+Sector Code : 81
+Sector Name : BANK
+
+(In thousand rupiah except Par Value, Closing Price and Ratios)
+
+Financial Statement Date    : 31-Mar-2002
+Fiscal Year Ends            : Dec
+Months Covered in Income St : 3
+
+Summary of Balance Sheet
+  Receivables               :               0.00
+  Inventories               :               0.00
+  Current Assets            :               0.00
+  Fixed Assets              :     277,726,000.00
+  Other Asstes              :     128,041,000.00
+  Total Assets              :  23,937,756,000.00
+  Current Liabilities       :               0.00
+  Longterm Liabiities       :               0.00
+  Total Liabilities         :  22,700,776,000.00
+  Authorized                :     208,864,604.25
+  Paid-up Capital           :     746,907,314.67
+  Par Value                 :            500 & 5
+  Paid-up Capital Shares    :      78,246,067.18
+  Retained Earnings         :  -8,959,838,000.00
+  Total Equity              :   1,234,810,000.00
+  Minority Interest         :       2,170,000.00
+
+Summary of Income Statement
+  Total Sales               :     899,205,000.00
+  Cost of Good Sold         :     802,288,000.00
+  Gross Profit              :      78,203,000.00
+  Operating Profit          :      78,203,000.00
+  Other Income              :     -39,494,000.00
+  Eearning Before Tax       :      38,709,000.00
+  Tax                       :     -18,765,000.00
+  Net Income                :      57,361,000.00
+  Closing Price             :             135.00
+
+Per Share Data (Rp)
+  Eps                       :               2.93
+  Book Value                :              15.78
+
+Financial Ratios
+  Debt Equity Ratio (X)     :              18.38
+  Roa (%)                   :                .96
+  Roe (%)                   :              18.58
+  Npm (%)                   :               6.38
+  Opm (%)                   :               8.70
+
+Cash Flow
+  CF from Operating Activities                        :   1,918,154,000.00
+  CF from Investing Activities                        :    -644,727,000.00
+  CF from Financing Activities                        :    -596,825,000.00
+  Net Increase in Cash & Cash Equivalent              :     645,175,000.00
+  Cash & Cash Equivalent at The Beginning of The Year :   1,716,304,000.00
+  Cash & Cash Equivalent at The End of The Year       :   2,361,479,000.00
+
+ 
+ 
+ 

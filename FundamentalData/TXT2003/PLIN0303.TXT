@@ -1,0 +1,66 @@
+6
+PLIN0303.TXT
+
+PLIN
+Plaza Indonesia Realty Tbk
+Af          :
+Sector Code : 94
+Sector Name : RESTAURANT, HOTEL AND TOURISM
+
+(In thousand rupiah except Par Value, Closing Price and Ratios)
+
+Financial Statement Date    : 31-Mar-2003
+Fiscal Year Ends            : Dec
+Months Covered in Income St : 3
+
+Summary of Balance Sheet
+  Receivables               :      15,607,018.00
+  Inventories               :       1,632,235.00
+  Current Assets            :     636,391,182.00
+  Fixed Assets              :     884,824,075.00
+  Other Asstes              :               0.00
+  Total Assets              :   1,758,829,400.00
+  Current Liabilities       :      87,137,555.00
+  Longterm Liabiities       :     725,736,699.00
+  Total Liabilities         :     812,874,254.00
+  Authorized                :         500,000.00
+  Paid-up Capital           :     345,000,000.00
+  Par Value                 :               1000
+  Paid-up Capital Shares    :         345,000.00
+  Retained Earnings         :     393,503,325.00
+  Total Equity              :     845,247,144.00
+  Minority Interest         :     100,708,002.00
+
+Summary of Income Statement
+  Total Sales               :      84,589,653.00
+  Cost of Good Sold         :      23,766,511.00
+  Gross Profit              :      60,823,142.00
+  Operating Profit          :      37,053,532.00
+  Other Income              :      -2,454,373.00
+  Eearning Before Tax       :      34,599,159.00
+  Tax                       :         818,027.00
+  Net Income                :      33,370,201.00
+  Closing Price             :           3,400.00
+
+Per Share Data (Rp)
+  Eps                       :             386.90
+  Book Value                :           2,449.99
+
+Financial Ratios
+  Debt Equity Ratio (X)     :                .96
+  Roa (%)                   :               7.59
+  Roe (%)                   :              15.79
+  Npm (%)                   :             157.80
+  Opm (%)                   :             175.22
+
+Cash Flow
+  CF from Operating Activities                        :      10,436,975.00
+  CF from Investing Activities                        :      81,262,266.00
+  CF from Financing Activities                        :               0.00
+  Net Increase in Cash & Cash Equivalent              :      91,699,241.00
+  Cash & Cash Equivalent at The Beginning of The Year :     348,660,830.00
+  Cash & Cash Equivalent at The End of The Year       :     440,360,071.00
+
+ 
+ 
+ 

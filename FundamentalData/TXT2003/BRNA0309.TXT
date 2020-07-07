@@ -1,0 +1,66 @@
+6
+BRNA0309.TXT
+
+BRNA
+Berlina Tbk
+Af          :
+Sector Code : 35
+Sector Name : PLASTICS & PACKAGING
+
+(In thousand rupiah except Par Value, Closing Price and Ratios)
+
+Financial Statement Date    : 30-Sep-2003
+Fiscal Year Ends            : Dec
+Months Covered in Income St : 9
+
+Summary of Balance Sheet
+  Receivables               :      28,486,374.08
+  Inventories               :      26,270,581.30
+  Current Assets            :      87,584,354.41
+  Fixed Assets              :     140,739,428.71
+  Other Asstes              :               0.00
+  Total Assets              :     251,575,805.10
+  Current Liabilities       :      55,963,224.46
+  Longterm Liabiities       :      39,538,767.73
+  Total Liabilities         :      95,501,992.19
+  Authorized                :         100,000.00
+  Paid-up Capital           :      34,500,000.00
+  Par Value                 :                500
+  Paid-up Capital Shares    :          69,000.00
+  Retained Earnings         :     103,097,874.48
+  Total Equity              :     138,252,442.96
+  Minority Interest         :      17,821,369.96
+
+Summary of Income Statement
+  Total Sales               :     162,730,356.78
+  Cost of Good Sold         :     119,565,678.22
+  Gross Profit              :      43,164,678.56
+  Operating Profit          :      27,566,146.25
+  Other Income              :      -8,391,972.86
+  Eearning Before Tax       :      19,174,173.40
+  Tax                       :       6,386,837.25
+  Net Income                :      10,041,300.79
+  Closing Price             :           1,775.00
+
+Per Share Data (Rp)
+  Eps                       :             194.03
+  Book Value                :           2,003.66
+
+Financial Ratios
+  Debt Equity Ratio (X)     :                .69
+  Roa (%)                   :               5.32
+  Roe (%)                   :               9.68
+  Npm (%)                   :               8.23
+  Opm (%)                   :              22.59
+
+Cash Flow
+  CF from Operating Activities                        :      25,603,861.61
+  CF from Investing Activities                        :     -18,023,736.16
+  CF from Financing Activities                        :     -29,468,552.95
+  Net Increase in Cash & Cash Equivalent              :     -21,888,427.50
+  Cash & Cash Equivalent at The Beginning of The Year :      52,468,981.51
+  Cash & Cash Equivalent at The End of The Year       :      30,580,554.02
+
+ 
+ 
+ 

@@ -1,0 +1,66 @@
+6
+PLAS0303.TXT
+
+PLAS
+Plastpack Prima Industri Tbk
+Af          :
+Sector Code : 35
+Sector Name : PLASTICS & PACKAGING
+
+(In thousand rupiah except Par Value, Closing Price and Ratios)
+
+Financial Statement Date    : 31-Mar-2003
+Fiscal Year Ends            : Dec
+Months Covered in Income St : 3
+
+Summary of Balance Sheet
+  Receivables               :       5,838,379.79
+  Inventories               :      10,958,715.21
+  Current Assets            :      45,631,287.09
+  Fixed Assets              :      34,081,741.12
+  Other Asstes              :         866,768.41
+  Total Assets              :      83,283,753.09
+  Current Liabilities       :      18,622,314.60
+  Longterm Liabiities       :       2,696,033.78
+  Total Liabilities         :      21,318,348.38
+  Authorized                :         600,000.00
+  Paid-up Capital           :      25,000,000.00
+  Par Value                 :                100
+  Paid-up Capital Shares    :         250,000.00
+  Retained Earnings         :       5,045,988.82
+  Total Equity              :      37,856,456.98
+  Minority Interest         :      24,108,947.72
+
+Summary of Income Statement
+  Total Sales               :      16,950,234.13
+  Cost of Good Sold         :      14,936,272.55
+  Gross Profit              :       2,013,961.58
+  Operating Profit          :       1,123,538.67
+  Other Income              :        -162,025.08
+  Eearning Before Tax       :         961,513.60
+  Tax                       :         195,351.38
+  Net Income                :         626,988.10
+  Closing Price             :              30.00
+
+Per Share Data (Rp)
+  Eps                       :              10.03
+  Book Value                :             151.43
+
+Financial Ratios
+  Debt Equity Ratio (X)     :                .56
+  Roa (%)                   :               3.01
+  Roe (%)                   :               6.62
+  Npm (%)                   :              14.80
+  Opm (%)                   :              26.51
+
+Cash Flow
+  CF from Operating Activities                        :       1,636,116.62
+  CF from Investing Activities                        :         -66,948.33
+  CF from Financing Activities                        :      -1,148,648.23
+  Net Increase in Cash & Cash Equivalent              :         420,520.06
+  Cash & Cash Equivalent at The Beginning of The Year :      16,607,729.37
+  Cash & Cash Equivalent at The End of The Year       :      17,028,249.44
+
+ 
+ 
+ 

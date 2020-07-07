@@ -1,0 +1,66 @@
+6
+BHIT0209.TXT
+
+BHIT
+Bhakti Investama Tbk
+Af          :
+Sector Code : 89
+Sector Name : OTHERS FINANCE
+
+(In thousand rupiah except Par Value, Closing Price and Ratios)
+
+Financial Statement Date    : 30-Sep-2002
+Fiscal Year Ends            : Dec
+Months Covered in Income St : 9
+
+Summary of Balance Sheet
+  Receivables               :     197,088,553.41
+  Inventories               :               0.00
+  Current Assets            :               0.00
+  Fixed Assets              :      11,542,942.52
+  Other Asstes              :     164,379,042.26
+  Total Assets              :   1,366,094,461.26
+  Current Liabilities       :               0.00
+  Longterm Liabiities       :               0.00
+  Total Liabilities         :     659,242,202.85
+  Authorized                :       8,988,000.00
+  Paid-up Capital           :     250,059,793.80
+  Par Value                 :                100
+  Paid-up Capital Shares    :       2,500,597.94
+  Retained Earnings         :     240,025,086.88
+  Total Equity              :     685,399,162.69
+  Minority Interest         :      21,453,095.72
+
+Summary of Income Statement
+  Total Sales               :     101,209,090.01
+  Cost of Good Sold         :      29,270,090.56
+  Gross Profit              :      71,938,999.45
+  Operating Profit          :      71,938,999.45
+  Other Income              :      55,283,845.21
+  Eearning Before Tax       :     127,222,844.66
+  Tax                       :     -16,841,498.95
+  Net Income                :     140,570,048.51
+  Closing Price             :             355.00
+
+Per Share Data (Rp)
+  Eps                       :              74.95
+  Book Value                :             274.09
+
+Financial Ratios
+  Debt Equity Ratio (X)     :                .96
+  Roa (%)                   :              13.72
+  Roe (%)                   :              27.35
+  Npm (%)                   :             185.19
+  Opm (%)                   :              94.77
+
+Cash Flow
+  CF from Operating Activities                        :     219,633,848.66
+  CF from Investing Activities                        :    -316,520,159.85
+  CF from Financing Activities                        :      95,809,137.59
+  Net Increase in Cash & Cash Equivalent              :      -1,077,173.60
+  Cash & Cash Equivalent at The Beginning of The Year :     117,303,457.11
+  Cash & Cash Equivalent at The End of The Year       :     116,226,283.51
+
+ 
+ 
+ 

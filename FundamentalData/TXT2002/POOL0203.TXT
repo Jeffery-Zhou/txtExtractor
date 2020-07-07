@@ -1,0 +1,66 @@
+6
+POOL0203.TXT
+
+POOL
+Pool Asuransi Indonesia Tbk
+Af          :
+Sector Code : 99
+Sector Name : OTHERS TRADE, SERVICES & INVESTMENT
+
+(In thousand rupiah except Par Value, Closing Price and Ratios)
+
+Financial Statement Date    : 31-Mar-2002
+Fiscal Year Ends            : Dec
+Months Covered in Income St : 3
+
+Summary of Balance Sheet
+  Receivables               :         255,926.65
+  Inventories               :          67,017.61
+  Current Assets            :               0.00
+  Fixed Assets              :       1,964,358.58
+  Other Asstes              :         435,317.92
+  Total Assets              :      72,659,792.36
+  Current Liabilities       :               0.00
+  Longterm Liabiities       :               0.00
+  Total Liabilities         :       1,984,425.63
+  Authorized                :         200,000.00
+  Paid-up Capital           :      25,000,000.00
+  Par Value                 :                500
+  Paid-up Capital Shares    :          50,000.00
+  Retained Earnings         :      40,348,400.97
+  Total Equity              :      70,565,252.77
+  Minority Interest         :         110,113.96
+
+Summary of Income Statement
+  Total Sales               :         179,797.18
+  Cost of Good Sold         :         557,336.87
+  Gross Profit              :      -1,019,397.76
+  Operating Profit          :      -1,019,397.76
+  Other Income              :          71,962.35
+  Eearning Before Tax       :        -947,435.41
+  Tax                       :          -4,058.99
+  Net Income                :        -945,638.68
+  Closing Price             :           1,250.00
+
+Per Share Data (Rp)
+  Eps                       :             -75.65
+  Book Value                :           1,411.31
+
+Financial Ratios
+  Debt Equity Ratio (X)     :                .03
+  Roa (%)                   :              -5.21
+  Roe (%)                   :              -5.36
+  Npm (%)                   :            -525.95
+  Opm (%)                   :            -566.97
+
+Cash Flow
+  CF from Operating Activities                        :        -578,150.60
+  CF from Investing Activities                        :        -274,417.89
+  CF from Financing Activities                        :               0.00
+  Net Increase in Cash & Cash Equivalent              :        -852,568.49
+  Cash & Cash Equivalent at The Beginning of The Year :       2,858,055.68
+  Cash & Cash Equivalent at The End of The Year       :       1,874,141.57
+
+ 
+ 
+ 

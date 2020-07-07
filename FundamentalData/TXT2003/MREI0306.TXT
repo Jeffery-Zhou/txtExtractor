@@ -1,0 +1,66 @@
+6
+MREI0306.TXT
+
+MREI
+Maskapai Reasuransi Ina. Tbk
+Af          : DSST
+Sector Code : 84
+Sector Name : INSURANCE
+
+(In thousand rupiah except Par Value, Closing Price and Ratios)
+
+Financial Statement Date    : 30-Jun-2003
+Fiscal Year Ends            : Dec
+Months Covered in Income St : 6
+
+Summary of Balance Sheet
+  Receivables               :      32,601,733.33
+  Inventories               :               0.00
+  Current Assets            :               0.00
+  Fixed Assets              :       8,010,389.65
+  Other Asstes              :         385,316.34
+  Total Assets              :     111,526,938.76
+  Current Liabilities       :               0.00
+  Longterm Liabiities       :               0.00
+  Total Liabilities         :      69,328,315.46
+  Authorized                :         350,000.00
+  Paid-up Capital           :      18,200,000.00
+  Par Value                 :                200
+  Paid-up Capital Shares    :          91,000.00
+  Retained Earnings         :      21,489,376.60
+  Total Equity              :      42,198,623.30
+  Minority Interest         :               0.00
+
+Summary of Income Statement
+  Total Sales               :      39,752,731.54
+  Cost of Good Sold         :      31,286,001.80
+  Gross Profit              :       8,466,729.73
+  Operating Profit          :       8,466,729.73
+  Other Income              :       2,329,749.15
+  Eearning Before Tax       :      10,796,478.88
+  Tax                       :       1,217,741.18
+  Net Income                :       9,578,737.71
+  Closing Price             :             200.00
+
+Per Share Data (Rp)
+  Eps                       :             210.52
+  Book Value                :             463.72
+
+Financial Ratios
+  Debt Equity Ratio (X)     :               1.64
+  Roa (%)                   :              17.18
+  Roe (%)                   :              45.40
+  Npm (%)                   :              48.19
+  Opm (%)                   :              42.60
+
+Cash Flow
+  CF from Operating Activities                        :       1,321,012.71
+  CF from Investing Activities                        :      -1,007,614.36
+  CF from Financing Activities                        :            -994.18
+  Net Increase in Cash & Cash Equivalent              :         312,404.17
+  Cash & Cash Equivalent at The Beginning of The Year :         715,185.78
+  Cash & Cash Equivalent at The End of The Year       :       1,027,589.95
+
+ 
+ 
+ 

@@ -1,0 +1,66 @@
+6
+AKSI0209.TXT
+
+AKSI
+Asia Kapitalindo Securities Tbk
+Af          :
+Sector Code : 83
+Sector Name : SECURITIES COMPANY
+
+(In thousand rupiah except Par Value, Closing Price and Ratios)
+
+Financial Statement Date    : 30-Sep-2002
+Fiscal Year Ends            : Dec
+Months Covered in Income St : 9
+
+Summary of Balance Sheet
+  Receivables               :       3,255,394.11
+  Inventories               :               0.00
+  Current Assets            :               0.00
+  Fixed Assets              :       1,089,052.86
+  Other Asstes              :       8,418,487.17
+  Total Assets              :     132,005,112.96
+  Current Liabilities       :               0.00
+  Longterm Liabiities       :               0.00
+  Total Liabilities         :       8,621,446.84
+  Authorized                :       2,200,000.00
+  Paid-up Capital           :      72,000,000.00
+  Par Value                 :                100
+  Paid-up Capital Shares    :         720,000.00
+  Retained Earnings         :      22,550,212.38
+  Total Equity              :     123,383,666.12
+  Minority Interest         :               0.00
+
+Summary of Income Statement
+  Total Sales               :      12,219,053.19
+  Cost of Good Sold         :       6,615,420.48
+  Gross Profit              :       5,603,632.71
+  Operating Profit          :       5,603,632.71
+  Other Income              :       1,431,418.62
+  Eearning Before Tax       :       7,035,051.33
+  Tax                       :         991,150.46
+  Net Income                :       6,043,900.87
+  Closing Price             :             400.00
+
+Per Share Data (Rp)
+  Eps                       :              11.19
+  Book Value                :             171.37
+
+Financial Ratios
+  Debt Equity Ratio (X)     :                .07
+  Roa (%)                   :               6.10
+  Roe (%)                   :               6.53
+  Npm (%)                   :              65.95
+  Opm (%)                   :              61.15
+
+Cash Flow
+  CF from Operating Activities                        :       7,930,276.39
+  CF from Investing Activities                        :        -150,676.43
+  CF from Financing Activities                        :      14,908,453.75
+  Net Increase in Cash & Cash Equivalent              :      22,688,053.71
+  Cash & Cash Equivalent at The Beginning of The Year :       5,668,721.84
+  Cash & Cash Equivalent at The End of The Year       :      28,356,775.55
+
+ 
+ 
+ 

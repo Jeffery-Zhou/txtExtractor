@@ -1,0 +1,66 @@
+6
+TCID0309.TXT
+
+TCID
+Mandom Indonesia Tbk
+Af          :
+Sector Code : 54
+Sector Name : COSMETICS AND HOUSEHOLD
+
+(In thousand rupiah except Par Value, Closing Price and Ratios)
+
+Financial Statement Date    : 30-Sep-2003
+Fiscal Year Ends            : Dec
+Months Covered in Income St : 9
+
+Summary of Balance Sheet
+  Receivables               :     128,099,510.35
+  Inventories               :     105,302,349.90
+  Current Assets            :     242,690,466.52
+  Fixed Assets              :     185,290,305.55
+  Other Asstes              :               0.00
+  Total Assets              :     439,519,647.07
+  Current Liabilities       :      86,324,503.51
+  Longterm Liabiities       :      10,407,056.42
+  Total Liabilities         :      96,731,559.93
+  Authorized                :         624,000.00
+  Paid-up Capital           :      78,000,000.00
+  Par Value                 :                500
+  Paid-up Capital Shares    :         156,000.00
+  Retained Earnings         :     220,010,361.52
+  Total Equity              :     342,788,087.14
+  Minority Interest         :               0.00
+
+Summary of Income Statement
+  Total Sales               :     501,903,631.08
+  Cost of Good Sold         :     303,289,177.02
+  Gross Profit              :     198,614,454.06
+  Operating Profit          :      89,776,836.37
+  Other Income              :         881,086.34
+  Eearning Before Tax       :      90,657,922.71
+  Tax                       :      27,937,168.66
+  Net Income                :      62,716,821.63
+  Closing Price             :           2,625.00
+
+Per Share Data (Rp)
+  Eps                       :             536.04
+  Book Value                :           2,197.36
+
+Financial Ratios
+  Debt Equity Ratio (X)     :                .28
+  Roa (%)                   :              19.03
+  Roe (%)                   :              24.39
+  Npm (%)                   :              16.66
+  Opm (%)                   :              23.85
+
+Cash Flow
+  CF from Operating Activities                        :      53,493,296.15
+  CF from Investing Activities                        :     -33,032,684.35
+  CF from Financing Activities                        :     -20,387,381.00
+  Net Increase in Cash & Cash Equivalent              :          73,230.81
+  Cash & Cash Equivalent at The Beginning of The Year :       4,023,835.20
+  Cash & Cash Equivalent at The End of The Year       :       4,097,066.01
+
+ 
+ 
+ 

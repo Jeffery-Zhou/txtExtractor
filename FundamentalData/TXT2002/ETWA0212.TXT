@@ -1,0 +1,66 @@
+6
+ETWA0212.TXT
+
+ETWA
+Eterindo Wahanatama Tbk
+Af          :
+Sector Code : 34
+Sector Name : CHEMICALS
+
+(In thousand rupiah except Par Value, Closing Price and Ratios)
+
+Financial Statement Date    : 31-Dec-2002
+Fiscal Year Ends            : Dec
+Months Covered in Income St : 12
+
+Summary of Balance Sheet
+  Receivables               :     285,108,859.67
+  Inventories               :     225,662,047.94
+  Current Assets            :     623,236,362.95
+  Fixed Assets              :   2,089,279,454.74
+  Other Asstes              :      60,922,871.54
+  Total Assets              :   2,928,340,563.66
+  Current Liabilities       :     554,911,602.80
+  Longterm Liabiities       :   2,712,667,733.90
+  Total Liabilities         :   3,267,579,336.69
+  Authorized                :       1,500,000.00
+  Paid-up Capital           :     484,148,500.00
+  Par Value                 :                500
+  Paid-up Capital Shares    :         968,297.00
+  Retained Earnings         :  -1,027,867,291.71
+  Total Equity              :    -339,644,369.53
+  Minority Interest         :         405,596.50
+
+Summary of Income Statement
+  Total Sales               :   1,324,212,803.51
+  Cost of Good Sold         :   1,165,936,162.66
+  Gross Profit              :     158,276,640.85
+  Operating Profit          :      26,203,000.73
+  Other Income              :     -60,291,192.98
+  Eearning Before Tax       :     -34,088,192.25
+  Tax                       :     -28,307,050.43
+  Net Income                :     -26,485,496.59
+  Closing Price             :              75.00
+
+Per Share Data (Rp)
+  Eps                       :             -27.35
+  Book Value                :            -350.76
+
+Financial Ratios
+  Debt Equity Ratio (X)     :              -9.62
+  Roa (%)                   :               -.90
+  Roe (%)                   :               7.80
+  Npm (%)                   :              -2.00
+  Opm (%)                   :               1.98
+
+Cash Flow
+  CF from Operating Activities                        :      91,417,922.53
+  CF from Investing Activities                        :     -60,203,622.01
+  CF from Financing Activities                        :    -127,237,378.11
+  Net Increase in Cash & Cash Equivalent              :     -96,942,522.81
+  Cash & Cash Equivalent at The Beginning of The Year :     127,124,359.68
+  Cash & Cash Equivalent at The End of The Year       :      30,181,836.88
+
+ 
+ 
+ 

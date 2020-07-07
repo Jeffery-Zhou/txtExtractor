@@ -1,0 +1,66 @@
+6
+INCO0309.TXT
+
+INCO
+INCO Tbk
+Af          :
+Sector Code : 23
+Sector Name : METAL AND MINERAL MINING
+
+(In thousand rupiah except Par Value, Closing Price and Ratios)
+
+Financial Statement Date    : 30-Sep-2003
+Fiscal Year Ends            : Dec
+Months Covered in Income St : 9
+
+Summary of Balance Sheet
+  Receivables               :     438,726,080.00
+  Inventories               :     489,508,224.00
+  Current Assets            :   1,674,043,392.00
+  Fixed Assets              :   8,613,178,464.00
+  Other Asstes              :      60,081,824.00
+  Total Assets              :  10,347,303,680.00
+  Current Liabilities       :     963,606,752.00
+  Longterm Liabiities       :   2,379,539,840.00
+  Total Liabilities         :   3,343,146,592.00
+  Authorized                :         993,633.87
+  Paid-up Capital           :     248,408,468.00
+  Par Value                 :               1000
+  Paid-up Capital Shares    :         248,408.47
+  Retained Earnings         :   3,354,659,680.00
+  Total Equity              :   7,004,157,088.00
+  Minority Interest         :               0.00
+
+Summary of Income Statement
+  Total Sales               :   2,917,608,384.00
+  Cost of Good Sold         :   2,075,208,864.00
+  Gross Profit              :     842,399,520.00
+  Operating Profit          :     827,814,592.00
+  Other Income              :     -43,325,568.00
+  Eearning Before Tax       :     784,489,024.00
+  Tax                       :     237,701,504.00
+  Net Income                :     546,787,520.00
+  Closing Price             :          12,600.00
+
+Per Share Data (Rp)
+  Eps                       :           2,934.88
+  Book Value                :          28,196.13
+
+Financial Ratios
+  Debt Equity Ratio (X)     :                .48
+  Roa (%)                   :               7.05
+  Roe (%)                   :              10.41
+  Npm (%)                   :              24.99
+  Opm (%)                   :              37.83
+
+Cash Flow
+  CF from Operating Activities                        :   1,475,417,376.00
+  CF from Investing Activities                        :    -201,731,520.00
+  CF from Financing Activities                        :    -759,384,096.00
+  Net Increase in Cash & Cash Equivalent              :     514,301,760.00
+  Cash & Cash Equivalent at The Beginning of The Year :     189,183,264.00
+  Cash & Cash Equivalent at The End of The Year       :     703,485,024.00
+
+ 
+ 
+ 

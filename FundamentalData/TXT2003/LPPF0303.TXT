@@ -1,0 +1,66 @@
+6
+LPPF0303.TXT
+
+LPPF
+Pacific Utama Tbk
+Af          :
+Sector Code : 89
+Sector Name : OTHERS FINANCE
+
+(In thousand rupiah except Par Value, Closing Price and Ratios)
+
+Financial Statement Date    : 31-Mar-2003
+Fiscal Year Ends            : Dec
+Months Covered in Income St : 3
+
+Summary of Balance Sheet
+  Receivables               :           4,944.74
+  Inventories               :               0.00
+  Current Assets            :               0.00
+  Fixed Assets              :         643,361.20
+  Other Asstes              :          42,822.25
+  Total Assets              :     130,797,706.12
+  Current Liabilities       :      15,997,845.48
+  Longterm Liabiities       :      61,981,964.44
+  Total Liabilities         :      77,979,809.91
+  Authorized                :       6,534,691.20
+  Paid-up Capital           :     121,528,512.00
+  Par Value                 :          1000 & 70
+  Paid-up Capital Shares    :       1,326,326.40
+  Retained Earnings         :     -99,655,308.23
+  Total Equity              :      52,817,896.20
+  Minority Interest         :               0.00
+
+Summary of Income Statement
+  Total Sales               :       2,426,241.85
+  Cost of Good Sold         :       4,211,710.04
+  Gross Profit              :      -1,785,468.19
+  Operating Profit          :      -1,785,468.19
+  Other Income              :               0.00
+  Eearning Before Tax       :      -6,812,896.48
+  Tax                       :               0.00
+  Net Income                :      -6,812,896.48
+  Closing Price             :             200.00
+
+Per Share Data (Rp)
+  Eps                       :             -20.55
+  Book Value                :              39.82
+
+Financial Ratios
+  Debt Equity Ratio (X)     :               1.48
+  Roa (%)                   :             -20.83
+  Roe (%)                   :             -51.60
+  Npm (%)                   :          -1,123.20
+  Opm (%)                   :            -294.36
+
+Cash Flow
+  CF from Operating Activities                        :      -1,155,738.48
+  CF from Investing Activities                        :       6,700,000.00
+  CF from Financing Activities                        :               0.00
+  Net Increase in Cash & Cash Equivalent              :       5,544,261.52
+  Cash & Cash Equivalent at The Beginning of The Year :       1,258,511.72
+  Cash & Cash Equivalent at The End of The Year       :       6,802,773.23
+
+ 
+ 
+ 

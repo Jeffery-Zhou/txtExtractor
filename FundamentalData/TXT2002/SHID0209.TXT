@@ -1,0 +1,66 @@
+6
+SHID0209.TXT
+
+SHID
+Hotel Sahid Jaya
+Af          :
+Sector Code : 94
+Sector Name : RESTAURANT, HOTEL AND TOURISM
+
+(In thousand rupiah except Par Value, Closing Price and Ratios)
+
+Financial Statement Date    : 30-Sep-2002
+Fiscal Year Ends            : Dec
+Months Covered in Income St : 9
+
+Summary of Balance Sheet
+  Receivables               :      11,533,568.89
+  Inventories               :       1,611,862.52
+  Current Assets            :      30,890,019.00
+  Fixed Assets              :     529,975,395.47
+  Other Asstes              :     185,527,251.77
+  Total Assets              :     784,756,161.49
+  Current Liabilities       :      49,420,573.51
+  Longterm Liabiities       :     564,971,605.67
+  Total Liabilities         :     614,392,179.18
+  Authorized                :       2,000,000.00
+  Paid-up Capital           :     326,400,000.00
+  Par Value                 :                500
+  Paid-up Capital Shares    :         652,800.00
+  Retained Earnings         :    -168,964,375.04
+  Total Equity              :     169,735,694.06
+  Minority Interest         :         628,288.25
+
+Summary of Income Statement
+  Total Sales               :      65,023,362.36
+  Cost of Good Sold         :      23,171,964.69
+  Gross Profit              :      41,851,397.67
+  Operating Profit          :       1,352,458.23
+  Other Income              :      92,452,154.27
+  Eearning Before Tax       :      93,804,612.50
+  Tax                       :          12,816.86
+  Net Income                :      93,723,297.69
+  Closing Price             :             120.00
+
+Per Share Data (Rp)
+  Eps                       :             191.43
+  Book Value                :             260.01
+
+Financial Ratios
+  Debt Equity Ratio (X)     :               3.62
+  Roa (%)                   :              15.92
+  Roe (%)                   :              73.62
+  Npm (%)                   :             192.18
+  Opm (%)                   :               2.77
+
+Cash Flow
+  CF from Operating Activities                        :         907,387.96
+  CF from Investing Activities                        :      -1,967,747.82
+  CF from Financing Activities                        :       3,270,073.40
+  Net Increase in Cash & Cash Equivalent              :       2,209,713.55
+  Cash & Cash Equivalent at The Beginning of The Year :      11,231,303.35
+  Cash & Cash Equivalent at The End of The Year       :      13,441,016.90
+
+ 
+ 
+ 

@@ -1,0 +1,66 @@
+6
+GDYR0209.TXT
+
+GDYR
+Goodyear Indonesia Tbk
+Af          :
+Sector Code : 42
+Sector Name : AUTOMOTIVE AND COMPONENTS
+
+(In thousand rupiah except Par Value, Closing Price and Ratios)
+
+Financial Statement Date    : 30-Sep-2002
+Fiscal Year Ends            : Dec
+Months Covered in Income St : 9
+
+Summary of Balance Sheet
+  Receivables               :      83,123,522.00
+  Inventories               :      69,821,861.00
+  Current Assets            :     186,869,664.00
+  Fixed Assets              :     175,795,251.00
+  Other Asstes              :      15,922,025.00
+  Total Assets              :     388,120,608.00
+  Current Liabilities       :      88,593,597.00
+  Longterm Liabiities       :      30,553,982.00
+  Total Liabilities         :     119,147,579.00
+  Authorized                :          41,000.00
+  Paid-up Capital           :      41,000,000.00
+  Par Value                 :               1000
+  Paid-up Capital Shares    :          41,000.00
+  Retained Earnings         :     227,973,029.00
+  Total Equity              :     268,973,029.00
+  Minority Interest         :               0.00
+
+Summary of Income Statement
+  Total Sales               :     426,316,564.00
+  Cost of Good Sold         :     374,523,425.00
+  Gross Profit              :      51,793,139.00
+  Operating Profit          :      24,693,230.00
+  Other Income              :      -2,832,425.00
+  Eearning Before Tax       :      21,860,805.00
+  Tax                       :       6,773,707.00
+  Net Income                :      15,087,098.00
+  Closing Price             :           4,500.00
+
+Per Share Data (Rp)
+  Eps                       :             490.64
+  Book Value                :           6,560.32
+
+Financial Ratios
+  Debt Equity Ratio (X)     :                .44
+  Roa (%)                   :               5.18
+  Roe (%)                   :               7.48
+  Npm (%)                   :               4.72
+  Opm (%)                   :               7.72
+
+Cash Flow
+  CF from Operating Activities                        :      25,683,608.00
+  CF from Investing Activities                        :     -28,622,596.00
+  CF from Financing Activities                        :      -5,397,913.00
+  Net Increase in Cash & Cash Equivalent              :      -8,336,901.00
+  Cash & Cash Equivalent at The Beginning of The Year :      24,748,533.00
+  Cash & Cash Equivalent at The End of The Year       :      16,411,632.00
+
+ 
+ 
+ 

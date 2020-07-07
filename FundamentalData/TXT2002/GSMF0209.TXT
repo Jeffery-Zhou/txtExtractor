@@ -1,0 +1,66 @@
+6
+GSMF0209.TXT
+
+GSMF
+GT Investama Kapital Tbk
+Af          :
+Sector Code : 89
+Sector Name : OTHERS FINANCE
+
+(In thousand rupiah except Par Value, Closing Price and Ratios)
+
+Financial Statement Date    : 30-Sep-2002
+Fiscal Year Ends            : Dec
+Months Covered in Income St : 9
+
+Summary of Balance Sheet
+  Receivables               :     221,833,720.00
+  Inventories               :               0.00
+  Current Assets            :               0.00
+  Fixed Assets              :      40,801,976.00
+  Other Asstes              :     210,870,232.00
+  Total Assets              :   1,494,526,799.00
+  Current Liabilities       :               0.00
+  Longterm Liabiities       :               0.00
+  Total Liabilities         :   2,043,266,104.00
+  Authorized                :       5,760,000.00
+  Paid-up Capital           :     720,720,000.00
+  Par Value                 :                500
+  Paid-up Capital Shares    :       1,441,440.00
+  Retained Earnings         :  -1,670,134,447.00
+  Total Equity              :    -590,261,848.00
+  Minority Interest         :      41,522,543.00
+
+Summary of Income Statement
+  Total Sales               :     407,368,815.00
+  Cost of Good Sold         :     201,839,961.00
+  Gross Profit              :     205,528,854.00
+  Operating Profit          :     205,528,854.00
+  Other Income              :               0.00
+  Eearning Before Tax       :     205,528,854.00
+  Tax                       :       1,285,340.00
+  Net Income                :     200,953,935.00
+  Closing Price             :              40.00
+
+Per Share Data (Rp)
+  Eps                       :             185.88
+  Book Value                :            -409.49
+
+Financial Ratios
+  Debt Equity Ratio (X)     :              -3.46
+  Roa (%)                   :              17.93
+  Roe (%)                   :             -45.39
+  Npm (%)                   :              65.77
+  Opm (%)                   :              67.27
+
+Cash Flow
+  CF from Operating Activities                        :      18,503,326.00
+  CF from Investing Activities                        :     -76,757,311.00
+  CF from Financing Activities                        :      17,944,558.00
+  Net Increase in Cash & Cash Equivalent              :     -67,833,583.00
+  Cash & Cash Equivalent at The Beginning of The Year :     111,328,544.00
+  Cash & Cash Equivalent at The End of The Year       :      43,494,961.00
+
+ 
+ 
+ 

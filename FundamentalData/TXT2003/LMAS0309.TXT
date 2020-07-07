@@ -1,0 +1,66 @@
+6
+LMAS0309.TXT
+
+LMAS
+Limas Stockhomindo Tbk *)
+Af          :
+Sector Code : 97
+Sector Name : COMPUTER AND SERVICES
+
+(In thousand rupiah except Par Value, Closing Price and Ratios)
+
+Financial Statement Date    : 30-Sep-2003
+Fiscal Year Ends            : Dec
+Months Covered in Income St : 9
+
+Summary of Balance Sheet
+  Receivables               :       1,829,552.57
+  Inventories               :         123,561.50
+  Current Assets            :      16,792,869.59
+  Fixed Assets              :       2,442,582.44
+  Other Asstes              :               0.00
+  Total Assets              :      58,133,596.30
+  Current Liabilities       :       2,404,869.38
+  Longterm Liabiities       :         537,056.61
+  Total Liabilities         :       2,941,925.98
+  Authorized                :       2,000,000.00
+  Paid-up Capital           :      69,458,250.00
+  Par Value                 :                100
+  Paid-up Capital Shares    :         694,582.50
+  Retained Earnings         :     -27,907,730.57
+  Total Equity              :      55,191,670.32
+  Minority Interest         :               0.00
+
+Summary of Income Statement
+  Total Sales               :      17,741,013.31
+  Cost of Good Sold         :       1,393,650.22
+  Gross Profit              :      16,347,363.08
+  Operating Profit          :       1,609,842.57
+  Other Income              :         262,717.37
+  Eearning Before Tax       :       1,872,559.94
+  Tax                       :         591,427.89
+  Net Income                :       1,281,132.05
+  Closing Price             :           1,475.00
+
+Per Share Data (Rp)
+  Eps                       :               2.46
+  Book Value                :              79.46
+
+Financial Ratios
+  Debt Equity Ratio (X)     :                .05
+  Roa (%)                   :               2.94
+  Roe (%)                   :               3.09
+  Npm (%)                   :               9.63
+  Opm (%)                   :              12.10
+
+Cash Flow
+  CF from Operating Activities                        :       7,695,580.11
+  CF from Investing Activities                        :      -6,798,734.75
+  CF from Financing Activities                        :       2,558,311.97
+  Net Increase in Cash & Cash Equivalent              :       3,455,157.33
+  Cash & Cash Equivalent at The Beginning of The Year :       4,490,862.34
+  Cash & Cash Equivalent at The End of The Year       :       7,949,828.12
+
+ 
+ 
+ 

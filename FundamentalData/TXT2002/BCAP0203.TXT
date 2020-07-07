@@ -1,0 +1,66 @@
+6
+BCAP0203.TXT
+
+BCAP
+Bhakti Capital Indonesia Tbk
+Af          : BHIT
+Sector Code : 83
+Sector Name : SECURITIES COMPANY
+
+(In thousand rupiah except Par Value, Closing Price and Ratios)
+
+Financial Statement Date    : 31-Mar-2002
+Fiscal Year Ends            : Dec
+Months Covered in Income St : 3
+
+Summary of Balance Sheet
+  Receivables               :      72,680,193.26
+  Inventories               :               0.00
+  Current Assets            :               0.00
+  Fixed Assets              :       4,613,666.41
+  Other Asstes              :         527,843.99
+  Total Assets              :     255,720,611.66
+  Current Liabilities       :               0.00
+  Longterm Liabiities       :               0.00
+  Total Liabilities         :      70,817,684.15
+  Authorized                :       4,000,000.00
+  Paid-up Capital           :     125,000,000.00
+  Par Value                 :                100
+  Paid-up Capital Shares    :       1,250,000.00
+  Retained Earnings         :      24,689,203.98
+  Total Equity              :     184,902,927.51
+  Minority Interest         :               0.00
+
+Summary of Income Statement
+  Total Sales               :       9,764,991.48
+  Cost of Good Sold         :       4,747,066.76
+  Gross Profit              :       5,017,924.72
+  Operating Profit          :       5,017,924.72
+  Other Income              :         796,732.59
+  Eearning Before Tax       :       5,814,657.31
+  Tax                       :        -686,428.43
+  Net Income                :       6,501,085.74
+  Closing Price             :             245.00
+
+Per Share Data (Rp)
+  Eps                       :              20.80
+  Book Value                :             147.92
+
+Financial Ratios
+  Debt Equity Ratio (X)     :                .38
+  Roa (%)                   :              10.17
+  Roe (%)                   :              14.06
+  Npm (%)                   :              66.58
+  Opm (%)                   :              51.39
+
+Cash Flow
+  CF from Operating Activities                        :      59,676,462.69
+  CF from Investing Activities                        :        -290,166.71
+  CF from Financing Activities                        :         138,163.75
+  Net Increase in Cash & Cash Equivalent              :      59,524,459.72
+  Cash & Cash Equivalent at The Beginning of The Year :      60,155,133.42
+  Cash & Cash Equivalent at The End of The Year       :     119,679,593.14
+
+ 
+ 
+ 

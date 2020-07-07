@@ -1,0 +1,66 @@
+6
+DPNS0209.TXT
+
+DPNS
+Duta Pertiwi Nusantara Tbk
+Af          :
+Sector Code : 34
+Sector Name : CHEMICALS
+
+(In thousand rupiah except Par Value, Closing Price and Ratios)
+
+Financial Statement Date    : 30-Sep-2002
+Fiscal Year Ends            : Dec
+Months Covered in Income St : 9
+
+Summary of Balance Sheet
+  Receivables               :      58,782,001.73
+  Inventories               :      13,227,043.89
+  Current Assets            :      92,419,583.26
+  Fixed Assets              :      10,745,597.98
+  Other Asstes              :               0.00
+  Total Assets              :     126,768,196.68
+  Current Liabilities       :      15,153,718.19
+  Longterm Liabiities       :         470,079.21
+  Total Liabilities         :      15,623,797.40
+  Authorized                :         270,000.00
+  Paid-up Capital           :      62,972,910.00
+  Par Value                 :                500
+  Paid-up Capital Shares    :         125,945.82
+  Retained Earnings         :      35,902,887.38
+  Total Equity              :     109,962,618.63
+  Minority Interest         :       1,181,780.66
+
+Summary of Income Statement
+  Total Sales               :      44,282,810.64
+  Cost of Good Sold         :      29,444,139.40
+  Gross Profit              :      14,838,671.24
+  Operating Profit          :       8,126,366.77
+  Other Income              :      -4,907,460.57
+  Eearning Before Tax       :       3,218,906.20
+  Tax                       :         632,136.76
+  Net Income                :       2,723,479.18
+  Closing Price             :             340.00
+
+Per Share Data (Rp)
+  Eps                       :              28.83
+  Book Value                :             873.09
+
+Financial Ratios
+  Debt Equity Ratio (X)     :                .14
+  Roa (%)                   :               2.86
+  Roe (%)                   :               3.30
+  Npm (%)                   :               8.20
+  Opm (%)                   :              24.47
+
+Cash Flow
+  CF from Operating Activities                        :       8,389,719.25
+  CF from Investing Activities                        :        -365,874.68
+  CF from Financing Activities                        :     -11,220,858.78
+  Net Increase in Cash & Cash Equivalent              :      -3,197,014.21
+  Cash & Cash Equivalent at The Beginning of The Year :      21,642,014.78
+  Cash & Cash Equivalent at The End of The Year       :      17,350,269.81
+
+ 
+ 
+ 

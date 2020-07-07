@@ -1,0 +1,66 @@
+6
+CPIN0312.TXT
+
+CPIN
+Charoen Pokphand Indonesia Tbk
+Af          : CPPR
+Sector Code : 36
+Sector Name : ANIMAL FEED
+
+(In thousand rupiah except Par Value, Closing Price and Ratios)
+
+Financial Statement Date    : 31-Dec-2003
+Fiscal Year Ends            : Dec
+Months Covered in Income St : 12
+
+Summary of Balance Sheet
+  Receivables               :     548,056,000.00
+  Inventories               :     582,144,000.00
+  Current Assets            :   1,521,771,000.00
+  Fixed Assets              :     820,816,000.00
+  Other Asstes              :      20,624,000.00
+  Total Assets              :   2,507,191,000.00
+  Current Liabilities       :     776,032,000.00
+  Longterm Liabiities       :     902,075,000.00
+  Total Liabilities         :   1,678,107,000.00
+  Authorized                :       4,000,000.00
+  Paid-up Capital           :     140,766,917.50
+  Par Value                 :                100
+  Paid-up Capital Shares    :       1,407,669.18
+  Retained Earnings         :     587,289,000.00
+  Total Equity              :     829,084,000.00
+  Minority Interest         :               0.00
+
+Summary of Income Statement
+  Total Sales               :   4,298,689,000.00
+  Cost of Good Sold         :   3,811,993,000.00
+  Gross Profit              :     486,696,000.00
+  Operating Profit          :      61,716,000.00
+  Other Income              :     -99,289,000.00
+  Eearning Before Tax       :     -37,573,000.00
+  Tax                       :     -10,001,000.00
+  Net Income                :     -21,814,000.00
+  Closing Price             :             335.00
+
+Per Share Data (Rp)
+  Eps                       :             -15.50
+  Book Value                :             588.98
+
+Financial Ratios
+  Debt Equity Ratio (X)     :               2.02
+  Roa (%)                   :               -.87
+  Roe (%)                   :              -2.63
+  Npm (%)                   :               -.51
+  Opm (%)                   :               1.44
+
+Cash Flow
+  CF from Operating Activities                        :    -282,902,000.00
+  CF from Investing Activities                        :    -239,664,000.00
+  CF from Financing Activities                        :     465,349,000.00
+  Net Increase in Cash & Cash Equivalent              :     -57,217,000.00
+  Cash & Cash Equivalent at The Beginning of The Year :     295,013,000.00
+  Cash & Cash Equivalent at The End of The Year       :     237,796,000.00
+
+ 
+ 
+ 

@@ -1,0 +1,66 @@
+6
+KDSI0312.TXT
+
+KDSI
+Kedawung Setia Industrial  Tbk
+Af          :
+Sector Code : 55
+Sector Name : HOUSEWARE
+
+(In thousand rupiah except Par Value, Closing Price and Ratios)
+
+Financial Statement Date    : 31-Dec-2003
+Fiscal Year Ends            : Dec
+Months Covered in Income St : 12
+
+Summary of Balance Sheet
+  Receivables               :      90,292,619.85
+  Inventories               :      83,375,459.06
+  Current Assets            :     186,330,537.31
+  Fixed Assets              :     177,609,391.50
+  Other Asstes              :               0.00
+  Total Assets              :     372,075,952.40
+  Current Liabilities       :     213,663,065.95
+  Longterm Liabiities       :      53,572,895.75
+  Total Liabilities         :     267,235,961.70
+  Authorized                :         600,000.00
+  Paid-up Capital           :     150,500,000.00
+  Par Value                 :                500
+  Paid-up Capital Shares    :         301,000.00
+  Retained Earnings         :     -46,947,702.05
+  Total Equity              :     104,839,990.70
+  Minority Interest         :               0.00
+
+Summary of Income Statement
+  Total Sales               :     498,553,032.23
+  Cost of Good Sold         :     468,965,664.86
+  Gross Profit              :      29,587,367.37
+  Operating Profit          :     -30,949,893.93
+  Other Income              :      -3,326,108.39
+  Eearning Before Tax       :     -34,276,002.33
+  Tax                       :      -6,207,491.99
+  Net Income                :     -19,156,005.08
+  Closing Price             :             175.00
+
+Per Share Data (Rp)
+  Eps                       :             -63.64
+  Book Value                :             348.31
+
+Financial Ratios
+  Debt Equity Ratio (X)     :               2.55
+  Roa (%)                   :              -5.15
+  Roe (%)                   :             -18.27
+  Npm (%)                   :              -3.84
+  Opm (%)                   :              -6.21
+
+Cash Flow
+  CF from Operating Activities                        :      -1,041,501.68
+  CF from Investing Activities                        :      -2,698,560.67
+  CF from Financing Activities                        :       9,007,216.54
+  Net Increase in Cash & Cash Equivalent              :       5,267,154.19
+  Cash & Cash Equivalent at The Beginning of The Year :       3,534,100.18
+  Cash & Cash Equivalent at The End of The Year       :       8,801,254.37
+
+ 
+ 
+ 

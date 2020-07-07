@@ -1,0 +1,66 @@
+6
+GGRM0309.TXT
+
+GGRM
+Gudang Garam Tbk
+Af          :
+Sector Code : 52
+Sector Name : TOBACCO MANUFACTURERS
+
+(In thousand rupiah except Par Value, Closing Price and Ratios)
+
+Financial Statement Date    : 30-Sep-2003
+Fiscal Year Ends            : Dec
+Months Covered in Income St : 9
+
+Summary of Balance Sheet
+  Receivables               :   2,182,327,000.00
+  Inventories               :   9,908,477,000.00
+  Current Assets            :  12,627,801,000.00
+  Fixed Assets              :   4,503,099,000.00
+  Other Asstes              :     278,102,000.00
+  Total Assets              :  17,429,673,000.00
+  Current Liabilities       :   6,550,121,000.00
+  Longterm Liabiities       :     241,971,000.00
+  Total Liabilities         :   6,792,092,000.00
+  Authorized                :       2,316,000.00
+  Paid-up Capital           :     962,044,000.00
+  Par Value                 :                500
+  Paid-up Capital Shares    :       1,924,088.00
+  Retained Earnings         :   9,524,779,000.00
+  Total Equity              :  10,637,572,000.00
+  Minority Interest         :           9,000.00
+
+Summary of Income Statement
+  Total Sales               :  17,904,401,000.00
+  Cost of Good Sold         :  14,429,811,000.00
+  Gross Profit              :   3,474,590,000.00
+  Operating Profit          :   2,357,441,000.00
+  Other Income              :    -215,185,000.00
+  Eearning Before Tax       :   2,142,256,000.00
+  Tax                       :     640,801,000.00
+  Net Income                :   1,501,454,000.00
+  Closing Price             :          11,250.00
+
+Per Share Data (Rp)
+  Eps                       :           1,040.46
+  Book Value                :           5,528.63
+
+Financial Ratios
+  Debt Equity Ratio (X)     :                .64
+  Roa (%)                   :              11.49
+  Roe (%)                   :              18.82
+  Npm (%)                   :              11.18
+  Opm (%)                   :              17.56
+
+Cash Flow
+  CF from Operating Activities                        :   2,158,062,000.00
+  CF from Investing Activities                        :  -1,495,771,000.00
+  CF from Financing Activities                        :    -846,567,000.00
+  Net Increase in Cash & Cash Equivalent              :    -187,487,000.00
+  Cash & Cash Equivalent at The Beginning of The Year :     464,982,000.00
+  Cash & Cash Equivalent at The End of The Year       :     277,495,000.00
+
+ 
+ 
+ 

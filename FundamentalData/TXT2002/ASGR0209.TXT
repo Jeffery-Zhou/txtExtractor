@@ -1,0 +1,66 @@
+6
+ASGR0209.TXT
+
+ASGR
+Astra Graphia Tbk
+Af          : ASII
+Sector Code : 97
+Sector Name : COMPUTER AND SERVICES
+
+(In thousand rupiah except Par Value, Closing Price and Ratios)
+
+Financial Statement Date    : 30-Sep-2002
+Fiscal Year Ends            : Dec
+Months Covered in Income St : 9
+
+Summary of Balance Sheet
+  Receivables               :     114,405,341.51
+  Inventories               :     117,200,686.16
+  Current Assets            :     450,703,134.25
+  Fixed Assets              :     165,784,308.46
+  Other Asstes              :      50,847,681.88
+  Total Assets              :     796,156,726.84
+  Current Liabilities       :     196,911,332.90
+  Longterm Liabiities       :     286,812,535.57
+  Total Liabilities         :     483,723,868.46
+  Authorized                :       2,500,000.00
+  Paid-up Capital           :     131,587,100.00
+  Par Value                 :                100
+  Paid-up Capital Shares    :       1,315,871.00
+  Retained Earnings         :     140,905,290.41
+  Total Equity              :     312,432,858.38
+  Minority Interest         :               0.00
+
+Summary of Income Statement
+  Total Sales               :     579,739,816.00
+  Cost of Good Sold         :     393,780,506.49
+  Gross Profit              :     185,959,309.52
+  Operating Profit          :      46,750,566.77
+  Other Income              :      44,733,967.01
+  Eearning Before Tax       :      91,484,533.78
+  Tax                       :      26,355,137.44
+  Net Income                :      65,129,396.35
+  Closing Price             :             285.00
+
+Per Share Data (Rp)
+  Eps                       :              65.99
+  Book Value                :             237.43
+
+Financial Ratios
+  Debt Equity Ratio (X)     :               1.55
+  Roa (%)                   :              10.91
+  Roe (%)                   :              27.79
+  Npm (%)                   :              14.98
+  Opm (%)                   :              10.75
+
+Cash Flow
+  CF from Operating Activities                        :     133,025,321.40
+  CF from Investing Activities                        :      14,567,490.19
+  CF from Financing Activities                        :    -111,111,108.47
+  Net Increase in Cash & Cash Equivalent              :      36,481,703.12
+  Cash & Cash Equivalent at The Beginning of The Year :      70,426,424.17
+  Cash & Cash Equivalent at The End of The Year       :     101,234,748.59
+
+ 
+ 
+ 

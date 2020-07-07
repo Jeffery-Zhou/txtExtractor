@@ -1,0 +1,66 @@
+6
+LPBN0312.TXT
+
+LPBN
+Lippo Bank Tbk
+Af          : LPLI
+Sector Code : 81
+Sector Name : BANK
+
+(In thousand rupiah except Par Value, Closing Price and Ratios)
+
+Financial Statement Date    : 31-Dec-2003
+Fiscal Year Ends            : Dec
+Months Covered in Income St : 12
+
+Summary of Balance Sheet
+  Receivables               :               0.00
+  Inventories               :               0.00
+  Current Assets            :               0.00
+  Fixed Assets              :     821,334,000.00
+  Other Asstes              :     296,829,000.00
+  Total Assets              :  26,466,353,000.00
+  Current Liabilities       :               0.00
+  Longterm Liabiities       :               0.00
+  Total Liabilities         :  24,990,937,000.00
+  Authorized                :      12,800,798.00
+  Paid-up Capital           :     811,493,503.90
+  Par Value                 :         5000 & 100
+  Paid-up Capital Shares    :       3,915,733.04
+  Retained Earnings         :  -9,747,880,000.00
+  Total Equity              :   1,475,416,000.00
+  Minority Interest         :               0.00
+
+Summary of Income Statement
+  Total Sales               :   2,416,873,000.00
+  Cost of Good Sold         :   2,412,436,000.00
+  Gross Profit              :       4,437,000.00
+  Operating Profit          :       4,437,000.00
+  Other Income              :    -367,394,000.00
+  Eearning Before Tax       :    -362,957,000.00
+  Tax                       :     153,000,000.00
+  Net Income                :    -515,957,000.00
+  Closing Price             :             450.00
+
+Per Share Data (Rp)
+  Eps                       :            -131.77
+  Book Value                :             376.79
+
+Financial Ratios
+  Debt Equity Ratio (X)     :              16.94
+  Roa (%)                   :              -1.95
+  Roe (%)                   :             -34.97
+  Npm (%)                   :             -21.35
+  Opm (%)                   :                .18
+
+Cash Flow
+  CF from Operating Activities                        :     249,743,000.00
+  CF from Investing Activities                        :     -55,081,000.00
+  CF from Financing Activities                        :     -17,405,000.00
+  Net Increase in Cash & Cash Equivalent              :     177,257,000.00
+  Cash & Cash Equivalent at The Beginning of The Year :   2,043,794,000.00
+  Cash & Cash Equivalent at The End of The Year       :   2,221,051,000.00
+
+ 
+ 
+ 

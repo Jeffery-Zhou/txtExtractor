@@ -1,0 +1,66 @@
+6
+UNIT0312.TXT
+
+UNIT
+United Capital Indonesia Tbk
+Af          :
+Sector Code : 83
+Sector Name : SECURITIES COMPANY
+
+(In thousand rupiah except Par Value, Closing Price and Ratios)
+
+Financial Statement Date    : 31-Dec-2003
+Fiscal Year Ends            : Dec
+Months Covered in Income St : 12
+
+Summary of Balance Sheet
+  Receivables               :       1,687,910.28
+  Inventories               :               0.00
+  Current Assets            :               0.00
+  Fixed Assets              :       1,628,177.63
+  Other Asstes              :         236,637.70
+  Total Assets              :      57,716,544.69
+  Current Liabilities       :               0.00
+  Longterm Liabiities       :               0.00
+  Total Liabilities         :       4,642,948.18
+  Authorized                :         420,000.00
+  Paid-up Capital           :      42,286,800.00
+  Par Value                 :                200
+  Paid-up Capital Shares    :         211,434.00
+  Retained Earnings         :      10,672,330.52
+  Total Equity              :      53,073,596.52
+  Minority Interest         :               0.00
+
+Summary of Income Statement
+  Total Sales               :       5,848,574.43
+  Cost of Good Sold         :       3,149,976.71
+  Gross Profit              :       2,698,597.72
+  Operating Profit          :       2,698,597.72
+  Other Income              :       3,157,208.95
+  Eearning Before Tax       :       5,855,806.67
+  Tax                       :         534,624.41
+  Net Income                :       5,321,182.26
+  Closing Price             :              55.00
+
+Per Share Data (Rp)
+  Eps                       :              25.17
+  Book Value                :             251.02
+
+Financial Ratios
+  Debt Equity Ratio (X)     :                .09
+  Roa (%)                   :               9.22
+  Roe (%)                   :              10.03
+  Npm (%)                   :              90.98
+  Opm (%)                   :              46.14
+
+Cash Flow
+  CF from Operating Activities                        :     -28,573,497.55
+  CF from Investing Activities                        :       2,011,253.50
+  CF from Financing Activities                        :         -39,549.05
+  Net Increase in Cash & Cash Equivalent              :     -26,601,793.10
+  Cash & Cash Equivalent at The Beginning of The Year :      33,025,859.89
+  Cash & Cash Equivalent at The End of The Year       :       6,424,066.79
+
+ 
+ 
+ 

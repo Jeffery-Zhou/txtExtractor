@@ -1,0 +1,66 @@
+6
+LMPI0209.TXT
+
+LMPI
+Langgeng Makmur Ind. Tbk
+Af          :
+Sector Code : 55
+Sector Name : HOUSEWARE
+
+(In thousand rupiah except Par Value, Closing Price and Ratios)
+
+Financial Statement Date    : 30-Sep-2002
+Fiscal Year Ends            : Dec
+Months Covered in Income St : 9
+
+Summary of Balance Sheet
+  Receivables               :      24,775,613.08
+  Inventories               :      90,390,248.36
+  Current Assets            :     131,257,192.16
+  Fixed Assets              :     252,248,953.69
+  Other Asstes              :      97,476,274.19
+  Total Assets              :     543,469,436.70
+  Current Liabilities       :     480,360,311.68
+  Longterm Liabiities       :         839,856.71
+  Total Liabilities         :     481,200,168.39
+  Authorized                :         750,000.00
+  Paid-up Capital           :     173,172,447.50
+  Par Value                 :                500
+  Paid-up Capital Shares    :         346,344.90
+  Retained Earnings         :    -190,949,687.56
+  Total Equity              :      62,269,268.32
+  Minority Interest         :               0.00
+
+Summary of Income Statement
+  Total Sales               :     172,450,523.90
+  Cost of Good Sold         :     142,072,780.63
+  Gross Profit              :      30,377,743.27
+  Operating Profit          :       7,715,008.29
+  Other Income              :     -19,870,875.31
+  Eearning Before Tax       :     -12,155,867.01
+  Tax                       :      -3,544,630.96
+  Net Income                :      -8,611,236.05
+  Closing Price             :              55.00
+
+Per Share Data (Rp)
+  Eps                       :             -33.15
+  Book Value                :             179.79
+
+Financial Ratios
+  Debt Equity Ratio (X)     :               7.73
+  Roa (%)                   :              -2.11
+  Roe (%)                   :             -18.44
+  Npm (%)                   :              -6.66
+  Opm (%)                   :               5.97
+
+Cash Flow
+  CF from Operating Activities                        :       4,071,383.38
+  CF from Investing Activities                        :      -4,636,713.12
+  CF from Financing Activities                        :       1,786,510.72
+  Net Increase in Cash & Cash Equivalent              :       1,221,180.97
+  Cash & Cash Equivalent at The Beginning of The Year :       8,438,109.54
+  Cash & Cash Equivalent at The End of The Year       :       9,659,290.52
+
+ 
+ 
+ 

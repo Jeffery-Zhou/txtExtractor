@@ -1,0 +1,66 @@
+6
+KLBF0309.TXT
+
+KLBF
+Kalbe Farma Tbk
+Af          :
+Sector Code : 53
+Sector Name : PHARMACEUTICALS
+
+(In thousand rupiah except Par Value, Closing Price and Ratios)
+
+Financial Statement Date    : 30-Sep-2003
+Fiscal Year Ends            : Dec
+Months Covered in Income St : 9
+
+Summary of Balance Sheet
+  Receivables               :     536,672,566.02
+  Inventories               :     318,281,728.15
+  Current Assets            :   1,692,677,337.04
+  Fixed Assets              :     494,503,759.38
+  Other Asstes              :       7,919,817.12
+  Total Assets              :   2,381,684,820.31
+  Current Liabilities       :   1,160,233,918.26
+  Longterm Liabiities       :     253,178,618.19
+  Total Liabilities         :   1,413,412,536.44
+  Authorized                :       8,500,000.00
+  Paid-up Capital           :     406,080,000.00
+  Par Value                 :                100
+  Paid-up Capital Shares    :       4,060,800.00
+  Retained Earnings         :     336,772,517.18
+  Total Equity              :     765,930,470.48
+  Minority Interest         :     202,341,813.38
+
+Summary of Income Statement
+  Total Sales               :   2,167,892,314.09
+  Cost of Good Sold         :     980,281,940.65
+  Gross Profit              :   1,187,610,373.44
+  Operating Profit          :     480,910,812.10
+  Other Income              :       3,897,710.23
+  Eearning Before Tax       :     484,808,522.33
+  Tax                       :     161,597,178.59
+  Net Income                :     279,481,187.93
+  Closing Price             :             625.00
+
+Per Share Data (Rp)
+  Eps                       :              91.77
+  Book Value                :             188.62
+
+Financial Ratios
+  Debt Equity Ratio (X)     :               1.85
+  Roa (%)                   :              15.65
+  Roe (%)                   :              48.65
+  Npm (%)                   :              17.19
+  Opm (%)                   :              29.58
+
+Cash Flow
+  CF from Operating Activities                        :     335,213,756.57
+  CF from Investing Activities                        :    -396,317,619.77
+  CF from Financing Activities                        :       3,620,107.38
+  Net Increase in Cash & Cash Equivalent              :     -57,597,333.64
+  Cash & Cash Equivalent at The Beginning of The Year :     428,444,489.55
+  Cash & Cash Equivalent at The End of The Year       :     370,847,155.91
+
+ 
+ 
+ 

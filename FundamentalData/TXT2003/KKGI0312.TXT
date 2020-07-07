@@ -1,0 +1,66 @@
+6
+KKGI0312.TXT
+
+KKGI
+Resource Alam Indonesia Tbk
+Af          :
+Sector Code : 34
+Sector Name : CHEMICALS
+
+(In thousand rupiah except Par Value, Closing Price and Ratios)
+
+Financial Statement Date    : 31-Dec-2003
+Fiscal Year Ends            : Dec
+Months Covered in Income St : 12
+
+Summary of Balance Sheet
+  Receivables               :     147,610,450.59
+  Inventories               :      43,959,079.66
+  Current Assets            :     198,477,867.00
+  Fixed Assets              :      14,105,404.97
+  Other Asstes              :               0.00
+  Total Assets              :     226,221,605.64
+  Current Liabilities       :      75,346,671.87
+  Longterm Liabiities       :      11,882,188.67
+  Total Liabilities         :      87,228,860.54
+  Authorized                :       1,000,000.00
+  Paid-up Capital           :      50,000,000.00
+  Par Value                 :                200
+  Paid-up Capital Shares    :         250,000.00
+  Retained Earnings         :      87,842,745.10
+  Total Equity              :     138,992,745.10
+  Minority Interest         :               0.00
+
+Summary of Income Statement
+  Total Sales               :     153,405,699.82
+  Cost of Good Sold         :     123,938,349.53
+  Gross Profit              :      29,467,350.29
+  Operating Profit          :       2,812,601.70
+  Other Income              :      -4,043,806.00
+  Eearning Before Tax       :      -1,231,204.30
+  Tax                       :           1,637.62
+  Net Income                :      -1,232,841.92
+  Closing Price             :             160.00
+
+Per Share Data (Rp)
+  Eps                       :              -4.93
+  Book Value                :             555.97
+
+Financial Ratios
+  Debt Equity Ratio (X)     :                .63
+  Roa (%)                   :               -.54
+  Roe (%)                   :               -.89
+  Npm (%)                   :               -.80
+  Opm (%)                   :               1.83
+
+Cash Flow
+  CF from Operating Activities                        :      32,728,935.58
+  CF from Investing Activities                        :      -2,292,384.05
+  CF from Financing Activities                        :     -29,413,717.84
+  Net Increase in Cash & Cash Equivalent              :       1,022,833.69
+  Cash & Cash Equivalent at The Beginning of The Year :       1,043,656.05
+  Cash & Cash Equivalent at The End of The Year       :       2,066,489.74
+
+ 
+ 
+ 

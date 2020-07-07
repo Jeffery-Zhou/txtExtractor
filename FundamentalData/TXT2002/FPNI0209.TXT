@@ -1,0 +1,66 @@
+6
+FPNI0209.TXT
+
+FPNI
+Fatrapolindo Nusa Industri Tbk
+Af          :
+Sector Code : 35
+Sector Name : PLASTICS & PACKAGING
+
+(In thousand rupiah except Par Value, Closing Price and Ratios)
+
+Financial Statement Date    : 30-Sep-2002
+Fiscal Year Ends            : Dec
+Months Covered in Income St : 9
+
+Summary of Balance Sheet
+  Receivables               :      32,885,067.54
+  Inventories               :      22,600,930.76
+  Current Assets            :      87,480,844.53
+  Fixed Assets              :     129,768,775.53
+  Other Asstes              :               0.00
+  Total Assets              :     243,047,466.91
+  Current Liabilities       :      36,699,194.56
+  Longterm Liabiities       :      35,780,458.26
+  Total Liabilities         :      72,479,652.83
+  Authorized                :       1,300,000.00
+  Paid-up Capital           :     102,550,000.00
+  Par Value                 :                250
+  Paid-up Capital Shares    :         410,200.00
+  Retained Earnings         :      57,649,120.11
+  Total Equity              :     170,567,814.08
+  Minority Interest         :               0.00
+
+Summary of Income Statement
+  Total Sales               :     174,639,275.23
+  Cost of Good Sold         :     124,266,113.56
+  Gross Profit              :      50,373,161.67
+  Operating Profit          :      40,711,109.07
+  Other Income              :      -4,058,302.32
+  Eearning Before Tax       :      36,652,806.75
+  Tax                       :      10,806,991.60
+  Net Income                :      25,845,815.15
+  Closing Price             :             450.00
+
+Per Share Data (Rp)
+  Eps                       :              84.01
+  Book Value                :             415.82
+
+Financial Ratios
+  Debt Equity Ratio (X)     :                .42
+  Roa (%)                   :              14.18
+  Roe (%)                   :              20.20
+  Npm (%)                   :              19.73
+  Opm (%)                   :              31.08
+
+Cash Flow
+  CF from Operating Activities                        :      36,173,574.33
+  CF from Investing Activities                        :     -43,659,147.95
+  CF from Financing Activities                        :      -9,954,452.14
+  Net Increase in Cash & Cash Equivalent              :     -17,440,025.76
+  Cash & Cash Equivalent at The Beginning of The Year :      29,299,307.86
+  Cash & Cash Equivalent at The End of The Year       :      11,859,282.10
+
+ 
+ 
+ 

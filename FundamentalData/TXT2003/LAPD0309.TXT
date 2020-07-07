@@ -1,0 +1,66 @@
+6
+LAPD0309.TXT
+
+LAPD
+Lapindo International Tbk
+Af          :
+Sector Code : 35
+Sector Name : PLASTICS & PACKAGING
+
+(In thousand rupiah except Par Value, Closing Price and Ratios)
+
+Financial Statement Date    : 30-Sep-2003
+Fiscal Year Ends            : Dec
+Months Covered in Income St : 9
+
+Summary of Balance Sheet
+  Receivables               :       3,556,830.81
+  Inventories               :       6,994,648.36
+  Current Assets            :      17,491,927.74
+  Fixed Assets              :      17,940,041.37
+  Other Asstes              :         485,049.86
+  Total Assets              :      36,303,364.23
+  Current Liabilities       :      10,514,816.25
+  Longterm Liabiities       :         345,585.12
+  Total Liabilities         :      10,860,401.37
+  Authorized                :         620,000.00
+  Paid-up Capital           :      26,413,720.00
+  Par Value                 :                100
+  Paid-up Capital Shares    :         264,137.20
+  Retained Earnings         :      -1,491,601.07
+  Total Equity              :      25,438,734.63
+  Minority Interest         :           4,228.23
+
+Summary of Income Statement
+  Total Sales               :      34,127,342.16
+  Cost of Good Sold         :      30,891,339.62
+  Gross Profit              :       3,236,002.54
+  Operating Profit          :         883,453.34
+  Other Income              :         528,433.09
+  Eearning Before Tax       :       1,411,886.43
+  Tax                       :         337,132.11
+  Net Income                :       1,072,840.68
+  Closing Price             :             470.00
+
+Per Share Data (Rp)
+  Eps                       :               5.42
+  Book Value                :              96.31
+
+Financial Ratios
+  Debt Equity Ratio (X)     :                .43
+  Roa (%)                   :               3.94
+  Roe (%)                   :               5.62
+  Npm (%)                   :               4.19
+  Opm (%)                   :               3.45
+
+Cash Flow
+  CF from Operating Activities                        :       2,243,900.38
+  CF from Investing Activities                        :      -1,729,036.29
+  CF from Financing Activities                        :        -838,693.31
+  Net Increase in Cash & Cash Equivalent              :        -323,829.21
+  Cash & Cash Equivalent at The Beginning of The Year :       4,941,512.88
+  Cash & Cash Equivalent at The End of The Year       :       4,617,683.67
+
+ 
+ 
+ 

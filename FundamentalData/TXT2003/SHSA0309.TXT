@@ -1,0 +1,66 @@
+6
+SHSA0309.TXT
+
+SHSA
+Surya Hidup Satwa Tbk
+Af          :
+Sector Code : 36
+Sector Name : ANIMAL FEED
+
+(In thousand rupiah except Par Value, Closing Price and Ratios)
+
+Financial Statement Date    : 30-Sep-2003
+Fiscal Year Ends            : Dec
+Months Covered in Income St : 9
+
+Summary of Balance Sheet
+  Receivables               :   1,261,973,000.00
+  Inventories               :   1,063,538,000.00
+  Current Assets            :   2,898,626,000.00
+  Fixed Assets              :   1,662,770,000.00
+  Other Asstes              :      20,373,000.00
+  Total Assets              :   4,952,773,000.00
+  Current Liabilities       :   1,149,635,000.00
+  Longterm Liabiities       :   2,279,921,000.00
+  Total Liabilities         :   3,429,556,000.00
+  Authorized                :         300,000.00
+  Paid-up Capital           :     103,330,000.00
+  Par Value                 :                500
+  Paid-up Capital Shares    :         206,660.00
+  Retained Earnings         :     325,096,000.00
+  Total Equity              :     592,129,000.00
+  Minority Interest         :     931,088,000.00
+
+Summary of Income Statement
+  Total Sales               :   5,716,818,000.00
+  Cost of Good Sold         :   4,930,865,000.00
+  Gross Profit              :     785,953,000.00
+  Operating Profit          :     194,103,000.00
+  Other Income              :     -43,617,000.00
+  Eearning Before Tax       :     162,369,000.00
+  Tax                       :      60,618,000.00
+  Net Income                :      77,319,000.00
+  Closing Price             :           1,100.00
+
+Per Share Data (Rp)
+  Eps                       :             498.85
+  Book Value                :           2,865.23
+
+Financial Ratios
+  Debt Equity Ratio (X)     :               5.79
+  Roa (%)                   :               2.08
+  Roe (%)                   :              17.41
+  Npm (%)                   :               1.80
+  Opm (%)                   :               4.53
+
+Cash Flow
+  CF from Operating Activities                        :    -117,926,000.00
+  CF from Investing Activities                        :    -213,610,000.00
+  CF from Financing Activities                        :     152,786,000.00
+  Net Increase in Cash & Cash Equivalent              :    -178,750,000.00
+  Cash & Cash Equivalent at The Beginning of The Year :     407,311,000.00
+  Cash & Cash Equivalent at The End of The Year       :     228,561,000.00
+
+ 
+ 
+ 

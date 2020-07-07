@@ -1,0 +1,66 @@
+6
+BNLI0309.TXT
+
+BNLI
+Bank Permata Tbk
+Af          :
+Sector Code : 81
+Sector Name : BANK
+
+(In thousand rupiah except Par Value, Closing Price and Ratios)
+
+Financial Statement Date    : 30-Sep-2003
+Fiscal Year Ends            : Dec
+Months Covered in Income St : 9
+
+Summary of Balance Sheet
+  Receivables               :               0.00
+  Inventories               :               0.00
+  Current Assets            :               0.00
+  Fixed Assets              :     707,685,000.00
+  Other Asstes              :   1,448,523,000.00
+  Total Assets              :  27,542,281,000.00
+  Current Liabilities       :               0.00
+  Longterm Liabiities       :               0.00
+  Total Liabilities         :  26,129,663,000.00
+  Authorized                :     453,471,422.53
+  Paid-up Capital           :   1,300,533,627.71
+  Par Value                 :            500 & 5
+  Paid-up Capital Shares    :     193,578,148.08
+  Retained Earnings         :  -5,797,826,000.00
+  Total Equity              :   1,371,533,000.00
+  Minority Interest         :      41,085,000.00
+
+Summary of Income Statement
+  Total Sales               :   2,761,964,000.00
+  Cost of Good Sold         :   2,595,006,000.00
+  Gross Profit              :     166,958,000.00
+  Operating Profit          :     166,958,000.00
+  Other Income              :      48,968,000.00
+  Eearning Before Tax       :     215,926,000.00
+  Tax                       :      -2,898,000.00
+  Net Income                :     214,447,000.00
+  Closing Price             :              30.00
+
+Per Share Data (Rp)
+  Eps                       :               1.48
+  Book Value                :               7.09
+
+Financial Ratios
+  Debt Equity Ratio (X)     :              19.05
+  Roa (%)                   :               1.04
+  Roe (%)                   :              20.85
+  Npm (%)                   :              10.35
+  Opm (%)                   :               8.06
+
+Cash Flow
+  CF from Operating Activities                        :     -70,143,000.00
+  CF from Investing Activities                        :     746,745,000.00
+  CF from Financing Activities                        :    -927,113,000.00
+  Net Increase in Cash & Cash Equivalent              :    -250,511,000.00
+  Cash & Cash Equivalent at The Beginning of The Year :   1,992,047,000.00
+  Cash & Cash Equivalent at The End of The Year       :   1,741,536,000.00
+
+ 
+ 
+ 

@@ -1,0 +1,66 @@
+6
+RICY0209.TXT
+
+RICY
+Ricky Putra Globalindo Tbk
+Af          :
+Sector Code : 43
+Sector Name : TEXTILE, GARMENT
+
+(In thousand rupiah except Par Value, Closing Price and Ratios)
+
+Financial Statement Date    : 30-Sep-2002
+Fiscal Year Ends            : Dec
+Months Covered in Income St : 9
+
+Summary of Balance Sheet
+  Receivables               :      79,145,195.72
+  Inventories               :     101,625,841.68
+  Current Assets            :     221,170,086.70
+  Fixed Assets              :      50,304,766.99
+  Other Asstes              :               0.00
+  Total Assets              :     305,768,521.22
+  Current Liabilities       :      92,815,447.88
+  Longterm Liabiities       :     177,780,619.16
+  Total Liabilities         :     270,596,067.03
+  Authorized                :         400,000.00
+  Paid-up Capital           :     144,000,000.00
+  Par Value                 :                500
+  Paid-up Capital Shares    :         288,000.00
+  Retained Earnings         :    -120,028,014.86
+  Total Equity              :      29,971,985.14
+  Minority Interest         :       5,200,469.04
+
+Summary of Income Statement
+  Total Sales               :     173,968,586.17
+  Cost of Good Sold         :     144,471,580.65
+  Gross Profit              :      29,497,005.52
+  Operating Profit          :       7,750,283.99
+  Other Income              :      -8,676,970.10
+  Eearning Before Tax       :      15,336,659.96
+  Tax                       :         135,676.10
+  Net Income                :      15,432,850.29
+  Closing Price             :              75.00
+
+Per Share Data (Rp)
+  Eps                       :              71.45
+  Book Value                :             104.07
+
+Financial Ratios
+  Debt Equity Ratio (X)     :               9.03
+  Roa (%)                   :               6.73
+  Roe (%)                   :              68.65
+  Npm (%)                   :              11.83
+  Opm (%)                   :               5.94
+
+Cash Flow
+  CF from Operating Activities                        :      -3,324,345.13
+  CF from Investing Activities                        :        -267,956.15
+  CF from Financing Activities                        :      -4,820,270.56
+  Net Increase in Cash & Cash Equivalent              :      -8,412,571.84
+  Cash & Cash Equivalent at The Beginning of The Year :      32,395,664.63
+  Cash & Cash Equivalent at The End of The Year       :      33,779,955.07
+
+ 
+ 
+ 

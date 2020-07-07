@@ -1,0 +1,66 @@
+6
+WICO0203.TXT
+
+WICO
+Wicaksana Overseas International
+Af          :
+Sector Code : 91
+Sector Name : WHOLESALE (DURABLE & NON-DURABLE GOODS)
+
+(In thousand rupiah except Par Value, Closing Price and Ratios)
+
+Financial Statement Date    : 31-Mar-2002
+Fiscal Year Ends            : Dec
+Months Covered in Income St : 3
+
+Summary of Balance Sheet
+  Receivables               :     137,960,077.83
+  Inventories               :      93,637,981.03
+  Current Assets            :     298,324,779.99
+  Fixed Assets              :     264,021,284.25
+  Other Asstes              :      38,145,124.18
+  Total Assets              :     836,351,263.12
+  Current Liabilities       :   1,049,018,039.29
+  Longterm Liabiities       :      60,186,324.12
+  Total Liabilities         :   1,109,204,363.41
+  Authorized                :         800,000.00
+  Paid-up Capital           :     138,929,402.50
+  Par Value                 :                500
+  Paid-up Capital Shares    :         277,858.81
+  Retained Earnings         :    -492,458,292.38
+  Total Equity              :    -272,950,235.92
+  Minority Interest         :          97,135.64
+
+Summary of Income Statement
+  Total Sales               :     509,272,163.93
+  Cost of Good Sold         :     450,242,150.74
+  Gross Profit              :      59,030,013.19
+  Operating Profit          :       3,959,805.85
+  Other Income              :      60,345,657.35
+  Eearning Before Tax       :      64,305,463.20
+  Tax                       :      21,378,327.55
+  Net Income                :      42,927,498.58
+  Closing Price             :             180.00
+
+Per Share Data (Rp)
+  Eps                       :             617.98
+  Book Value                :            -982.33
+
+Financial Ratios
+  Debt Equity Ratio (X)     :              -4.06
+  Roa (%)                   :              20.53
+  Roe (%)                   :             -62.91
+  Npm (%)                   :               8.43
+  Opm (%)                   :                .78
+
+Cash Flow
+  CF from Operating Activities                        :       1,340,289.39
+  CF from Investing Activities                        :       2,346,626.22
+  CF from Financing Activities                        :       5,859,410.55
+  Net Increase in Cash & Cash Equivalent              :       9,546,326.17
+  Cash & Cash Equivalent at The Beginning of The Year :      29,927,540.69
+  Cash & Cash Equivalent at The End of The Year       :      39,473,866.86
+
+ 
+ 
+ 

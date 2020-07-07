@@ -1,0 +1,66 @@
+6
+DNET0212.TXT
+
+DNET
+Dyviacom Intrabumi Tbk
+Af          :
+Sector Code : 97
+Sector Name : COMPUTER AND SERVICES
+
+(In thousand rupiah except Par Value, Closing Price and Ratios)
+
+Financial Statement Date    : 31-Dec-2002
+Fiscal Year Ends            : Dec
+Months Covered in Income St : 12
+
+Summary of Balance Sheet
+  Receivables               :       1,594,228.46
+  Inventories               :               0.00
+  Current Assets            :      12,394,984.01
+  Fixed Assets              :      10,567,419.38
+  Other Asstes              :         184,781.36
+  Total Assets              :      23,646,118.82
+  Current Liabilities       :       4,686,208.04
+  Longterm Liabiities       :         303,325.88
+  Total Liabilities         :       4,989,533.92
+  Authorized                :         480,000.00
+  Paid-up Capital           :      46,000,000.00
+  Par Value                 :                250
+  Paid-up Capital Shares    :         184,000.00
+  Retained Earnings         :     -25,018,692.64
+  Total Equity              :      18,656,584.91
+  Minority Interest         :               0.00
+
+Summary of Income Statement
+  Total Sales               :       9,086,354.77
+  Cost of Good Sold         :       3,731,809.86
+  Gross Profit              :       5,354,544.90
+  Operating Profit          :      -2,691,436.61
+  Other Income              :       1,398,747.66
+  Eearning Before Tax       :      -1,292,688.95
+  Tax                       :       1,289,144.95
+  Net Income                :      -2,581,833.90
+  Closing Price             :              80.00
+
+Per Share Data (Rp)
+  Eps                       :             -14.03
+  Book Value                :             101.39
+
+Financial Ratios
+  Debt Equity Ratio (X)     :                .27
+  Roa (%)                   :             -10.92
+  Roe (%)                   :             -13.84
+  Npm (%)                   :             -28.41
+  Opm (%)                   :             -29.62
+
+Cash Flow
+  CF from Operating Activities                        :         -55,188.11
+  CF from Investing Activities                        :        -467,097.82
+  CF from Financing Activities                        :         -75,987.72
+  Net Increase in Cash & Cash Equivalent              :        -598,273.66
+  Cash & Cash Equivalent at The Beginning of The Year :      11,132,895.23
+  Cash & Cash Equivalent at The End of The Year       :      10,529,631.43
+
+ 
+ 
+ 

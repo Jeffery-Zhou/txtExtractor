@@ -1,0 +1,66 @@
+6
+IGAR0312.TXT
+
+IGAR
+Kagoe Igar Jaya Tbk
+Af          :
+Sector Code : 35
+Sector Name : PLASTICS & PACKAGING
+
+(In thousand rupiah except Par Value, Closing Price and Ratios)
+
+Financial Statement Date    : 31-Dec-2003
+Fiscal Year Ends            : Dec
+Months Covered in Income St : 12
+
+Summary of Balance Sheet
+  Receivables               :      52,980,887.81
+  Inventories               :      35,750,746.25
+  Current Assets            :     151,426,292.39
+  Fixed Assets              :      76,614,995.09
+  Other Asstes              :               0.00
+  Total Assets              :     236,243,954.05
+  Current Liabilities       :      56,997,396.88
+  Longterm Liabiities       :      18,016,569.08
+  Total Liabilities         :      75,013,965.96
+  Authorized                :       1,750,000.00
+  Paid-up Capital           :      52,500,000.00
+  Par Value                 :                 50
+  Paid-up Capital Shares    :       1,050,000.00
+  Retained Earnings         :      86,959,479.10
+  Total Equity              :     137,735,156.84
+  Minority Interest         :      23,494,831.25
+
+Summary of Income Statement
+  Total Sales               :     365,638,549.80
+  Cost of Good Sold         :     285,940,047.66
+  Gross Profit              :      79,698,502.14
+  Operating Profit          :      51,343,135.87
+  Other Income              :     -15,310,035.99
+  Eearning Before Tax       :      36,033,099.88
+  Tax                       :      13,009,593.70
+  Net Income                :      16,107,132.54
+  Closing Price             :             135.00
+
+Per Share Data (Rp)
+  Eps                       :              15.34
+  Book Value                :             131.18
+
+Financial Ratios
+  Debt Equity Ratio (X)     :                .54
+  Roa (%)                   :               6.82
+  Roe (%)                   :              11.69
+  Npm (%)                   :               4.41
+  Opm (%)                   :              14.04
+
+Cash Flow
+  CF from Operating Activities                        :      43,620,542.21
+  CF from Investing Activities                        :      -6,265,090.93
+  CF from Financing Activities                        :     -25,096,649.39
+  Net Increase in Cash & Cash Equivalent              :      33,883,435.56
+  Cash & Cash Equivalent at The Beginning of The Year :      10,325,512.08
+  Cash & Cash Equivalent at The End of The Year       :      44,208,947.65
+
+ 
+ 
+ 

@@ -1,0 +1,66 @@
+6
+DUTI0303.TXT
+
+DUTI
+Duta Pertiwi Tbk
+Af          :
+Sector Code : 61
+Sector Name : PROPERTY AND REAL ESTATE
+
+(In thousand rupiah except Par Value, Closing Price and Ratios)
+
+Financial Statement Date    : 31-Mar-2003
+Fiscal Year Ends            : Dec
+Months Covered in Income St : 3
+
+Summary of Balance Sheet
+  Receivables               :      89,135,079.69
+  Inventories               :   1,338,818,022.86
+  Current Assets            :               0.00
+  Fixed Assets              :     750,757,971.08
+  Other Asstes              :         839,087.80
+  Total Assets              :   3,589,233,267.20
+  Current Liabilities       :               0.00
+  Longterm Liabiities       :               0.00
+  Total Liabilities         :   1,856,847,329.73
+  Authorized                :       2,000,000.00
+  Paid-up Capital           :     693,750,000.00
+  Par Value                 :                500
+  Paid-up Capital Shares    :       1,387,500.00
+  Retained Earnings         :     719,615,643.98
+  Total Equity              :   1,580,540,328.02
+  Minority Interest         :     151,845,609.45
+
+Summary of Income Statement
+  Total Sales               :     322,350,028.24
+  Cost of Good Sold         :     164,144,846.45
+  Gross Profit              :     158,205,181.79
+  Operating Profit          :      66,349,849.57
+  Other Income              :     -17,921,643.65
+  Eearning Before Tax       :      47,497,568.29
+  Tax                       :       6,628,461.14
+  Net Income                :      34,952,056.86
+  Closing Price             :             310.00
+
+Per Share Data (Rp)
+  Eps                       :             100.76
+  Book Value                :           1,139.13
+
+Financial Ratios
+  Debt Equity Ratio (X)     :               1.17
+  Roa (%)                   :               3.90
+  Roe (%)                   :               8.85
+  Npm (%)                   :              43.37
+  Opm (%)                   :              82.33
+
+Cash Flow
+  CF from Operating Activities                        :      53,297,740.66
+  CF from Investing Activities                        :       7,485,439.42
+  CF from Financing Activities                        :     -96,269,049.00
+  Net Increase in Cash & Cash Equivalent              :     -35,485,868.92
+  Cash & Cash Equivalent at The Beginning of The Year :     204,779,450.70
+  Cash & Cash Equivalent at The End of The Year       :     168,912,315.76
+
+ 
+ 
+ 
